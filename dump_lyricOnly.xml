@@ -1,0 +1,106 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="ko">
+  <siteinfo>
+    <sitename>창팝위키</sitename>
+    <dbname>changpopwiki</dbname>
+    <base>https://changpop.wiki/</base>
+    <generator>MediaWiki 1.44.0-rc.0</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">미디어</namespace>
+      <namespace key="-1" case="first-letter">특수</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">토론</namespace>
+      <namespace key="2" case="first-letter">사용자</namespace>
+      <namespace key="3" case="first-letter">사용자토론</namespace>
+      <namespace key="4" case="first-letter">창팝위키</namespace>
+      <namespace key="5" case="first-letter">창팝위키토론</namespace>
+      <namespace key="6" case="first-letter">파일</namespace>
+      <namespace key="7" case="first-letter">파일토론</namespace>
+      <namespace key="8" case="first-letter">미디어위키</namespace>
+      <namespace key="9" case="first-letter">미디어위키토론</namespace>
+      <namespace key="10" case="first-letter">틀</namespace>
+      <namespace key="11" case="first-letter">틀토론</namespace>
+      <namespace key="12" case="first-letter">도움말</namespace>
+      <namespace key="13" case="first-letter">도움말토론</namespace>
+      <namespace key="14" case="first-letter">분류</namespace>
+      <namespace key="15" case="first-letter">분류토론</namespace>
+      <namespace key="106" case="first-letter">양식</namespace>
+      <namespace key="107" case="first-letter">양식토론</namespace>
+      <namespace key="828" case="first-letter">모듈</namespace>
+      <namespace key="829" case="first-letter">모듈토론</namespace>
+      <namespace key="3010" case="first-letter">설명문서</namespace>
+      <namespace key="3011" case="first-letter">설명문서토론</namespace>
+      <namespace key="3106" case="first-letter">본보기</namespace>
+      <namespace key="3107" case="first-letter">본보기토론</namespace>
+      <namespace key="3200" case="first-letter">가사</namespace>
+      <namespace key="3201" case="first-letter">가사토론</namespace>
+      <namespace key="3810" case="first-letter">틀스타일</namespace>
+      <namespace key="3811" case="first-letter">틀스타일토론</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>가사:온 세상이 리선족</title>
+    <ns>3200</ns>
+    <id>121</id>
+    <revision>
+      <id>121</id>
+      <timestamp>2025-06-09T11:42:18Z</timestamp>
+      <contributor>
+        <username>imported&gt;관리자</username>
+        <id>0</id>
+      </contributor>
+      <minor/>
+      <comment>[[Special:Contributions/0:0:0:0:0:0:0:1|0:0:0:0:0:0:0:1]]([[User talk:0:0:0:0:0:0:0:1|토론]])의 편집을 [[User:관리자|관리자]]의 마지막 판으로 되돌림</comment>
+      <origin>121</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1279" sha1="9cw7j6ghkf2gx762x0q3nafd9n4vopx" xml:space="preserve">최종뎀 먹고 자라나버린 리선족
+메이플을 위협하는 그들의 횡포
+리선족의 행패 더 이상 볼 수 없어
+결국 정상화를 실시하는 신창섭
+
+게임은 건강해지는 중인데
+점유율은 왜 자꾸 떨어지는걸까
+그래 그래 맞아
+역시나 리선족 때문이야
+
+선족 선족 겜 망치는 리선족
+신창섭을 모욕하는 넌 그냥 리
+선족 선족 온 세상이 리선족
+신창섭을 숭배해도 리선족이야
+
+선족이야
+
+정상화 되고 겜접어버린 리선족
+돈 안쓰는건 잘하는 그들의 선동
+리선족의 분탕 더 이상 볼 수 없어
+이제 최종뎀도 부탁해요 신창섭
+
+게임은 건강해지는 중인데
+점유율은 왜 자꾸 떨어지는걸까
+그래 그래 맞아
+역시나 리선족 때문이야
+
+선족 선족 돈 안쓰는 리선족
+패스구입 하지않는 넌 거지 리
+선족 선족 온 세상이 리선족
+패스살만 하다해도 리선족이야
+
+선족이야
+
+확률조작한 넥슨도
+과징금 때린 공정위도
+리부트 플레이한 메튜버와
+하이마운틴 즐기는 사람들까지
+다
+
+선족 선족 넘쳐나는 리선족
+유저들을 비난하는 너 또한 리
+선족 선족 온 세상이 리선족
+메이플을 칭찬해도 리선족이야
+
+선족이야</text>
+      <sha1>9cw7j6ghkf2gx762x0q3nafd9n4vopx</sha1>
+    </revision>
+  </page>
+</mediawiki>
