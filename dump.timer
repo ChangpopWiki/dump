@@ -1,0 +1,9 @@
+[Unit]
+Description=매일 dump.service 실행
+
+[Timer]
+OnCalendar=*-*-* 05:55:55
+Persistent=true
+
+[Install]
+WantedBy=timers.target

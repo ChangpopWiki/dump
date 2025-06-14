@@ -1,0 +1,12 @@
+[Unit]
+Description=창팝위키 xml dump 백업
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/home/bitnami/changpopwiki_dump/dump_script.sh
+User=bitnami
+WorkingDirectory=/home/bitnami/changpopwiki_dump
+
+[Install]
+WantedBy=multi-user.target
