@@ -17,5 +17,5 @@ GIT_COMMITTER_EMAIL="backup-bot[bot]@users.noreply.github.com" \
 git commit -m "자동 백업: $(date)"
 
 # 원격 저장소로 푸시
-git pull
+git pull --rebase origin main
 git push origin main
