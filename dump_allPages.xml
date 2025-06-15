@@ -43,27 +43,27 @@
     <ns>4</ns>
     <id>2</id>
     <revision>
-      <id>2</id>
-      <timestamp>2025-06-11T14:35:20Z</timestamp>
+      <id>164</id>
+      <parentid>2</parentid>
+      <timestamp>2025-06-15T15:56:25Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>2</origin>
+      <origin>164</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="337" sha1="3pjl8ql37uiyuv295bsnqzjrso73rut" xml:space="preserve">{{창팝위키 둘러보기}}
+      <text bytes="306" sha1="h5x0ey6ac4ceyqlqsefj7zbnlzawboh" xml:space="preserve">{{창팝위키 둘러보기}}
 창팝위키에 오신 것을 환영합니다! 현재 창팝위키는 베타 오픈입니다.
 
 분류된 문서는 아래에서 찾을 수 있습니다.
 &lt;categorytree mode="pages"&gt;분류&lt;/categorytree&gt; 
 
 {{최초공개 릴레이표}}
-{{창드컵 방송 시간표}}
 {{최근 바뀜}}
 
 [[분류:창팝위키]]</text>
-      <sha1>3pjl8ql37uiyuv295bsnqzjrso73rut</sha1>
+      <sha1>h5x0ey6ac4ceyqlqsefj7zbnlzawboh</sha1>
     </revision>
   </page>
   <page>
