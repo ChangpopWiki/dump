@@ -2889,21 +2889,25 @@ $wgExternalDataSources['유튜브'] = [
     <ns>10</ns>
     <id>76</id>
     <revision>
-      <id>76</id>
-      <timestamp>2025-06-10T10:18:16Z</timestamp>
+      <id>183</id>
+      <parentid>76</parentid>
+      <timestamp>2025-06-16T18:11:35Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>76</origin>
+      <comment>유튜브 영상 제목이 위키 문법으로 인식될 수 있는 문제 고침</comment>
+      <origin>183</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1401" sha1="jdc96z19lu7h50qlotnhb1l1bukcpfg" xml:space="preserve">{| class="wikitable"
+      <text bytes="1436" sha1="8mmt9wisxnylu7nijkpm3259rizj7na" xml:space="preserve">{| class="wikitable"
 |+ {{#or: {{{설명|}}} 
-   | {{#external_value: $.items[0].snippet.title
-     | source = 유튜브
-     | id = {{{Id}}}
-     }}
+   | {{#tag: nowiki |
+       {{#external_value: $.items[0].snippet.title
+       | source = 유튜브
+       | id = {{{Id}}}
+       }}
+	 }}
    }}
 |-
 | {{#ev: youtube | {{{Id}}} }} 
@@ -2966,7 +2970,7 @@ $wgExternalDataSources['유튜브'] = [
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------
 --&gt;</text>
-      <sha1>jdc96z19lu7h50qlotnhb1l1bukcpfg</sha1>
+      <sha1>8mmt9wisxnylu7nijkpm3259rizj7na</sha1>
     </revision>
   </page>
   <page>
@@ -5160,31 +5164,33 @@ piku\.co.kr
     <ns>0</ns>
     <id>127</id>
     <revision>
-      <id>127</id>
-      <timestamp>2025-06-09T16:21:12Z</timestamp>
+      <id>181</id>
+      <parentid>180</parentid>
+      <timestamp>2025-06-16T10:10:16Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>127</origin>
+      <minor/>
+      <origin>181</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="363" sha1="kgg05uehrot4yvgedepbburx44rgsko" xml:space="preserve">{{문서:창팝
+      <text bytes="345" sha1="23kswllzmxddi6m2kt4b3qnfaw19zfm" xml:space="preserve">{{문서:창팝
 |다른언어제목=Immediate Reboot Normalization
 |다른언어제목_=&lt;ref&gt;유튜브 언어를 영어로 바꾸면 확인할 수 있다.&lt;/ref&gt;
 |유튜브Id=cYRkZmBuDqI
 |제작자=슝좍TV
 |개사여부=아니오
-}}
-{{수록 창드컵
+|수록컵={{수록 창드컵
 |창드컵=2024년 1편
-|이전수록여부=아니오
 }}
+}}
+
 ⧼여기에 개요 추가⧽
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>kgg05uehrot4yvgedepbburx44rgsko</sha1>
+      <sha1>23kswllzmxddi6m2kt4b3qnfaw19zfm</sha1>
     </revision>
   </page>
   <page>
@@ -6187,6 +6193,619 @@ piku\.co.kr
 모든걸 바꿔놓아
 팩트는 메이플은 건강해지고 있다는거임ㅇㅇ</text>
       <sha1>k9i5jj8oacxx8ldznyksv9sh0suwtlo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>변신(AlphaGo)</title>
+    <ns>0</ns>
+    <id>158</id>
+    <revision>
+      <id>172</id>
+      <parentid>165</parentid>
+      <timestamp>2025-06-15T22:57:45Z</timestamp>
+      <contributor>
+        <username>리부트는벌레가돼집안에갇혔어</username>
+        <id>5</id>
+      </contributor>
+      <origin>172</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="208" sha1="dtgwlsf370b958jtbk9cu3f7hsjvthw" xml:space="preserve">{{문서:창팝
+| 곡명 = 변신
+| 유튜브Id = z13wLtM_ql4
+| 제작자 = AlphaGo
+| 개사여부 = 아니오
+| 공개일 = 2024-11-26
+| 수록컵 = 
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>dtgwlsf370b958jtbk9cu3f7hsjvthw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:변신(AlphaGo)</title>
+    <ns>3200</ns>
+    <id>159</id>
+    <revision>
+      <id>166</id>
+      <timestamp>2025-06-15T22:32:39Z</timestamp>
+      <contributor>
+        <username>리부트는벌레가돼집안에갇혔어</username>
+        <id>5</id>
+      </contributor>
+      <comment>새 문서: 리부트는 벌레가 돼 집 안에 갇혔어 신창섭, 쌀숭이들 눈빛은 날 찢어 내가 누구인지, 이 곳이 뭔지 비참한 현실에 목소리를 던지지  리부트는 벌레, 메이플 집 안에 갇혀 신창섭 디렉터는 매섭게 다그쳐 "왜 돈 안 내?" 게임은 갈라져 쌀숭이들 눈빛엔 혐오가 가득 차  벌레가 된 이유? 그건 우리의 소신 거래 없이도 즐기고픈 작은 욕심 그런데도 그들은 날 밟으려 해...</comment>
+      <origin>166</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2106" sha1="90bd9wz2vueizcj2vnaox0k5n2rcp1c" xml:space="preserve">리부트는 벌레가 돼 집 안에 갇혔어
+신창섭, 쌀숭이들 눈빛은 날 찢어
+내가 누구인지, 이 곳이 뭔지
+비참한 현실에 목소리를 던지지
+
+리부트는 벌레, 메이플 집 안에 갇혀
+신창섭 디렉터는 매섭게 다그쳐
+"왜 돈 안 내?" 게임은 갈라져
+쌀숭이들 눈빛엔 혐오가 가득 차
+
+벌레가 된 이유? 그건 우리의 소신
+거래 없이도 즐기고픈 작은 욕심
+그런데도 그들은 날 밟으려 해
+집 안의 가족들조차 날 버리려 해
+
+난 벌레가 아냐, 리부트라 불러
+쌀숭이들 손가락질, 난 거부를 눌러
+아버지의 채찍 속에서도 살아
+집이라 믿었던 곳, 이젠 나를 닫아
+
+거울 속 내 모습, 벌레로 변했네
+누군가 사랑했던 흔적은 없네
+비참함이 덮쳐, 손발은 묶였어
+집이라는 곳에서 나는 철저히 죽었어
+
+숨을 쉬는 것도 죄로 여겨져
+존재 자체가 혐오로 덮여져
+나도 한때는 이 집의 일부였는데
+지금은 그림자, 모두가 날 외면해
+
+난 벌레가 아냐, 리부트라 불러
+쌀숭이들 손가락질, 난 거부를 눌러
+아버지의 채찍 속에서도 살아
+집이라 믿었던 곳, 이젠 나를 닫아
+
+쌀숭이들은 웃어, "넌 실패한 존재"
+아버지는 분노하며 "잘못 만든 존재"
+집은 더럽혀져, 콘텐츠는 시들어
+벌레로서 숨 쉬는 것조차 힘들어
+
+리부트가 뭔지, 이해는 없고
+벌레라 부르며 "갈등의 주범"
+메이플 집 안에 난 갇혀도 싸워
+벌레가 아니라 진실을 알아
+
+난 벌레가 아냐, 리부트라 불러
+쌀숭이들 손가락질, 난 거부를 눌러
+아버지의 채찍 속에서도 살아
+집이라 믿었던 곳, 이젠 나를 닫아
+
+쌀숭이들의 웃음소리가 날 찔러
+아버지의 무관심이 나를 죽여
+리부트라는 이름에 무슨 죄가 있나
+벌레로 만든 건 바로 이 집과 시스템이야
+
+리부트는 벌레? 하지만 난 말하지
+진정한 벌레는 혐오에 찬 당신이지
+집을 떠나서 난 자유를 찾아가
+벌레가 아닌 나, 나를 다시 찾아가</text>
+      <sha1>90bd9wz2vueizcj2vnaox0k5n2rcp1c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:바로 리부트 정상화</title>
+    <ns>3200</ns>
+    <id>160</id>
+    <revision>
+      <id>167</id>
+      <timestamp>2025-06-15T22:42:32Z</timestamp>
+      <contributor>
+        <username>리부트는벌레가돼집안에갇혔어</username>
+        <id>5</id>
+      </contributor>
+      <comment>새 문서: 오늘도 메벤을 눈팅하는 신창섭(섭 섭 섭 섭)  본섭 유저들이 리선족 때문에 힘들다며 지갑을 닫겠다고 협박하네(하아아~) 늘 있는 WWE 유저들 이탈 무서워 이 악물고 무시해보려고 하지만  과징금 크악 씨이빨 바로 리부트 정상화 OUT! 민심 돌리기 들어가는 신창섭(캬~) 리선족 척결 다섯 글자에 환호성 역시 정상화는 신창섭 드디어 대창섭이 메이플을 정상화하네  어...</comment>
+      <origin>167</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1701" sha1="pqwl0ihg0ru1mi14gxoqr90x8l4k60x" xml:space="preserve">오늘도 메벤을 눈팅하는 신창섭(섭 섭 섭 섭)
+
+본섭 유저들이 리선족 때문에 힘들다며 지갑을 닫겠다고 협박하네(하아아~)
+늘 있는 WWE 유저들 이탈 무서워 이 악물고 무시해보려고 하지만
+
+과징금 크악 씨이빨 바로 리부트 정상화 OUT!
+민심 돌리기 들어가는 신창섭(캬~)
+리선족 척결 다섯 글자에 환호성
+역시 정상화는 신창섭
+드디어 대창섭이 메이플을 정상화하네
+
+어느 날 도입된 인벤 인장 시스템
+고래 스펙 구경 좀 해볼까?
+어! 씨발! 눈에 보이는 건 5000플마단
+아니 이럴 순 없어 슬슬 걱정되지만
+
+침착하게 인장을 살펴보는데
+여길 봐도 저길 봐도 5000플마단 밖에 없네
+인장 주작은 뭐야
+씨
+발
+련
+
+게임이 건강해질 때까지 정상화 패치를 해줬지만 돌아온 건 매출 하락
+쌀숭이들 안되겠다 밸런스 패치 SHOUT!
+네 직업? 다음 패치 기대해
+과징금은 BM으로 다시 뜯으면 그만이야
+
+대체 5000플마로 무슨 콘텐츠를 즐기겠다고 계속 콘텐츠를 요구하는 건지도 모르겠지만 출시해줘도 메소 쌀먹이 유일한 너희들의 콘텐츠
+사냥 편하게 해줬더니 거탐 온다고 지랄
+입맛 맞춰주기 참 어렵네
+
+과징금 크악 씨이빨 바로 리부트 정상화 OUT!
+민심 돌리기 들어가는 신창섭(캬~)
+리선족 척결 다섯 글자에 환호성
+드디어 대창섭이 메이플을 정상화한다
+
+하지만 여길 봐도 저길 봐도 5000플마단 밖에 없네
+인장 주작은 뭐야
+씨
+발
+련
+
+게임이 건강해질 때까지 정상화 패치를 해줬지만 돌아온 건 매출하락
+씨이빨</text>
+      <sha1>pqwl0ihg0ru1mi14gxoqr90x8l4k60x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>창팝 제작자들을 위한 노래</title>
+    <ns>0</ns>
+    <id>161</id>
+    <revision>
+      <id>168</id>
+      <timestamp>2025-06-15T22:45:38Z</timestamp>
+      <contributor>
+        <username>리부트는벌레가돼집안에갇혔어</username>
+        <id>5</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=창팝 제작자들을 위한 노래 |유튜브Id=TU2HoDdpYRg |제작자=AlphaGo |개사여부=아니오 |공개일=2024-11-13 |기타=AlphaGo 제작자의 데뷔곡 }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>168</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="lkgub2bok3u5hvsjb6upwj52a2n29e2" xml:space="preserve">{{문서:창팝
+|곡명=창팝 제작자들을 위한 노래
+|유튜브Id=TU2HoDdpYRg
+|제작자=AlphaGo
+|개사여부=아니오
+|공개일=2024-11-13
+|기타=AlphaGo 제작자의 데뷔곡
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>lkgub2bok3u5hvsjb6upwj52a2n29e2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:창팝 제작자들을 위한 노래</title>
+    <ns>3200</ns>
+    <id>162</id>
+    <revision>
+      <id>169</id>
+      <timestamp>2025-06-15T22:46:10Z</timestamp>
+      <contributor>
+        <username>리부트는벌레가돼집안에갇혔어</username>
+        <id>5</id>
+      </contributor>
+      <comment>새 문서: 힘든 세상 속에서 웃음을 찾아내는 너희, 신창섭의 이름을 빌어, 세상을 바라보는 작은 웃음 속에 담긴, 현실의 거울 같은 어두운 진실 그걸 노래로 불러내는 너희의 손길이 진정 놀랍네.  신창섭의 이름 아래, 웃음과 풍자를 엮어 불공평한 세상 속에 불어넣는 새로운 바람 창의력으로 빚어낸 그 멜로디와 리듬 너희가 만들어내는 그 소리는, 그저 예술이지.  유머와...</comment>
+      <origin>169</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1296" sha1="jnhk4gesv1j3k19qjfqlm24go6gse2j" xml:space="preserve">힘든 세상 속에서 웃음을 찾아내는 너희,
+신창섭의 이름을 빌어, 세상을 바라보는
+작은 웃음 속에 담긴, 현실의 거울 같은 어두운 진실
+그걸 노래로 불러내는 너희의 손길이 진정 놀랍네.
+
+신창섭의 이름 아래, 웃음과 풍자를 엮어
+불공평한 세상 속에 불어넣는 새로운 바람
+창의력으로 빚어낸 그 멜로디와 리듬
+너희가 만들어내는 그 소리는, 그저 예술이지.
+
+유머와 비판이 공존하는 너희의 곡에서
+세상을 보는 다른 눈을 배울 수 있었어.
+너희의 작품엔 진지함과 장난이 섞여
+노래 하나로 우리를 웃기고 생각하게 해.
+
+신창섭의 이름 아래, 웃음과 풍자를 엮어
+불공평한 세상 속에 불어넣는 새로운 바람.
+노력으로 빚어낸 그 멜로디와 리듬
+너희가 만들어내는 그 소리는, 그저 예술이지.
+
+세상의 모순을 부드럽게 담아내고
+창팝을 통해 말하고자 하는 너희의 목소리,
+그건 단순한 유머를 넘어
+우리의 삶을 비추는 거울 같아.
+
+오늘도 너희의 노래에 귀 기울이며
+창팝과 함께 웃음과 생각을 나누네.
+그 모든 곡에 담긴 진심을 존경하며
+끝없는 창작을 이어가기를, 힘찬 응원을 보내네.</text>
+      <sha1>jnhk4gesv1j3k19qjfqlm24go6gse2j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1984</title>
+    <ns>0</ns>
+    <id>163</id>
+    <revision>
+      <id>170</id>
+      <timestamp>2025-06-15T22:47:49Z</timestamp>
+      <contributor>
+        <username>리부트는벌레가돼집안에갇혔어</username>
+        <id>5</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=1984 |유튜브Id=RWMxmBlbu8k |제작자=AlphaGo |개사여부=아니오 |공개일=2024-11-18 }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>170</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="176" sha1="kel57zcwd06t1ax7vg9j1iq5ts7pn8x" xml:space="preserve">{{문서:창팝
+|곡명=1984
+|유튜브Id=RWMxmBlbu8k
+|제작자=AlphaGo
+|개사여부=아니오
+|공개일=2024-11-18
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>kel57zcwd06t1ax7vg9j1iq5ts7pn8x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:1984</title>
+    <ns>3200</ns>
+    <id>164</id>
+    <revision>
+      <id>171</id>
+      <timestamp>2025-06-15T22:56:21Z</timestamp>
+      <contributor>
+        <username>리부트는벌레가돼집안에갇혔어</username>
+        <id>5</id>
+      </contributor>
+      <comment>새 문서: 신창섭의 거대한 눈이 널 쳐다본다 Big Brother처럼 서서히 덮쳐온다 창작의 바다에서 자유를 꿈꿨지만 그는 네 생각을 이미 알고 있는 듯한 CCTV 대신 데이터와 코드 네 창작물도 이미 그의 법 안의 노드 창팝의 제작자들, 정신을 차려라 이곳은 Utopia가 아닌 Distopia의 바람  Big Brother의 창을 깨부숴, 의지를 보여줘 그의 분노 속에서 내 혼을 놓쳐선 안돼, No! 자유를 노래...</comment>
+      <origin>171</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2254" sha1="gtvcsi8228lukd4tdtw5q9asgwhlb5y" xml:space="preserve">신창섭의 거대한 눈이 널 쳐다본다
+Big Brother처럼 서서히 덮쳐온다
+창작의 바다에서 자유를 꿈꿨지만
+그는 네 생각을 이미 알고 있는 듯한
+CCTV 대신 데이터와 코드
+네 창작물도 이미 그의 법 안의 노드
+창팝의 제작자들, 정신을 차려라
+이곳은 Utopia가 아닌 Distopia의 바람
+
+Big Brother의 창을 깨부숴, 의지를 보여줘
+그의 분노 속에서 내 혼을 놓쳐선 안돼, No!
+자유를 노래하던 우리 가락은 어디 있나
+그가 만든 worlds 속에 갇힐 수는 없어
+
+그는 마법사처럼 말을 꾸민다
+허상 속에서 창작의 자유를 가린다
+네 목소리는 어디로 갔니, 그의 정상화에 갇혀
+네 추억은 사라지고 남은 건 그의 작품일 뿐
+넌 알고 있어, 그의 말을 믿지 마
+그는 너의 영혼을 사고 있잖아
+멋진 미래라던 그 약속의 그림자
+알고 보면 모두 그의 손 안에 들린 잔상
+
+Big Brother의 창을 깨부숴, 진짜를 보여줘
+그의 규칙 속에서 내 혼을 놓쳐선 안돼, No!
+자유를 노래하던 우리 가락은 어디 있나
+그가 만든 worlds 속에 갇힐 수는 없어
+
+창작자들이여, 네가 만든 건 우리가 지켜
+거대한 좌절감 속 무릎 꿇지 마
+그가 낸 빛이 너를 어둡게 할 지라도
+그 그림자 속엔 너의 자유가 묻혀있다
+우리는 감시 받지 않는 세상을 꿈꿔
+진짜 창작의 불꽃은 타오를 수밖에 없어
+네 손으로 선택해, 그의 세상 혹은 네 길
+이 노래가 경고다, 살아남으려면 길을 비켜!
+(비켜)
+
+Big Brother의 창을 넘어, 너만의 길을 가
+네 안의 빛을 믿어, 이제 날아올라 봐
+창작의 날개를 펴, 상상은 현실이 될 거야
+우리가 만드는 미래, 자유로 가득 찰 거야
+
+이제 감시의 창은 닫혀, 어둠은 걷혀가
+우리가 만든 빛은 더 멀리 뻗어나가
+침묵 속에 묻힌 목소리, 다시 울려 퍼져
+자유의 멜로디가 세상을 가득 채워
+벽을 넘어선 발걸음, 끝이 아닌 시작
+우리 손에 쥔 미래는 더 이상 뺏기지 않아
+창작의 불꽃은 영원히 꺼지지 않아
+모두가 너의 길을 응원하고 있으니
+이 길의 끝에서, 모두가 빛날 거야</text>
+      <sha1>gtvcsi8228lukd4tdtw5q9asgwhlb5y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>별들을 추억하는 법</title>
+    <ns>0</ns>
+    <id>165</id>
+    <revision>
+      <id>173</id>
+      <timestamp>2025-06-16T04:09:23Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=별들을 추억하는 법 |유튜브Id=pBhj9o4n6fQ |제작자=봉래인 |개사여부=아니오 |공개일=2024-11-27 |수록컵={{수록 창드컵}} }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="7s46laz6tm3730bd1tm3h07eyany6og" xml:space="preserve">{{문서:창팝
+|곡명=별들을 추억하는 법
+|유튜브Id=pBhj9o4n6fQ
+|제작자=봉래인
+|개사여부=아니오
+|공개일=2024-11-27
+|수록컵={{수록 창드컵}}
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>7s46laz6tm3730bd1tm3h07eyany6og</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:별들을 추억하는 법</title>
+    <ns>3200</ns>
+    <id>166</id>
+    <revision>
+      <id>174</id>
+      <timestamp>2025-06-16T04:09:56Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: 늦은 밤 밤하늘을 올려다보며 하늘에 수 놓인 은하수를 상상하네 찬란한 과거의 영광은  기억 속에 묻어두고 별천지를 찾아서 떠나 영원히 돌아오지 않을 어린 별을 홀로 추억해 본다  도심의 불빛은 세상을 환하게 비추지만 밤하늘의 수 놓인 별빛을 가리니 상처 입은 별들을 쫓아내는구나  별 한 점 없는 공허한  밤하늘을 바라보며 너무나도 일찍 떠나가 버린 어...</comment>
+      <origin>174</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1408" sha1="nw3f6qb8gex4ihh1ph3vzylrixiayvb" xml:space="preserve">늦은 밤 밤하늘을 올려다보며
+하늘에 수 놓인 은하수를 상상하네
+찬란한 과거의 영광은 
+기억 속에 묻어두고
+별천지를 찾아서 떠나
+영원히 돌아오지 않을
+어린 별을 홀로 추억해 본다
+
+도심의 불빛은 세상을 환하게 비추지만
+밤하늘의 수 놓인 별빛을 가리니
+상처 입은 별들을 쫓아내는구나
+
+별 한 점 없는 공허한 
+밤하늘을 바라보며
+너무나도 일찍 떠나가 버린
+어린별을 홀로 그려본다
+
+매일 밤 밤하늘을 올려다보며
+하늘에 수 놓인 은하수를 지켜보네
+서글픈 더럽혀진 추억은
+기억 속에 묻어두고
+극심한 고통에서 벗어나
+드넓은 온 세상 누빌
+어린 별과 함께 항해를 하자
+
+억누른 진심은 위로와 동정을 바라지만
+가면 속에 눈물과 아픔을 숨기니
+상처입은 별들을 이해해 주려나
+
+은하수 수 놓인 찬란한 
+밤하늘을 유랑하며
+슬플 틈도 없이 이별했었던
+거성들을 함께 추억해 본다
+
+먼 훗날, 이 순간이 
+추억 한 켠에 남는다면
+즐거운 추억으로 남을 수 있기를
+
+억누른 진심은 위로와 동정을 바라지만
+가면 속에 눈물과 아픔을 숨기니
+상처입은 별들을 이해해 주려나
+
+은하수 수 놓인 찬란한 
+밤하늘을 유랑하며
+슬플 틈도 없이 이별했었던
+거성들을 함께 추억해 본다</text>
+      <sha1>nw3f6qb8gex4ihh1ph3vzylrixiayvb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>리슝좍 패배선언</title>
+    <ns>0</ns>
+    <id>167</id>
+    <revision>
+      <id>175</id>
+      <timestamp>2025-06-16T04:13:38Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=리슝좍 패배선언 |유튜브Id=CCD1nslxH7E |제작자=독슝좍 |개사여부=아니오 }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>175</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="174" sha1="kytrs9blo3b50wy50hp4hz8155dj363" xml:space="preserve">{{문서:창팝
+|곡명=리슝좍 패배선언
+|유튜브Id=CCD1nslxH7E
+|제작자=독슝좍
+|개사여부=아니오
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>kytrs9blo3b50wy50hp4hz8155dj363</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>돈써!</title>
+    <ns>0</ns>
+    <id>168</id>
+    <revision>
+      <id>176</id>
+      <timestamp>2025-06-16T04:15:57Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=돈써! |유튜브Id=Z54XW9gwpAY |제작자=Colrma |개사여부=아니오 |공개일=2024-09-24 }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>176</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="178" sha1="kbf6cupkj4lkgywfw1c10s0la0ub29w" xml:space="preserve">{{문서:창팝
+|곡명=돈써!
+|유튜브Id=Z54XW9gwpAY
+|제작자=Colrma
+|개사여부=아니오
+|공개일=2024-09-24
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>kbf6cupkj4lkgywfw1c10s0la0ub29w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>잠드는 별들에게</title>
+    <ns>0</ns>
+    <id>169</id>
+    <revision>
+      <id>177</id>
+      <timestamp>2025-06-16T04:18:39Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=잠드는 별들에게 |유튜브Id=rP2aJMnNZwA |제작자=Colrma |개사여부=아니오 |공개일=2024-11-22 }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>177</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="193" sha1="p3myxu92u5vp9mccyu6vp9vmv1odrwc" xml:space="preserve">{{문서:창팝
+|곡명=잠드는 별들에게
+|유튜브Id=rP2aJMnNZwA
+|제작자=Colrma
+|개사여부=아니오
+|공개일=2024-11-22
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>p3myxu92u5vp9mccyu6vp9vmv1odrwc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Plastic Star</title>
+    <ns>0</ns>
+    <id>170</id>
+    <revision>
+      <id>178</id>
+      <timestamp>2025-06-16T04:24:03Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=Plastic Star |유튜브Id=nhhJsunlbo8 |제작자=유진 |개사여부=아니오 |프롬프트=yakousei, rock, dreamy &amp; spacey }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>178</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="2r6hq9qzzrm4l1f12qm8948gwkwwe08" xml:space="preserve">{{문서:창팝
+|곡명=Plastic Star
+|유튜브Id=nhhJsunlbo8
+|제작자=유진
+|개사여부=아니오
+|프롬프트=yakousei, rock, dreamy &amp; spacey
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>2r6hq9qzzrm4l1f12qm8948gwkwwe08</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>양심팔이</title>
+    <ns>0</ns>
+    <id>171</id>
+    <revision>
+      <id>179</id>
+      <timestamp>2025-06-16T04:32:54Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=양심팔이 |유튜브Id=IDfcqM19h8w |제작자=수학콜라_창팝 |개사여부=아니오 |공개일=2025-01-21 }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>179</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="196" sha1="96fnfbsc2qp5hgr35o0t07x2j454ot1" xml:space="preserve">{{문서:창팝
+|곡명=양심팔이
+|유튜브Id=IDfcqM19h8w
+|제작자=수학콜라_창팝
+|개사여부=아니오
+|공개일=2025-01-21
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>96fnfbsc2qp5hgr35o0t07x2j454ot1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>쉼,표</title>
+    <ns>0</ns>
+    <id>172</id>
+    <revision>
+      <id>182</id>
+      <timestamp>2025-06-16T17:31:49Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=쉼,표 |유튜브Id=k4m1fZioIk0 |제작자=주차장P |개사여부=아니오 |공개일=2025-06-01 }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>182</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="182" sha1="ah2kryvdn1ozfmcdidddpwlo7jokffq" xml:space="preserve">{{문서:창팝
+|곡명=쉼,표
+|유튜브Id=k4m1fZioIk0
+|제작자=주차장P
+|개사여부=아니오
+|공개일=2025-06-01
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>ah2kryvdn1ozfmcdidddpwlo7jokffq</sha1>
     </revision>
   </page>
 </mediawiki>
