@@ -2095,24 +2095,66 @@ break = no
     <ns>0</ns>
     <id>61</id>
     <revision>
-      <id>61</id>
-      <timestamp>2025-06-10T10:45:42Z</timestamp>
+      <id>191</id>
+      <parentid>61</parentid>
+      <timestamp>2025-06-17T15:50:26Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>61</origin>
+      <origin>191</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="172" sha1="95rv9597tii5x83dhwd1wujsf3t5k7u" xml:space="preserve">{{문서:창드컵
+      <text bytes="1216" sha1="fttk76mg98lsdj9o797xktsyzohhcd6" xml:space="preserve">{{문서:창드컵
 |명칭=엄선작 2024년 1편
 |PikuId=8uVWvb
 |강=32
 |유형=엄선작 2024
 |오픈날짜=2024-08-03
 }}
-'''2024년 1편'''은 최초의 창드컵이다.</text>
-      <sha1>95rv9597tii5x83dhwd1wujsf3t5k7u</sha1>
+'''2024년 1편'''은 최초의 창드컵이다.
+
+== 수록곡 ==
+[[:분류:2024년 1편 수록곡]]
+&lt;!-- 모든 곡이 문서화되고 나면 자동으로 표시 필요 --&gt;
+
+* [[200만 지르면]]
+* [[4달 동안]]
+* [[RE멤버]]
+* [[This is your world]]
+* [[그래 나 리선족이다]]
+* [[나 김창섭 알게 되고서]]
+* [[나도 속았어]]
+* [[노래로 응징하는 신]]
+* [[단, 쌀숭이는 제외]]
+* [[다 해줬잖아]]
+* [[돈 좀 써줘]]
+* [[리듬으로 구원하는 신]]
+* [[마인드가 리선족]]
+* [[메벤남과 김창섭 그리고 WWE]]
+* [[뮤지컬 신창섭]]
+* [[바로 리부트 정상화]]
+* [[빨간약]]
+* [[사탄숭배]]
+* [[생사여탈]]
+* [[신창섭의 꿈]]
+* [[쌀숭이 (창팝)]]
+* [[쌀장수]]
+* [[온 세상이 리선족]]
+* [[온 세상을 정상화 해]]
+* [[억울하다 억울해]]
+* [[접었으면 갈 길 가세요]]
+* [[조금만 삐끗해도 바로 누워]]
+* [[정상화로 응징하는 신]]
+* [[재획의 노래]]
+* [[쌀숭이 (창팝)]]
+* [[쌀장수]]
+* [[회색 리복 맨투맨]]
+
+== 둘러보기 ==
+
+{{창드컵 둘러보기}}</text>
+      <sha1>fttk76mg98lsdj9o797xktsyzohhcd6</sha1>
     </revision>
   </page>
   <page>
@@ -6806,6 +6848,224 @@ Big Brother의 창을 넘어, 너만의 길을 가
 == 가사 ==
 {{가사}}</text>
       <sha1>ah2kryvdn1ozfmcdidddpwlo7jokffq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>놓아주는 노래</title>
+    <ns>0</ns>
+    <id>173</id>
+    <revision>
+      <id>184</id>
+      <timestamp>2025-06-17T12:18:55Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=놓아주는 노래 |유튜브Id=drjqrDhFHNA |제작자=선족아또속냐 |개사여부=아니오 |공개일=2024-08-19 }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>184</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="202" sha1="np40eltnpbjmff3bf8qos6aydel4ifk" xml:space="preserve">{{문서:창팝
+|곡명=놓아주는 노래
+|유튜브Id=drjqrDhFHNA
+|제작자=선족아또속냐
+|개사여부=아니오
+|공개일=2024-08-19
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>np40eltnpbjmff3bf8qos6aydel4ifk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>템플런</title>
+    <ns>0</ns>
+    <id>174</id>
+    <revision>
+      <id>185</id>
+      <timestamp>2025-06-17T12:21:04Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=템플런 |유튜브Id=HeJiLvIdbq4 |제작자=@쭉 |개사여부=아니오 |공개일=2024-06-19 |수록컵={{수록 창드컵 |창드컵=2024년 1편 }} }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>185</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="235" sha1="nxd68rm4hg173hglpetdruuvik6ol3i" xml:space="preserve">{{문서:창팝
+|곡명=템플런
+|유튜브Id=HeJiLvIdbq4
+|제작자=@쭉
+|개사여부=아니오
+|공개일=2024-06-19
+|수록컵={{수록 창드컵
+|창드컵=2024년 1편
+}}
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>nxd68rm4hg173hglpetdruuvik6ol3i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>This is your world</title>
+    <ns>0</ns>
+    <id>175</id>
+    <revision>
+      <id>186</id>
+      <timestamp>2025-06-17T12:23:42Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=this is your world |유튜브Id=lBsQYK0dx4c |제작자=뷁다혜 |개사여부=아니오 |공개일=2024-08-04 |수록컵={{수록 창드컵 |창드컵=2024년 1편 }} }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>186</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="249" sha1="qvs7qfjpt7nn161ecj8jkifbc7enpk2" xml:space="preserve">{{문서:창팝
+|곡명=this is your world
+|유튜브Id=lBsQYK0dx4c
+|제작자=뷁다혜
+|개사여부=아니오
+|공개일=2024-08-04
+|수록컵={{수록 창드컵
+|창드컵=2024년 1편
+}}
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>qvs7qfjpt7nn161ecj8jkifbc7enpk2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>메벤남과 김창섭 그리고 WWE</title>
+    <ns>0</ns>
+    <id>176</id>
+    <revision>
+      <id>187</id>
+      <timestamp>2025-06-17T12:27:07Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=메벤남과 김창섭 그리고 WWE |유튜브Id=F3Jmb65NB28 |제작자=신도 |개사여부=아니오 |공개일=2024-07-28 }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>187</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="br6xom4dx3qy6q26bgnjc8j2fbp7bqv" xml:space="preserve">{{문서:창팝
+|곡명=메벤남과 김창섭 그리고 WWE
+|유튜브Id=F3Jmb65NB28
+|제작자=신도
+|개사여부=아니오
+|공개일=2024-07-28
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>br6xom4dx3qy6q26bgnjc8j2fbp7bqv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>접었으면 갈 길 가세요</title>
+    <ns>0</ns>
+    <id>177</id>
+    <revision>
+      <id>188</id>
+      <timestamp>2025-06-17T12:30:10Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=접었으면 갈 길 가세요 |유튜브Id=fbpdUmXVHHk |제작자=신도 |개사여부=아니오 |공개일=2024-06-21 |수록컵={{수록 창드컵 |창드컵=2024년 1편 }} }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>188</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="258" sha1="2pvlw9b4nucbyczskb8qeelrezyvrag" xml:space="preserve">{{문서:창팝
+|곡명=접었으면 갈 길 가세요
+|유튜브Id=fbpdUmXVHHk
+|제작자=신도
+|개사여부=아니오
+|공개일=2024-06-21
+|수록컵={{수록 창드컵
+|창드컵=2024년 1편
+}}
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>2pvlw9b4nucbyczskb8qeelrezyvrag</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>노래로 응징하는 신</title>
+    <ns>0</ns>
+    <id>178</id>
+    <revision>
+      <id>189</id>
+      <timestamp>2025-06-17T12:32:16Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=노래로 응징하는 신 |유튜브Id=EhxlNkOtOyo |제작자=쌀파라 |개사여부=아니오 |공개일=2024-08-09 |수록컵={{수록 창드컵 |창드컵=2024년 1편 }} }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>189</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="257" sha1="ipm01jk7mucfhnkvblol3nnzo46gv9u" xml:space="preserve">{{문서:창팝
+|곡명=노래로 응징하는 신
+|유튜브Id=EhxlNkOtOyo
+|제작자=쌀파라
+|개사여부=아니오
+|공개일=2024-08-09
+|수록컵={{수록 창드컵
+|창드컵=2024년 1편
+}}
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>ipm01jk7mucfhnkvblol3nnzo46gv9u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>그래 나 리선족이다</title>
+    <ns>0</ns>
+    <id>179</id>
+    <revision>
+      <id>190</id>
+      <timestamp>2025-06-17T12:37:01Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=그래 나 리선족이다 |유튜브Id=XcoB230-Ygc |제작자=리북공정 |개사여부=아니오 |공개일=2024-08-07 |수록컵={{수록 창드컵 |창드컵=2024년 1편 }} }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>190</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="260" sha1="6wi2f3mvns52k44s8dy68yocf9jh1oa" xml:space="preserve">{{문서:창팝
+|곡명=그래 나 리선족이다
+|유튜브Id=XcoB230-Ygc
+|제작자=리북공정
+|개사여부=아니오
+|공개일=2024-08-07
+|수록컵={{수록 창드컵
+|창드컵=2024년 1편
+}}
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>6wi2f3mvns52k44s8dy68yocf9jh1oa</sha1>
     </revision>
   </page>
 </mediawiki>
