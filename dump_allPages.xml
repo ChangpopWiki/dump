@@ -108,16 +108,18 @@ __목차숨김__
     <ns>10</ns>
     <id>4</id>
     <revision>
-      <id>4</id>
-      <timestamp>2025-06-10T15:44:46Z</timestamp>
+      <id>311</id>
+      <parentid>310</parentid>
+      <timestamp>2025-06-22T03:02:14Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>4</origin>
+      <minor/>
+      <origin>311</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2847" sha1="e879vkj9lcfvjeqf6zoolk35arhh254" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="2960" sha1="bid09fub6k94phalmslwhv05p4va6lh" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;&lt;templatestyles src="정보상자" /&gt;&lt;!--
 
@@ -175,6 +177,8 @@ __목차숨김__
     	{{#cargo_query: tables = 유튜브영상
 		| fields = 재생시간
 		| where = Id='{{{유튜브Id}}}'
+		| limit = 1
+		| more results text =
 		| no html
 		}}
  	}}
@@ -186,6 +190,9 @@ __목차숨김__
 	{{#cargo_query: tables = 유튜브영상
 	| fields = 유튜브영상.조회수
 	| where = 유튜브영상.Id='{{{유튜브Id}}}'
+	| order by = 유튜브영상._ID DESC
+	| limit = 1
+	| more results text =
 	}}회
 {{!}}-
 }}
@@ -231,7 +238,7 @@ __목차숨김__
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------
 --&gt;</text>
-      <sha1>e879vkj9lcfvjeqf6zoolk35arhh254</sha1>
+      <sha1>bid09fub6k94phalmslwhv05p4va6lh</sha1>
     </revision>
   </page>
   <page>
@@ -6794,17 +6801,17 @@ Big Brother의 창을 넘어, 너만의 길을 가
     <ns>0</ns>
     <id>170</id>
     <revision>
-      <id>178</id>
-      <timestamp>2025-06-16T04:24:03Z</timestamp>
+      <id>306</id>
+      <parentid>178</parentid>
+      <timestamp>2025-06-22T02:01:11Z</timestamp>
       <contributor>
-        <username>이거는진짜인가가짜인가</username>
-        <id>6</id>
+        <username>리자예</username>
+        <id>7</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |곡명=Plastic Star |유튜브Id=nhhJsunlbo8 |제작자=유진 |개사여부=아니오 |프롬프트=yakousei, rock, dreamy &amp; spacey }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
-      <origin>178</origin>
+      <origin>306</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="207" sha1="2r6hq9qzzrm4l1f12qm8948gwkwwe08" xml:space="preserve">{{문서:창팝
+      <text bytes="558" sha1="8pslktqbx9cp52ryi5tit34vqu6hd10" xml:space="preserve">{{문서:창팝
 |곡명=Plastic Star
 |유튜브Id=nhhJsunlbo8
 |제작자=유진
@@ -6813,9 +6820,18 @@ Big Brother의 창을 넘어, 너만의 길을 가
 }}
 ⧼여기에 개요 추가⧽
 
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=17
+|참가닉네임=F-22 랩터는 익룡이다
+|미션프롬프트=yakousei
+|각오=나 또한 누군가의 영감이 되기를, 그리고 세계정복 후 국가를 창팝으로 바꿔버릴 것
+|한마디=아쉽게 됐습니다. 야코세이는 랩터가 잡아먹어 버렸어요.
+}}
+
 == 가사 ==
 {{가사}}</text>
-      <sha1>2r6hq9qzzrm4l1f12qm8948gwkwwe08</sha1>
+      <sha1>8pslktqbx9cp52ryi5tit34vqu6hd10</sha1>
     </revision>
   </page>
   <page>
@@ -10519,6 +10535,2058 @@ Six Seven Eight Night
       <format>text/x-wiki</format>
       <text bytes="107" sha1="jerkdb731wao03a8c815jw1wzcsnqax" xml:space="preserve">김창섭은 리부트 정상화후 신이 되었다. 신이 된 김창섭을 신창섭이라고 부른다.</text>
       <sha1>jerkdb731wao03a8c815jw1wzcsnqax</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:테이블:복면창팝 2 참가곡</title>
+    <ns>10</ns>
+    <id>248</id>
+    <revision>
+      <id>269</id>
+      <timestamp>2025-06-22T01:05:23Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{#cargo_declare: _table = 복면창팝2참가곡 | 참가번호 = Int | 참가닉네임 = String | 미션프롬프트 = String | 각오 = Text | 한마디 = Text | 등수 = Int }} [[분류:카고 테이블]]</comment>
+      <origin>269</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="208" sha1="iaw3o348getzcdxfwp0k1gdv4oeoihs" xml:space="preserve">{{#cargo_declare: _table = 복면창팝2참가곡
+| 참가번호 = Int
+| 참가닉네임 = String
+| 미션프롬프트 = String
+| 각오 = Text
+| 한마디 = Text
+| 등수 = Int
+}}
+[[분류:카고 테이블]]</text>
+      <sha1>iaw3o348getzcdxfwp0k1gdv4oeoihs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:복면창팝 2 참가곡</title>
+    <ns>10</ns>
+    <id>249</id>
+    <revision>
+      <id>270</id>
+      <timestamp>2025-06-22T01:06:07Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------  --&gt;&lt;templatestyles src="정보상자" /&gt;&lt;!--  일반 문서 이름공간(ns:0)에서만 적용 --&gt;{{#만약일치: {{이름공간수}} | 0 | &lt;!--   -- 카고 테이블 저장 --&gt; {{#cargo_store: _table = 복면창팝2참가곡 | 참가번호	= {{{참가번호|}}} | 참가닉네임	= {{{참가닉네임|}}} | 미션프롬프트	= {{{미션프롬프트|}}} | 각오		= {{{각오|}}} | 한마디		= {{{...</comment>
+      <origin>270</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1616" sha1="byenx1cg8ic7jvzh8h3mlh6i6qnrsbo" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
+
+--&gt;&lt;templatestyles src="정보상자" /&gt;&lt;!--
+
+일반 문서 이름공간(ns:0)에서만 적용
+--&gt;{{#만약일치: {{이름공간수}} | 0 | &lt;!-- 
+
+-- 카고 테이블 저장 --&gt;
+{{#cargo_store: _table = 복면창팝2참가곡
+| 참가번호	= {{{참가번호|}}}
+| 참가닉네임	= {{{참가닉네임|}}}
+| 미션프롬프트	= {{{미션프롬프트|}}}
+| 각오		= {{{각오|}}}
+| 한마디		= {{{한마디|}}}
+| 등수		= {{{등수|}}}
+}} &lt;!-- 
+
+-- 분류 지정 --&gt;
+[[분류:복면창팝 2 참가곡]] &lt;!-- 
+
+--&gt;}}&lt;!--
+
+--&gt;
+{| class="wikitable infobox floatright"
+|-
+! colspan="2" style="text-align: center" |&lt;span style="font-size: large"&gt;복면창팝 2 참가곡&lt;/span&gt;
+|- class="infobox-image"
+| colspan=2 | {{#if: {{{복면그림|}}} | {{복면그림}} }}
+|-
+! 참가번호
+| {{{참가번호|}}}{{{참가번호_|}}}
+|-
+! 참가 닉네임
+| {{{참가닉네임|}}}{{{참가닉네임_|}}}
+|-
+! 미션 프롬프트
+| {{{미션프롬프트|}}}{{{미션프롬프트_|}}}
+|-
+! 각오
+| {{{각오|}}}{{{각오_|}}}
+|-
+! 한마디
+| {{{한마디|}}}{{{한마디_|}}}
+|-
+{{#if: {{{등수|}}} |
+! 등수
+{{!}} {{{등수}}}{{{등수_|}}}
+{{!}}-
+}}
+{{#if: {{{기타|}}} |
+! 기타
+{{!}} {{{기타}}}
+{{!}}-
+}}
+|} &lt;!--
+
+--------------------------------&gt;&lt;/onlyinclude&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;[[분류:틀]]
+{{#cargo_attach: _table = 복면창팝2참가곡 }}&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>byenx1cg8ic7jvzh8h3mlh6i6qnrsbo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>평범한 하루</title>
+    <ns>0</ns>
+    <id>250</id>
+    <revision>
+      <id>271</id>
+      <timestamp>2025-06-22T01:10:31Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=X8HjxAuwOeA |제작자=새우 |개사여부=아니오 }} ⧼여기에 개요 추가⧽  == 복면창팝 2 == {{복면창팝 2 참가곡 |참가번호=1 |참가닉네임=메벤남의애착물통 |미션프롬프트=Krautrock |각오=우승해서 미트라 살돈에 보태겠습니다 |한마디=잠은 자면서 즐깁시다 }}  == 가사 == {{가사}}</comment>
+      <origin>271</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="381" sha1="m2mzfht2qj3kwhun7uxvkp1ar3tc136" xml:space="preserve">{{문서:창팝
+|유튜브Id=X8HjxAuwOeA
+|제작자=새우
+|개사여부=아니오
+}}
+⧼여기에 개요 추가⧽
+
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=1
+|참가닉네임=메벤남의애착물통
+|미션프롬프트=Krautrock
+|각오=우승해서 미트라 살돈에 보태겠습니다
+|한마디=잠은 자면서 즐깁시다
+}}
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>m2mzfht2qj3kwhun7uxvkp1ar3tc136</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:평범한 하루</title>
+    <ns>3200</ns>
+    <id>251</id>
+    <revision>
+      <id>272</id>
+      <timestamp>2025-06-22T01:10:51Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 일어나 방송보고 먹고 방송보고 먹고 자고 일어나 방송보고 먹고 방송보고 먹고 자고 일어나 방송보고 먹고 방송복고 먹고 자고 일어나 방송보고 먹고 방송보고 먹고 자고 일어나 방송보고 먹고 방송보고 먹고 자는 생활  일어나 일정확인 해 뭐야 오늘따라 저녁 배럭이 겨우 여섯개  안돼 끝물이 되어서는 안돼 창드컵은 평생토록 지속되어야 하는 걸  빠르게 달려...</comment>
+      <origin>272</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1184" sha1="1le7loi1u0u1meqp87jqjrz3mknqofi" xml:space="preserve">일어나
+방송보고 먹고 방송보고 먹고 자고 일어나 방송보고
+먹고 방송보고 먹고 자고 일어나 방송보고 먹고 방송복고
+먹고 자고 일어나 방송보고 먹고 방송보고 먹고 자고
+일어나 방송보고 먹고 방송보고 먹고 자는 생활
+
+일어나 일정확인 해
+뭐야 오늘따라
+저녁 배럭이 겨우 여섯개
+
+안돼
+끝물이 되어서는 안돼
+창드컵은 평생토록 지속되어야 하는 걸
+
+빠르게 달려가서 쌀숭이의 손을 써서
+늘어나길 빌고 또 빌어
+
+오늘도
+방송보고 먹고 방송보고 먹고 자고 일어나 방송보고
+먹고 방송보고 먹고 자고 일어나 방송보고 먹고 방송복고 먹고 자고 일어나
+방송보고 먹고 먹고 방송보고 먹고 자고 방송보고
+먹고 방송보고 먹고 방송보고
+
+먹고 자고 일어나 방송보고 먹고 방송보고 먹고 자고
+일어나 방송보고 먹고 방송보고 먹고
+보고 보고 보고 보고 보고
+
+좋아
+게릴라가 많아졌어
+아침부터 밤까지 창드컵이 이어져요
+
+그런데 어째서
+내 눈은 점점 감겨 (감겨)
+감겨 감겨 감겨 감겨
+감겨겨감 겨감겨감</text>
+      <sha1>1le7loi1u0u1meqp87jqjrz3mknqofi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>신창섭에게...♥</title>
+    <ns>0</ns>
+    <id>252</id>
+    <revision>
+      <id>273</id>
+      <timestamp>2025-06-22T01:13:29Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=1jlm3bPb6YQ |제작자=두유노신창섭 |개사여부=아니오 }} ⧼여기에 개요 추가⧽  == 복면창팝 2 == {{복면창팝 2 참가곡 |참가번호=2 |참가닉네임=리스항구돈가스집 |미션프롬프트=Cute and soft femal vocal |각오=이번대회 즐기고 가겠습니다. |한마디=지금은 화질이 안좋은 영상입니다 }}  == 가사 == {{가사}}</comment>
+      <origin>273</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="413" sha1="69o63wrqd98c0yfuy5js0epv8ogu7yi" xml:space="preserve">{{문서:창팝
+|유튜브Id=1jlm3bPb6YQ
+|제작자=두유노신창섭
+|개사여부=아니오
+}}
+⧼여기에 개요 추가⧽
+
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=2
+|참가닉네임=리스항구돈가스집
+|미션프롬프트=Cute and soft femal vocal
+|각오=이번대회 즐기고 가겠습니다.
+|한마디=지금은 화질이 안좋은 영상입니다
+}}
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>69o63wrqd98c0yfuy5js0epv8ogu7yi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:신창섭에게...♥</title>
+    <ns>3200</ns>
+    <id>253</id>
+    <revision>
+      <id>274</id>
+      <timestamp>2025-06-22T01:13:45Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 처음엔 몰랐어, 너라는 존재를 어느 날 우연히 눈이 마주친 그 순간 그대 웃는 얼굴, 커다란 춤선이 내 마음에 스며들었던 거야  그때부터 조금씩 다가온 너의 이름 가슴 속에 자꾸만 쌓여가는 이야기 하루하루, 너의 목소리에 내 맘이 조금씩 무너져 가는 걸, 알아?  어쩌면 이런게 사랑이 아닐까 너와 나, 닿지 못할 운명 이겠지만 나도 모르게 자꾸만 너를 찾고 있어...</comment>
+      <origin>274</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2349" sha1="1j5cs5ls2xk3brvya1ghkpbnkgt7kqn" xml:space="preserve">처음엔 몰랐어, 너라는 존재를
+어느 날 우연히 눈이 마주친 그 순간
+그대 웃는 얼굴, 커다란 춤선이
+내 마음에 스며들었던 거야
+
+그때부터 조금씩 다가온 너의 이름
+가슴 속에 자꾸만 쌓여가는 이야기
+하루하루, 너의 목소리에 내 맘이
+조금씩 무너져 가는 걸, 알아?
+
+어쩌면 이런게 사랑이 아닐까
+너와 나, 닿지 못할 운명 이겠지만
+나도 모르게 자꾸만 너를 찾고 있어
+그저 네가 나의 세상이라면 좋겠어
+
+신창섭에게 사랑에 빠졌나 봐
+이 작은 마음 속에 네가 가득 차
+눈을 감고, 그대의 미소 떠올리면
+세상이 멈춘 듯, 시간이 멀어져
+
+너에게 말할까? 아니면 그냥 이렇게
+내 마음만 간직할까, 두려워도 설렘이
+점점 더 커져 가는 이 마음을
+너에게 전하고 싶어
+
+다른 누구보다 너에게만 끌리는 걸
+너와 나, 그 일방적인 대화 속에서
+한 걸음씩 더 가까워지고 싶지만
+또 한 걸음 물러서게 되는 나
+
+그대 앞에선 나도 모르게 움츠러들고
+차마 내 마음을 다 보여줄 수 없어서
+그,냥 너를 바라보기만 해도 행복하지만
+가끔은 말하고 싶어, 내 마음을
+
+어쩌면 이런게 사랑이 아닐까
+너와 나, 아무 말도 하지 않아도
+서로의 눈빛 속에서 모든 걸 알 수 있는
+그런 마음을 나도 갖고 싶어
+
+신창섭에게 사랑에 빠졌나 봐
+이 작은 마음 속에 네가 가득 차
+눈을 감고, 그대의 미소 떠올리면
+세상이 멈춘 듯, 시간이 멀어져
+
+너에게 말할까? 아니면 그냥 이렇게
+내 마음만 간직할까, 두려워도 설렘이
+점점 더 커져 가는 이 마음을
+너에게 전하고 싶어
+
+밤하늘에 별을 세며 기도해
+그대와 나, 언제쯤 마음이 닿을까
+내가 상상한 대로, 너와 나의 이야기
+조금씩... 조금씩...
+그려가고 싶어!
+
+신창섭에게 사랑에 빠졌나 봐
+이 작은 마음 속에 네가 가득 차
+눈을 감고, 그대의 미소 떠올리면
+세상이 멈춘 듯, 시간이 멀어져
+
+너에게 말할까? 아니면 그냥 이렇게
+내 마음만 간직할까, 두려워도 설렘이
+점점 더 커져 가는 이 마음을
+너에게 전하고 싶어
+
+그대, 나만의 이 작은 곡들이
+언젠가 너에게 전할 수 있기를</text>
+      <sha1>1j5cs5ls2xk3brvya1ghkpbnkgt7kqn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>추억의 "정상화의 히어로 신창섭맨" 주제가</title>
+    <ns>0</ns>
+    <id>254</id>
+    <revision>
+      <id>282</id>
+      <parentid>275</parentid>
+      <timestamp>2025-06-22T01:26:06Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <minor/>
+      <origin>282</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="626" sha1="q5m81oith9lp5pzdp44nta738ypl9g6" xml:space="preserve">{{문서:창팝
+|유튜브Id=sC-2X_U68ug
+|제작자=뮤버
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 1편
+}}
+}}
+⧼여기에 개요 추가⧽
+
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=3
+|참가닉네임=원시쌀숭 헬리오스
+|미션프롬프트=anime ost
+|각오=대회 참가에 의의를 두고, 모르는 장르라도 일단 최선을 다해보겠습니다.
+|한마디=어릴적 그 만화, '정상화의 히어로 신창섭맨'을 기억하시나요? 착한 리선족 여러분들은 TV에서 떨어져 신창섭맨을 응원해주세요!
+}}
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>q5m81oith9lp5pzdp44nta738ypl9g6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:추억의 "정상화의 히어로 신창섭맨" 주제가</title>
+    <ns>3200</ns>
+    <id>255</id>
+    <revision>
+      <id>276</id>
+      <timestamp>2025-06-22T01:16:05Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 어느 날 내려와 모습을 드러낸 저것은 누구인가? 저것은 신창섭 신창섭맨!  리선족 살인자의 오명을 쓰고 모든 것을 버리고 맞서 싸우는 남자 뭐든지 부수는 정상화 펀치! 매출을 뚫어보는 건강 천리안! 공기를 가르는 정상화 킥! 쌀숭이 찾아가는 건강 축지법!  정상화의 권능을 몸에 아로새긴 정상화의 히어로 신창섭맨 (신창섭맨) 신창섭맨!  음악으로 감싸는 상냥...</comment>
+      <origin>276</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="799" sha1="chuprpnywalw3yqhqmay0m8r6z6m697" xml:space="preserve">어느 날 내려와 모습을 드러낸
+저것은 누구인가?
+저것은 신창섭
+신창섭맨!
+
+리선족 살인자의 오명을 쓰고
+모든 것을 버리고 맞서 싸우는 남자
+뭐든지 부수는 정상화 펀치!
+매출을 뚫어보는 건강 천리안!
+공기를 가르는 정상화 킥!
+쌀숭이 찾아가는 건강 축지법!
+
+정상화의 권능을
+몸에 아로새긴
+정상화의 히어로 신창섭맨 (신창섭맨)
+신창섭맨!
+
+음악으로 감싸는 상냥함 알고
+모든 것을 즐기고 받아들이는 남자
+모든 것을 꽤뚫는 정상화 드릴!
+쌀숭이 척결하는 정상화 도끼!
+모든 정상화하는 정상화 파동!
+쌀숭이 방어하는 정상화 방패!
+
+정상화의 권능을
+몸에 아로새긴
+정상화의 히어로 신창섭맨!
+신창섭맨!</text>
+      <sha1>chuprpnywalw3yqhqmay0m8r6z6m697</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>OUR VOICES NEVER STOP</title>
+    <ns>0</ns>
+    <id>256</id>
+    <revision>
+      <id>279</id>
+      <parentid>277</parentid>
+      <timestamp>2025-06-22T01:23:11Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <origin>279</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3471" sha1="4md2lzw3ad17qms16a4hsi906lavebr" xml:space="preserve">{{문서:창팝
+|다른언어제목=우리의 목소리는 멈추지 않는다
+|유튜브Id=gzsIYlkA-zA
+|제작자=창섭이
+|개사여부=아니오
+}}
+⧼여기에 개요 추가⧽
+
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=4
+|참가닉네임=리 자로시작해서 족으로 끝나는 닉네임
+|미션프롬프트=tribal 
+|각오=가사써줄사람구함
+|한마디=
+}}
+
+== 가사 ==
+{{가사}}
+
+=== 한국어 포함 ===
+&lt;poem&gt;
+January goes by, december goes by, and then next january.
+(1월을 지나고 12월을 지나 다시 1월)
+Our voices still haven't stopped
+(우리의 목소리는 아직도 멈추지 않았네)
+
+[간주]
+
+Our painful sounds become songs and art
+(우리의 고통소리는 노래와 예술이 되고)
+Our song spread and spread, and everyone knew it
+(우리의 노래는 점점 퍼지면서 모두가 알게 됐지)
+But our voices still don't want to stop
+(하지만 우리의 목소리는 멈출 생각이 없네)
+
+[간주]
+Our voices never stop!
+(우리의 목소리는 멈추지 않는다!)
+Even if there are obstacles
+(장애물이 있더라도)
+Our voices never stop!
+(우리의 목소리는 멈추지 않는다!)
+Until the end is in sight
+(끝이 보일 때까지)
+Our voices never stop!
+(우리의 목소리는 멈추지 않는다!)
+When we get to the end, we turn around and move forward again
+(끝에 도달하면 되돌아서 다시 앞으로 갈 것이니)
+Faster and farther
+(빠르고 더 멀리)
+Out voices are getting louder and louder
+(우리의 목소리는 계속 커질 것이다)
+
+[간주]
+
+There was a lot going on, a lot of happy and sad things
+많은 일이 있었고 행복한 일과 슬픈 일들이 많았지만)
+But we didn't stop
+(우린 멈추지 않았다네)
+Because the world is still a big place and there are many places we haven't been
+(왜냐면 세상은 아주 넓고 우리가 아직 가지 못한 곳은 많기 때문이지)
+
+Our voices never stop!
+우리의 목소리는 멈추지 않는다!)
+Even if there are obstacles
+(장애물이 있더라도)
+Our voices never stop!
+(우리의 목소리는 멈추지 않는다!)
+Until the end is in sight
+(끝이 보일 때까지)
+Our voices never stop!
+(우리의 목소리는 멈추지 않는다!)
+When we get to the end, we turn around and move forward again
+(끝에 도달하면 되돌아서 다시 앞으로 갈 것이니)
+Faster and farther
+(빠르고 더 멀리)
+Out voices are getting louder and louder
+(우리의 목소리는 계속 커질 것이다)
+
+[간주]
+
+No one knows when this will end
+이것이 언제 끝날지 아무도 몰라)
+Our predictions have always been spectacularly wrong
+(우리의 예측은 언제나 보기 좋게 빗나갔지)
+But that's okay
+(하지만 괜찮아)
+Because even if it does end
+the fragments of your voice will live on forever
+(만약 끝난다 해도 목소리의 파편들은 영원히 남을 것이니깐)
+
+Our voices never stop!
+(우리의 목소리는 멈추지 않는다!)
+Even if there are obstacles
+(장애물이 있더라도)
+Our voices never stop!
+(우리의 목소리는 멈추지 않는다!)
+Until the end is in sight
+(끝이 보일 때까지)
+Our voices never stop!
+(우리의 목소리는 멈추지 않는다!)
+When we get to the end, we turn around and move forward again
+(끝에 도달하면 되돌아서 다시 앞으로 갈 것이니)
+Faster and farther
+(빠르고 더 멀리)
+Out voices are getting louder and louder
+(우리의 목소리는 계속 커질 것이다) 
+&lt;/poem&gt;</text>
+      <sha1>4md2lzw3ad17qms16a4hsi906lavebr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:OUR VOICES NEVER STOP</title>
+    <ns>3200</ns>
+    <id>257</id>
+    <revision>
+      <id>278</id>
+      <timestamp>2025-06-22T01:19:51Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: January goes by, december goes by, and then next january. Our voices still haven't stopped  Our painful sounds become songs and art Our song spread and spread, and everyone knew it But our voices still don't want to stop  Our voices never stop! Even if there are obstacles Our voices never stop! Until the end is in sight Our voices never stop! When we get to the end, we turn around and move forward again Faster and farther Out voices are getting louder and louder  There was a lot...</comment>
+      <origin>278</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1294" sha1="11xrvvlzxx4jclux1dfnu1n8pu1rzjw" xml:space="preserve">January goes by, december goes by, and then next january.
+Our voices still haven't stopped
+
+Our painful sounds become songs and art
+Our song spread and spread, and everyone knew it
+But our voices still don't want to stop
+
+Our voices never stop!
+Even if there are obstacles
+Our voices never stop!
+Until the end is in sight
+Our voices never stop!
+When we get to the end, we turn around and move forward again
+Faster and farther
+Out voices are getting louder and louder
+
+There was a lot going on, a lot of happy and sad things
+But we didn't stop
+Because the world is still a big place and there are many places we haven't been
+
+Our voices never stop!
+Even if there are obstacles
+Our voices never stop!
+Until the end is in sight
+Our voices never stop!
+When we get to the end, we turn around and move forward again
+Faster and farther
+Out voices are getting louder and louder
+
+No one knows when this will end
+Our predictions have always been spectacularly wrong
+But that's okay
+Because even if it does end
+the fragments of your voice will live on forever
+
+Our voices never stop!
+Even if there are obstacles
+Our voices never stop!
+Until the end is in sight
+Our voices never stop!
+When we get to the end, we turn around and move forward again
+Faster and farther
+Out voices are getting louder and louder</text>
+      <sha1>11xrvvlzxx4jclux1dfnu1n8pu1rzjw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>단죄</title>
+    <ns>0</ns>
+    <id>258</id>
+    <revision>
+      <id>280</id>
+      <timestamp>2025-06-22T01:24:48Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=SIN - 단죄 |유튜브Id=YFAdR4aYNcc |제작자=리자예 |개사여부=아니오 }} ⧼여기에 개요 추가⧽  == 복면창팝 2 == {{복면창팝 2 참가곡 |참가번호=5 |참가닉네임=창 피하지 않은 마이크 |미션프롬프트=Groovy |각오=용사님들, 끝나고 돌아와서 아시죠? |한마디= }}  == 가사 == {{가사}}</comment>
+      <origin>280</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="375" sha1="hq73y9akmit2cnwr2q4u34rhz5y1gtn" xml:space="preserve">{{문서:창팝
+|곡명=SIN - 단죄
+|유튜브Id=YFAdR4aYNcc
+|제작자=리자예
+|개사여부=아니오
+}}
+⧼여기에 개요 추가⧽
+
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=5
+|참가닉네임=창 피하지 않은 마이크
+|미션프롬프트=Groovy
+|각오=용사님들, 끝나고 돌아와서 아시죠?
+|한마디=
+}}
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>hq73y9akmit2cnwr2q4u34rhz5y1gtn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:단죄</title>
+    <ns>3200</ns>
+    <id>259</id>
+    <revision>
+      <id>281</id>
+      <timestamp>2025-06-22T01:25:22Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 창피하지 않는 이유? 내가 던지는게 창이니까  난의 상황에서 그런게 뭐가 중요한데 나무로 만든 죽창 맞고 꺼져 거지 서버 안 피했으면 곱게 갈길 가자  창피하지 않은 업데이트를 냈지 철면피 쓰고 마이크를 세웠지 마찬가지지 너네 찬송가 지지 억만가지지 너네 청소할 의지  단 제외 재외 재외 선족은 제외 단죄해 죄에 죄에 선족의 원죄 단 제외 재외 재외 선족...</comment>
+      <origin>281</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2493" sha1="csd54v0bg4nrtg9z53i2vxq41h5i8kf" xml:space="preserve">창피하지 않는 이유?
+내가 던지는게
+창이니까
+
+난의 상황에서 그런게 뭐가 중요한데
+나무로 만든 죽창 맞고 꺼져 거지 서버
+안 피했으면 곱게 갈길 가자
+
+창피하지 않은 업데이트를 냈지
+철면피 쓰고 마이크를 세웠지
+마찬가지지 너네 찬송가 지지
+억만가지지 너네 청소할 의지
+
+단 제외 재외 재외 선족은 제외
+단죄해 죄에 죄에 선족의 원죄
+단 제외 재외 재외 선족은 제외
+단죄해 죄에 죄에 선족의 원죄
+
+내가 재단한 이선에
+나만 족하면 그만이지
+내재치 않는 내면이
+뭐든 감정선 필요없지
+일사분면에서
+일사분란하게 움직여
+속해내
+일자무식이
+일사부재리를 잃지 않을리 없으니
+단죄해
+You sick of life?
+but we are anony
+난 당당해
+
+단 제외 재외 재외 선족은 제외
+단죄해 죄에 죄에 선족의 원죄
+단 제외 재외 재외 선족은 제외
+단죄해 죄에 죄에 선족의 원죄
+
+리 리리리 리리리
+다 다시 시작해 해충단 단죄 예
+너도 나도 쉽게 받는 단죄의 제의
+봐봐 너네들도
+단 제외 치고 단죄 외쳐
+바바이 내로남불 단 친구들의 죄까지
+너네 논리외침 다 재꼈지, Kick it ㅋ
+다 다시 시작해 해충단 단죄 예
+
+주변엔 죄다 쥐새끼만 모여들지
+대충 쥐어다 가세요라 모이주지
+어차피 신도 제단에 바칠 수단이지
+피차 일체된 주제에 받혀 시달리지
+
+신을 거느린 신을 신을 용서하신 적 없고
+신을 다리민 신은 신을 신발조차가 없네
+고뇌를 돌아봐 풀기엔 뇌내에 가락 없어
+그래서 빼고 따라가는 거야 방역차 쫓아
+
+억지를 부리려는 꼴이 꾀죄죄?
+그 정돈 정리해 내뇌서 단 제외
+이 법속 난리는 카니발 난 제외
+저주의 물질은 바로 눈 앞 재화
+
+단 제외 재외 재외 선족은 제외
+단죄해 죄에 죄에 선족의 원죄
+단 제외 재외 재외 선족은 제외
+단죄해 죄에 죄에 선족의 원죄
+
+내가 재단한 이선에
+나만 족하면 그만이지
+내키치 않는 네 면이
+뭐든 여기선 필요없지
+사사분면에서
+사사로운 뇌로 움직여
+속행해
+사방팔방이
+사사건건을 관조 판결을 편드니
+단죄해
+empty brain of we
+so what? fxxx, deny
+난 당당해
+
+단 제외 재외 재외 선족은 제외
+단죄해 죄에 죄에 선족의 원죄
+단 제외 재외 재외 선족은 제외
+단죄해 죄에 죄에 선족의 원죄</text>
+      <sha1>csd54v0bg4nrtg9z53i2vxq41h5i8kf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>일년동안</title>
+    <ns>0</ns>
+    <id>260</id>
+    <revision>
+      <id>283</id>
+      <timestamp>2025-06-22T01:28:40Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=qXBdu_dHmKQ |제작자=조류사냥꾼 |개사여부=아니오 }} ⧼여기에 개요 추가⧽  == 복면창팝 2 == {{복면창팝 2 참가곡 |참가번호=6 |참가닉네임=우승 못하면 은퇴함 |미션프롬프트=Ballad |각오=WWE 아닙니다 진심입니다 |한마디=故수노의 추모곡입니다. 시간이 없어서...퀄리티가 신창났습니다. 은퇴할 것 같습니다. 그리고 자기개발님 사랑합니다 }}  단품...</comment>
+      <origin>283</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="533" sha1="8ptqlqtk8495vpbxc39e29vbmhp2aya" xml:space="preserve">{{문서:창팝
+|유튜브Id=qXBdu_dHmKQ
+|제작자=조류사냥꾼
+|개사여부=아니오
+}}
+⧼여기에 개요 추가⧽
+
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=6
+|참가닉네임=우승 못하면 은퇴함
+|미션프롬프트=Ballad
+|각오=WWE 아닙니다 진심입니다
+|한마디=故수노의 추모곡입니다. 시간이 없어서...퀄리티가 신창났습니다. 은퇴할 것 같습니다. 그리고 자기개발님 사랑합니다
+}}
+
+단품이 올라오지 않았다.
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>8ptqlqtk8495vpbxc39e29vbmhp2aya</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:일년동안</title>
+    <ns>3200</ns>
+    <id>261</id>
+    <revision>
+      <id>284</id>
+      <timestamp>2025-06-22T01:29:04Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 포기했어 난 안돼 게임을 접혀 버렸어 설레는 모험도, 보스도 전부 추억 속으로 사라져가  쌀숭이는 여전히 쌀을 팔고 신창섭은 정상화를 실시하는 이런 비참한 세상에서 과연 나는 무엇을 해야 할까  저 검을 뽑아봐 너라면 할 수 있어!  말도 안돼, 내가 이렇게 검을 뽑다니, 평범한 내가  선택받지 않더라도 누구나 뽑을 수 있다는 전설의 검 일년 동안 업데이트 된...</comment>
+      <origin>284</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1610" sha1="ksbgaff0pzfhtu1alm532ep31cl3n05" xml:space="preserve">포기했어 난 안돼
+게임을 접혀 버렸어
+설레는 모험도, 보스도
+전부 추억 속으로 사라져가
+
+쌀숭이는 여전히 쌀을 팔고
+신창섭은 정상화를 실시하는
+이런 비참한 세상에서
+과연 나는 무엇을 해야 할까
+
+저 검을 뽑아봐
+너라면 할 수 있어!
+
+말도 안돼, 내가 이렇게
+검을 뽑다니, 평범한 내가
+
+선택받지 않더라도 누구나
+뽑을 수 있다는 전설의 검
+일년 동안 업데이트 된
+아직 현역인 저 빛나는 검
+휴대폰으로 치면
+갤럭시 S24급 찬란한 검
+
+10달러만 현질한다면,
+한 달에 500곡 뽑을수 있다는 검
+
+그게 정말인가, 이 검의 힘으로
+할 수 있다니 내가 노래 제작을
+그 가수들도 다 무릎 꿇리고
+나아간다니 멜론차트 저 위로
+
+일년동안! (일년동안!)
+일년동안!
+창팝 제작자가 탄생하리라
+일년동안! (일년동안!)
+일년동안!
+하루 4시간 동안 창팝 제작하리라!
+
+그래, 사랑조차 영원하지 않은 세상에서
+그 무엇이 불멸을 말할 수 있으리
+끝이 있어야 새로운 시작이 있으니
+사라질 운명 그저 감사할 뿐
+거센 바람이 나를 깨우고
+성난 파도가 소식을 전해주네
+나 앞으로 나아가리라
+쌀숭이 척결을 위해!
+
+일년동안! (일년동안!)
+수노에 돈 바쳐 창팝 만드리라!
+일년동안! (일년동안!)
+추악한 쌀숭이의 본모습 알리리라!
+
+일년동안!
+너는 창팝 만들 거야
+일년동안!
+이 수노는 네 거야
+일년동안!
+모두 음악 들을 거야
+일년동안!
+일년동안!
+일년동안!</text>
+      <sha1>ksbgaff0pzfhtu1alm532ep31cl3n05</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>메와로 그리고 창팝</title>
+    <ns>0</ns>
+    <id>262</id>
+    <revision>
+      <id>285</id>
+      <timestamp>2025-06-22T01:30:53Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=XOpu8O9wVeE |제작자=창팝딸깍딸깍캬 |개사여부=아니오 }} ⧼여기에 개요 추가⧽  == 복면창팝 2 == {{복면창팝 2 참가곡 |참가번호=7 |참가닉네임=인디창팝의물결속에서 |미션프롬프트=kawaii female vocals heavy metal |각오=내 답변 |한마디= }}  == 가사 == {{가사}}</comment>
+      <origin>285</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="355" sha1="pd9hse43xadx4vv95m6wmv3x5y2t4aj" xml:space="preserve">{{문서:창팝
+|유튜브Id=XOpu8O9wVeE
+|제작자=창팝딸깍딸깍캬
+|개사여부=아니오
+}}
+⧼여기에 개요 추가⧽
+
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=7
+|참가닉네임=인디창팝의물결속에서
+|미션프롬프트=kawaii female vocals heavy metal
+|각오=내 답변
+|한마디=
+}}
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>pd9hse43xadx4vv95m6wmv3x5y2t4aj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:메와로 그리고 창팝</title>
+    <ns>3200</ns>
+    <id>263</id>
+    <revision>
+      <id>286</id>
+      <timestamp>2025-06-22T01:31:14Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 두유원투두메이플 고웨스트지엠에스 꿀잠충따따잇따잇  메이플접으세요라 단쌀숭이는제외함 메이플을하는것은 십오구칠십오구칠 나는수노를딸깍해 창팝만들고있지 하지만채앙팝수준 점점높아져만있어  리부트서버있었지 아근데이제는없지 현생돌려줘서감사 그래서많아진창팝  별을발굴하기위해 만들어진유스유스 곡이백오십곡넘어 그래도할만해할만  메소...</comment>
+      <origin>286</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="751" sha1="rvlk09h30r4dlz8gqo4345b1rf672xn" xml:space="preserve">두유원투두메이플
+고웨스트지엠에스
+꿀잠충따따잇따잇
+
+메이플접으세요라
+단쌀숭이는제외함
+메이플을하는것은
+십오구칠십오구칠
+나는수노를딸깍해
+창팝만들고있지
+하지만채앙팝수준
+점점높아져만있어
+
+리부트서버있었지
+아근데이제는없지
+현생돌려줘서감사
+그래서많아진창팝
+
+별을발굴하기위해
+만들어진유스유스
+곡이백오십곡넘어
+그래도할만해할만
+
+메소시세일삼삼삼
+바닥에바닥에바닥
+넥스트알피지게임
+그것은로스트아크
+메이플넥스트패치
+고래들돈빨아먹기
+고래들정상화하기
+이게메이플넥스트
+
+창드컵컨텐츠복사
+컨텐츠무한복사한
+창섭이형종신기원</text>
+      <sha1>rvlk09h30r4dlz8gqo4345b1rf672xn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>리선족 씹새끼들</title>
+    <ns>0</ns>
+    <id>264</id>
+    <revision>
+      <id>287</id>
+      <timestamp>2025-06-22T01:33:27Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=s6j1kv_GqpI |제작자=메벤남 |개사여부=아니오 }} ⧼여기에 개요 추가⧽  == 복면창팝 2 == {{복면창팝 2 참가곡 |참가번호=8 |참가닉네임=개화 |미션프롬프트=doom metal |각오=그러니까 식당으로 비유하자면 손님한테 자기소개를 하라는거임 |한마디=리선족 씹새끼들 메이플 안했었다고 믿어야해~ }}  == 가사 == {{가사}}</comment>
+      <origin>287</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="435" sha1="kei7p39wqtdbbjtejd293koukdxnmxy" xml:space="preserve">{{문서:창팝
+|유튜브Id=s6j1kv_GqpI
+|제작자=메벤남
+|개사여부=아니오
+}}
+⧼여기에 개요 추가⧽
+
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=8
+|참가닉네임=개화
+|미션프롬프트=doom metal
+|각오=그러니까 식당으로 비유하자면 손님한테 자기소개를 하라는거임
+|한마디=리선족 씹새끼들 메이플 안했었다고 믿어야해~
+}}
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>kei7p39wqtdbbjtejd293koukdxnmxy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:리선족 씹새끼들</title>
+    <ns>3200</ns>
+    <id>265</id>
+    <revision>
+      <id>288</id>
+      <timestamp>2025-06-22T01:33:58Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 리선족 이 새끼들 메이플 했었음? 리선족 너네들 메이플 했었잖아? 이왕 메이플 했던거 복귀해서 과징금 메꾸라고 시발놈들아! 돈 안 쓰는 쌀숭이들, 목소리만 존나 크네 밸런스 패치? 신규 콘텐츠? 아 존나 열받네 안되겠다 리선족이나 패볼까 둘러보니 리선족이 새끼들 어디 갔어? 내 자석펫! 물약값! 전투복값! 어디로 갔냐고!  슬슬 조여오는 목줄 급해지는 마음...</comment>
+      <origin>288</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2085" sha1="ot6kpm9ig8lmzzpkhsajkm9z3btn7cd" xml:space="preserve">리선족 이 새끼들 메이플 했었음?
+리선족 너네들 메이플 했었잖아?
+이왕 메이플 했던거 복귀해서
+과징금 메꾸라고 시발놈들아!
+돈 안 쓰는 쌀숭이들,
+목소리만 존나 크네
+밸런스 패치? 신규 콘텐츠?
+아 존나 열받네 안되겠다
+리선족이나 패볼까 둘러보니
+리선족이 새끼들 어디 갔어?
+내 자석펫! 물약값! 전투복값!
+어디로 갔냐고!
+
+슬슬 조여오는 목줄
+급해지는 마음
+돈 쓰라고
+일반화 했더니
+소보원만
+찾아가네
+쌀숭이들은
+늘 하던
+WWE에서
+벗어나질 못하네
+창드컵은 또 뭐야!
+거기 돈 쓴다고
+시급 안벌리잖아!
+제발 돌아와줘!
+돌아와서 돈 써달라고!
+
+리선족 이 십새끼들아!
+리선족 얘네들 메이플 했었다고?
+누가 메이플 하래, 이 개새끼들아!
+리선족 이 십새끼들아!
+그런 곳 말고 여기 와서 돈 쓰라고!
+
+저는 메이플이 세계적으로
+유명해지길 바래요...
+그런데...
+어 씨 발
+이건 또 뭐야 시발!
+
+리부트 일반화 해줬잖아
+도대체 왜 돈을 안쓰는거야?
+사료? 돈이나 쓰고 말해,
+극성비? 그거 다 봇이잖아!
+돈 안쓰는 쌀숭이들,
+목소리만 존나 크네!
+오늘도 시작된 WWE
+그만 좀 누워 씨발!
+억울해서 참을 수가 없네,
+리선족은 또 어디갔어!
+내 자석펫! 물약값! 전투복값!
+어디로 갔냐고!
+
+슬슬 조여오는 목줄
+급해지는 마음
+돈 쓰라고
+일반화 했더니
+소보원만
+찾아가네
+쌀숭이들은
+늘 하던
+WWE에서
+벗어나질 못하네
+창드컵은 또 뭐야!
+거기 돈 쓴다고
+시급 안벌리잖아!
+제발 돌아와줘!
+돌아와서 돈 써달라고!
+
+리선족, 이 십새끼들아!
+날씨가 왜이리 추워, 이 개새끼들아!
+그냥 모든게 리선족 때문이야!
+리선족 이 십새끼들아!
+그런 곳 말고 여기 와서 돈 쓰라고!
+
+리선족! 이 씹새끼들아!
+누가 메이플하래, 이 개새끼들아!
+그냥 모든게 리선족 때문이야!
+리선족 이 씹새끼들아!
+대체 어디로 간거냐고!</text>
+      <sha1>ot6kpm9ig8lmzzpkhsajkm9z3btn7cd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>처단</title>
+    <ns>0</ns>
+    <id>266</id>
+    <revision>
+      <id>289</id>
+      <timestamp>2025-06-22T01:37:02Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=0pltR6hJ7Wc |제작자=풍선비 |개사여부=아니오 }} ⧼여기에 개요 추가⧽  == 복면창팝 2 == {{복면창팝 2 참가곡 |참가번호=10 |참가닉네임=리슨족 |미션프롬프트=Chiptune |각오=전 리슨족 입니다. |한마디=고백 노래입니다. }}  == 가사 == {{가사}}</comment>
+      <origin>289</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="336" sha1="giz0n2d4itbjzedyq5mp0n1fzj8r727" xml:space="preserve">{{문서:창팝
+|유튜브Id=0pltR6hJ7Wc
+|제작자=풍선비
+|개사여부=아니오
+}}
+⧼여기에 개요 추가⧽
+
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=10
+|참가닉네임=리슨족
+|미션프롬프트=Chiptune
+|각오=전 리슨족 입니다.
+|한마디=고백 노래입니다.
+}}
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>giz0n2d4itbjzedyq5mp0n1fzj8r727</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:처단</title>
+    <ns>3200</ns>
+    <id>267</id>
+    <revision>
+      <id>291</id>
+      <parentid>290</parentid>
+      <timestamp>2025-06-22T01:38:16Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <minor/>
+      <origin>291</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="5004" sha1="pkbfvdkb0794y2aotm8aw6nv5034u4x" xml:space="preserve">너의 세계엔 땀방울이 가득했지
+현질 없는 땅 위에, 넌 네 길을 걸었어
+그러나 나는 선택했어,
+그걸 "일반" 이라 부르기로
+
+너의 시간, 너의 열정
+한순간에 무너졌지
+
+이제서야 말해본다
+내 속에 감춘 나약함
+편리함에 눈이 멀어
+너를 외면해버린 나를
+
+너희의 시간, 너희의 리부트
+그 날의 약속을 부서뜨린 나는
+다만 이 노래로 빌어본다
+네가 다시 웃길 바란다
+
+처음엔 너희의 '노력'이 전부였지만,
+이제는 '공허한 칼날'만 남아버렸지
+
+나는 너희를 일반화하며 내 속의 편리함을 택했어
+하지만 그게 네 상처일 줄 몰랐다
+
+너희가 만든 '세계
+너희의 땀과 시간이 깃든 이 땅을
+내가 망가뜨렸지
+
+그들을 웃었지 리부트의 공정함을
+나 또한 그 뒤에 서서 외면했어
+
+본섭의 거래, 유혹의 함정
+너희의 세계는 망가져갔다."
+"나는 고백해, 나의 한계를
+너의 분노, 나도 이제 이해해
+
+"너희의 시간, 너희의 리부트
+그 날의 약속을 부서뜨린 나는
+다만 이 노래로 빌어본다
+네가 다시 웃길 바란다"
+
+"본섭의 비웃음, 내 선택의 무게,
+그 모든 것이 너를 짓눌렀구나.
+다시는 너의 꿈을 망치지 않겠다고,
+이젠 나도 리부트하겠다고."
+
+본섭의 웃음은 날카롭고 사악했어
+네 투지와 노력이 그들에겐 불공정이였지
+하지만 그 싸움에 나는 조용했어
+기득권과 갈등 속에
+너의 외침만 메아리쳤지
+
+너희의 믿음이 꺾일 때
+나도 깨달았어, 나는 패배자야
+다시 시작하자고, 리부트하자고
+나도 세계를 되찾아야만 해
+
+너희의 시간, 너희의 리부트
+그 날의 약속을 부서뜨린 나는
+다만 이 노래로 빌어본다
+네가 다시 웃길 바란다
+
+"네가 흘린 메소의 무게는,
+나에겐 숫자로만 보였을 뿐.
+네 눈물, 네 분노를 애써 외면한 채
+다른 세계에 내 욕심을 덧칠했지."
+
+"너희의 시간, 너희의 리부트
+그 날의 약속을 부서뜨린 나는
+다만 이 노래로 빌어본다
+네가 다시 웃길 바란다"
+
+?사들의 외침, 조용한 리부트의 들판 위에 울려 퍼졌지
+내가 쥔 칼날은 누굴 위해 휘둘렀나
+지금서야 깨달은 그건 나를 향한 것이었어
+
+"너희의 시간, 너희의 리부트,
+그대의 노력, 그대의 땀이 빛나길.
+
+오늘은 쓰러져도 다시 일어날 너를 위해
+이 노래로 나의 잘못을 씻어내리라
+
+"리부트의 시간은 멈추지 않아,
+너의 선택, 너의 길이 정답이야.
+멀리서라도 지켜볼게,
+다시 피어나는 너의 세계를."
+
+다시 리부트, 네 손으로 짓던 세계는
+이제 너에게 되돌려야 할 나의 약속
+
+너의 세계엔 땀방울이 가득했지
+현질 없는 땅 위에, 넌 네 길을 걸었어
+그러나 나는 선택했어,
+그걸 "일반" 이라 부르기로
+
+너의 시간, 너의 열정
+한순간에 무너졌지
+
+이제서야 말해본다
+내 속에 감춘 나약함
+편리함에 눈이 멀어
+너를 외면해버린 나를
+
+너희의 시간, 너희의 리부트
+그 날의 약속을 부서뜨린 나는
+다만 이 노래로 빌어본다
+네가 다시 웃길 바란다
+
+처음엔 너희의 '노력'이 전부였지만,
+이제는 '공허한 칼날'만 남아버렸지
+
+나는 너희를 일반화하며 내 속의 편리함을 택했어
+하지만 그게 네 상처일 줄 몰랐다
+
+너희가 만든 '세계
+너희의 땀과 시간이 깃든 이 땅을
+내가 망가뜨렸지
+
+그들을 웃었지 리부트의 공정함을
+나 또한 그 뒤에 서서 외면했어
+
+본섭의 거래, 유혹의 함정
+너희의 세계는 망가져갔다."
+"나는 고백해, 나의 한계를
+너의 분노, 나도 이제 이해해
+
+"너희의 시간, 너희의 리부트
+그 날의 약속을 부서뜨린 나는
+다만 이 노래로 빌어본다
+네가 다시 웃길 바란다"
+
+"본섭의 비웃음, 내 선택의 무게,
+그 모든 것이 너를 짓눌렀구나.
+다시는 너의 꿈을 망치지 않겠다고,
+이젠 나도 리부트하겠다고."
+
+본섭의 웃음은 날카롭고 사악했어
+네 투지와 노력이 그들에겐 불공정이였지
+하지만 그 싸움에 나는 조용했어
+기득권과 갈등 속에
+너의 외침만 메아리쳤지
+
+너희의 믿음이 꺾일 때
+나도 깨달았어, 나는 패배자야
+다시 시작하자고, 리부트하자고
+나도 세계를 되찾아야만 해
+
+너희의 시간, 너희의 리부트
+그 날의 약속을 부서뜨린 나는
+다만 이 노래로 빌어본다
+네가 다시 웃길 바란다
+
+"네가 흘린 메소의 무게는,
+나에겐 숫자로만 보였을 뿐.
+네 눈물, 네 분노를 애써 외면한 채
+다른 세계에 내 욕심을 덧칠했지."
+
+"너희의 시간, 너희의 리부트
+그대의 노력 그 대 땅 위에 ?? 울려 퍼졌지
+내가 쥔 칼날은 누굴 위해 휘둘렀나
+지금서야 깨달은 그건 나를 향한 것이었어
+
+너희의 시</text>
+      <sha1>pkbfvdkb0794y2aotm8aw6nv5034u4x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>오늘부로 리부트는 일반화가 진행될 것임을 선포합니다</title>
+    <ns>0</ns>
+    <id>268</id>
+    <revision>
+      <id>294</id>
+      <parentid>292</parentid>
+      <timestamp>2025-06-22T01:43:38Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <minor/>
+      <origin>294</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="532" sha1="epfcqgb0wasoakesnnuomw9zgx6vuis" xml:space="preserve">{{문서:창팝
+|유튜브Id=J5UppBSHEPA
+|제작자=발라리안한모금
+|개사여부=아니오
+|기타=단품 영상은 1안과 2안이 합쳐져 있다.
+}}
+⧼여기에 개요 추가⧽
+
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=11
+|참가닉네임=헤네시스휴지통속슬리퍼방문판매원듀장연
+|미션프롬프트=German Schlager 
+|각오=내가 듣고 싶은 노래 남에게 시키고 싶어서 나옴. 의도치 않게 프롬프트 분탕종자 된 듯
+|한마디=
+}}
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>epfcqgb0wasoakesnnuomw9zgx6vuis</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:오늘부로 리부트는 일반화가 진행될 것임을 선포합니다</title>
+    <ns>3200</ns>
+    <id>269</id>
+    <revision>
+      <id>293</id>
+      <timestamp>2025-06-22T01:42:02Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 오늘부로 리부트는 일반화가 진행될 것임을 선포합니다  디렉터가 되버렸어 창팝이 막만들어지고 있어 정신을 차리고 보니 신이 되있어? 전임자의 흔적을 농락 어서빨리 원기의 흔적을 지우자 어서 빨리 리리 리 신이 된 나 나 나 나 정 정 정 정 정상화  리부트 정상화 즉시 시행 전임자 흔적 지우기 버닝 서버의 이름을 바꿔 과거의 흔적을 모두 지워 리부트의 이름...</comment>
+      <origin>293</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1344" sha1="jzwlo41scyi1luq7cdk8hl8v8awmbwe" xml:space="preserve">오늘부로 리부트는 일반화가
+진행될 것임을 선포합니다
+
+디렉터가 되버렸어
+창팝이 막만들어지고
+있어
+정신을 차리고 보니
+신이 되있어?
+전임자의 흔적을 농락
+어서빨리 원기의 흔적을
+지우자
+어서 빨리
+리리 리
+신이 된
+나 나 나 나
+정 정 정 정
+정상화
+
+리부트 정상화 즉시 시행
+전임자 흔적 지우기
+버닝 서버의 이름을 바꿔
+과거의 흔적을 모두 지워
+리부트의 이름도 바꿔
+그들의 근본을 지워
+창씨개명을 통한
+문화통치기
+
+정상화를 해버렸어
+인벤에서 나를 칭송하고 있어?
+페스티벌에서 신창섭을 부르고 있어?
+리부트에서 나오는 고정수입
+이제 쌀숭이에게서 거두자
+
+Eins Fünf Nu Null
+Null?
+Eins Drei Drei Drei
+Ja!
+
+Der Handel zwischen den
+Nutzern ist kein Echtgeldkauf
+(유저들 간의 거래는
+현질이 아니야)
+
+어서 빨리
+리 리 리 리 리
+리 리
+아즈모스를
+를 를 를 를
+즉 즉 즉 즉
+즉시 시행
+시행
+
+아즈모스를 축시를 즉시 시행
+메소 값 정상화 노리기
+물통 값을 급격하게 낮춰
+쌀숭이 또한 존내 패
+경매장 통합과 갈라치기
+적절한 차별로 논점흐리기
+흐린 눈으로 만들어
+내 무능을 하나씩 가려가
+
+흐린 눈으로 만들어
+내 무능을 하나씩 가려가</text>
+      <sha1>jzwlo41scyi1luq7cdk8hl8v8awmbwe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>쌀미오와 루니엣</title>
+    <ns>0</ns>
+    <id>270</id>
+    <revision>
+      <id>295</id>
+      <timestamp>2025-06-22T01:46:09Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=ACbycB65uA0 |제작자=다하카 |개사여부=아니오 }} ⧼여기에 개요 추가⧽  == 복면창팝 2 == {{복면창팝 2 참가곡 |참가번호=12 |참가닉네임=씨발년개화녀그리고신창섭 |미션프롬프트=tango |각오=리선족 씹새끼들 |한마디=순한맛으로 검열했습니다 감사합니다 }}  == 가사 == {{가사}}</comment>
+      <origin>295</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="385" sha1="av53bbhvhl0it19ttck7fkrfraqk1oq" xml:space="preserve">{{문서:창팝
+|유튜브Id=ACbycB65uA0
+|제작자=다하카
+|개사여부=아니오
+}}
+⧼여기에 개요 추가⧽
+
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=12
+|참가닉네임=씨발년개화녀그리고신창섭
+|미션프롬프트=tango
+|각오=리선족 씹새끼들
+|한마디=순한맛으로 검열했습니다 감사합니다
+}}
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>av53bbhvhl0it19ttck7fkrfraqk1oq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:쌀미오와 루니엣</title>
+    <ns>3200</ns>
+    <id>271</id>
+    <revision>
+      <id>296</id>
+      <timestamp>2025-06-22T01:46:28Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 한적한 시골 서버 어느 골목 모퉁이 핑크색 머릿결 고혹적인 계란의 향기 그녀의 이름은 루니엣 나의 여신을 만났네 묘하게 아찔한 위화감 나를 사로잡아  사실 난 여자가 아닌 남자 아무도 모르는 비밀 여자가 된 내 옆에 한 남자가 스쳐 지나갔지 강렬한 눈빛은 내 본심을 아는듯 숨겨둔 마음이 뜨겁게 뛰기 시작해  나와 함께 물통을 팔아줄 그대 쌀보다 더 먹고...</comment>
+      <origin>296</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1112" sha1="q9b8dg7ftqforplvz1tueq41jcmh5m8" xml:space="preserve">한적한 시골 서버
+어느 골목 모퉁이 핑크색 머릿결
+고혹적인 계란의 향기
+그녀의 이름은 루니엣
+나의 여신을 만났네
+묘하게 아찔한 위화감
+나를 사로잡아
+
+사실 난 여자가 아닌 남자
+아무도 모르는 비밀
+여자가 된 내 옆에
+한 남자가 스쳐 지나갔지
+강렬한 눈빛은 내 본심을 아는듯
+숨겨둔 마음이 뜨겁게 뛰기 시작해
+
+나와 함께
+물통을 팔아줄 그대
+쌀보다 더 먹고 싶은
+당신과의 웨딩 케이크
+
+손잡고 서로를 알아가는 우리
+서로를 돌려주오
+서서히 눈이 맞아가는 우리
+아이템을 넣어주오
+
+랄랄 랄라 랄라 랄 라라
+랄랄랄라 랄라 랄라라
+랄랄랄라 랄라 라랄라라
+
+그녀가 그대여도 난 상관없어
+내 맘을 받아줘 같이 떠나요
+내 마음 가져간 그댈 따라서
+촌장직을 버리고 멀리 떠나요
+
+나와 함께
+물통을 빨아준
+그대 쌀보다 더
+먹고 싶은 당신의 웨딩 게이
+
+드르륵 드륵 드르륵 드르륵
+서로를 돌려주오
+서서히 눈이 맞아가는 우리
+당신을 넣어주오</text>
+      <sha1>q9b8dg7ftqforplvz1tueq41jcmh5m8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>개사기비엠</title>
+    <ns>0</ns>
+    <id>272</id>
+    <revision>
+      <id>297</id>
+      <timestamp>2025-06-22T01:48:00Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=7B3XsrAFCJg |제작자=브론넷 박사 |개사여부=아니오 }} ⧼여기에 개요 추가⧽  == 복면창팝 2 == {{복면창팝 2 참가곡 |참가번호=13 |참가닉네임=날먹이 하고싶은 개사기비엠 |미션프롬프트=Normalization |각오=현생도 빡셌지만 분탕이 너무 재밌어서 신곡제작에 소홀해진 것 같은데 데드라인을 잡아서 곡을 만들어야 놀지 않을거 같아서 참여했습니다. |한...</comment>
+      <origin>297</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="518" sha1="33vswgas1tz8ij5hh1b2f8fjac8op2y" xml:space="preserve">{{문서:창팝
+|유튜브Id=7B3XsrAFCJg
+|제작자=브론넷 박사
+|개사여부=아니오
+}}
+⧼여기에 개요 추가⧽
+
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=13
+|참가닉네임=날먹이 하고싶은 개사기비엠
+|미션프롬프트=Normalization
+|각오=현생도 빡셌지만 분탕이 너무 재밌어서 신곡제작에 소홀해진 것 같은데 데드라인을 잡아서 곡을 만들어야 놀지 않을거 같아서 참여했습니다.
+|한마디=
+}}
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>33vswgas1tz8ij5hh1b2f8fjac8op2y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:개사기비엠</title>
+    <ns>3200</ns>
+    <id>273</id>
+    <revision>
+      <id>298</id>
+      <timestamp>2025-06-22T01:48:11Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 개사기비엠 먹고 자라난 메이플 게임계를 위협하는 그들의 횡포 메이플의 행패 더 이상 볼 수 없어 결국 과징금을 부과하는 공정위!  네가 아무리 잘 해 봤자 보공 3줄은 뜨지를 않아 네가 한번 딸깍 하면은 900원이 그냥 벌리지 1800원이 걍 들어오지 템 강화에 돈은 필수야 여기엔 천장따윈 없었어 확률공개 그게 무ㅓ였더라 천장 만들게 확률 까볼게 옵션은 열심히...</comment>
+      <origin>298</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1990" sha1="aokel1s8j6plf94czezppsd2fhb1aj5" xml:space="preserve">개사기비엠 먹고 자라난 메이플
+게임계를 위협하는 그들의 횡포
+메이플의 행패 더 이상 볼 수 없어
+결국 과징금을 부과하는 공정위!
+
+네가 아무리 잘 해 봤자
+보공 3줄은 뜨지를 않아
+네가 한번 딸깍 하면은
+900원이 그냥 벌리지
+1800원이 걍 들어오지
+템 강화에 돈은 필수야
+여기엔 천장따윈 없었어
+확률공개 그게 무ㅓ였더라
+천장 만들게 확률 까볼게
+옵션은 열심히 해 돈 질러서
+직작 기피현상 만연하게 해
+템값 수호에 미친 이들 양산
+한 부위만 만든다고 끝이 아냐
+메이플 장비 열 댓개는 될거야
+큐브에 돈 써 청포도로 칠해봐
+다들 갤럭시 S3라지만
+강화 다 되면 S10 급이라 해
+장비는 껍데기고, 강화가 본체
+
+개사기비엠 먹고 자라난 메이플
+게임계를 위협하는 그들의 횡포
+메이플의 행패 더 이상 볼 수 없어
+결국 과징금을 부과하는 공정위!
+
+공정위 맞고 "용사님들 미안해요"
+"이제 큐브는 돈내고 안팔게요" 래
+스리슬쩍 사다리 차고 유입 막아
+끔찍했던 정상화를 Combo로 박아
+이제 메소로 큐브 돌리게 하면서
+메소를 팔면 되겠거니 단순하게
+하지만 그 즉시 하회탈해 매출
+다들 직작 안하고 물통으로 템 사
+잠재 지르는 메소는 물통에서 와
+메소마켓으로 메소장사 되겠냐고
+매일을 큐브 딸깍하면 돈 벌었는데
+이제 힘들게 버는거 참 할만하겠다
+
+사과를 팔아먹고 패스 BM을 뿌려도
+매출 복구되겠냐고 아무도 안 살 것들
+슬롯머신 육면체 없이는 돈도 못 버니
+메이플스토리 아닌 육면체 스토리야
+템값수호단 때문에 완화는 꿈 못꾸고
+쌀값수호단 때문에 아즈모스 사과박네
+
+개사기비엠 먹고 자라난 메이플
+게임계를 위협하는 그들의 횡포
+쌀숭이의 행패 더 이상 볼 수 없어
+이제 커뮤에서 돌려지는 쌀숭이!</text>
+      <sha1>aokel1s8j6plf94czezppsd2fhb1aj5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>사탄버거 레시피</title>
+    <ns>0</ns>
+    <id>274</id>
+    <revision>
+      <id>300</id>
+      <parentid>299</parentid>
+      <timestamp>2025-06-22T01:51:18Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <minor/>
+      <origin>300</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="517" sha1="e06bhezbe30pkbhoe3ucdubvhsih4ob" xml:space="preserve">{{문서:창팝
+|유튜브Id=IzEucCxa3qs
+|제작자=방자
+|제작자_=&lt;ref&gt;방자 (취미) 계정으로 참가, 업로드되었다.&lt;/ref&gt;
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 1편
+}}
+}}
+⧼여기에 개요 추가⧽
+
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=14
+|참가닉네임=젖은 발
+|미션프롬프트=lo-fi
+|각오=열심히 해야지 아응...
+|한마디=영상툴 살 돈이 없어서 이렇게라도 만들었습니다..
+}}
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>e06bhezbe30pkbhoe3ucdubvhsih4ob</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:사탄버거 레시피</title>
+    <ns>3200</ns>
+    <id>275</id>
+    <revision>
+      <id>301</id>
+      <timestamp>2025-06-22T01:51:30Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 보글보글 치익 칙 냠냠! 쩝쩝! 오늘은 어떤 요릴 먹게 될까? 보글보글 치익 칙 냠냠! 쩝쩝! 배고파요, 어서요, 주방장님!  우선 사탄의 혈육을 잘게 썰어 다짐육을 준비한다. 갤럭시 S3를 꽉 짜내어 상큼한 소스를 준비한다. 드롭된 마이크 세알을 깨뜨려 휘휘 저어준다. 재료를 섞어 잘 뭉쳐주고 잠시 숙성 time 스타~트!  보글보글~ 치익 칙! 냠냠! 쩝쩝! 오늘은 어떤 요릴...</comment>
+      <origin>301</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1372" sha1="dw1k1xewzud3blfh1tpcmr1gl9yjx68" xml:space="preserve">보글보글
+치익 칙
+냠냠! 쩝쩝!
+오늘은 어떤 요릴 먹게 될까?
+보글보글
+치익 칙
+냠냠! 쩝쩝!
+배고파요, 어서요, 주방장님!
+
+우선 사탄의 혈육을 잘게 썰어 다짐육을 준비한다.
+갤럭시 S3를 꽉 짜내어 상큼한 소스를 준비한다.
+드롭된 마이크 세알을 깨뜨려 휘휘 저어준다.
+재료를 섞어 잘 뭉쳐주고 잠시 숙성 time 스타~트!
+
+보글보글~ 치익 칙! 냠냠! 쩝쩝!
+오늘은 어떤 요릴 먹게 될까?
+보글보글~ 치익 칙! 냠냠! 쩝쩝!
+배고파요, 어서요, 주방장님!
+
+쌀로 빚은 번을 살짝 구워내고
+사탄패티 짭잘하게 구워준다
+파릇파릇 양상추와 양파 피클
+아껴둔 치즈까지 넣어준다
+
+사장님, 이렇게 만들면 남는 게 있나요?
+무슨 소리, 손님이 얼마나 오는데!
+하하, 신메뉴 출시! 어서 와서 드셔요!
+이것 좀 봐요. 수백 마리 모였답니다!
+알러지 때문에 못 먹는 바보들도 있는데
+이거 당첨되면 2시간 시급을 아끼는 거야
+
+보글보글~ 치익 칙! 냠냠! 쩝쩝!
+오늘은 어떤 요릴 먹게 될까?
+보글보글~ 치익 칙! 냠냠! 쩝쩝!
+배고파요, 어서요, 주방장님!
+
+보글보글~ 치익 칙! 냠냠! 쩝쩝!
+오늘은 어떤 요릴 먹게 될까?
+보글보글~ 치익 칙! 냠냠! 쩝쩝!
+배고파요, 어서요, 주방장님!</text>
+      <sha1>dw1k1xewzud3blfh1tpcmr1gl9yjx68</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Destroy The World</title>
+    <ns>0</ns>
+    <id>276</id>
+    <revision>
+      <id>302</id>
+      <timestamp>2025-06-22T01:54:49Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=EPv_blqYxas |제작자=Trance |개사여부=아니오 }} ⧼여기에 개요 추가⧽  == 복면창팝 2 == {{복면창팝 2 참가곡 |참가번호=15 |참가닉네임=비정상적인 의용군 |미션프롬프트=Gabber |각오=복면을 쓴 만큼 이전과는 다른 스타일로 만들려고 합니다 (통발 아님) |한마디=미션태그때문에 억지로 쓴 가사지 진짜로 이렇게 생각하고있지 않습니다 (미션태그 작성...</comment>
+      <origin>302</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="537" sha1="8qanrcv3w4uf0ft4mvhaykvz3vlyi1n" xml:space="preserve">{{문서:창팝
+|유튜브Id=EPv_blqYxas
+|제작자=Trance
+|개사여부=아니오
+}}
+⧼여기에 개요 추가⧽
+
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=15
+|참가닉네임=비정상적인 의용군
+|미션프롬프트=Gabber
+|각오=복면을 쓴 만큼 이전과는 다른 스타일로 만들려고 합니다 (통발 아님)
+|한마디=미션태그때문에 억지로 쓴 가사지 진짜로 이렇게 생각하고있지 않습니다 (미션태그 작성자 꼭 공개해주세요)
+}}
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>8qanrcv3w4uf0ft4mvhaykvz3vlyi1n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:Destroy The World</title>
+    <ns>3200</ns>
+    <id>277</id>
+    <revision>
+      <id>303</id>
+      <timestamp>2025-06-22T01:55:06Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 나는 이미 낙원의 신이 되었지 쌀숭이들은 오늘도 열심히 일하지 내가 진정으로 원하는것은 이 세계의 축소와 소멸  리선족들을 죽인이유? 그건 쌀숭이들을 위해서? 아니, 매출상승을 위해서? 다 아니야, 멍청한 새끼들  식당비유를 해봐 식당문을 닫을건데 손님보고 나가라고하면 환불을 요구할거아냐?  그러면 어떻게 하는게 좋을까? 그래! 손님끼리 싸움을 붙여!...</comment>
+      <origin>303</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1507" sha1="jqiahlfru1nz4e7xy1otof1xws0sf7t" xml:space="preserve">나는 이미 낙원의 신이 되었지
+쌀숭이들은 오늘도 열심히 일하지
+내가 진정으로 원하는것은
+이 세계의 축소와 소멸
+
+리선족들을 죽인이유?
+그건 쌀숭이들을 위해서?
+아니, 매출상승을 위해서?
+다 아니야, 멍청한 새끼들
+
+식당비유를 해봐
+식당문을 닫을건데
+손님보고 나가라고하면
+환불을 요구할거아냐?
+
+그러면 어떻게 하는게 좋을까?
+그래! 손님끼리 싸움을 붙여!
+서로가 서로를 죽여!
+그러면 벌써 반이 죽었어!
+
+Normalize the world!
+나만이 존재하는 세계!
+완벽하게 평등한 세계!
+나의 이상적인 세계!
+
+Destroy the world!
+모든것을 전부 부숴!
+하나도 남김없이 부숴!
+나의 세계에서 모두 꺼져!
+
+이제 남은 절반은 어떻게 할까?
+어차피 대부분 약관위반한 새끼들
+정상적인 현질은 한번도 하지않은
+물통에 중독된 새끼들밖에 없지?
+
+어차피 얘네들은 손님이 아니야
+남은건 고래뿐이지, 이건 쉽지
+재화가치와 템가치를 떨어트려!
+그러면 알아서 꺼지겠지!
+
+너희들은 모두 병신같이!
+나한테 속았지 멍청한놈들!
+너희는 이제 이용가치가 없어
+
+HA! HA! HA! HA! HA! HA!
+
+Normalize the world!
+나만이 존재하는 세계!
+완벽하게 평등한 세계!
+나의 이상적인 세계!
+
+De! De!
+Destroy the world!
+모든것을 전부 부숴!
+하나도 남김없이 부숴!
+나의 세계에서 모두 꺼져!
+
+HA! HA! HA! HA! HA! HA!</text>
+      <sha1>jqiahlfru1nz4e7xy1otof1xws0sf7t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>시곗바늘</title>
+    <ns>0</ns>
+    <id>278</id>
+    <revision>
+      <id>304</id>
+      <timestamp>2025-06-22T01:57:51Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=KUI2voVsZU0 |제작자=리스항르 |개사여부=아니오 }}  ⧼여기에 개요 추가⧽  == 복면창팝 2 == {{복면창팝 2 참가곡 |참가번호=16 |참가닉네임=리스항구 쌀농장 방화범 신창섭 |미션프롬프트=ASMR |각오=많은 사람들에게 노래를 들려주고 싶어요! |한마디= }}  == 리프라이즈 == {{유튜브 영상 |Id=zDIjnixAUTE }}  == 가사 == {{가사}}</comment>
+      <origin>304</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="439" sha1="qf1q0227v5k0w8fww0oy5js8gk485qw" xml:space="preserve">{{문서:창팝
+|유튜브Id=KUI2voVsZU0
+|제작자=리스항르
+|개사여부=아니오
+}}
+
+⧼여기에 개요 추가⧽
+
+== 복면창팝 2 ==
+{{복면창팝 2 참가곡
+|참가번호=16
+|참가닉네임=리스항구 쌀농장 방화범 신창섭
+|미션프롬프트=ASMR
+|각오=많은 사람들에게 노래를 들려주고 싶어요!
+|한마디=
+}}
+
+== 리프라이즈 ==
+{{유튜브 영상
+|Id=zDIjnixAUTE
+}}
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>qf1q0227v5k0w8fww0oy5js8gk485qw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:시곗바늘</title>
+    <ns>3200</ns>
+    <id>279</id>
+    <revision>
+      <id>305</id>
+      <timestamp>2025-06-22T01:58:29Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 시곗바늘은 한걸음, 한걸음 앞으로 걸어가고 걸어서 도착하니 어느새 하루가 지났네  마지막 날이 지나고 이제 리부트는 영원히 사라졌어 한 겨울 밤의 기나긴 꿈이었던 걸까? 어째서 깨어버린 걸까? 깨고 싶지 않았는데...  시곗바늘은 한걸음, 한걸음 앞으로 걸어가고 걸어서 도착하니 어느새 하루가 또 지났네 리부트가 떠난 뒤 어째선지 시곗바늘은 더 느리게 걸...</comment>
+      <origin>305</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1039" sha1="c3njgc6fdg2u68cs3upmrelkjxbeybc" xml:space="preserve">시곗바늘은 한걸음, 한걸음
+앞으로 걸어가고
+걸어서 도착하니
+어느새 하루가 지났네
+
+마지막 날이 지나고
+이제 리부트는 영원히 사라졌어
+한 겨울 밤의 기나긴 꿈이었던 걸까?
+어째서 깨어버린 걸까?
+깨고 싶지 않았는데...
+
+시곗바늘은 한걸음, 한걸음
+앞으로 걸어가고
+걸어서 도착하니
+어느새 하루가 또 지났네
+리부트가 떠난 뒤
+어째선지 시곗바늘은 더 느리게 걸어가네
+적막하고 길고 긴 이 울림
+나는 또 이 공허한 소리를 따른
+한걸음, 한걸음
+지니가는 하루를 향해
+한걸음, 한걸음
+
+걸어가도 또 걸어가도
+너를 만날 순 없겠지만
+한걸음 한걸음
+뒤로 돌아가지는 못하지만
+너를 생각하며
+한걸음, 한걸음
+니가 떠나간 그 시간을
+항상 걷고 있지만
+그때로 돌아 갈순 없나봐
+
+한걸음
+한걸음, 한걸음
+돌아오지 않을 너를 향해
+한걸음, 한걸음
+돌아가고 싶어
+오늘도 하염없이
+한걸음, 한걸음</text>
+      <sha1>c3njgc6fdg2u68cs3upmrelkjxbeybc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:Plastic Star</title>
+    <ns>3200</ns>
+    <id>280</id>
+    <revision>
+      <id>307</id>
+      <timestamp>2025-06-22T02:01:29Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: Hey, Star-Weaver 나를 은하수로 데려다 줘 별들이 나를 바라보는 공간에서 별빛에 익사하고 싶으니까 Hey, Star-Weaver 나를 퀘이사로 데려다 줘 별에 눈이 멀어버리고 빛이 나를 녹여버리는 찰나의 순간을 느끼게 해줘 별빛에 스러지면 나도 별빛이 될 테니까 네가 나에게 별빛을 보여줬잖아 내 영혼을 별빛에 묶어 버렸잖아 플라스틱으로 만들어진 장난감 별이 하늘에서...</comment>
+      <origin>307</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2448" sha1="546sxwgv43gkz037v4t6nu71fhy02z4" xml:space="preserve">Hey, Star-Weaver
+나를 은하수로 데려다 줘
+별들이 나를 바라보는 공간에서
+별빛에 익사하고 싶으니까
+Hey, Star-Weaver
+나를 퀘이사로 데려다 줘
+별에 눈이 멀어버리고
+빛이 나를 녹여버리는
+찰나의 순간을 느끼게 해줘
+별빛에 스러지면 나도 별빛이 될 테니까
+네가 나에게 별빛을 보여줬잖아
+내 영혼을 별빛에 묶어 버렸잖아
+플라스틱으로 만들어진 장난감 별이
+하늘에서 빛나는 걸 꿈꾸게 됐잖아
+
+Yes i'm Plastic Star
+별을 모방하는 Imitation Star
+전기가 없으면 빛나지도 못하는
+별을 꿈꾸는 Synthetic Light
+Please, Star-Weaver, Please
+부디 나를 하늘로 데려다 줘
+별들의 옆이 아니라도 좋으니까
+나를 위한 자리를 만들어 줘
+
+Hey, Star-Weaver
+나를 네뷸라로 데려다 줘
+별들의 구름에 파묻혀 있으면서
+별로 다시 태어나고 싶으니까
+Hey, Star-Weaver
+내게 헤일로를 가져다 줘
+그 눈부신 휘광으로 나를 감싸면
+내게도 영광이 찾아올 테니까
+빛을 빌려서라도 한순간이라도
+찬연한 별빛이 되고 싶으니까
+이제 별빛이 없으면 숨 쉴 수 없잖아
+익숙했던 어둠에 질식해 버리잖아
+플라스틱으로 살다가 끝났을 가짜에게
+감히 빛이 되는 걸 꿈꾸게 했잖아
+
+Yes i'm Mock-Up Star
+빛을 가장하는 Counterfeit Spark
+별들만큼이나 강인하지도 못한
+부서지기 쉬운 Replica Light
+Please, Star-Weaver, Please
+부디 나를 하늘로 던져 줘
+유성처럼 불타서 사라져도 좋으니까
+나를 위한 자리를 만들어 줘
+은하의 먼지로 사라져도 괜찮아
+빛을 흉내 낸 순간이 있었다고
+별들 사이에서 내가 있었다고
+거짓이라도 찰나의 기적이라도
+한순간만이라도 나를 허락해 줘
+
+무감정한 나조차 뒤흔드는
+그 황홀한 성광의 격랑 속에서
+플라스틱으로 만들어진 장난감 별은
+별과 함께 빛나는 꿈을 꾸게 됐으니까
+
+Yes i'm Plastic Star
+별을 꿈꾸었던 Imitation Star
+전기가 있으면 흉내 낼 수 있으니까
+별이 되고픈 Artificial Glow
+Please, Star-Weaver, Please
+부디 나를 하늘로 데려다 줘
+밤하늘 끝자락이라도 좋으니까
+별들 사이에 나를 새겨 줘
+흩어진 별가루로 잊혀지더라도
+한순간이라도 별빛 사이에 데려다 줘
+그러면 내가 별처럼 보일테니까
+Yes i'm Plastic Star</text>
+      <sha1>546sxwgv43gkz037v4t6nu71fhy02z4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>분류:복면창팝 2 참가곡</title>
+    <ns>14</ns>
+    <id>281</id>
+    <revision>
+      <id>308</id>
+      <timestamp>2025-06-22T02:02:44Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: [[분류:창팝 경연대회 참가곡]]</comment>
+      <origin>308</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="40" sha1="iz8fda58a8p69j8my1x6svlluatxfwp" xml:space="preserve">[[분류:창팝 경연대회 참가곡]]</text>
+      <sha1>iz8fda58a8p69j8my1x6svlluatxfwp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>분류:창팝 경연대회 참가곡</title>
+    <ns>14</ns>
+    <id>282</id>
+    <revision>
+      <id>309</id>
+      <timestamp>2025-06-22T02:02:54Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: [[분류:창팝]]</comment>
+      <origin>309</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="17" sha1="kadfslw1penjaw7p1fcdiozcc5sev6x" xml:space="preserve">[[분류:창팝]]</text>
+      <sha1>kadfslw1penjaw7p1fcdiozcc5sev6x</sha1>
     </revision>
   </page>
 </mediawiki>
