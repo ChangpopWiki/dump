@@ -108,18 +108,19 @@ __목차숨김__
     <ns>10</ns>
     <id>4</id>
     <revision>
-      <id>311</id>
-      <parentid>310</parentid>
-      <timestamp>2025-06-22T03:02:14Z</timestamp>
+      <id>319</id>
+      <parentid>312</parentid>
+      <timestamp>2025-06-23T08:41:57Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <origin>311</origin>
+      <comment>빠진 괄호 수정</comment>
+      <origin>319</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2960" sha1="bid09fub6k94phalmslwhv05p4va6lh" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="3526" sha1="llhzlrh7q2ikkqo7ryos8g04d78v2u2" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;&lt;templatestyles src="정보상자" /&gt;&lt;!--
 
@@ -128,15 +129,6 @@ __목차숨김__
 
 -- 짧은설명 지정 --&gt; 
 {{SHORTDESC: {{{제작자}}}의 {{#if: {{부울변환|{{{개사여부|}}}}} | 개사&amp;nbsp;}}창팝 }} &lt;!-- 
-
--- 카고 테이블 저장 --&gt;
-{{#cargo_store: _table = 창팝
-| 곡명		= {{#or: {{{곡명|}}} | {{문서이름}} }}
-| 유튜브Id	= {{{유튜브Id|}}}
-| 제작자		= {{{제작자|}}}
-| 개사여부	= {{{개사여부|}}}
-| 공개일		= {{{공개일|}}}
-}} &lt;!-- 
 
 -- 분류 지정 --&gt;
 [[분류:창팝]] &lt;!-- 
@@ -165,9 +157,19 @@ __목차숨김__
 {{!}} {{{원곡명}}}{{{원곡명_|}}}
 {{!}}-
 }}
-{{#if: {{{공개일|}}} |
+{{#if: {{#or: {{{공개일|}}} | {{{유튜브Id|}}} }} |
 ! 공개일
-{{!}} {{{공개일}}}{{{공개일_|}}}
+{{!}}	{{#시간: Y년 n월 j일 
+		| {{#or: {{{공개일|}}} 
+		  | {{#cargo_query: tables = 유튜브영상
+			| fields = 업로드시각
+			| where = Id='{{{유튜브Id}}}'
+			| limit = 1
+			| more results text =
+			| no html
+			}}
+		  }} 
+		}}{{{공개일_|}}}
 {{!}}-
 }}
 {{#if: {{{유튜브Id|}}} |
@@ -226,19 +228,40 @@ __목차숨김__
     | {{개사 | 원곡 = {{{원곡명}}} }} 
     }} &lt;!--
 
+일반 문서 이름공간(ns:0)에서만 적용
+--&gt;{{#만약일치: {{이름공간수}} | 0 | &lt;!-- 
+
+-- 카고 테이블 저장 --&gt;
+{{#cargo_store: _table = 창팝
+| 곡명		= {{#or: {{{곡명|}}} | {{문서이름}} }}
+| 유튜브Id	= {{{유튜브Id|}}}
+| 제작자		= {{{제작자|}}}
+| 개사여부	= {{{개사여부|}}}
+| 공개일		= {{#or: {{{공개일|}}} 
+		  	  | {{#cargo_query: tables = 유튜브영상
+				| fields = 업로드시각
+				| where = Id='{{{유튜브Id}}}'
+				| limit = 1
+				| more results text =
+				| no html
+				}}
+			  }} 
+}}&lt;!-- 
+
+--&gt;}}&lt;!-- 
+
 --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
 
 --------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
 
 --&gt;
+{{#cargo_attach: _table = 창팝}}
 {{문서:문서 틀}}
-{{#cargo_attach:_table=창팝}}
 {{설명문서}}
 &lt;!--
 
---------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------
---&gt;</text>
-      <sha1>bid09fub6k94phalmslwhv05p4va6lh</sha1>
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>llhzlrh7q2ikkqo7ryos8g04d78v2u2</sha1>
     </revision>
   </page>
   <page>
@@ -559,18 +582,18 @@ a {
     <ns>4</ns>
     <id>12</id>
     <revision>
-      <id>228</id>
-      <parentid>220</parentid>
-      <timestamp>2025-06-19T16:27:22Z</timestamp>
+      <id>316</id>
+      <parentid>228</parentid>
+      <timestamp>2025-06-23T08:38:18Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>/* 건?의?사항 */ 답변</comment>
-      <origin>228</origin>
+      <comment>/* 창팝위키 베타 오픈 */ 답변</comment>
+      <origin>316</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2177" sha1="pv28jskb4jg11kjdk0l3ei0kfdgvjp7" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
+      <text bytes="2565" sha1="np3dfxxxtqqods1vwga6cigotete4p9" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
 __새문단쓰기__
 [[분류:창팝위키]]
 {{창팝위키 둘러보기}}
@@ -583,6 +606,9 @@ __새문단쓰기__
 창팝위키가 베타 오픈했습니다! 🎉
 
 창팝, 창드컵 문서를 만드실 수 있습니다. 자세한 내용은 [[창팝위키:편집지침|편집지침]]을 참고해주세요!&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 6월 15일 (일) 22:47 (KST)
+
+:업데이트:
+:창팝 문서에서 &lt;code&gt;공개일&lt;/code&gt;은 이제 유튜브 영상이 있는 경우 영상 업로드 날짜로 설정됩니다. 대표 영상과 첫 공개일이 다르지 않다면 비워도 됩니다.&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 6월 23일 (월) 17:38 (KST)
 
 == 건?의?사항 ==
 
@@ -597,7 +623,7 @@ __새문단쓰기__
 
 :지금은 선착장이 통합 창구 맞아요. 잘 찾아오셨습니다.
 :단독 가사 문서를 직접 볼 경우는 따로 생각하지 않았는데 일단 바꿀 수 있게 소도구에 추가했습니다. ('환경 설정 → 소도구'에서 활성화 가능)&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 6월 20일 (금) 01:27 (KST)</text>
-      <sha1>pv28jskb4jg11kjdk0l3ei0kfdgvjp7</sha1>
+      <sha1>np3dfxxxtqqods1vwga6cigotete4p9</sha1>
     </revision>
   </page>
   <page>
@@ -4710,16 +4736,18 @@ html.skin-theme-clientpref-night .ts-doc-footer {
     <ns>3010</ns>
     <id>117</id>
     <revision>
-      <id>117</id>
-      <timestamp>2025-06-10T09:06:58Z</timestamp>
+      <id>313</id>
+      <parentid>117</parentid>
+      <timestamp>2025-06-23T08:34:26Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>117</origin>
+      <comment>/* 틀데이터 */</comment>
+      <origin>313</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="3000" sha1="injvz14m84ta3zy79n4q0y0wsjhdbds" xml:space="preserve">&lt;noinclude&gt;
+      <text bytes="3077" sha1="c6e5zvx5ecrdy1jed0wcn325qxu65a1" xml:space="preserve">&lt;noinclude&gt;
 {{문서:설명문서}}
 &lt;/noinclude&gt;
 개별 창팝 문서에 사용되는 틀입니다.
@@ -4783,7 +4811,7 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 		"공개일": {
 			"description": "곡이 공개된 날짜",
 			"type": "date",
-			"suggested": true
+			"default": "{{유튜브Id}} 가 설정된 경우, 해당 유튜브 영상의 업로드 날짜"
 		},
 		"프롬프트": {
 			"description": "곡에 사용된 프롬프트",
@@ -4846,7 +4874,7 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 }
 &lt;/templatedata&gt;
 }}</text>
-      <sha1>injvz14m84ta3zy79n4q0y0wsjhdbds</sha1>
+      <sha1>c6e5zvx5ecrdy1jed0wcn325qxu65a1</sha1>
     </revision>
   </page>
   <page>
@@ -5736,17 +5764,18 @@ piku\.co.kr
     <ns>4</ns>
     <id>141</id>
     <revision>
-      <id>141</id>
-      <timestamp>2025-06-11T06:55:51Z</timestamp>
+      <id>314</id>
+      <parentid>141</parentid>
+      <timestamp>2025-06-23T08:35:08Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>/* 가사 */</comment>
-      <origin>141</origin>
+      <comment>/* 양식 필드 설명 */</comment>
+      <origin>314</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="4006" sha1="j66hpd15trrzq9nhemdl296x969d5z3" xml:space="preserve">개별 창팝 문서에 대한 창팝위키의 편집지침입니다.
+      <text bytes="4078" sha1="5w42w6f6ttwxady68c8vr8kr6r2hg1g" xml:space="preserve">개별 창팝 문서에 대한 창팝위키의 편집지침입니다.
 
 문서 생성은 [[창팝위키:기여하기]]에서 할 수 있습니다.
 
@@ -5799,7 +5828,7 @@ piku\.co.kr
 : 개사곡이라면 원곡을 입력해주세요
 
 ; 공개일
-: 곡이 공개된 날짜
+: 곡이 공개된 날짜. 비워 두면 유튜브 영상의 업로드 날짜가 사용됩니다.
 
 ; 수록컵 / 이전 수록컵
 : 현재 수록된 창드컵, 과거에 수록되었던 창드컵을 추가할 수 있습니다. 수록 날짜 및 제외 날짜는 확실한 날짜가 있다면 입력하고, 모른다면 비워두세요.
@@ -5815,7 +5844,7 @@ piku\.co.kr
 문서를 만들면 가사 문단이 자동으로 추가됩니다. 가사 영역 위에 '가사 추가' 링크가 있고 이 링크를 따라가면 가사를 입력할 수 있습니다. 거기에 입력하는 가사는 송폼, 메타태그, 보컬 구분등이 없는 순수 가사만 적어주세요. 가사 설명이나 제식 등의 내용을 넣고 싶다면 본 문서에서 별도의 가사를 직접 추가해주세요. 
 
 [[분류:편집지침]]</text>
-      <sha1>j66hpd15trrzq9nhemdl296x969d5z3</sha1>
+      <sha1>5w42w6f6ttwxady68c8vr8kr6r2hg1g</sha1>
     </revision>
   </page>
   <page>
@@ -6743,28 +6772,36 @@ Big Brother의 창을 넘어, 너만의 길을 가
     <ns>0</ns>
     <id>168</id>
     <revision>
-      <id>176</id>
-      <timestamp>2025-06-16T04:15:57Z</timestamp>
+      <id>324</id>
+      <parentid>322</parentid>
+      <timestamp>2025-06-23T08:53:06Z</timestamp>
       <contributor>
         <username>이거는진짜인가가짜인가</username>
         <id>6</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |곡명=돈써! |유튜브Id=Z54XW9gwpAY |제작자=Colrma |개사여부=아니오 |공개일=2024-09-24 }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
-      <origin>176</origin>
+      <origin>324</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="178" sha1="kbf6cupkj4lkgywfw1c10s0la0ub29w" xml:space="preserve">{{문서:창팝
+      <text bytes="374" sha1="0rnlmaucxkribg37frb3vcp99p99x8i" xml:space="preserve">{{문서:창팝
 |곡명=돈써!
 |유튜브Id=Z54XW9gwpAY
 |제작자=Colrma
 |개사여부=아니오
 |공개일=2024-09-24
+|수록컵={{수록 창드컵
+|창드컵=유스 라이징컵 1편
+}}
+|이전수록컵={{이전 수록 창드컵
+|창드컵=유스 어셈블컵
+|수록날짜=2024-10-04
+|제외날짜=2024-10-20
+}}
 }}
 ⧼여기에 개요 추가⧽
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>kbf6cupkj4lkgywfw1c10s0la0ub29w</sha1>
+      <sha1>0rnlmaucxkribg37frb3vcp99p99x8i</sha1>
     </revision>
   </page>
   <page>
@@ -11392,20 +11429,23 @@ so what? fxxx, deny
     <ns>0</ns>
     <id>262</id>
     <revision>
-      <id>285</id>
-      <timestamp>2025-06-22T01:30:53Z</timestamp>
+      <id>318</id>
+      <parentid>285</parentid>
+      <timestamp>2025-06-23T08:40:04Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=XOpu8O9wVeE |제작자=창팝딸깍딸깍캬 |개사여부=아니오 }} ⧼여기에 개요 추가⧽  == 복면창팝 2 == {{복면창팝 2 참가곡 |참가번호=7 |참가닉네임=인디창팝의물결속에서 |미션프롬프트=kawaii female vocals heavy metal |각오=내 답변 |한마디= }}  == 가사 == {{가사}}</comment>
-      <origin>285</origin>
+      <origin>318</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="355" sha1="pd9hse43xadx4vv95m6wmv3x5y2t4aj" xml:space="preserve">{{문서:창팝
+      <text bytes="414" sha1="9lv5nypztqr323n9g6ofthlwn4af6zz" xml:space="preserve">{{문서:창팝
 |유튜브Id=XOpu8O9wVeE
 |제작자=창팝딸깍딸깍캬
 |개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=메탈컵 2편
+}}
 }}
 ⧼여기에 개요 추가⧽
 
@@ -11420,7 +11460,7 @@ so what? fxxx, deny
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>pd9hse43xadx4vv95m6wmv3x5y2t4aj</sha1>
+      <sha1>9lv5nypztqr323n9g6ofthlwn4af6zz</sha1>
     </revision>
   </page>
   <page>
@@ -12587,6 +12627,215 @@ Yes i'm Plastic Star</text>
       <format>text/x-wiki</format>
       <text bytes="17" sha1="kadfslw1penjaw7p1fcdiozcc5sev6x" xml:space="preserve">[[분류:창팝]]</text>
       <sha1>kadfslw1penjaw7p1fcdiozcc5sev6x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2025년 2편</title>
+    <ns>0</ns>
+    <id>283</id>
+    <revision>
+      <id>315</id>
+      <timestamp>2025-06-23T08:38:13Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 |명칭=엄선작 2025년 2편 |PikuId=1lZX0K |강=32 |유형=엄선작 2025 }}</comment>
+      <origin>315</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="98" sha1="gn2cgdeanryo2d6fvy33bo2no9knub7" xml:space="preserve">{{문서:창드컵
+|명칭=엄선작 2025년 2편
+|PikuId=1lZX0K
+|강=32
+|유형=엄선작 2025
+}}</text>
+      <sha1>gn2cgdeanryo2d6fvy33bo2no9knub7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>메탈컵 2편</title>
+    <ns>0</ns>
+    <id>284</id>
+    <revision>
+      <id>317</id>
+      <timestamp>2025-06-23T08:39:34Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 |명칭=메탈컵 2편 |PikuId=2BbkkD |강=32 |유형=장르 }}</comment>
+      <origin>317</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" sha1="4vu47vout1g0fqqoviody5bgivbpf12" xml:space="preserve">{{문서:창드컵
+|명칭=메탈컵 2편
+|PikuId=2BbkkD
+|강=32
+|유형=장르
+}}</text>
+      <sha1>4vu47vout1g0fqqoviody5bgivbpf12</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>재즈컵 1편</title>
+    <ns>0</ns>
+    <id>285</id>
+    <revision>
+      <id>320</id>
+      <timestamp>2025-06-23T08:42:16Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 |명칭=재즈컵 1편 |PikuId=6bSUeM |강=32 |유형=장르 }}</comment>
+      <origin>320</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" sha1="9uxhgtsfe6unezsjis2mg7vvs34tdew" xml:space="preserve">{{문서:창드컵
+|명칭=재즈컵 1편
+|PikuId=6bSUeM
+|강=32
+|유형=장르
+}}</text>
+      <sha1>9uxhgtsfe6unezsjis2mg7vvs34tdew</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>유스 어셈블컵</title>
+    <ns>0</ns>
+    <id>286</id>
+    <revision>
+      <id>321</id>
+      <timestamp>2025-06-23T08:47:55Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 |명칭=유스 어셈블컵 |PikuId=2PDF01 |유형=기타 |오픈날짜=2024-10-02 }}</comment>
+      <origin>321</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="104" sha1="ii6t9zaldr1yut9jeiuy4ai3uiynrne" xml:space="preserve">{{문서:창드컵
+|명칭=유스 어셈블컵
+|PikuId=2PDF01
+|유형=기타
+|오픈날짜=2024-10-02
+}}</text>
+      <sha1>ii6t9zaldr1yut9jeiuy4ai3uiynrne</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>유스 라이징컵 1편</title>
+    <ns>0</ns>
+    <id>287</id>
+    <revision>
+      <id>323</id>
+      <timestamp>2025-06-23T08:52:11Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 |명칭=유스 라이징컵 1편 |PikuId=66gTd7 |강=32 |유형=기타 }}</comment>
+      <origin>323</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="92" sha1="pd681mpddb7ojm7si1o7cy24b1myy1p" xml:space="preserve">{{문서:창드컵
+|명칭=유스 라이징컵 1편
+|PikuId=66gTd7
+|강=32
+|유형=기타
+}}</text>
+      <sha1>pd681mpddb7ojm7si1o7cy24b1myy1p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>유스 라이징컵 2편</title>
+    <ns>0</ns>
+    <id>288</id>
+    <revision>
+      <id>325</id>
+      <timestamp>2025-06-23T08:54:01Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 |명칭=유스 라이징컵 2편 |PikuId=axzsbx |강=32 |유형=기타 }}</comment>
+      <origin>325</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="92" sha1="lpaq7xtejuf58jrew4elonrczmcz8s0" xml:space="preserve">{{문서:창드컵
+|명칭=유스 라이징컵 2편
+|PikuId=axzsbx
+|강=32
+|유형=기타
+}}</text>
+      <sha1>lpaq7xtejuf58jrew4elonrczmcz8s0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Two voices, one song</title>
+    <ns>0</ns>
+    <id>289</id>
+    <revision>
+      <id>326</id>
+      <timestamp>2025-06-23T09:02:11Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=Two voices, one song |유튜브Id=J8URTyrBhFE |제작자=Sonette |개사여부=아니오 |공개일=2024-11-14 |수록컵={{수록 창드컵 |창드컵=유스 어셈블컵 |수록날짜=2024-11-17 }}{{수록 창드컵 |창드컵=유스 자추컵 }} }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>326</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="330" sha1="mr9b29cg1j6a95k7qu00kz3ztru7jll" xml:space="preserve">{{문서:창팝
+|곡명=Two voices, one song
+|유튜브Id=J8URTyrBhFE
+|제작자=Sonette
+|개사여부=아니오
+|공개일=2024-11-14
+|수록컵={{수록 창드컵
+|창드컵=유스 어셈블컵
+|수록날짜=2024-11-17
+}}{{수록 창드컵
+|창드컵=유스 자추컵
+}}
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>mr9b29cg1j6a95k7qu00kz3ztru7jll</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>파이널 리부트</title>
+    <ns>0</ns>
+    <id>290</id>
+    <revision>
+      <id>327</id>
+      <timestamp>2025-06-23T10:49:41Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=파이널 리부트 |다른언어제목=Final Reboot |유튜브Id=iDdwpZ_KCcc |제작자=전일택 |개사여부=아니오 |공개일=2024-09-15 }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>327</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="gnnsgc8w0l5aewpcb59g4f36zlq6ma2" xml:space="preserve">{{문서:창팝
+|곡명=파이널 리부트
+|다른언어제목=Final Reboot
+|유튜브Id=iDdwpZ_KCcc
+|제작자=전일택
+|개사여부=아니오
+|공개일=2024-09-15
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>gnnsgc8w0l5aewpcb59g4f36zlq6ma2</sha1>
     </revision>
   </page>
 </mediawiki>
