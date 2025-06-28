@@ -3109,18 +3109,23 @@ _table=유튜브영상
     <ns>3810</ns>
     <id>78</id>
     <revision>
-      <id>78</id>
-      <timestamp>2025-06-10T04:30:53Z</timestamp>
+      <id>432</id>
+      <parentid>78</parentid>
+      <timestamp>2025-06-28T07:07:43Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>78</origin>
+      <origin>432</origin>
       <model>sanitized-css</model>
       <format>text/css</format>
-      <text bytes="125" sha1="okox77wddr78a6dm1sp5qhnjc6i76jv" xml:space="preserve">.infobox {
+      <text bytes="166" sha1="idzf9phuz7mu445ucn6wdn5kqkvppin" xml:space="preserve">.infobox {
 	width: 360px;
 	float: right;
+}
+
+.infobox th {
+  word-break: keep-all;
 }
 
 .infobox-image &gt; td {
@@ -3130,7 +3135,7 @@ _table=유튜브영상
 .infobox-image &gt; td &gt; img {
 	width: 100%;
 }</text>
-      <sha1>okox77wddr78a6dm1sp5qhnjc6i76jv</sha1>
+      <sha1>idzf9phuz7mu445ucn6wdn5kqkvppin</sha1>
     </revision>
   </page>
   <page>
@@ -18926,6 +18931,97 @@ Let's create our story
 스스로 그 탑을 완성시킬 때
 너는 스스로 빛나는 별이 될꺼야.</text>
       <sha1>00qt274679cgwged4tunx1qh3ynje41</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>이거 진짜에요?</title>
+    <ns>0</ns>
+    <id>387</id>
+    <revision>
+      <id>430</id>
+      <timestamp>2025-06-28T06:48:18Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=이거 진짜에요? |유튜브Id=QPb-LisiPdw |제작자=창팝딸깍딸깍캬 |개사여부=아니오 |공개일=2024-09-30 |수록컵={{수록 창드컵 |창드컵=유스 라이징컵 2편 }} |이전수록컵={{이전 수록 창드컵 |창드컵=유스 어셈블컵 }} }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>430</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="352" sha1="eawrutc3a0zo80z9w7ri30fdlgcm4zv" xml:space="preserve">{{문서:창팝
+|곡명=이거 진짜에요?
+|유튜브Id=QPb-LisiPdw
+|제작자=창팝딸깍딸깍캬
+|개사여부=아니오
+|공개일=2024-09-30
+|수록컵={{수록 창드컵
+|창드컵=유스 라이징컵 2편
+}}
+|이전수록컵={{이전 수록 창드컵
+|창드컵=유스 어셈블컵
+}}
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>eawrutc3a0zo80z9w7ri30fdlgcm4zv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:이거 진짜에요?</title>
+    <ns>3200</ns>
+    <id>388</id>
+    <revision>
+      <id>431</id>
+      <timestamp>2025-06-28T06:48:55Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서:  메이플 커뮤에서 리부트서버를 거지서버라고 욕했다고요? (네) 리부트 서버가 최종뎀 받고나서 개사기 서버라고 했다고요? (네) 일반서버의 경험치 배율를 늘린게 아니라 리부트서버의 경험치 배율을 삭제했다고요? (네) 본서버의 대체컨텐츠를 리부트서버에 도입하면서 리부트 최종뎀을 줄인게 진짜에요? (네)  과징금 크악당하고 큐브 삭제하면서 리부트 정상화...</comment>
+      <origin>431</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1447" sha1="3153jpgr0jj2ejc4mkg5fgy0a395u2y" xml:space="preserve">
+메이플 커뮤에서 리부트서버를 거지서버라고 욕했다고요?
+(네)
+리부트 서버가 최종뎀 받고나서 개사기 서버라고 했다고요?
+(네)
+일반서버의 경험치 배율를 늘린게 아니라 리부트서버의 경험치 배율을 삭제했다고요?
+(네)
+본서버의 대체컨텐츠를 리부트서버에 도입하면서 리부트 최종뎀을 줄인게 진짜에요?
+(네)
+
+과징금 크악당하고 큐브 삭제하면서 리부트 정상화한게 진짜에요?
+(네)
+리부트 정상화했더니 매출이 하회탈이었다고요?
+(네)
+큐브 메소화 예상치를 반영했음에도 하회탈이라고요?
+(네)
+리부트 서버를 오판이라고 하면서 일반화를 선언한게 진짜에요?
+(네)
+
+
+리부트 서버를 갈등의 주범이라고 한게 진짜에요?
+(네)
+정상화 이전과 비교해서 유저 30%가 빠진게 진짜에요?
+(네)
+그럼 지금 남아있는 대부분의 유저들은 쌀숭이인건가요?
+(네)
+쌀숭이들이 돌려깔때는 좋아하다가 직접까니 창팝을 욕했다고요?
+(네)
+
+
+리선족들은 정상화당했더니 치즈나 뿌리고 다닌다고요?
+(네)
+인벤 인장도입되었더니 인장주작한 사람이 있었다고요?
+(네)
+디렉터가 메이플 커뮤에 휘둘리면서 패치하고 있었다고요?
+(유구한 전통입니다)
+넥슨의 다른겜 디렉터는 정말로 게임을 와장창 했다고요?
+(내 카트 돌려내)</text>
+      <sha1>3153jpgr0jj2ejc4mkg5fgy0a395u2y</sha1>
     </revision>
   </page>
 </mediawiki>
