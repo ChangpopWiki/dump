@@ -15423,17 +15423,16 @@ RPG 게임의 노력이
     <ns>0</ns>
     <id>330</id>
     <revision>
-      <id>373</id>
-      <timestamp>2025-06-27T11:43:31Z</timestamp>
+      <id>436</id>
+      <parentid>373</parentid>
+      <timestamp>2025-07-04T18:32:15Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <ip>180.70.105.50</ip>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=e0RFZPCB-jU |제작자=4lt3r |개사여부=아니오 }} ⧼여기에 개요 추가⧽  == 복면창팝 2 == {{복면창팝 2 참가곡 |참가번호=38 |참가닉네임=BERY LUNAtic 스카니아 |미션프롬프트=traditional aztec Quetzalcoatl worship music |각오=안아줘요 |한마디=어떤 개새X 떄문에 그냥 평소 하던 장르로 만들었습니다 }}  == 가사 == {{가사}}</comment>
-      <origin>373</origin>
+      <origin>436</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="423" sha1="t3sjutfpu229ti7ce0r8zie4ycpmooq" xml:space="preserve">{{문서:창팝
+      <text bytes="423" sha1="lovi51gqj25ds67kade1xfyruekkma3" xml:space="preserve">{{문서:창팝
 |유튜브Id=e0RFZPCB-jU
 |제작자=4lt3r
 |개사여부=아니오
@@ -15446,12 +15445,12 @@ RPG 게임의 노력이
 |참가닉네임=BERY LUNAtic 스카니아
 |미션프롬프트=traditional aztec Quetzalcoatl worship music
 |각오=안아줘요
-|한마디=어떤 개새X 떄문에 그냥 평소 하던 장르로 만들었습니다
+|한마디=어떤 개새X 때문에 그냥 평소 하던 장르로 만들었습니다
 }}
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>t3sjutfpu229ti7ce0r8zie4ycpmooq</sha1>
+      <sha1>lovi51gqj25ds67kade1xfyruekkma3</sha1>
     </revision>
   </page>
   <page>
@@ -19022,6 +19021,471 @@ Let's create our story
 넥슨의 다른겜 디렉터는 정말로 게임을 와장창 했다고요?
 (내 카트 돌려내)</text>
       <sha1>3153jpgr0jj2ejc4mkg5fgy0a395u2y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>내 사랑 창팝 제작자</title>
+    <ns>0</ns>
+    <id>390</id>
+    <revision>
+      <id>434</id>
+      <timestamp>2025-07-04T18:26:53Z</timestamp>
+      <contributor>
+        <username>새우</username>
+        <id>9</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=내 사랑 창팝 제작자 |다른언어제목=My love C-POP Producer |유튜브Id=dsp7zh2xEaM |제작자=새우 |개사여부=예 |원곡명=내사랑 파딱 |수록컵={{수록 창드컵 |창드컵=맷돌컵 }} |프롬프트=Metal }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>434</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="315" sha1="81bvot5l3x9aqhih7aj7xj0judk6x4q" xml:space="preserve">{{문서:창팝
+|곡명=내 사랑 창팝 제작자
+|다른언어제목=My love C-POP Producer
+|유튜브Id=dsp7zh2xEaM
+|제작자=새우
+|개사여부=예
+|원곡명=내사랑 파딱
+|수록컵={{수록 창드컵
+|창드컵=맷돌컵
+}}
+|프롬프트=Metal
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>81bvot5l3x9aqhih7aj7xj0judk6x4q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:내 사랑 창팝 제작자</title>
+    <ns>3200</ns>
+    <id>391</id>
+    <revision>
+      <id>435</id>
+      <timestamp>2025-07-04T18:27:11Z</timestamp>
+      <contributor>
+        <username>새우</username>
+        <id>9</id>
+      </contributor>
+      <comment>새 문서: 유튜브 댓글에 들어갈 Magic Stick 사랑해 제작자야, 나의 귀요미, 난 오늘도 너를 상상하면서   탁 탁, 타닥 탁, 타다닥 탁 뷰룻 뷰룻 찍! 앙 기모 띠! 내 마음이 네게 닿을 수 있게 네가 쓴 노래를 들으면서!!!  차단함, (귀여워!) 뇌절 그만, (뽀뽀 쪼옥!) 하트 안달기, (스읍...! 하...!) 넌 내가 뭘 하는지 모르겠지만  댓글 삭제, (다시 써야징!) 계정 차단, (부계 파와야징!) 마...</comment>
+      <origin>435</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1680" sha1="mbrm96dlkdls4d0vg3hsxu0ltv6ylxa" xml:space="preserve">유튜브 댓글에 들어갈 Magic Stick
+사랑해 제작자야, 나의 귀요미,
+난 오늘도 너를 상상하면서
+
+
+탁 탁, 타닥 탁, 타다닥 탁
+뷰룻 뷰룻 찍! 앙 기모 띠!
+내 마음이 네게 닿을 수 있게
+네가 쓴 노래를 들으면서!!!
+
+차단함, (귀여워!)
+뇌절 그만, (뽀뽀 쪼옥!)
+하트 안달기, (스읍...! 하...!)
+넌 내가 뭘 하는지 모르겠지만
+
+댓글 삭제, (다시 써야징!)
+계정 차단, (부계 파와야징!)
+마침내 껄리게 울면서 부계를 팔때는
+나는 네게 고백할거야.
+
+
+
+어느 날 갑자기 사라져 버린 이쁘니
+제작자 왜 도망감? 이쁘니 어디 갔어?
+뭐 현타가 왔다고?
+
+탁 탁, 타닥 탁, 타다닥 탁
+도망가는 것도 귀여워 하아...
+그래도 이쁘니 못 보면 안돼
+네 마지막 노래를 반찬으로!!!
+
+차단함, (귀여워!)
+뇌절 그만, (뽀뽀 쪼옥!)
+하트 안달기, (스읍...! 하...!)
+넌 내가 뭘 하는지 모르겠지만
+
+댓글 삭제, (다시 써야징!)
+계정 차단, (부계 파와야징!)
+마침내 껄리게 울면서 부계를 팔때는
+나는 네게 고백할거야.
+
+
+
+어느 날 다시 돌아온 이쁘니
+내 Magic Stick이 그리웠구나
+일루와잇, 나랑 맷돌 돌리자
+
+탁 탁, 타닥 탁, 타다닥 탁
+뷰룻 뷰룻 찍! 앙 기모 띠!
+이제 또 도망가면 안돼
+네 새로운 노래를 들으면서!!!
+
+차단함, (귀여워!)
+뇌절 그만, (뽀뽀 쪼옥!)
+하트 안달기, (스읍...! 하...!)
+넌 내가 뭘 하는지 모르겠지만
+
+댓글 삭제, (다시 써야징!)
+계정 차단, (부계 파와야징!)
+마침내 껄리게 울면서 부계를 팔때는
+나는 네게 고백할거야.</text>
+      <sha1>mbrm96dlkdls4d0vg3hsxu0ltv6ylxa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>쾌창</title>
+    <ns>0</ns>
+    <id>392</id>
+    <revision>
+      <id>438</id>
+      <parentid>437</parentid>
+      <timestamp>2025-07-04T18:35:02Z</timestamp>
+      <contributor>
+        <username>새우</username>
+        <id>9</id>
+      </contributor>
+      <comment>원곡 가사에 한글명 추가</comment>
+      <origin>438</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="331" sha1="me121nkv9wasamxmo60yraf0btju5wk" xml:space="preserve">{{문서:창팝
+| 곡명 = 쾌창
+| 다른언어제목 = 快唱
+| 유튜브Id = iliEVIUX6eg
+| 제작자 = 새우
+| 개사여부 = 예
+| 원곡명 = 快晴 (쾌청)
+| 공개일 = 2024-11-04
+| 수록컵 = {{수록 창드컵
+|창드컵=바캉스컵
+|수록날짜=2025-07-01
+}}
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>me121nkv9wasamxmo60yraf0btju5wk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>하이퍼버닝 찍먹</title>
+    <ns>0</ns>
+    <id>393</id>
+    <revision>
+      <id>439</id>
+      <timestamp>2025-07-04T18:35:45Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=하이퍼버닝 찍먹 |유튜브Id=tPJxVNoh7bU |제작자=창팝딸깍딸딱캬 |개사여부=아니오 }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>439</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="186" sha1="kidg13cmlkmst5azn3edogexu0fph4w" xml:space="preserve">{{문서:창팝
+|곡명=하이퍼버닝 찍먹
+|유튜브Id=tPJxVNoh7bU
+|제작자=창팝딸깍딸딱캬
+|개사여부=아니오
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>kidg13cmlkmst5azn3edogexu0fph4w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>건의사항</title>
+    <ns>0</ns>
+    <id>394</id>
+    <revision>
+      <id>441</id>
+      <parentid>440</parentid>
+      <timestamp>2025-07-04T18:37:06Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <origin>441</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="176" sha1="9lpvbe84kh6sbyehgtlcj3k2cjpze67" xml:space="preserve">{{문서:창팝
+|곡명=건의사항
+|유튜브Id=hslsFukCzG0
+|제작자=창팝딸깍딸딱캬
+|개사여부=아니오
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>9lpvbe84kh6sbyehgtlcj3k2cjpze67</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>경험치 배율 삭제는 버프다</title>
+    <ns>0</ns>
+    <id>395</id>
+    <revision>
+      <id>443</id>
+      <parentid>442</parentid>
+      <timestamp>2025-07-04T18:38:54Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <origin>443</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="259" sha1="kb4a06q8z2saar5b2u19trdjz9udufa" xml:space="preserve">{{문서:창팝
+|곡명=경험치 배율 삭제는 버프다
+|유튜브Id=fIYfQqned3k
+|제작자=창팝딸깍딸딱캬
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=메탈컵 2편
+}}
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>kb4a06q8z2saar5b2u19trdjz9udufa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>아무창섭</title>
+    <ns>0</ns>
+    <id>396</id>
+    <revision>
+      <id>445</id>
+      <parentid>444</parentid>
+      <timestamp>2025-07-04T18:42:18Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <origin>445</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="211" sha1="l7r0vl2ucj7lyc69k3knzj04ts7frn4" xml:space="preserve">{{문서:창팝
+|곡명=아무 창섭
+|유튜브Id=lDFmwfPmPY8
+|제작자=주차장P
+|개사여부=아니오
+|이전수록컵={{이전 수록 창드컵}}
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>l7r0vl2ucj7lyc69k3knzj04ts7frn4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:쾌창</title>
+    <ns>3200</ns>
+    <id>397</id>
+    <revision>
+      <id>446</id>
+      <timestamp>2025-07-04T18:43:36Z</timestamp>
+      <contributor>
+        <username>새우</username>
+        <id>9</id>
+      </contributor>
+      <comment>새 문서: 유행이 그치려면 한참은 멀었나봐 아직 국화가 피어나는 초가을의 푸념 가을의 발걸음이 훌쩍 빨라지더니 '함께 마중가자' 나를 재촉해  우리의 기억이 가득한 방송을 지나 우스갯소릴 했던 항구의 방파제를 넘어 아직 아무도 못 봣을 겨울 하늘을 전부 전부 우리가 차지해 버리자   아아, 그렇게 말하며 우린 웃었어 아득한 여름의 기억, 너무 멀게 느껴져  아직은...</comment>
+      <origin>446</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1446" sha1="10lycyyl5s2oih03m4ajvpfxrysedh0" xml:space="preserve">유행이 그치려면 한참은 멀었나봐
+아직 국화가 피어나는 초가을의 푸념
+가을의 발걸음이 훌쩍 빨라지더니
+'함께 마중가자' 나를 재촉해
+
+우리의 기억이 가득한 방송을 지나
+우스갯소릴 했던 항구의 방파제를 넘어
+아직 아무도 못 봣을 겨울 하늘을
+전부 전부 우리가 차지해 버리자
+
+
+아아, 그렇게 말하며 우린 웃었어
+아득한 여름의 기억, 너무 멀게 느껴져
+
+아직은 말할 수 없지만
+정말 아름다웠던 우리들만의 추억이 되겠지
+
+
+유행 지나, I hate you 라는 한 마디에
+모두 끝나가 버릴 우리들이 아니잖아
+
+변하지 않아, 하늘도 저 별도 이 노래처럼
+이렇게 말하며 너와 계속 웃을 수 있길
+
+
+그래 이런 저런 일이 지나 지금껏 버텨왔지
+그래도 웃으면서 넘겨보자 우리의 문화를 위해
+좀 더 단순한 사람이었다면 정말 좋았을 텐데
+
+이미 지나간 패치엔 의미는 없어
+그럼 다가올 명절도 의미 없나
+그럴 리 없잖아 생각해 봐
+
+
+유행지난 대도 창팝을 제작해
+노래로 만들어도 관심 없다하겠지만
+저 하늘에 닿아서 내 노래도 신경 써줄거야
+그러니 우리도, 아아
+
+I know this sky
+Cultual, 어차피 언젠가
+끝나간다, 해도 언제나 우리들은
+널 잊지 않아, 그저 너를 또 만나는 날까지
+버틸 수 있도록, 이어서 갈 뿐이니까</text>
+      <sha1>10lycyyl5s2oih03m4ajvpfxrysedh0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>이제 그만</title>
+    <ns>0</ns>
+    <id>398</id>
+    <revision>
+      <id>447</id>
+      <timestamp>2025-07-04T18:43:56Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=이제 그만 |유튜브Id=_IDmJ_ygO4E |제작자=주차장P |개사여부=아니오 }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>447</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="166" sha1="sav8smil2spkhx62uz2y5tyb24nnaze" xml:space="preserve">{{문서:창팝
+|곡명=이제 그만
+|유튜브Id=_IDmJ_ygO4E
+|제작자=주차장P
+|개사여부=아니오
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>sav8smil2spkhx62uz2y5tyb24nnaze</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>쌀숭이소년</title>
+    <ns>0</ns>
+    <id>399</id>
+    <revision>
+      <id>448</id>
+      <timestamp>2025-07-04T18:47:13Z</timestamp>
+      <contributor>
+        <username>새우</username>
+        <id>9</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |곡명=쌀숭이소년 |유튜브Id=SgA94F2H9_U |제작자=새우 |개사여부=예 |원곡명=失敗作少女 (실패작소녀) |공개일=2024-11-11 |수록컵={{수록 창드컵 |창드컵=서브컬쳐 2편 }} }} ⧼여기에 개요 추가⧽    == 가사 ==  {{가사}}</comment>
+      <origin>448</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="287" sha1="6yov6n44298rmbkvruqtjer73bvh4ia" xml:space="preserve">{{문서:창팝
+|곡명=쌀숭이소년
+|유튜브Id=SgA94F2H9_U
+|제작자=새우
+|개사여부=예
+|원곡명=失敗作少女 (실패작소녀)
+|공개일=2024-11-11
+|수록컵={{수록 창드컵
+|창드컵=서브컬쳐 2편
+}}
+}}
+⧼여기에 개요 추가⧽
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>6yov6n44298rmbkvruqtjer73bvh4ia</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:쌀숭이소년</title>
+    <ns>3200</ns>
+    <id>400</id>
+    <revision>
+      <id>449</id>
+      <timestamp>2025-07-04T18:54:22Z</timestamp>
+      <contributor>
+        <username>새우</username>
+        <id>9</id>
+      </contributor>
+      <comment>새 문서: 아, 또 다시 먹어버렸어 이걸로 몇 번째 재획이지?  아, 계속 목을 적셔보아도 채워지지 않는 메소 한계  아, 또 다시 팔지 못했어 보고도 못 본 척은 잘하네  이제는 무슨 말을 한 대도 아무도 날 봐주지 않아   또 떨어져서 고파 고파 밥 못 먹어서 고파 고파 쌀먹 못해서 배가 고프다고   나라는건,  쌀숭이일 뿐이라서 필요없는 아이래 어떻게 노력해봐도 안되는 거야...</comment>
+      <origin>449</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1374" sha1="o3yqzze1qw1s7da7pkmdkw5vwjti6cq" xml:space="preserve">아, 또 다시 먹어버렸어
+이걸로 몇 번째 재획이지?
+
+아, 계속 목을 적셔보아도
+채워지지 않는 메소 한계
+
+아, 또 다시 팔지 못했어
+보고도 못 본 척은 잘하네
+
+이제는 무슨 말을 한 대도
+아무도 날 봐주지 않아
+
+
+또 떨어져서 고파 고파
+밥 못 먹어서 고파 고파
+쌀먹 못해서 배가 고프다고
+
+
+나라는건, 
+쌀숭이일 뿐이라서 필요없는 아이래
+어떻게 노력해봐도 안되는 거야
+쌀먹하고 싶어서 또 거짓말을 해
+좀 더 좀 더 비싸게 팔순 없는 걸까
+
+
+
+아, 또 다시 떨어져버려
+이걸로 벌써 몇 번째지
+
+더 이상 막을 수 없이
+줄어만 가는 경험가치
+
+아, 또 다시 무시당했어
+아무 말 못한 채 삼켜버려
+
+이제는 무슨 말을 한대도
+조롱거리가 되어가는데
+
+
+아무에게도 닿지 않아
+누구도 날 봐주지 않아
+쌀 파는 것조차 버거워졌어
+
+
+나라는건, 
+쌀숭이일 뿐이라서 필요없는 아이래
+어떻게 노력해봐도 소용이 없어
+내 템값은 지켜내지 못 하는 걸까
+제발 제발 억까는 그만 멈춰주어
+
+
+
+하나님 다시 태어날 수 있는 기회가 생긴다면
+사랑받는 아이가 되게 해주세요
+
+아무렇지 않은 척 방문을 닫고서
+다시 게임 접속해 재획을 한잔해
+
+오천플마이지만, 잘 부탁합니다.</text>
+      <sha1>o3yqzze1qw1s7da7pkmdkw5vwjti6cq</sha1>
     </revision>
   </page>
 </mediawiki>
