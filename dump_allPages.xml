@@ -3,7 +3,7 @@
     <sitename>창팝위키</sitename>
     <dbname>changpopwiki</dbname>
     <base>https://changpop.wiki/</base>
-    <generator>MediaWiki 1.44.0-rc.0</generator>
+    <generator>MediaWiki 1.44.0</generator>
     <case>first-letter</case>
     <namespaces>
       <namespace key="-2" case="first-letter">미디어</namespace>
@@ -43,15 +43,14 @@
     <ns>4</ns>
     <id>2</id>
     <revision>
-      <id>223</id>
-      <parentid>222</parentid>
-      <timestamp>2025-06-19T16:08:06Z</timestamp>
+      <id>455</id>
+      <parentid>454</parentid>
+      <timestamp>2025-07-05T16:58:47Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <origin>223</origin>
+      <origin>455</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="607" sha1="ihwuokf5zbxyfd8jiocyardtv7jpwl4" xml:space="preserve">&lt;templatestyles src="대문"&gt;&lt;/templatestyles&gt;
@@ -10589,26 +10588,27 @@ Six Seven Eight Night
     <ns>10</ns>
     <id>248</id>
     <revision>
-      <id>269</id>
-      <timestamp>2025-06-22T01:05:23Z</timestamp>
+      <id>452</id>
+      <parentid>451</parentid>
+      <timestamp>2025-07-05T07:22:52Z</timestamp>
       <contributor>
-        <username>창팝위키</username>
-        <id>2</id>
+        <username>리자예</username>
+        <id>7</id>
       </contributor>
-      <comment>새 문서: {{#cargo_declare: _table = 복면창팝2참가곡 | 참가번호 = Int | 참가닉네임 = String | 미션프롬프트 = String | 각오 = Text | 한마디 = Text | 등수 = Int }} [[분류:카고 테이블]]</comment>
-      <origin>269</origin>
+      <minor/>
+      <origin>452</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="208" sha1="iaw3o348getzcdxfwp0k1gdv4oeoihs" xml:space="preserve">{{#cargo_declare: _table = 복면창팝2참가곡
-| 참가번호 = Int
+      <text bytes="216" sha1="pnf9p53vlsrngyre8jsx1udhejyeooq" xml:space="preserve">{{#cargo_declare: _table = 복면창팝2참가곡
+| 참가번호 = Integer
 | 참가닉네임 = String
 | 미션프롬프트 = String
 | 각오 = Text
 | 한마디 = Text
-| 등수 = Int
+| 등수 = Integer
 }}
 [[분류:카고 테이블]]</text>
-      <sha1>iaw3o348getzcdxfwp0k1gdv4oeoihs</sha1>
+      <sha1>pnf9p53vlsrngyre8jsx1udhejyeooq</sha1>
     </revision>
   </page>
   <page>

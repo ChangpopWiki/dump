@@ -3,7 +3,7 @@
     <sitename>창팝위키</sitename>
     <dbname>changpopwiki</dbname>
     <base>https://changpop.wiki/</base>
-    <generator>MediaWiki 1.44.0-rc.0</generator>
+    <generator>MediaWiki 1.44.0</generator>
     <case>first-letter</case>
     <namespaces>
       <namespace key="-2" case="first-letter">미디어</namespace>
