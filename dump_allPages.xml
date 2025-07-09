@@ -43,26 +43,38 @@
     <ns>4</ns>
     <id>2</id>
     <revision>
-      <id>455</id>
-      <parentid>454</parentid>
-      <timestamp>2025-07-05T16:58:47Z</timestamp>
+      <id>687</id>
+      <parentid>686</parentid>
+      <timestamp>2025-07-09T16:22:11Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>455</origin>
+      <minor/>
+      <origin>687</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="607" sha1="ihwuokf5zbxyfd8jiocyardtv7jpwl4" xml:space="preserve">&lt;templatestyles src="대문"&gt;&lt;/templatestyles&gt;
-__목차숨김__
+      <text bytes="1454" sha1="d3dvwrvyomqwrfk9vqei84213b0zx27" xml:space="preserve">__목차숨김__
+&lt;templatestyles src="대문"&gt;&lt;/templatestyles&gt;
 &lt;p class="ts-subtitle"&gt;[[창팝]] 가사, 기록 저장소&lt;/p&gt;
 &lt;h1 class="ts-title"&gt;창팝위키&lt;/h1&gt;
 &lt;p class="ts-welcome"&gt;창팝위키에 오신 것을 환영합니다!&lt;/p&gt;
+&lt;div class="ts-search citizen-search-trigger citizen-animations-ready" style="border: var( --border-base ); border-radius: var( --border-radius-pill ); background-color: var( --color-surface-1 ); font-size: var( --font-size-small ); font-weight: var( --font-weight-medium );" role="button"&gt;&lt;span class="ts-search-icon show-only-light"&gt;https://upload.wikimedia.org/wikipedia/commons/d/de/OOjs_UI_icon_search-ltr.svg&lt;/span&gt;&lt;span class="ts-search-icon show-only-dark"&gt;https://upload.wikimedia.org/wikipedia/commons/8/8c/OOjs_UI_icon_search-ltr-invert.svg&lt;/span&gt;&lt;span&gt;창팝위키 검색&lt;/span&gt; &lt;code&gt;/&lt;/code&gt;&lt;/div&gt;
+
 {{창팝위키 둘러보기}}
-현재 창팝위키는 베타 오픈입니다.
+
+창팝위키에 오신 것을 환영합니다! 현재 창팝위키는 베타 오픈입니다.
 
 분류된 문서는 아래에서 찾을 수 있습니다.
-&lt;categorytree mode="pages"&gt;분류&lt;/categorytree&gt; 
+
+&lt;categorytree mode="pages" hideroot=on&gt;주제 분류&lt;/categorytree&gt; 
+&lt;categorytree mode="pages" depth=0 &gt;메타 분류&lt;/categorytree&gt; 
+&lt;inputbox&gt;
+type=search
+searchbuttonlabel=가사에서 찾기
+namespaces=가사
+break=no
+&lt;/inputbox&gt;
 
 &lt;div class="ts-layout-container"&gt;
 &lt;div class="ts-layout-item"&gt;{{최초공개 릴레이표}}&lt;/div&gt;
@@ -70,7 +82,7 @@ __목차숨김__
 &lt;/div&gt;
 
 [[분류:창팝위키]]</text>
-      <sha1>ihwuokf5zbxyfd8jiocyardtv7jpwl4</sha1>
+      <sha1>d3dvwrvyomqwrfk9vqei84213b0zx27</sha1>
     </revision>
   </page>
   <page>
@@ -379,16 +391,17 @@ useve=true
     <ns>8</ns>
     <id>8</id>
     <revision>
-      <id>8</id>
-      <timestamp>2025-06-13T12:17:05Z</timestamp>
+      <id>685</id>
+      <parentid>8</parentid>
+      <timestamp>2025-07-09T16:18:16Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>8</origin>
+      <origin>685</origin>
       <model>css</model>
       <format>text/css</format>
-      <text bytes="7253" sha1="smoqp763vgj0drmad6t8uiaogc1npo7" xml:space="preserve">/* 여기의 모든 CSS는 시티즌 스킨을 사용하는 사용자에게 로드됩니다 */
+      <text bytes="8167" sha1="j2fxsm2v8ldvd6qo9hk9cvdmy80bi5n" xml:space="preserve">/* 여기의 모든 CSS는 시티즌 스킨을 사용하는 사용자에게 로드됩니다 */
 
 :root {
 	/* 메인 색상 */
@@ -477,6 +490,23 @@ useve=true
 	}
 }
 
+:root.skin-theme-clientpref-night .show-only-light  {
+	display: none;
+}
+:root.skin-theme-clientpref-day .show-only-dark  {
+	display: none;
+}
+@media screen and (prefers-color-scheme: dark) {
+	:root.skin-theme-clientpref-os .show-only-light {
+		display: none;
+	}
+}
+@media screen and (prefers-color-scheme: light) {
+	:root.skin-theme-clientpref-os .show-only-dark {
+		display: none;
+	}
+}
+
 em:lang(ko) {
 	text-emphasis: dot;
 	font-weight: 500;
@@ -495,21 +525,23 @@ a {
 	:root.skin-theme-clientpref-night a {
 		--color-link: #88a3e8;
 		--color-visited: #a799cd;
-		
-		--color-link-red: #fd7865;
-		--color-link-red--hover: #fea898;
-		--color-link-red--active: #ffc8bd;
 	}
+	
+	:root.skin-theme-clientpref-night a:where(.new:not([role="button"])) {color: #fd7865;}
+	:root.skin-theme-clientpref-night a:where(.new:not([role="button"])):hover {color: #fea898;}
+	:root.skin-theme-clientpref-night a:where(.new:not([role="button"])):active {color: #ffc8bd;}
+	:root.skin-theme-clientpref-night a:where(.new:not([role="button"])):visited {color: #c99391;}
 }
 @media screen and (prefers-color-scheme: dark) {
 	:root.skin-theme-clientpref-os a {
 		--color-link: #88a3e8;
 		--color-visited: #a799cd;
-		
-		--color-link-red: #fd7865;
-		--color-link-red--hover: #fea898;
-		--color-link-red--active: #ffc8bd;
 	}
+	
+	:root.skin-theme-clientpref-os a:where(.new:not([role="button"])) {color: #fd7865;}
+	:root.skin-theme-clientpref-os a:where(.new:not([role="button"])):hover {color: #fea898;}
+	:root.skin-theme-clientpref-os a:where(.new:not([role="button"])):active {color: #ffc8bd;}
+	:root.skin-theme-clientpref-os a:where(.new:not([role="button"])):visited {color: #c99391;}
 }
 
 .citizen-header {
@@ -617,7 +649,7 @@ a {
 		display: none;
 	}
 }</text>
-      <sha1>smoqp763vgj0drmad6t8uiaogc1npo7</sha1>
+      <sha1>j2fxsm2v8ldvd6qo9hk9cvdmy80bi5n</sha1>
     </revision>
   </page>
   <page>
@@ -8726,17 +8758,17 @@ AdGuard는 있어도
     <ns>3810</ns>
     <id>205</id>
     <revision>
-      <id>221</id>
-      <timestamp>2025-06-19T16:04:39Z</timestamp>
+      <id>684</id>
+      <parentid>221</parentid>
+      <timestamp>2025-07-09T16:17:05Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: .ts-subtitle { 	text-align: center;  	margin-block: 0.5rem;  	font-weight: 500; }  .ts-title { 	text-align: center; 	font-size: 3rem; 	margin-block-start: 0.3em; }  .ts-welcome { 	text-align: center;  }  .ts-layout-container { 	display: flex; 	gap: 12px; 	flex-wrap: wrap; }  .ts-layout-item { 	flex: 1; 	flex-basis: 480px; }</comment>
-      <origin>221</origin>
+      <origin>684</origin>
       <model>sanitized-css</model>
       <format>text/css</format>
-      <text bytes="325" sha1="f7l8rbgmyo47156qjn5ucx3msfri4d5" xml:space="preserve">.ts-subtitle {
+      <text bytes="827" sha1="7hurmxf6e849hbo6f4gb2ymq91ud8cu" xml:space="preserve">.ts-subtitle {
 	text-align: center; 
 	margin-block: 0.5rem; 
 	font-weight: 500;
@@ -8761,8 +8793,35 @@ AdGuard는 있어도
 .ts-layout-item {
 	flex: 1;
 	flex-basis: 480px;
+}
+
+.ts-search {
+	padding: 1rem;
+	margin-top: 1.5rem;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 480px;
+	cursor: pointer;
+	text-align: center;
+	transition-property: background-color, color, border-color, box-shadow;
+	transition-duration: .25s;
+}
+
+.ts-search:hover {
+	border-color: #a14ceb !important; 
+	background-color: unset !important; 
+}
+
+.ts-search:active {
+	border-color: #a14ceb !important;
+	box-shadow: inset 0 0 0 1px #a14ceb;
+}
+
+.ts-search-icon {
+	margin-right: 1rem;
+	opacity: 0.6;
 }</text>
-      <sha1>f7l8rbgmyo47156qjn5ucx3msfri4d5</sha1>
+      <sha1>7hurmxf6e849hbo6f4gb2ymq91ud8cu</sha1>
     </revision>
   </page>
   <page>
@@ -10841,18 +10900,20 @@ Six Seven Eight Night
     <ns>0</ns>
     <id>247</id>
     <revision>
-      <id>268</id>
-      <timestamp>2025-06-21T10:09:40Z</timestamp>
+      <id>688</id>
+      <parentid>268</parentid>
+      <timestamp>2025-07-09T16:29:39Z</timestamp>
       <contributor>
-        <username>이거는진짜인가가짜인가</username>
-        <id>6</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>신창섭 문서 생성</comment>
-      <origin>268</origin>
+      <origin>688</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="107" sha1="jerkdb731wao03a8c815jw1wzcsnqax" xml:space="preserve">김창섭은 리부트 정상화후 신이 되었다. 신이 된 김창섭을 신창섭이라고 부른다.</text>
-      <sha1>jerkdb731wao03a8c815jw1wzcsnqax</sha1>
+      <text bytes="126" sha1="5zxts42j1k3kn4hpbivveh45dz07axg" xml:space="preserve">김창섭은 리부트 정상화후 신이 되었다. 신이 된 김창섭을 신창섭이라고 부른다.
+
+[[분류:개념]]</text>
+      <sha1>5zxts42j1k3kn4hpbivveh45dz07axg</sha1>
     </revision>
   </page>
   <page>
@@ -18002,19 +18063,18 @@ WWE 잘하잖아
     <ns>0</ns>
     <id>365</id>
     <revision>
-      <id>518</id>
-      <parentid>408</parentid>
-      <timestamp>2025-07-06T11:36:04Z</timestamp>
+      <id>683</id>
+      <parentid>518</parentid>
+      <timestamp>2025-07-09T12:02:41Z</timestamp>
       <contributor>
-        <username>창팝위키</username>
-        <id>2</id>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>518</origin>
+      <comment>/* 복면창팝 2 */ 미션 프롬프트 수정</comment>
+      <origin>683</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="633" sha1="artcd1231wd5srqibld4an6sw1wtaiu" xml:space="preserve">{{문서:창팝
+      <text bytes="642" sha1="lka62vv90ni3dwy911gbaab3vhdpcln" xml:space="preserve">{{문서:창팝
 |곡명=旧态的太阳永远唱歌
 |다른언어제목=구태의 태양은 영원히 노래할 뿐
 |유튜브Id=z3I4XwLv1Zg
@@ -18028,14 +18088,14 @@ WWE 잘하잖아
 {{복면창팝 2 참가곡
 |참가번호=57
 |참가닉네임=不盡昌燮滾滾來 - 끝없는 창섭의 물결은 도도히 흐른다
-|미션프롬프트=speedy rap
+|미션프롬프트=Chinese traditional
 |각오=으앙 쥬금ㅠ
 |한마디=翻译这句话的你! 虽然很可惜, 但这是没有任何意义的句子。哈哈哈
 }}
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>artcd1231wd5srqibld4an6sw1wtaiu</sha1>
+      <sha1>lka62vv90ni3dwy911gbaab3vhdpcln</sha1>
     </revision>
   </page>
   <page>
@@ -22955,6 +23015,44 @@ Cultual, 어차피 언젠가
 짜증나 우는 표정도
 갈 길 가자 추하게 말고</text>
       <sha1>mow7ph2smcg2pptonrvk24pgdqmup33</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>분류:개념</title>
+    <ns>14</ns>
+    <id>481</id>
+    <revision>
+      <id>689</id>
+      <timestamp>2025-07-09T16:29:51Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: [[분류:주제 분류]]</comment>
+      <origin>689</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="31i55jvmy93cxzmwv77e3uv13h9l92v" xml:space="preserve">[[분류:주제 분류]]</text>
+      <sha1>31i55jvmy93cxzmwv77e3uv13h9l92v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>분류:제작자</title>
+    <ns>14</ns>
+    <id>482</id>
+    <revision>
+      <id>690</id>
+      <timestamp>2025-07-09T16:30:29Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: [[분류:주제 분류]]</comment>
+      <origin>690</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="31i55jvmy93cxzmwv77e3uv13h9l92v" xml:space="preserve">[[분류:주제 분류]]</text>
+      <sha1>31i55jvmy93cxzmwv77e3uv13h9l92v</sha1>
     </revision>
   </page>
 </mediawiki>
