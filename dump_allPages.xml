@@ -11248,20 +11248,17 @@ Six Seven Eight Night
     <ns>0</ns>
     <id>254</id>
     <revision>
-      <id>598</id>
-      <parentid>462</parentid>
-      <timestamp>2025-07-06T11:59:46Z</timestamp>
+      <id>692</id>
+      <parentid>598</parentid>
+      <timestamp>2025-07-11T15:23:43Z</timestamp>
       <contributor>
-        <username>창팝위키</username>
-        <id>2</id>
+        <ip>122.43.246.134</ip>
       </contributor>
-      <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>598</origin>
+      <origin>692</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="766" sha1="tu2uxow92w1p6rwzqor7ktkmgzm4yg8" xml:space="preserve">{{문서:창팝
-|곡명=추억의 "정상화의 히어로 신창섭맨" 주제가
+      <text bytes="795" sha1="adhxcmveeh7a2ktekp4uw32c1q22dd1" xml:space="preserve">{{문서:창팝
+|곡명=추억의 "정상화의 히어로 신창섭맨" 주제가 (FHD 고화질 복구버전)
 |유튜브Id=sC-2X_U68ug
 |제작자=뮤버
 |개사여부=아니오
@@ -11283,7 +11280,7 @@ Six Seven Eight Night
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>tu2uxow92w1p6rwzqor7ktkmgzm4yg8</sha1>
+      <sha1>adhxcmveeh7a2ktekp4uw32c1q22dd1</sha1>
     </revision>
   </page>
   <page>
