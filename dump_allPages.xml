@@ -1569,22 +1569,23 @@ __새문단쓰기__
     <ns>8</ns>
     <id>38</id>
     <revision>
-      <id>225</id>
-      <parentid>38</parentid>
-      <timestamp>2025-06-19T16:20:31Z</timestamp>
+      <id>706</id>
+      <parentid>225</parentid>
+      <timestamp>2025-07-16T04:31:15Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>225</origin>
+      <origin>706</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="426" sha1="3tnrtr7ae69tgj41zsrn2d26ej0nb07" xml:space="preserve">* DiscussionToolsEnhancedReadability[ default ] | DiscussionToolsEnhancedReadability.css
+      <text bytes="593" sha1="b7mj2gt7ycq3utyhhzqttu0udq81nwc" xml:space="preserve">* DiscussionToolsEnhancedReadability[ default ] | DiscussionToolsEnhancedReadability.css
 * ExpandWikiEditorOnPreview[ default | skins = citizen ] | ExpandWikiEditorOnPreview.css
 * HideApprovedLatestMsg[ default ] | HideApprovedLatestMsg.css
 * Edittools [ ResourceLoader | hidden | default | actions = edit ] | Edittools.js | MoveEdittoolsInside.js | StylingEdittools.css
-* LyricNamespaceSansSerif | LyricNamespaceSansSerif.css</text>
-      <sha1>3tnrtr7ae69tgj41zsrn2d26ej0nb07</sha1>
+* LyricNamespaceSansSerif | LyricNamespaceSansSerif.css
+* instantDiffs [ResourceLoader | dependencies=site, mediawiki.api, mediawiki.util, mediawiki.storage, mediawiki.notification, mediawiki.Title, oojs] | instantDiffs.js</text>
+      <sha1>b7mj2gt7ycq3utyhhzqttu0udq81nwc</sha1>
     </revision>
   </page>
   <page>
@@ -2843,18 +2844,42 @@ break = no
     <ns>4</ns>
     <id>70</id>
     <revision>
-      <id>70</id>
-      <timestamp>2025-06-12T07:01:06Z</timestamp>
+      <id>703</id>
+      <parentid>70</parentid>
+      <timestamp>2025-07-16T04:27:52Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>70</origin>
+      <origin>703</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="984" sha1="312nasaurcnqcv0qcisc7c6z6i1bj3w" xml:space="preserve">{{창팝위키 둘러보기}}
+      <text bytes="2655" sha1="ort2vwwabks3lpp6ikbojwnbh6bnh73" xml:space="preserve">{{창팝위키 둘러보기}}
 창팝위키의 기여 포털입니다. 기여하기 전에 [[창팝위키:편집지침|편집지침]]을 읽어주세요. 편집 연습은 사용자 문서 또는 [[창팝위키:연습장|연습장]]에서 하실 수 있습니다.
-== 창팝 문서 ==
+
+== 가사만 등록하기 ==
+
+아래 입력칸에 가사를 등록할 곡의 제목을 입력하고 '가사 등록하기' 버튼을 누르면 가사 문서 생성 페이지로 연결됩니다. 
+
+&lt;inputbox&gt;
+type=create
+prefix=가사:
+buttonlabel=가사 등록하기
+placeholder=등록할 곡 제목 입력...
+break=no
+&lt;/inputbox&gt;
+
+=== 가사 문서의 본 문서 만들기 ===
+
+가사만 있는 문서의 본 문서 추가를 도와주세요. 가사만 있는 문서는 [[특수:가사만있는문서]]에서 확인할 수 있습니다.
+
+== 양식으로 편집 ==
+
+위키 편집 방법을 모르시나요? 창팝위키에서는 양식 확장을 통해 양식이 있는 유형의 문서에서는 직접 텍스트 수정 없이 문서의 속성을 편리하게 편집할 수 있습니다. 아래 칸에 문서 제목을 입력하고 '만들거나 편집' 버튼을 누르면 양식으로 편집 창이 뜨게 됩니다. 혹은 이미 존재하는 문서에서 '양식으로 편집' 버튼을 사용할 수도 있습니다. 
+
+양식으로 편집은 문서의 여러 속성을 편하게 편집하기 위한 것으로, 추가하고 싶은 글 내용이 있다면 물론 문서를 만든 후 일반 편집에서 자유롭게 추가 가능합니다.
+
+=== 창팝 문서 ===
 {{#forminput: form = 창팝
 | autocomplete on category = 창팝
 | placeholder = 창팝 문서 제목 입력...
@@ -2863,7 +2888,7 @@ break = no
 * [[특수:쿼리실행/창팝|창팝 양식 미리보기]]
 * [[본보기:창팝|창팝 문서 본보기]]
 
-== 창드컵 문서 ==
+=== 창드컵 문서 ===
 {{#forminput: form = 창드컵
 | autocomplete on category = 창드컵
 | placeholder = 창드컵 문서 제목 입력...
@@ -2872,11 +2897,17 @@ break = no
 * [[특수:쿼리실행/창드컵|창드컵 양식 미리보기]]
 * [[본보기:창드컵|창드컵 문서 본보기]]
 
+=== 제작자 문서 ===
+''양식 추가 예정'' (현재는 직접 만들 수 있습니다)
+
 == 기타 문서 ==
-문서 이름을 검색하고 빨간 링크를 클릭해 직접 만들 수 있습니다.
+일반 개념과 같이 양식이 없는 문서의 경우, 문서 이름을 검색하고 빨간 링크를 클릭해 직접 만들 수 있습니다.
+
+== 다른 기여 ==
+일반 문서 뿐만 아니라 틀, 도움말 등 관리 관련 문서 또한 기여를 환영합니다. 문서 이동, 삭제 등 권한 문제로 불가능한 작업이 있다면 [[창팝위키:선착장|선착장]]에 문의를 남겨 주세요.
 
 [[분류:창팝위키]]</text>
-      <sha1>312nasaurcnqcv0qcisc7c6z6i1bj3w</sha1>
+      <sha1>ort2vwwabks3lpp6ikbojwnbh6bnh73</sha1>
     </revision>
   </page>
   <page>
@@ -6188,20 +6219,21 @@ piku\.co.kr
     <ns>10</ns>
     <id>148</id>
     <revision>
-      <id>148</id>
-      <timestamp>2025-06-11T14:32:40Z</timestamp>
+      <id>704</id>
+      <parentid>148</parentid>
+      <timestamp>2025-07-16T04:29:13Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>148</origin>
+      <origin>704</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="393" sha1="ppxmv16mku39b26irkhnwijkzmj7gzj" xml:space="preserve">&lt;templatestyles src="틀:최근 바뀜/스타일.css" /&gt;
+      <text bytes="432" sha1="8uhfh4z4go6u8vt3ivymis76ers5yqj" xml:space="preserve">&lt;templatestyles src="틀:최근 바뀜/스타일.css" /&gt;
 {| class="wikitable wikitable--fluid"
 |+ 최근 바뀜
 |-
-| {{특수:최근바뀜/10}}
+| {{특수:최근바뀜/limit=15,namespace=0;4;6;12;14;3010;3200;}}
 |-
 | [[특수:최근바뀜|더보기...]]
 |}&lt;!--
@@ -6209,7 +6241,7 @@ piku\.co.kr
 
 --&gt;[[분류:틀]]{{설명문서}}&lt;!--
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>ppxmv16mku39b26irkhnwijkzmj7gzj</sha1>
+      <sha1>8uhfh4z4go6u8vt3ivymis76ers5yqj</sha1>
     </revision>
   </page>
   <page>
@@ -23436,6 +23468,45 @@ Cultual, 어차피 언젠가
 게임이 아닌 또 다른 세상 속
 다른 별들을 또 피워내겠지</text>
       <sha1>hu7m83eeuoth9xd1bq1vg9bsrdeicmz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>미디어위키:Gadget-instantDiffs.js</title>
+    <ns>8</ns>
+    <id>486</id>
+    <revision>
+      <id>705</id>
+      <timestamp>2025-07-16T04:30:41Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: // [[mw:Instant Diffs]] mw.loader.load( 'https://mediawiki.org/w/index.php?title=User:Serhio_Magpie/instantDiffs.js&amp;action=raw&amp;ctype=text/javascript' );</comment>
+      <origin>705</origin>
+      <model>javascript</model>
+      <format>text/javascript</format>
+      <text bytes="152" sha1="h1tlhbnvnlza9yw824almi18lqu761w" xml:space="preserve">// [[mw:Instant Diffs]]
+mw.loader.load( 'https://mediawiki.org/w/index.php?title=User:Serhio_Magpie/instantDiffs.js&amp;action=raw&amp;ctype=text/javascript' );</text>
+      <sha1>h1tlhbnvnlza9yw824almi18lqu761w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>미디어위키:Gadget-instantDiffs</title>
+    <ns>8</ns>
+    <id>487</id>
+    <revision>
+      <id>707</id>
+      <timestamp>2025-07-16T04:40:13Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: [https://www.mediawiki.org/wiki/Instant%20Diffs Instant Diffs] - 현재 페이지에서 팝업으로 차이를 볼 수 있게 해주는 도구입니다.</comment>
+      <origin>707</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="152" sha1="9a63s8oirrm4a3lbo4whh2c7l78zymv" xml:space="preserve">[https://www.mediawiki.org/wiki/Instant%20Diffs Instant Diffs] - 현재 페이지에서 팝업으로 차이를 볼 수 있게 해주는 도구입니다.</text>
+      <sha1>9a63s8oirrm4a3lbo4whh2c7l78zymv</sha1>
     </revision>
   </page>
 </mediawiki>
