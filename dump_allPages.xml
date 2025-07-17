@@ -21753,18 +21753,20 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>447</id>
     <revision>
-      <id>643</id>
-      <timestamp>2025-07-06T17:14:28Z</timestamp>
+      <id>709</id>
+      <parentid>643</parentid>
+      <timestamp>2025-07-17T05:08:34Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>Changpopyong</username>
+        <id>12</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=Ib8Nmd8amZU |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=34 |참가닉네임=마인드만큼은리선족 |제목=RICE OF MARINE CORPSE |키워드=전우애 |각오=쌀숭이는 싫다. 그것이 내가 선택한 본심. |한마디=아쎄이! 기열쌀먹의 대가로 오도짜세해병으로 거듭나도...</comment>
-      <origin>643</origin>
+      <minor/>
+      <origin>709</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="515" sha1="5z8d5g2kfo8cd3kjs909pw7gv07uzan" xml:space="preserve">{{문서:창팝
+      <text bytes="536" sha1="gycnzqux6ho1n88jflv8gehm6ce25s7" xml:space="preserve">{{문서:창팝
 |유튜브Id=Ib8Nmd8amZU
+|제작자=창팝용
 |개사여부=아니오
 }}
 {{창팝 기본 개요}}
@@ -21782,7 +21784,7 @@ Cultual, 어차피 언젠가
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>5z8d5g2kfo8cd3kjs909pw7gv07uzan</sha1>
+      <sha1>gycnzqux6ho1n88jflv8gehm6ce25s7</sha1>
     </revision>
   </page>
   <page>
@@ -22349,19 +22351,20 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>463</id>
     <revision>
-      <id>660</id>
-      <timestamp>2025-07-06T17:19:15Z</timestamp>
+      <id>708</id>
+      <parentid>660</parentid>
+      <timestamp>2025-07-17T05:05:28Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <ip>58.227.90.221</ip>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=rJF9n-_khQM |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=51 |참가닉네임=복면창팝4할때까지숨참는다 |제목=라탓타 |키워드=카트 |각오=10년 더 한다며 티니핑멘헤라끼순이30플마들아 |한마디=영상 제작은 처음이라 미숙해요 다음에 더 잘 만들어...</comment>
-      <origin>660</origin>
+      <comment>영상 정상화</comment>
+      <origin>708</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="518" sha1="dkkx7mo1acl97gti9tjnrnt6y13az6d" xml:space="preserve">{{문서:창팝
-|유튜브Id=rJF9n-_khQM
-|개사여부=아니오
+      <text bytes="548" sha1="2eg08t6zxs3dljgas95j3jtnysrkatt" xml:space="preserve">{{문서:창팝
+| 유튜브Id = 5oZJ1vAMrok
+| 제작자 = 체포낙
+| 개사여부 = 아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -22378,7 +22381,7 @@ Cultual, 어차피 언젠가
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>dkkx7mo1acl97gti9tjnrnt6y13az6d</sha1>
+      <sha1>2eg08t6zxs3dljgas95j3jtnysrkatt</sha1>
     </revision>
   </page>
   <page>
@@ -23507,6 +23510,54 @@ mw.loader.load( 'https://mediawiki.org/w/index.php?title=User:Serhio_Magpie/inst
       <format>text/x-wiki</format>
       <text bytes="152" sha1="9a63s8oirrm4a3lbo4whh2c7l78zymv" xml:space="preserve">[https://www.mediawiki.org/wiki/Instant%20Diffs Instant Diffs] - 현재 페이지에서 팝업으로 차이를 볼 수 있게 해주는 도구입니다.</text>
       <sha1>9a63s8oirrm4a3lbo4whh2c7l78zymv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:RICE OF MARINE CORPSE</title>
+    <ns>3200</ns>
+    <id>488</id>
+    <revision>
+      <id>712</id>
+      <parentid>711</parentid>
+      <timestamp>2025-07-17T05:15:18Z</timestamp>
+      <contributor>
+        <username>Changpopyong</username>
+        <id>12</id>
+      </contributor>
+      <origin>712</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="972" sha1="7715k0ywq3r8cq5d3gy0zvnntybos8v" xml:space="preserve">창섭이 형, that's not the only thing that can be done, 따흐흑
+What I wanted was the price of rice to rise
+But what they're doing now is
+전우애 실시 해병크림 발싸
+He pushed harder, asking why I wasn't paying.
+
+This is not what I wanted
+I just wanted to sell rice
+Why did it turn out like this
+I didn't have time to think about it, 따흐흑
+
+창섭이 형, No, I told you to call it like this
+신 이라서정상화가좋아 해병님,
+Could you please allow me to ask you a question about my earnest request to save me?
+555550
+
+This is not what I wanted
+I just wanted to sell rice
+Why did it turn out like this
+I didn't have time to think about it, 따흐흑
+
+I'm a full-fledged Marine now
+The Air Force Lee Sun-jok who will kill me is horrible
+I have to 역돌격
+They're folded but I'm still scared 
+
+This is exactly what I wanted
+I just wanted to kill the Lee Sun-jok
+Why do I have to get cursed at
+I didn't even have time to think about it, 역돌격</text>
+      <sha1>7715k0ywq3r8cq5d3gy0zvnntybos8v</sha1>
     </revision>
   </page>
 </mediawiki>
