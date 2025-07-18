@@ -20595,22 +20595,22 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>416</id>
     <revision>
-      <id>699</id>
-      <parentid>611</parentid>
-      <timestamp>2025-07-15T10:55:59Z</timestamp>
+      <id>713</id>
+      <parentid>699</parentid>
+      <timestamp>2025-07-18T12:52:12Z</timestamp>
       <contributor>
         <username>이거는진짜인가가짜인가</username>
         <id>6</id>
       </contributor>
-      <origin>699</origin>
+      <origin>713</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="634" sha1="myeex2n8fu7l41guayqsgbh2e2aca5q" xml:space="preserve">{{문서:창팝
+      <text bytes="636" sha1="lbbaym6zmzqh71catymxp8zz4khypmk" xml:space="preserve">{{문서:창팝
 |유튜브Id=Sp8Q4B5pLUA
 |제작자=창팝딸깍딸깍캬
 |개사여부=아니오
 |공개일=2025-07-05
-|공개일_=복면창팝3 공개일
+|공개일_=- 복면창팝3 공개일
 |제작방법=Suno
 }}
 {{창팝 기본 개요}}
@@ -20628,7 +20628,7 @@ Cultual, 어차피 언젠가
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>myeex2n8fu7l41guayqsgbh2e2aca5q</sha1>
+      <sha1>lbbaym6zmzqh71catymxp8zz4khypmk</sha1>
     </revision>
   </page>
   <page>
@@ -21757,7 +21757,7 @@ Cultual, 어차피 언젠가
       <parentid>643</parentid>
       <timestamp>2025-07-17T05:08:34Z</timestamp>
       <contributor>
-        <username>Changpopyong</username>
+        <username>창팝용</username>
         <id>12</id>
       </contributor>
       <minor/>
@@ -23521,7 +23521,7 @@ mw.loader.load( 'https://mediawiki.org/w/index.php?title=User:Serhio_Magpie/inst
       <parentid>711</parentid>
       <timestamp>2025-07-17T05:15:18Z</timestamp>
       <contributor>
-        <username>Changpopyong</username>
+        <username>창팝용</username>
         <id>12</id>
       </contributor>
       <origin>712</origin>
@@ -23558,6 +23558,26 @@ I just wanted to kill the Lee Sun-jok
 Why do I have to get cursed at
 I didn't even have time to think about it, 역돌격</text>
       <sha1>7715k0ywq3r8cq5d3gy0zvnntybos8v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>미디어위키:Changpopwiki-lyriconlypages-text</title>
+    <ns>8</ns>
+    <id>489</id>
+    <revision>
+      <id>714</id>
+      <timestamp>2025-07-18T14:37:20Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: 본 문서 없이 가사만 있는 문서 목록입니다. ----</comment>
+      <origin>714</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="63" sha1="ehsm8fx70hdn2u3n2auezzgl33wat2y" xml:space="preserve">본 문서 없이 가사만 있는 문서 목록입니다.
+----</text>
+      <sha1>ehsm8fx70hdn2u3n2auezzgl33wat2y</sha1>
     </revision>
   </page>
 </mediawiki>
