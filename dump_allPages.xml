@@ -21753,21 +21753,21 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>447</id>
     <revision>
-      <id>709</id>
-      <parentid>643</parentid>
-      <timestamp>2025-07-17T05:08:34Z</timestamp>
+      <id>715</id>
+      <parentid>709</parentid>
+      <timestamp>2025-07-19T18:00:01Z</timestamp>
       <contributor>
         <username>창팝용</username>
         <id>12</id>
       </contributor>
       <minor/>
-      <origin>709</origin>
+      <origin>715</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="536" sha1="gycnzqux6ho1n88jflv8gehm6ce25s7" xml:space="preserve">{{문서:창팝
-|유튜브Id=Ib8Nmd8amZU
-|제작자=창팝용
-|개사여부=아니오
+      <text bytes="545" sha1="obtc2q7xjsitvtcmce41ok0sawl1kmk" xml:space="preserve">{{문서:창팝
+| 유튜브Id = pNmQ8YRPRpA
+| 제작자 = 창팝용
+| 개사여부 = 아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -21784,7 +21784,7 @@ Cultual, 어차피 언젠가
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>gycnzqux6ho1n88jflv8gehm6ce25s7</sha1>
+      <sha1>obtc2q7xjsitvtcmce41ok0sawl1kmk</sha1>
     </revision>
   </page>
   <page>
