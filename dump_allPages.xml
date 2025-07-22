@@ -22048,22 +22048,23 @@ Cultual, 어차피 언젠가
     </revision>
   </page>
   <page>
-    <title>아직도제목을못정함</title>
+    <title>기대해,</title>
     <ns>0</ns>
     <id>455</id>
     <revision>
-      <id>651</id>
-      <timestamp>2025-07-06T17:16:10Z</timestamp>
+      <id>717</id>
+      <parentid>716</parentid>
+      <timestamp>2025-07-22T14:05:45Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=a6OKyZ2ivnE |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=43 |참가닉네임=라쿤방어대장 |제목=아직도제목을못정함 |키워드=휴식 |각오=AI 노래를 취미로 제작하는 채널입니다 |한마디=졸업식 제작자인데 우승하면 목사님 900명 그려서 졸업식2 제작...</comment>
-      <origin>651</origin>
+      <origin>717</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="543" sha1="2v27fwaoxrc37nrqx85bmio17xthubj" xml:space="preserve">{{문서:창팝
-|유튜브Id=a6OKyZ2ivnE
+      <text bytes="564" sha1="lqayprdhcgch0agb8cgr5tomi7ywvmk" xml:space="preserve">{{문서:창팝
+|유튜브Id=MSTdWtirD6g
+|제작자=메벤남
 |개사여부=아니오
 }}
 {{창팝 기본 개요}}
@@ -22081,7 +22082,7 @@ Cultual, 어차피 언젠가
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>2v27fwaoxrc37nrqx85bmio17xthubj</sha1>
+      <sha1>lqayprdhcgch0agb8cgr5tomi7ywvmk</sha1>
     </revision>
   </page>
   <page>
