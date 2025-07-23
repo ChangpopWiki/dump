@@ -119,18 +119,17 @@ break=no
     <ns>10</ns>
     <id>4</id>
     <revision>
-      <id>465</id>
-      <parentid>319</parentid>
-      <timestamp>2025-07-06T09:02:23Z</timestamp>
+      <id>720</id>
+      <parentid>465</parentid>
+      <timestamp>2025-07-23T16:18:01Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>창팝추가정보 테이블 추가에 따라 맞게 변경</comment>
-      <origin>465</origin>
+      <origin>720</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="4411" sha1="kqaj6j9gysgv34gugqou9vh65q3kd52" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="4467" sha1="s2o95tqkffi7pkvi4d8n8z86208bs2f" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;&lt;templatestyles src="정보상자" /&gt;&lt;!--
 
@@ -157,7 +156,7 @@ break=no
 	}}&lt;!-- 
  --&gt;{{{다른언어제목_|}}}
 |- class="infobox-image"
-| colspan=2 | {{#if: {{{유튜브Id|}}} | https://i.ytimg.com/vi/{{{유튜브Id}}}/maxresdefault.jpg }}
+| colspan=2 | {{#if: {{{유튜브Id|}}} | https://i.ytimg.com/vi/{{{유튜브Id}}}/{{#if: {{{고화질썸네일없음|}}} | mqdefault | maxresdefault }}.jpg }}
 |-
 {{#if: {{{별명|}}} |
 ! 별명
@@ -316,7 +315,7 @@ break=no
 &lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>kqaj6j9gysgv34gugqou9vh65q3kd52</sha1>
+      <sha1>s2o95tqkffi7pkvi4d8n8z86208bs2f</sha1>
     </revision>
   </page>
   <page>
@@ -22764,22 +22763,22 @@ Cultual, 어차피 언젠가
     <ns>10</ns>
     <id>474</id>
     <revision>
-      <id>671</id>
-      <timestamp>2025-07-06T17:26:09Z</timestamp>
+      <id>718</id>
+      <parentid>671</parentid>
+      <timestamp>2025-07-23T14:38:09Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: {| class="wikitable sortable" |+ 복면창팝 시즌 3 참가곡 |- ! 참가번호 !! 참가 닉네임 !! 제목 !! 키워드 !! 각오 !! 한마디 !! 단품 링크 |- {{#cargo_query: tables = 복면창팝3참가곡, 유튜브영상 |fields= 복면창팝3참가곡.참가번호, 복면창팝3참가곡.참가닉네임, 복면창팝3참가곡.제목, 복면창팝3참가곡._pageName, 복면창팝3참가곡.키워드, 복면창팝3참가곡.각오, 복면창팝3참가곡.한마디,...</comment>
-      <origin>671</origin>
+      <origin>718</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="876" sha1="hkiz23zodg7cr3ja7tekulxavrotx9s" xml:space="preserve">{| class="wikitable sortable"
+      <text bytes="892" sha1="b9gpj5lhsqvjwhb48wbvabceuqwhr3l" xml:space="preserve">{| class="wikitable sortable"
 |+ 복면창팝 시즌 3 참가곡
 |-
-! 참가번호 !! 참가 닉네임 !! 제목 !! 키워드 !! 각오 !! 한마디 !! 단품 링크
+! 참가번호 !! 참가 닉네임 !! 제목 !! 키워드 !! 각오 !! 한마디 !! 정체 !! 등수 
 |-
-{{#cargo_query: tables = 복면창팝3참가곡, 유튜브영상
+{{#cargo_query: tables = 복면창팝3참가곡, 창팝
 |fields=
 복면창팝3참가곡.참가번호,
 복면창팝3참가곡.참가닉네임,
@@ -22788,8 +22787,9 @@ Cultual, 어차피 언젠가
 복면창팝3참가곡.키워드,
 복면창팝3참가곡.각오,
 복면창팝3참가곡.한마디,
-유튜브영상.Id
-|join on=복면창팝3참가곡._pageID = 유튜브영상._pageID
+창팝.제작자,
+복면창팝3참가곡.등수,
+|join on=복면창팝3참가곡._pageID = 창팝._pageID
 |limit=100
 |offset=0
 |format=template
@@ -22801,7 +22801,7 @@ Cultual, 어차피 언젠가
 
 --&gt;{{설명문서}}[[분류:틀]]&lt;!--
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>hkiz23zodg7cr3ja7tekulxavrotx9s</sha1>
+      <sha1>b9gpj5lhsqvjwhb48wbvabceuqwhr3l</sha1>
     </revision>
   </page>
   <page>
@@ -22809,17 +22809,17 @@ Cultual, 어차피 언젠가
     <ns>10</ns>
     <id>475</id>
     <revision>
-      <id>672</id>
-      <timestamp>2025-07-06T17:27:28Z</timestamp>
+      <id>719</id>
+      <parentid>672</parentid>
+      <timestamp>2025-07-23T14:38:45Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: &lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------  --&gt; {{!}} {{{참가번호}}} {{!}} {{{참가닉네임}}}  {{!}} [[ {{{_pageName}}} | {{{제목}}} ]]  {{!}} {{{키워드}}} {{!}} {{{각오}}} {{!}} {{{한마디}}} {{!}} [https://youtu.be/{{{Id}}} 링크] {{!}}- &lt;!--  --------------------------------&gt;&lt;/onlyinclude&gt;&lt;!-------------------------------  --------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------  --&gt;[[분류:틀]]&lt;...</comment>
-      <origin>672</origin>
+      <origin>719</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="568" sha1="jftwx2tb4nxr2pyqdaujzen4pfl3hdx" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
+      <text bytes="568" sha1="rf1htwo74tvsjgewfjacobrkgrped63" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
 
 --&gt;
 {{!}} {{{참가번호}}}
@@ -22828,7 +22828,8 @@ Cultual, 어차피 언젠가
 {{!}} {{{키워드}}}
 {{!}} {{{각오}}}
 {{!}} {{{한마디}}}
-{{!}} [https://youtu.be/{{{Id}}} 링크]
+{{!}} {{{제작자}}}
+{{!}} {{{등수}}}
 {{!}}-
 &lt;!--
 
@@ -22839,7 +22840,7 @@ Cultual, 어차피 언젠가
 --&gt;[[분류:틀]]&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>jftwx2tb4nxr2pyqdaujzen4pfl3hdx</sha1>
+      <sha1>rf1htwo74tvsjgewfjacobrkgrped63</sha1>
     </revision>
   </page>
   <page>
