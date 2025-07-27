@@ -21303,22 +21303,23 @@ Cultual, 어차피 언젠가
     </revision>
   </page>
   <page>
-    <title>그대와 사랑을 나누고픈 밤</title>
+    <title>X스머신 김쌀숭</title>
     <ns>0</ns>
     <id>435</id>
     <revision>
-      <id>631</id>
-      <timestamp>2025-07-06T17:12:26Z</timestamp>
+      <id>722</id>
+      <parentid>721</parentid>
+      <timestamp>2025-07-27T08:05:38Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=WBPaJFuxflE |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=22 |참가닉네임=메이플찍먹만해봤어요 |제목=그대와 사랑을 나누고픈 밤 |키워드=sax |각오=리부트 280랩까지는 리슨족 맞죠? |한마디=시간상 영상편집 못했습니다 감성곡으로 도파민 좀 뺍...</comment>
-      <origin>631</origin>
+      <origin>722</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="515" sha1="i53h8zmmke5ccnmqsubdz6o4321xrpw" xml:space="preserve">{{문서:창팝
-|유튜브Id=WBPaJFuxflE
+      <text bytes="536" sha1="9nl503f14myxla13rdd2hklbxuio398" xml:space="preserve">{{문서:창팝
+|유튜브Id=qQMojuUzs5s
+|제작자=선율족
 |개사여부=아니오
 }}
 {{창팝 기본 개요}}
@@ -21336,7 +21337,7 @@ Cultual, 어차피 언젠가
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>i53h8zmmke5ccnmqsubdz6o4321xrpw</sha1>
+      <sha1>9nl503f14myxla13rdd2hklbxuio398</sha1>
     </revision>
   </page>
   <page>
