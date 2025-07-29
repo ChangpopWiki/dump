@@ -2338,14 +2338,15 @@ break = no
     <ns>8</ns>
     <id>64</id>
     <revision>
-      <id>159</id>
-      <parentid>64</parentid>
-      <timestamp>2025-06-15T13:50:18Z</timestamp>
+      <id>724</id>
+      <parentid>723</parentid>
+      <timestamp>2025-07-29T06:48:46Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>159</origin>
+      <comment>[[Special:Contributions/창팝위키|창팝위키]] ([[User talk:창팝위키|토론]])의 [[Special:Diff/723|723]] 판 편집을 되돌림</comment>
+      <origin>724</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="144" sha1="s4ds2p7ikew13392m6qniskqudnocco" xml:space="preserve">현재 창팝위키는 베타 오픈입니다. [[창팝위키:선착장#c-창팝위키-20250615134700-창팝위키_베타_오픈|공지 보기]]</text>
