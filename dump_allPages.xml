@@ -119,17 +119,18 @@ break=no
     <ns>10</ns>
     <id>4</id>
     <revision>
-      <id>720</id>
-      <parentid>465</parentid>
-      <timestamp>2025-07-23T16:18:01Z</timestamp>
+      <id>734</id>
+      <parentid>720</parentid>
+      <timestamp>2025-08-06T11:58:10Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>720</origin>
+      <comment>제작자 없는 경우 짧은설명에 {{{제작자}}} 표시되지 않게, {{{고화질썸네일없음}}} 에 부울변환 사용</comment>
+      <origin>734</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="4467" sha1="s2o95tqkffi7pkvi4d8n8z86208bs2f" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="4515" sha1="gcb2vvujvy4r9v871why3rp4uu18wj5" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;&lt;templatestyles src="정보상자" /&gt;&lt;!--
 
@@ -137,7 +138,7 @@ break=no
 --&gt;{{#만약일치: {{이름공간수}} | 0 | &lt;!-- 
 
 -- 짧은설명 지정 --&gt; 
-{{SHORTDESC: {{{제작자}}}의 {{#if: {{부울변환|{{{개사여부|}}}}} | 개사&amp;nbsp;}}창팝 }} &lt;!-- 
+{{SHORTDESC: {{#if: {{{제작자|}}} | {{{제작자}}}의 }} {{#if: {{부울변환|{{{개사여부|}}}}} | 개사&amp;nbsp;}}창팝 }} &lt;!-- 
 
 -- 분류 지정 --&gt;
 [[분류:창팝]] &lt;!-- 
@@ -156,7 +157,7 @@ break=no
 	}}&lt;!-- 
  --&gt;{{{다른언어제목_|}}}
 |- class="infobox-image"
-| colspan=2 | {{#if: {{{유튜브Id|}}} | https://i.ytimg.com/vi/{{{유튜브Id}}}/{{#if: {{{고화질썸네일없음|}}} | mqdefault | maxresdefault }}.jpg }}
+| colspan=2 | {{#if: {{{유튜브Id|}}} | https://i.ytimg.com/vi/{{{유튜브Id}}}/{{#if: {{부울변환| {{{고화질썸네일없음|}}} }} | mqdefault | maxresdefault }}.jpg }}
 |-
 {{#if: {{{별명|}}} |
 ! 별명
@@ -315,7 +316,7 @@ break=no
 &lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>s2o95tqkffi7pkvi4d8n8z86208bs2f</sha1>
+      <sha1>gcb2vvujvy4r9v871why3rp4uu18wj5</sha1>
     </revision>
   </page>
   <page>
@@ -656,19 +657,18 @@ a {
     <ns>4</ns>
     <id>12</id>
     <revision>
-      <id>682</id>
-      <parentid>681</parentid>
-      <timestamp>2025-07-07T13:59:21Z</timestamp>
+      <id>745</id>
+      <parentid>682</parentid>
+      <timestamp>2025-08-06T12:17:55Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>[[Special:Contributions/185.241.208.185|185.241.208.185]]([[User talk:185.241.208.185|토론]])의 편집을 [[User:창팝위키|창팝위키]]의 마지막 판으로 되돌림</comment>
-      <origin>468</origin>
+      <comment>/* 창팝위키 베타 오픈 */ 답변</comment>
+      <origin>745</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2893" sha1="h7tdmjvmdb2gil1hcxehmd43yua7rts" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
+      <text bytes="3282" sha1="jheesybi5dr8brp8d8kfevg1o11f46n" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
 __새문단쓰기__
 [[분류:창팝위키]]
 {{창팝위키 둘러보기}}
@@ -686,6 +686,8 @@ __새문단쓰기__
 :창팝 문서에서 &lt;code&gt;공개일&lt;/code&gt;은 이제 유튜브 영상이 있는 경우 영상 업로드 날짜로 설정됩니다. 대표 영상과 첫 공개일이 다르지 않다면 비워도 됩니다.&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 6월 23일 (월) 17:38 (KST)
 :업데이트:
 :창팝 문서에 &lt;code&gt;별명&lt;/code&gt;, &lt;code&gt;화자&lt;/code&gt;, &lt;code&gt;BPM&lt;/code&gt;, &lt;code&gt;제작 방법&lt;/code&gt; 필드가 새롭게 추가되었습니다. &lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 7월 6일 (일) 18:11 (KST)
+:업데이트:
+:양식으로 편집할 때 더 이상 문서별 편집지침을 왔다갔다 하지 않아도 되도록 편집 창에 필드 설명이 나타납니다. 문서별 편집지침은 곧 폐지할 예정입니다.&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 8월 6일 (수) 21:17 (KST)
 
 == 건?의?사항 ==
 
@@ -700,7 +702,7 @@ __새문단쓰기__
 
 :지금은 선착장이 통합 창구 맞아요. 잘 찾아오셨습니다.
 :단독 가사 문서를 직접 볼 경우는 따로 생각하지 않았는데 일단 바꿀 수 있게 소도구에 추가했습니다. ('환경 설정 → 소도구'에서 활성화 가능)&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 6월 20일 (금) 01:27 (KST)</text>
-      <sha1>h7tdmjvmdb2gil1hcxehmd43yua7rts</sha1>
+      <sha1>jheesybi5dr8brp8d8kfevg1o11f46n</sha1>
     </revision>
   </page>
   <page>
@@ -834,16 +836,18 @@ __새문단쓰기__
     <ns>3010</ns>
     <id>15</id>
     <revision>
-      <id>15</id>
-      <timestamp>2025-06-10T10:43:13Z</timestamp>
+      <id>736</id>
+      <parentid>15</parentid>
+      <timestamp>2025-08-06T12:01:59Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>15</origin>
+      <comment>설명 수정</comment>
+      <origin>736</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="3556" sha1="7y0y1rfzsunae991wmwze8k7ozzgjjc" xml:space="preserve">&lt;noinclude&gt;
+      <text bytes="3679" sha1="1uzeipmsw6ov3n5eewkj1o711txppn0" xml:space="preserve">&lt;noinclude&gt;
 {{문서:설명문서}}
 &lt;/noinclude&gt;
 개별 창드컵 문서에 사용되는 틀입니다. 창드컵 문서의 형태는 [[창팝위키:편집지침/창드컵]] 및 [[본보기:창드컵]]을 참고해주세요.
@@ -941,21 +945,21 @@ __새문단쓰기__
 {
 	"params": {
 		"명칭": {
-			"description": "창드컵의 이름",
+			"description": "창드컵의 명칭을 적어주세요.",
 			"example": "엄선작 2024년 1편",
-			"type": "line",
+			"type": "string",
 			"default": "{{PAGENAME}}",
-			"suggested": true
+			"required": true
 		},
 		"강": {
-			"description": "창드컵이 몇 강전인지",
+			"description": "창드컵이 몇 강인지 수로 적어주세요.",
 			"example": "32",
 			"type": "number",
 			"required": true
 		},
 		"유형": {
-			"description": "창드컵의 유형",
-			"type": "line",
+			"description": "창드컵의 유형을 선택해 주세요.",
+			"type": "string",
 			"required": true,
 			"suggestedvalues": [
 				"엄선작 2024",
@@ -968,24 +972,22 @@ __새문단쓰기__
 		},
 		"PikuId": {
 			"label": "PIKU 월드컵 ID",
-			"description": "PIKU 월드컵 URL 중 뒤의 ID 부분",
-			"example": "6pb5B4",
+			"description": "PIKU 월드컵 URL에서 ID 부분만 적어주세요. ",
 			"type": "string",
-			"required": true
+			"suggested": true
 		},
 		"기타": {
-			"description": "정보상자에 표기할 기타 내용",
+			"description": "정보상자에 추가할 만한 기타 내용이 있는 경우 입력해 주세요.",
 			"type": "content"
 		},
 		"오픈날짜": {
 			"label": "오픈 날짜",
-			"description": "창드컵이 오픈한 날짜 - 시기 비교를 위한 것으로 명확한 기준이 없으며 퍼클이 있던 날짜나 대충 임의의 근처 날짜로 대체할 수 있습니다.",
-			"type": "date",
-			"suggested": true
+			"description": "창드컵이 오픈한 날짜를 입력해 주세요. 시기 비교를 위한 것으로 명확한 기준이 없으며 퍼클이 있던 날짜나 대충 임의의 근처 날짜로 대체할 수 있습니다.",
+			"type": "date"
 		},
 		"폐지날짜": {
 			"label": "폐지 날짜",
-			"description": "창드컵이 폐지된 날짜 (현재 사용되지 않는 창드컵에 경우) - 명확한 날짜가 없을 경우 임의의 날짜로 대체될 수 있습니다.",
+			"description": "현재 사용되지 않는 창드컵에 경우 창드컵이 폐지된 날짜를 적어 주세요. 명확한 날짜가 없을 경우 임의의 날짜로 대체될 수 있습니다.",
 			"type": "date"
 		}
 	},
@@ -1003,7 +1005,7 @@ __새문단쓰기__
 }
 &lt;/templatedata&gt;
 }}</text>
-      <sha1>7y0y1rfzsunae991wmwze8k7ozzgjjc</sha1>
+      <sha1>1uzeipmsw6ov3n5eewkj1o711txppn0</sha1>
     </revision>
   </page>
   <page>
@@ -1011,16 +1013,17 @@ __새문단쓰기__
     <ns>106</ns>
     <id>16</id>
     <revision>
-      <id>16</id>
-      <timestamp>2025-06-13T12:23:46Z</timestamp>
+      <id>743</id>
+      <parentid>16</parentid>
+      <timestamp>2025-08-06T12:12:18Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>16</origin>
+      <origin>743</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2116" sha1="0vjdl47utui05krtvij7x6y33tn0u3x" xml:space="preserve">&lt;!--
+      <text bytes="2533" sha1="l6cuxw957bb5gl0w03k11chtvxy5rdc" xml:space="preserve">&lt;!--
 ---------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------
 
 --&gt;
@@ -1039,53 +1042,59 @@ __새문단쓰기__
 편집 전 [[창팝위키:편집지침/창드컵]]을 읽어주세요.
 ----
 {{{ for template| 문서:창드컵 }}}
-{| class="wikitable wikitable--fluid formbox" style="width: 100%"
-|+ [[틀:문서:창드컵]]
+{| class="wikitable wikitable--fluid formbox"
+|- 
+| 
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창드컵 | 변수이름 = 명칭}}
+{{양식 추가 공간 필드
+| 필드 = {{{ field | 명칭 }}}
+| 추가공간필드 = {{{ field | 명칭_ | input type=textarea | cols = 60 }}}
+}}
 |-
-! 명칭: 
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | 명칭 }}}
-    | 추가공간필드 = {{{ field | 명칭_ | input type=textarea | cols = 60 }}}
-  }}
+| 
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창드컵 | 변수이름 = PikuId}}
+{{양식 추가 공간 필드
+| 필드 = {{{ field | PikuId }}}
+| 추가공간필드 = {{{ field | PikuId_ | input type=textarea | cols = 60 }}}
+}}
+|- 
+| 
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창드컵 | 변수이름 = 강}}
+{{양식 추가 공간 필드
+| 필드 = {{{ field | 강 | input type=regexp | regexp=/^\d+$/ | message=숫자를 입력해 주세요 }}}
+| 추가공간필드 = {{{ field | 강_ | input type=textarea | cols = 60 }}}
+}}
 |-
-! PIKU 월드컵 ID:
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | PikuId }}}
-    | 추가공간필드 = {{{ field | PikuId_ | input type=textarea | cols = 60 }}}
-  }}
+| 
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창드컵 | 변수이름 = 유형}}
+{{양식 추가 공간 필드
+| 필드 = {{{ field | 유형 | input type=combobox | cargo table=창드컵 | cargo field=유형 }}}
+| 추가공간필드 = {{{ field | 유형_ | input type=textarea | cols = 60 }}}
+}}
 |-
-! 강: 
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | 강 | input type=regexp | regexp=/^\d+$/ | message=숫자를 입력해 주세요 }}}
-    | 추가공간필드 = {{{ field | 강_ | input type=textarea | cols = 60 }}}
-  }}
+| 
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창드컵 | 변수이름 = 오픈날짜}}
+{{ 양식 추가 공간 필드
+| 필드 = {{{ field | 오픈날짜 | input type=datepicker }}}
+| 추가공간필드 = {{{ field | 오픈날짜_ | input type=textarea | cols = 60 }}}
+}}
 |-
-! 유형: 
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | 유형 | input type=combobox | cargo table=창드컵 | cargo field=유형 }}}
-    | 추가공간필드 = {{{ field | 유형_ | input type=textarea | cols = 60 }}}
-  }}
+| 
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창드컵 | 변수이름 = 폐지날짜}}
+{{양식 추가 공간 필드
+| 필드 = {{{ field | 폐지날짜 | input type=datepicker }}}
+| 추가공간필드 = {{{ field | 폐지날짜_ | input type=textarea | cols = 60 }}}
+}}
 |-
-! 오픈 날짜: 
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | 오픈날짜 | input type=datepicker }}}
-    | 추가공간필드 = {{{ field | 오픈날짜_ | input type=textarea | cols = 60 }}}
-  }}
-|-
-! 폐지 날짜: 
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | 폐지날짜 | input type=datepicker }}}
-    | 추가공간필드 = {{{ field | 폐지날짜_ | input type=textarea | cols = 60 }}}
-  }}
-|-
-! 기타:
-| {{{ field | 기타 }}}
+| 
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창드컵 | 변수이름 = 기타}}
+{{{ field | 기타 }}}
 |}
 {{{end template}}}&lt;!--
 
 --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
 --&gt;</text>
-      <sha1>0vjdl47utui05krtvij7x6y33tn0u3x</sha1>
+      <sha1>l6cuxw957bb5gl0w03k11chtvxy5rdc</sha1>
     </revision>
   </page>
   <page>
@@ -1568,23 +1577,25 @@ __새문단쓰기__
     <ns>8</ns>
     <id>38</id>
     <revision>
-      <id>706</id>
-      <parentid>225</parentid>
-      <timestamp>2025-07-16T04:31:15Z</timestamp>
+      <id>729</id>
+      <parentid>728</parentid>
+      <timestamp>2025-08-06T11:38:54Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>706</origin>
+      <minor/>
+      <origin>729</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="593" sha1="b7mj2gt7ycq3utyhhzqttu0udq81nwc" xml:space="preserve">* DiscussionToolsEnhancedReadability[ default ] | DiscussionToolsEnhancedReadability.css
+      <text bytes="653" sha1="8tvp7am08wq24953ha677vy7x7qiufv" xml:space="preserve">* DiscussionToolsEnhancedReadability[ default ] | DiscussionToolsEnhancedReadability.css
+* PageFormsStyles[ default | hidden ] | PageFormsStyles.css
 * ExpandWikiEditorOnPreview[ default | skins = citizen ] | ExpandWikiEditorOnPreview.css
 * HideApprovedLatestMsg[ default ] | HideApprovedLatestMsg.css
 * Edittools [ ResourceLoader | hidden | default | actions = edit ] | Edittools.js | MoveEdittoolsInside.js | StylingEdittools.css
 * LyricNamespaceSansSerif | LyricNamespaceSansSerif.css
 * instantDiffs [ResourceLoader | dependencies=site, mediawiki.api, mediawiki.util, mediawiki.storage, mediawiki.notification, mediawiki.Title, oojs] | instantDiffs.js</text>
-      <sha1>b7mj2gt7ycq3utyhhzqttu0udq81nwc</sha1>
+      <sha1>8tvp7am08wq24953ha677vy7x7qiufv</sha1>
     </revision>
   </page>
   <page>
@@ -1817,38 +1828,42 @@ return p</text>
     <ns>3810</ns>
     <id>46</id>
     <revision>
-      <id>46</id>
-      <timestamp>2025-06-13T12:25:14Z</timestamp>
+      <id>742</id>
+      <parentid>46</parentid>
+      <timestamp>2025-08-06T12:11:02Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>46</origin>
+      <origin>742</origin>
       <model>sanitized-css</model>
       <format>text/css</format>
-      <text bytes="440" sha1="7vji6uoccfbpasskbgjwysn9xwdezvq" xml:space="preserve">/* 양식([[:분류:양식]]) 이름공간에 있는 문서에 적용될 스타일 */
+      <text bytes="365" sha1="a4o4xelvrjx3z0e221a1mq6kz9iimts" xml:space="preserve">/* 양식([[:분류:양식]]) 문서에 적용할 스타일 */
 
-input.createboxInput {
-	height: 30px;
+.toc {
+	display: none;	
 }
 
-createboxInput{
-	border-radius: 2px;
+.formbox {
+	display: table;	
+	width: 100%;
+	max-width: none;
+	font-size: 1rem;
 }
 
 .formbox th {
 	min-width: 10em;
 }
 
-.extra-space-container .mw-collapsible-toggle-default::before {
-  content: '추가 공간 [';
+.formbox td {
+	padding-top: 1rem;
+	padding-bottom: 1.5rem;
 }
 
-/* 체크박스 위에 불필요한 마진이 생기는 것을 제거 */
-.pf-checkbox-input-container .oo-ui-fieldLayout {
-	margin-top: 0;
+.extra-space-container .mw-collapsible-toggle-default::before {
+  content: '추가 공간 [';
 }</text>
-      <sha1>7vji6uoccfbpasskbgjwysn9xwdezvq</sha1>
+      <sha1>a4o4xelvrjx3z0e221a1mq6kz9iimts</sha1>
     </revision>
   </page>
   <page>
@@ -4407,16 +4422,17 @@ html.skin-theme-clientpref-night .ts-doc-footer {
     <ns>10</ns>
     <id>106</id>
     <revision>
-      <id>106</id>
-      <timestamp>2025-06-10T09:38:15Z</timestamp>
+      <id>737</id>
+      <parentid>106</parentid>
+      <timestamp>2025-08-06T12:04:36Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>106</origin>
+      <origin>737</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="770" sha1="dyuxstw3gxwe6dzcvaebiqooztz02gw" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="781" sha1="8b8lmi8u8o7l3nkdfbwhfeh6olw507e" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;{{#ifeq: {{이름공간수}} | 0 |
     
@@ -4431,7 +4447,7 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 
 }}&lt;!--
 
---&gt;{{#formredlink: target = {{{창드컵|}}} | form = 창드컵 }}{{{_|}}}{{구분자}}&lt;!-- 
+--&gt;{{#formredlink: target = {{{창드컵|}}} | form = 창드컵 }}{{{추가공간|}}}{{구분자}}&lt;!-- 
 
 --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
 
@@ -4444,7 +4460,7 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 &lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>dyuxstw3gxwe6dzcvaebiqooztz02gw</sha1>
+      <sha1>8b8lmi8u8o7l3nkdfbwhfeh6olw507e</sha1>
     </revision>
   </page>
   <page>
@@ -4474,16 +4490,17 @@ html.skin-theme-clientpref-night .ts-doc-footer {
     <ns>3010</ns>
     <id>108</id>
     <revision>
-      <id>108</id>
-      <timestamp>2025-06-10T05:10:51Z</timestamp>
+      <id>738</id>
+      <parentid>108</parentid>
+      <timestamp>2025-08-06T12:04:56Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>108</origin>
+      <origin>738</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1390" sha1="85n5nvp1gw39omgs4ucgr8trketr05w" xml:space="preserve">&lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+      <text bytes="1456" sha1="2huu31m7tjlhc8a0umvur5t180y08be" xml:space="preserve">&lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
 
 --&gt;{{문서:설명문서}}&lt;!--
 
@@ -4501,14 +4518,14 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 {{수록 창드컵
 | 창드컵 = ⧼창드컵⧽
 | 수록날짜 = ⧼수록날짜⧽
-| _ = ⧼_⧽
+| 추가공간 = ⧼추가공간⧽
 }}
 &lt;/pre&gt;
 | 결과 =
 {{수록 창드컵
 | 창드컵 = ⧼창드컵⧽
 | 수록날짜 = ⧼수록날짜⧽
-| _ = ⧼_⧽
+| 추가공간 = ⧼추가공간⧽
 }}
 }}
 
@@ -4528,7 +4545,7 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 			"type": "wiki-page-name",
 			"required": true
 		},
-		"_": {
+		"추가공간": {
 			"label": "추가 공간",
 			"description": "각주 등을 입력할 수 있는 추가 공간",
 			"type": "content"
@@ -4538,13 +4555,13 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 	"paramOrder": [
 		"창드컵",
 		"수록날짜",
-		"_"
+		"추가공간"
 	],
 	"format": "block"
 }
 &lt;/templatedata&gt;
 }}</text>
-      <sha1>85n5nvp1gw39omgs4ucgr8trketr05w</sha1>
+      <sha1>2huu31m7tjlhc8a0umvur5t180y08be</sha1>
     </revision>
   </page>
   <page>
@@ -4855,17 +4872,18 @@ html.skin-theme-clientpref-night .ts-doc-footer {
     <ns>3010</ns>
     <id>117</id>
     <revision>
-      <id>466</id>
-      <parentid>313</parentid>
-      <timestamp>2025-07-06T09:04:10Z</timestamp>
+      <id>735</id>
+      <parentid>466</parentid>
+      <timestamp>2025-08-06T12:00:02Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>466</origin>
+      <comment>설명 수정</comment>
+      <origin>735</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="3923" sha1="f7p7g09mcxlg8wa1n5o6djrudswqd1y" xml:space="preserve">&lt;noinclude&gt;
+      <text bytes="5449" sha1="kt67iy9pgtsb35zgllnpw6hfh6uifwz" xml:space="preserve">&lt;noinclude&gt;
 {{문서:설명문서}}
 &lt;/noinclude&gt;
 개별 창팝 문서에 사용되는 틀입니다.
@@ -4926,75 +4944,73 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 {
 	"params": {
 		"곡명": {
-			"description": "곡의 제목",
-			"type": "content",
+			"description": "곡의 제목을 적어주세요. 문서 이름이 기본값으로 사용되므로  동음이의어 문서 등 문서 이름과 곡명이 다른 특수한 경우가 아니라면 입력하지 않아도 됩니다.",
+			"type": "string",
 			"default": "{{문서이름}}"
 		},
 		"원곡명": {
-			"description": "개사곡의 원곡",
+			"description": "개사곡이라면 원곡을 입력해 주세요.",
 			"type": "content"
 		},
 		"공개일": {
-			"description": "곡이 공개된 날짜",
+			"description": "곡이 공개된 날짜를 입력해 주세요. '유튜브Id'가 입력된 경우에는 해당 유튜브 영상의 업로드 날짜로 자동으로 채워지므로 입력하지 않아도 됩니다.",
 			"type": "date",
-			"suggested": true,
-			"default": "{{유튜브Id}} 가 설정된 경우, 해당 유튜브 영상의 업로드 날짜"
+			"default": "{{{유튜브Id}}}가 있는 경우 해당 유튜브 영상의 업로드 날짜"
 		},
 		"프롬프트": {
-			"description": "곡에 사용된 프롬프트",
+			"description": "곡에 사용된 프롬프트가 알려져 있다면 입력해 주세요.",
 			"type": "content"
 		},
 		"유튜브Id": {
 			"label": "유튜브 ID",
-			"description": "유튜브 영상 링크에 포함된 고유 ID",
+			"description": "곡의 대표 유튜브 영상 Id를 입력해 주세요. 유튜브 영상 링크에서 'v=' 뒤에 위치합니다. ",
 			"example": "ZslMLJ_eoC0",
 			"type": "string",
 			"suggested": true
 		},
 		"개사여부": {
 			"label": "개사 여부",
-			"description": "개사곡인지 아닌지",
+			"description": "개사곡이라면 체크해 주세요.",
 			"type": "boolean",
 			"suggested": true
 		},
 		"제작자": {
-			"description": "제작자의 이름",
-			"type": "content",
-			"required": true
+			"description": "제작자의 이름을 입력해 주세요. 합작인 경우 대표 제작자 한 명만 적어주세요.",
+			"type": "string",
+			"suggested": true
 		},
 		"기타": {
-			"type": "content"
+			"type": "content",
+			"description": "정보상자에 추가할 만한 기타 내용이 있는 경우 입력해 주세요."
 		},
 		"수록컵": {
 			"label": "수록 창드컵",
-			"description": "수록된 창드컵 목록",
-			"example": "0개 이상의 {{수록 창드컵}} 틀",
+			"description": "이 곡이 현재 수록되어있는 창드컵이 있다면 추가해 주세요.",
 			"type": "wiki-template-name"
 		},
 		"이전수록컵": {
 			"label": "이전 수록 창드컵",
-			"description": "과거에 수록되었던 창드컵 목록",
-			"example": "0개 이상의 {{이전 수록 창드컵}} 틀",
+			"description": "이 곡이 과거에 수록되었던 창드컵이 있다면 추가해 주세요.",
 			"type": "wiki-template-name"
 		},
 		"다른언어제목": {
 			"label": "다른 언어 제목",
-			"description": "곡명과 다른 언어로 된 제목",
-			"type": "content"
+			"description": "원제와 다른 언어로 된 제목이 있다면 적어주세요. 원제가 한국어가 아닌 다른 언어인 경우 자주 불리는 한국어 제목이 있다면 그 제목을 적을 수 있습니다. 원제가 한국어인 경우에는 공식적으로 다른 언어 표기가 있는 경우에만 적고 임의로 번역해서 적지 말아주세요.",
+			"type": "string"
 		},
 		"별명": {
-			"description": "곡의 별명이나 줄임말",
+			"description": "곡의 별명이나 줄임말을 입력해 주세요. 여러 개인 경우 쉼표로 구분합니다.",
 			"example": "리국가, 바리정",
-			"type": "line"
+			"type": "string"
 		},
 		"화자": {
-			"description": "곡의 화자",
+			"description": "곡의 화자를 입력해 주세요.",
 			"example": "신창섭 (feat.전재학)",
-			"type": "line"
+			"type": "string"
 		},
 		"제작방법": {
 			"label": "제작 방법",
-			"description": "곡이 만들어지는 데 사용된 방법",
+			"description": "곡이 만들어지는데 사용된 방법이 알려져 있다면 입력해 주세요. 다중 선택 가능.",
 			"type": "line",
 			"suggestedvalues": [
 				"Suno",
@@ -5006,8 +5022,14 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 			]
 		},
 		"BPM": {
-			"description": "곡의 BPM",
-			"type": "number"
+			"description": "곡의 BPM이 알려져 있다면 입력해 주세요.",
+			"type": "number",
+			"example": "128"
+		},
+		"고화질썸네일없음": {
+			"label": "고화질 썸네일 없음",
+			"description": "유튜브 영상에 고화질 썸네일이 없어 회색 썸네일로 표시되는 경우 체크하세요. 대신 일반 화질 썸네일을 사용합니다.",
+			"type": "boolean"
 		}
 	},
 	"description": "개별 창팝 문서에 사용되는 틀입니다.",
@@ -5027,12 +5049,13 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 		"제작방법",
 		"프롬프트",
 		"BPM",
+		"고화질썸네일없음",
 		"기타"
 	]
 }
 &lt;/templatedata&gt;
 }}</text>
-      <sha1>f7p7g09mcxlg8wa1n5o6djrudswqd1y</sha1>
+      <sha1>kt67iy9pgtsb35zgllnpw6hfh6uifwz</sha1>
     </revision>
   </page>
   <page>
@@ -5087,18 +5110,18 @@ html.skin-theme-clientpref-night .ts-doc-footer {
     <ns>106</ns>
     <id>120</id>
     <revision>
-      <id>467</id>
-      <parentid>120</parentid>
-      <timestamp>2025-07-06T09:06:48Z</timestamp>
+      <id>741</id>
+      <parentid>467</parentid>
+      <timestamp>2025-08-06T12:10:20Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>창팝추가정보 테이블 추가에 따라 맞게 변경</comment>
-      <origin>467</origin>
+      <comment>양식 레이아웃 변경</comment>
+      <origin>741</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="4073" sha1="pdd00lvyikheumxc9uf27j08iruizjc" xml:space="preserve">&lt;!-------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------
+      <text bytes="6184" sha1="8rn0zpg03nmdgswvczvtp0k3e8juud1" xml:space="preserve">&lt;!-------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------
 
 --&gt;
 {{문서:양식}}
@@ -5109,123 +5132,174 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 
 --------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
---&gt; __목차숨김__ &lt;!--
+--&gt; __문단편집숨김__ &lt;!--
 --&gt; &lt;div style="clear: both"&gt;&lt;/div&gt;
 &lt;templatestyles src="양식" /&gt;
 {{{ info | add title = 양식으로 문서 생성 | edit title = 양식으로 편집 }}}
 편집 전 [[창팝위키:편집지침/창팝]]을 읽어주세요.
 {{{ for template| 문서:창팝 }}}
-{| class="wikitable wikitable--fluid formbox" style="width: 100%"  
+
+== 주요 필요 정보 ==
+
+{| class="wikitable wikitable--fluid formbox"
 |-
-! 곡명: 
-| {{ 양식 추가 공간 필드
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 유튜브Id}}
+{{양식 추가 공간 필드
+| 필드 = {{{ field | 유튜브Id }}}
+| 추가공간필드 = {{{ field | 유튜브Id_ | input type=textarea }}}
+}}
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 제작자}}
+{{ 양식 추가 공간 필드
+| 필드 = {{{ field | 제작자 }}}
+| 추가공간필드 = {{{ field | 제작자_ | input type=textarea }}}
+}}
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 개사여부}}
+{{{ field | 개사여부 | input type=checkbox | show on select = pf-show-on-개사여부 }}}&lt;!-- 
+--&gt;&lt;div id="pf-show-on-개사여부"&gt;
+{| class="wikitable formbox"
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 원곡명}}
+{{양식 추가 공간 필드
+| 필드 = {{{ field | 원곡명 }}}
+| 추가공간필드 = {{{ field | 원곡명_ | input type=textarea }}}
+}}
+|}&lt;!-- 
+--&gt;&lt;/div&gt;
+|}
+
+=== 창드컵 수록 정보 ===
+
+{| class="wikitable wikitable--fluid formbox"
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 수록컵}}
+{{{ field | 수록컵 | holds template }}}
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 이전수록컵}}
+{{{ field | 이전수록컵 | holds template }}}
+|}
+
+== 선택 정보 ==
+
+{| class="wikitable wikitable--fluid formbox"
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 공개일}}
+{{양식 추가 공간 필드
+| 필드 = {{{ field | 공개일 | input type=datepicker }}}
+| 추가공간필드 = {{{ field | 공개일_ | input type=textarea }}}
+}}
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 곡명}}
+{{양식 추가 공간 필드
     | 필드 = {{{ field | 곡명 }}}
     | 추가공간필드 = {{{ field | 곡명_ | input type=textarea }}}
-  }}
+}}
+|}
+
+== 추가 정보 ==
+
+{| class="wikitable wikitable--fluid formbox"
 |-
-! 다른 언어 제목: 
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | 다른언어제목 }}}
-    | 추가공간필드 = {{{ field | 다른언어제목_ | input type=textarea }}}
-  }}
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 다른언어제목}}
+{{양식 추가 공간 필드
+| 필드 = {{{ field | 다른언어제목 }}}
+| 추가공간필드 = {{{ field | 다른언어제목_ | input type=textarea }}}
+}}
 |-
-! 별명: 
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | 별명 }}}
-    | 추가공간필드 = {{{ field | 별명_ | input type=textarea }}}
-  }}
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 별명}}
+{{양식 추가 공간 필드
+| 필드 = {{{ field | 별명 }}}
+| 추가공간필드 = {{{ field | 별명_ | input type=textarea }}}
+}}
 |-
-! 유튜브 ID: 
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | 유튜브Id }}}
-    | 추가공간필드 = {{{ field | 유튜브Id_ | input type=textarea }}}
-  }}
+| 
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 화자}}
+{{양식 추가 공간 필드
+| 필드 = {{{ field | 화자 }}}
+| 추가공간필드 = {{{ field | 화자_ | input type=textarea }}}
+}}
 |-
-! 제작자: 
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | 제작자 }}}
-    | 추가공간필드 = {{{ field | 제작자_ | input type=textarea }}}
-  }}
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 제작방법}}
+{{ 양식 추가 공간 필드
+| 필드 = {{{ field | 제작방법 | input type=tokens | cargo table=창팝추가정보 | cargo field = 제작방법 }}}
+| 추가공간필드 = {{{ field | 제작방법_ | input type=textarea }}}
+}}
 |-
-! 개사 여부: 
-| {{{ field | 개사여부 | input type=checkbox }}}
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 프롬프트}}
+{{ 양식 추가 공간 필드
+| 필드 = {{{ field | 프롬프트 }}}
+| 추가공간필드 = {{{ field | 프롬프트_ | input type=textarea }}}
+}}
 |-
-! 원곡명: 
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | 원곡명 }}}
-    | 추가공간필드 = {{{ field | 원곡명_ | input type=textarea }}}
-  }}
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = BPM}}
+{{ 양식 추가 공간 필드
+| 필드 = {{{ field | BPM }}}
+| 추가공간필드 = {{{ field | BPM_ | input type=textarea }}}
+}}
+|}
+
+== 기타 ==
+
+{| class="wikitable wikitable--fluid formbox"
 |-
-! 화자: 
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | 화자 }}}
-    | 추가공간필드 = {{{ field | 화자_ | input type=textarea }}}
-  }}
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 기타}}
+{{{ field | 기타 | input type=textarea }}}
 |-
-! 공개일: 
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | 공개일 | input type=datepicker }}}
-    | 추가공간필드 = {{{ field | 공개일_ | input type=textarea }}}
-  }}
-|-
-! 수록 창드컵: 
-| {{{ field | 수록컵 | holds template }}}
-|-
-! 이전 수록 창드컵: 
-| {{{ field | 이전수록컵 | holds template }}}
-|-
-! 제작 방법: 
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | 제작방법 | input type=tokens | cargo table=창팝추가정보 | cargo field = 제작방법 }}}
-    | 추가공간필드 = {{{ field | 제작방법_ | input type=textarea }}}
-  }}
-|-
-! 프롬프트: 
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | 프롬프트 }}}
-    | 추가공간필드 = {{{ field | 프롬프트_ | input type=textarea }}}
-  }}
-|-
-! BPM: 
-| {{ 양식 추가 공간 필드
-    | 필드 = {{{ field | BPM }}}
-    | 추가공간필드 = {{{ field | BPM_ | input type=textarea }}}
-  }}
-|-
-! 기타: 
-| {{{ field | 기타 | input type=textarea }}}
-|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 고화질썸네일없음}}
+{{{ field | 고화질썸네일없음 | input type=checkbox }}}
 |}
 {{{end template}}}
 
 {{{ for template | 수록 창드컵 | multiple | embed in field = 문서:창팝[수록컵] }}}
-{| class="wikitable wikitable--fluid" style="width: 100%"
+{| class="wikitable wikitable--fluid formbox"
 |-
-! 창드컵
-| {{{ field | 창드컵 | input type = combobox | values from category = 창드컵 }}}
+|
+{{양식 필드 레이블 | 틀이름 = 틀:수록 창드컵 | 변수이름 = 창드컵}}
+{{{ field | 창드컵 | input type = combobox | values from category = 창드컵 }}}
 |-
-! 수록 날짜
-| {{{ field | 수록날짜 | input type = datepicker }}}
+|
+{{양식 필드 레이블 | 틀이름 = 틀:수록 창드컵 | 변수이름 = 수록날짜}}
+{{{ field | 수록날짜 | input type = datepicker }}}
 |-
-! 추가 공간
-| {{{ field | _ | input type = textarea }}}
+|
+{{양식 필드 레이블 | 틀이름 = 틀:수록 창드컵 | 변수이름 = 추가공간}}
+{{{ field | _ | input type = textarea }}}
 |}
 {{{end template}}}
 
 {{{ for template | 이전 수록 창드컵 | multiple | embed in field = 문서:창팝[이전수록컵] }}}
-{| class="wikitable wikitable--fluid" style="width: 100%"
+{| class="wikitable wikitable--fluid formbox"
 |-
-! 창드컵
-| {{{ field | 창드컵 | input type = combobox | values from category = 창드컵 }}}
+| 
+{{양식 필드 레이블 | 틀이름 = 틀:이전 수록 창드컵 | 변수이름 = 창드컵}}
+{{{ field | 창드컵 | input type = combobox | values from category = 창드컵 }}}
 |-
-! 수록 날짜
-| {{{ field | 수록날짜 | input type = datepicker }}}
+|
+{{양식 필드 레이블 | 틀이름 = 틀:이전 수록 창드컵 | 변수이름 = 수록날짜}}
+{{{ field | 수록날짜 | input type = datepicker }}}
 |-
-! 제외 날짜
-| {{{ field | 제외날짜 | input type = datepicker }}}
+|
+{{양식 필드 레이블 | 틀이름 = 틀:이전 수록 창드컵 | 변수이름 = 제외날짜}}
+{{{ field | 제외날짜 | input type = datepicker }}}
 |-
-! 추가 공간
-| {{{ field | _ | input type = textarea }}}
+|
+{{양식 필드 레이블 | 틀이름 = 틀:이전 수록 창드컵 | 변수이름 = 추가공간}}
+{{{ field | _ | input type = textarea }}}
 |}
 {{{end template}}}
 
@@ -5234,7 +5308,7 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 
 --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
 --&gt;</text>
-      <sha1>pdd00lvyikheumxc9uf27j08iruizjc</sha1>
+      <sha1>8rn0zpg03nmdgswvczvtp0k3e8juud1</sha1>
     </revision>
   </page>
   <page>
@@ -5535,16 +5609,17 @@ piku\.co.kr
     <ns>10</ns>
     <id>130</id>
     <revision>
-      <id>130</id>
-      <timestamp>2025-06-10T06:21:58Z</timestamp>
+      <id>739</id>
+      <parentid>130</parentid>
+      <timestamp>2025-08-06T12:07:41Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>130</origin>
+      <origin>739</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="595" sha1="h159di4nur3jun95finujwx8gdo7vhs" xml:space="preserve">{{#formredlink: target = {{{창드컵|}}} | form = 창드컵 }}{{{_|}}}{{구분자}}&lt;!-- 
+      <text bytes="606" sha1="lep26cwyqhmaiki5lqo8yaf7x62r0zj" xml:space="preserve">{{#formredlink: target = {{{창드컵|}}} | form = 창드컵 }}{{{추가공간|}}}{{구분자}}&lt;!-- 
 
 --&gt;{{#만약일치: {{이름공간수}} | 0 | &lt;!-- 
 
@@ -5565,7 +5640,7 @@ piku\.co.kr
 &lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>h159di4nur3jun95finujwx8gdo7vhs</sha1>
+      <sha1>lep26cwyqhmaiki5lqo8yaf7x62r0zj</sha1>
     </revision>
   </page>
   <page>
@@ -5573,16 +5648,17 @@ piku\.co.kr
     <ns>3010</ns>
     <id>131</id>
     <revision>
-      <id>131</id>
-      <timestamp>2025-06-10T06:23:38Z</timestamp>
+      <id>740</id>
+      <parentid>131</parentid>
+      <timestamp>2025-08-06T12:07:59Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>131</origin>
+      <origin>740</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1575" sha1="infn3bw4pm0djsp554gmnfod3ktaybn" xml:space="preserve">&lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+      <text bytes="1641" sha1="tgzlcc3i82kjwbyojkzmb4y1prqotmt" xml:space="preserve">&lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
 
 --&gt;{{문서:설명문서}}&lt;!--
 
@@ -5601,7 +5677,7 @@ piku\.co.kr
 | 창드컵 = ⧼창드컵⧽
 | 수록날짜 = ⧼수록날짜⧽
 | 제외날짜 = ⧼제외날짜⧽
-| _ = ⧼_⧽
+| 추가공간 = ⧼추가공간⧽
 }}
 &lt;/pre&gt;
 | 결과 =
@@ -5609,7 +5685,7 @@ piku\.co.kr
 | 창드컵 = ⧼창드컵⧽
 | 수록날짜 = ⧼수록날짜⧽
 | 제외날짜 = ⧼제외날짜⧽
-| _ = ⧼_⧽
+| 추가공간 = ⧼추가공간⧽
 }}
 }}
 
@@ -5629,7 +5705,7 @@ piku\.co.kr
 			"type": "wiki-page-name",
 			"required": true
 		},
-		"_": {
+		"추가공간": {
 			"label": "추가 공간",
 			"description": "각주 등을 입력할 수 있는 추가 공간",
 			"type": "content"
@@ -5645,13 +5721,13 @@ piku\.co.kr
 		"창드컵",
 		"수록날짜",
 		"제외날짜",
-		"_"
+		"추가공간"
 	],
 	"format": "block"
 }
 &lt;/templatedata&gt;
 }}</text>
-      <sha1>infn3bw4pm0djsp554gmnfod3ktaybn</sha1>
+      <sha1>tgzlcc3i82kjwbyojkzmb4y1prqotmt</sha1>
     </revision>
   </page>
   <page>
@@ -7295,34 +7371,33 @@ Big Brother의 창을 넘어, 너만의 길을 가
     <ns>0</ns>
     <id>177</id>
     <revision>
-      <id>529</id>
-      <parentid>188</parentid>
-      <timestamp>2025-07-06T11:38:57Z</timestamp>
+      <id>744</id>
+      <parentid>529</parentid>
+      <timestamp>2025-08-06T12:13:59Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>529</origin>
+      <origin>744</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="332" sha1="buufxzefdcodtkw7egi8o0vdk8aw8j1" xml:space="preserve">{{문서:창팝
-|곡명=접었으면 갈 길 가세요
+      <text bytes="362" sha1="em74rs244glcqwxarndzsn5xhafwf79" xml:space="preserve">{{문서:창팝
 |유튜브Id=fbpdUmXVHHk
 |제작자=신도
 |개사여부=아니오
-|공개일=2024-06-21
 |수록컵={{수록 창드컵
 |창드컵=2024년 1편
 }}
+|공개일=2024-06-21
+|곡명=접었으면 갈 길 가세요
+|고화질썸네일없음=예
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>buufxzefdcodtkw7egi8o0vdk8aw8j1</sha1>
+      <sha1>em74rs244glcqwxarndzsn5xhafwf79</sha1>
     </revision>
   </page>
   <page>
@@ -10794,23 +10869,59 @@ Six Seven Eight Night
     <ns>0</ns>
     <id>242</id>
     <revision>
-      <id>263</id>
-      <timestamp>2025-06-21T10:02:09Z</timestamp>
+      <id>748</id>
+      <parentid>263</parentid>
+      <timestamp>2025-08-06T12:52:24Z</timestamp>
       <contributor>
-        <username>이거는진짜인가가짜인가</username>
-        <id>6</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창드컵 |명칭=엄선작 2024년 2편 |PikuId=2SQfBZ |강=32 |유형=엄선작 2024 }}</comment>
-      <origin>263</origin>
+      <origin>748</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="98" sha1="64802gz3u0876elnajojcq6tdvv3yy1" xml:space="preserve">{{문서:창드컵
+      <text bytes="877" sha1="iyfcmg8m3n2l02pmdq2er6qyctv89j8" xml:space="preserve">{{문서:창드컵
 |명칭=엄선작 2024년 2편
 |PikuId=2SQfBZ
 |강=32
 |유형=엄선작 2024
-}}</text>
-      <sha1>64802gz3u0876elnajojcq6tdvv3yy1</sha1>
+}}
+
+== 수록곡 ==
+[[:분류:2024년 2편 수록곡]]
+
+* [[사탕의 혈육]]
+* [[Rice monkey]]
+* [[카르마 투아쿨파]]
+* [[golf! golf!]]
+* [[이해가쏙쏙되잖아리슝좍아]]
+* [[Listen Jock]]
+* [[돈주머니]]
+* [[웃참]]
+* [[이딴게 재밌냐]]
+* [[기만의 메아리]]
+* [[리선족 해적단]]
+* [[신(이딴게)]]
+* [[Hello, Maplers !]]
+* [[나는 주범인가 봐]]
+* [[Normalization]]
+* [[Next Normalization GMS 정상화]]
+* [[PHOTOSHOP]]
+* [[세 명의 신]]
+* [[인간실격 리주범]]
+* [[쌀박도]]
+* [[오판]]
+* [[가을이야기]]
+* [[쌀숭이 미만]]
+* [[직접 공격]]
+* [[매출 하회탈]]
+* [[제발 돌아와 줘]]
+* [[한잔해]]
+* [[할만해]]
+* [[쌀숭이 왈츠]]
+* [[신(릴창섭)]]
+* [[이 매출 이상해]] 
+* [[뭘 바라냐]]</text>
+      <sha1>iyfcmg8m3n2l02pmdq2er6qyctv89j8</sha1>
     </revision>
   </page>
   <page>
@@ -22277,19 +22388,24 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>461</id>
     <revision>
-      <id>658</id>
-      <timestamp>2025-07-06T17:18:52Z</timestamp>
+      <id>746</id>
+      <parentid>658</parentid>
+      <timestamp>2025-08-06T12:31:19Z</timestamp>
       <contributor>
         <username>리자예</username>
         <id>7</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=XALfUH21LyM |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=49 |참가닉네임=듀럼밀보리 장인 연합 |제목=뇌 안에임 |키워드=젖가슴둘레 |각오=은퇴 10일차지만 복면은 써야겠습니다. |한마디=하지 말걸 그랬어 내가 왜 그랬을까 뮤비도 못 만들면서 참...</comment>
-      <origin>658</origin>
+      <comment>단품 정상화</comment>
+      <origin>746</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="527" sha1="2hhcyb2g4bt3vuorlnns436g05d5s1a" xml:space="preserve">{{문서:창팝
-|유튜브Id=XALfUH21LyM
+      <text bytes="621" sha1="me0gsxkb95bt8yrr6zk4dzycdnzit3m" xml:space="preserve">{{문서:창팝
+|유튜브Id=1_sXU4cPImA
+|제작자=리자예
 |개사여부=아니오
+|화자=신창섭
+|제작방법=Suno
+|고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -22306,7 +22422,7 @@ Cultual, 어차피 언젠가
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>2hhcyb2g4bt3vuorlnns436g05d5s1a</sha1>
+      <sha1>me0gsxkb95bt8yrr6zk4dzycdnzit3m</sha1>
     </revision>
   </page>
   <page>
@@ -23582,6 +23698,346 @@ I didn't even have time to think about it, 역돌격</text>
       <text bytes="63" sha1="ehsm8fx70hdn2u3n2auezzgl33wat2y" xml:space="preserve">본 문서 없이 가사만 있는 문서 목록입니다.
 ----</text>
       <sha1>ehsm8fx70hdn2u3n2auezzgl33wat2y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>창팝위키:유지관리</title>
+    <ns>4</ns>
+    <id>490</id>
+    <revision>
+      <id>726</id>
+      <parentid>725</parentid>
+      <timestamp>2025-08-06T11:30:29Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <origin>726</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="trzd0x5j3e3a5lowq71o4uw4olkq1d8" xml:space="preserve">== 백업 ==
+[[창팝위키]]의 모든 페이지는 매일 [https://github.com/ChangpopWiki/dump GitHub ChangpopWikik/dump 저장소]에 백업되고 있습니다.
+
+=== LocalSettings.php ===
+''추가예정''
+[[분류:창팝위키]]</text>
+      <sha1>trzd0x5j3e3a5lowq71o4uw4olkq1d8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>미디어위키:Gadget-PageFormsStyles.css</title>
+    <ns>8</ns>
+    <id>491</id>
+    <revision>
+      <id>727</id>
+      <timestamp>2025-08-06T11:37:28Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: #pfForm input.createboxInput, .formbox input.createboxInput{ 	height: 30px; 	background-color: var(--background-color-base); 	border-radius: 2px; 	border-color: var(--border-color-base, #a2a9b1); 	 	transition-property: border-color; 	transition-duration: 250ms; }  /* 체크박스 위에 불필요한 마진이 생기는 것을 제거 */ .pf-checkbox-input-container .oo-ui-fieldLayout { 	margin-top: 0; }  #pfForm .createboxInput { 	border-color: var(--border-color-base, #a2a9b1);...</comment>
+      <origin>727</origin>
+      <model>css</model>
+      <format>text/css</format>
+      <text bytes="1362" sha1="8xj5m4fjk7okdjp531l1t4uwfi05eb9" xml:space="preserve">#pfForm input.createboxInput,
+.formbox input.createboxInput{
+	height: 30px;
+	background-color: var(--background-color-base);
+	border-radius: 2px;
+	border-color: var(--border-color-base, #a2a9b1);
+	
+	transition-property: border-color;
+	transition-duration: 250ms;
+}
+
+/* 체크박스 위에 불필요한 마진이 생기는 것을 제거 */
+.pf-checkbox-input-container .oo-ui-fieldLayout {
+	margin-top: 0;
+}
+
+#pfForm .createboxInput {
+	border-color: var(--border-color-base, #a2a9b1);
+}
+
+/* 다크 모드 제대로 지원하지 않는 스타일 정상화 */
+.multipleTemplateInstance {
+	background-color: var(--background-color-neutral, #eaecf0);
+	border-color: var(--border-color-base, #a2a9b1);
+}
+
+.select2-container--default .select2-selection--multiple {
+	background-color: var(--background-color-base);
+	border-color: var(--border-color-base, #a2a9b1);
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+	background-color: var(--background-color-neutral);
+}
+
+.pf-select2-dropdown .select2-results__options .select2-results__option--highlighted {
+	background-color: var(--background-color-progressive) !important;
+}
+
+.select2-dropdown {
+	background-color: var(--background-color-base) ; 
+}
+
+.select2-container--default .select2-results__option[aria-selected="true"] {
+	background-color: var(--background-color-neutral);
+}</text>
+      <sha1>8xj5m4fjk7okdjp531l1t4uwfi05eb9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:틀데이터 가져오기</title>
+    <ns>10</ns>
+    <id>492</id>
+    <revision>
+      <id>730</id>
+      <timestamp>2025-08-06T11:41:22Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------  --&gt;{{#external_value:   $.pages.*.params['{{{변수이름}}}'].&lt;!-- --&gt;{{#스위치: {{{속성}}} | 레이블 = label | 설명 = description | 예시 = example | 종류 = type | 기본값 = default | 자동값 = autovalue | 필수 = required | 권장 = suggested | 사용되지않음 = deprecated }}  | source =  {{서버}}{{스크립트경로}}&lt;!--  --&gt;/api.php?&lt;!--  --&gt;action=templatedata&lt;!--  --&gt;&amp;...</comment>
+      <origin>730</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="905" sha1="q0sfbsllx2s1ittvl4xidhz33g57th3" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+--&gt;{{#external_value: 
+
+$.pages.*.params['{{{변수이름}}}'].&lt;!--
+--&gt;{{#스위치: {{{속성}}}
+| 레이블 = label
+| 설명 = description
+| 예시 = example
+| 종류 = type
+| 기본값 = default
+| 자동값 = autovalue
+| 필수 = required
+| 권장 = suggested
+| 사용되지않음 = deprecated
+}}
+
+| source = 
+{{서버}}{{스크립트경로}}&lt;!-- 
+--&gt;/api.php?&lt;!-- 
+--&gt;action=templatedata&lt;!-- 
+--&gt;&amp;lang=ko&lt;!-- 
+--&gt;&amp;format=json&lt;!-- 
+--&gt;&amp;titles={{주소인코딩: {{{틀이름}}} }}
+
+| use jsonpath = true
+| min cache seconds = 10
+}}&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;{{설명문서}}[[분류:틀]]&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>q0sfbsllx2s1ittvl4xidhz33g57th3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>설명문서:틀:틀데이터 가져오기</title>
+    <ns>3010</ns>
+    <id>493</id>
+    <revision>
+      <id>732</id>
+      <parentid>731</parentid>
+      <timestamp>2025-08-06T11:46:38Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <origin>732</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1312" sha1="syk6k8xcmh75d6jph34mjx754zixhlb" xml:space="preserve">틀데이터에 저장된 값을 본문에서 사용할 수 있도록 가져오는 틀입니다.
+
+== 예시 ==
+
+{{틀 예시
+| 코드 = 
+&lt;pre&gt;
+{{틀데이터 가져오기
+|틀이름=틀:틀데이터 가져오기
+|변수이름=틀이름
+|속성=설명
+}}
+&lt;/pre&gt;
+| 결과 =
+{{틀데이터 가져오기
+|틀이름=틀:틀데이터 가져오기
+|변수이름=틀이름
+|속성=설명
+}}
+}}
+
+{{틀데이터|
+&lt;templatedata&gt;
+{
+	"params": {
+		"변수이름": {
+			"label": "변수 이름",
+			"description": "해당 틀의 변수 중 틀데이터를 가져올 변수 이름",
+			"type": "string",
+			"required": true
+		},
+		"속성": {
+			"label": "속성",
+			"description": "가져올 틀데이터 속성",
+			"type": "string",
+			"required": true,
+			"suggestedvalues": [
+				"레이블",
+				"설명",
+				"예시",
+				"종류",
+				"기본값",
+				"자동값",
+				"필수",
+				"권장",
+				"사용되지않음"
+			]
+		},
+		"틀이름": {
+			"label": "틀 이름",
+			"description": "틀 문서의 이름",
+			"type": "wiki-page-name",
+			"required": true
+		}
+	},
+	"paramOrder": [
+		"틀이름",
+		"변수이름",
+		"속성"
+	],
+	"description": "틀데이터에 저장된 값을 본문에서 사용할 수 있도록 가져오는 틀입니다."
+}
+&lt;/templatedata&gt;
+}}
+&lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt;</text>
+      <sha1>syk6k8xcmh75d6jph34mjx754zixhlb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:양식 필드 레이블</title>
+    <ns>10</ns>
+    <id>494</id>
+    <revision>
+      <id>733</id>
+      <timestamp>2025-08-06T11:56:08Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------   --&gt;{{#vardefine: 레이블 	| {{#or: {{틀데이터 가져오기|틀이름={{{틀이름}}}|변수이름={{{변수이름}}}|속성=레이블}}  	  | {{{변수이름}}}  	  }} 	}}&lt;!--  	  --&gt;{{#vardefine: 설명 	| {{틀데이터 가져오기|틀이름={{{틀이름}}}|변수이름={{{변수이름}}}|속성=설명}}  	}}&lt;!--   --&gt;{{#vardefine: 예시 	| {{틀데이터 가져오기|틀이름={{{틀이...</comment>
+      <origin>733</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1712" sha1="gpayuzknurgj3itcz59jg3zgawspxfr" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
+
+ --&gt;{{#vardefine: 레이블
+	| {{#or: {{틀데이터 가져오기|틀이름={{{틀이름}}}|변수이름={{{변수이름}}}|속성=레이블}} 
+	  | {{{변수이름}}} 
+	  }}
+	}}&lt;!-- 
+	
+ --&gt;{{#vardefine: 설명
+	| {{틀데이터 가져오기|틀이름={{{틀이름}}}|변수이름={{{변수이름}}}|속성=설명}} 
+	}}&lt;!--
+
+ --&gt;{{#vardefine: 예시
+	| {{틀데이터 가져오기|틀이름={{{틀이름}}}|변수이름={{{변수이름}}}|속성=예시}} 
+	}}&lt;!--
+
+ --&gt;{{#vardefine: 필수
+	| {{#if: {{부울변환 | {{틀데이터 가져오기|틀이름={{{틀이름}}}|변수이름={{{변수이름}}}|속성=필수}} }}
+	  | (필수)
+	  }}
+	}}&lt;!--
+
+ --&gt;{{#vardefine: 권장
+	| {{#if: {{부울변환 | {{틀데이터 가져오기|틀이름={{{틀이름}}}|변수이름={{{변수이름}}}|속성=권장}} }}
+	  | (권장)
+	  }}
+	}}&lt;!--
+	
+--&gt;&lt;div style="display: flex; gap: 10px; align-items: center; margin-bottom: 0.5rem;"&gt;&lt;!-- 
+	--&gt;'''{{#var: 레이블}}'''&lt;!-- 
+	--&gt;&lt;code style="font-size: var(--font-size-x-small); line-height: normal;"&gt;{{{변수이름}}}&lt;/code&gt;&lt;!-- 
+	--&gt;&lt;span style="font-weight: 500; color: var(--color-subtle);"&gt;{{#or: {{#var: 필수}} | {{#var: 권장}} }}&lt;/span&gt;&lt;!-- 
+--&gt;&lt;/div&gt;&lt;!--
+--&gt;&lt;p style="color: var(--color-subtle); margin-top: 0;"&gt;{{#var: 설명}} {{#if: {{#var: 예시}} | (예: {{#var: 예시}}) }}&lt;/p&gt;&lt;!-- 
+
+
+--------------------------------&gt;&lt;/onlyinclude&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;{{설명문서}}[[분류:틀]]&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>gpayuzknurgj3itcz59jg3zgawspxfr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:뇌 안에임</title>
+    <ns>3200</ns>
+    <id>495</id>
+    <revision>
+      <id>747</id>
+      <timestamp>2025-08-06T12:33:20Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 바로 시작합니다!  지금 용사님들이 보고 계시는 것이 바로 쌀숭이, 뇌 안에임!  리부트 혐오, but 창팝 좋아, 창팝 싫어, 창팝이 범죄다, 사료 징징, 창북공정, 쌀인스텝 탭 탭댄스 이런 안에라도 뇌 안에가 되기에 안될 건 없잖아 너희들이 아무리 시기해도 아무튼 우리는 행복하다고  기획자로 시작해 어쩌다 돼버렸지 단풍세계의 책임자 나도 몰랐어 여기서 내 운명...</comment>
+      <origin>747</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1819" sha1="ovf4mi1ergqdc6uf5fc07zc5ct5tqmr" xml:space="preserve">바로 시작합니다!
+
+지금 용사님들이 보고 계시는 것이 바로
+쌀숭이, 뇌 안에임!
+
+리부트 혐오, but 창팝 좋아, 창팝 싫어, 창팝이 범죄다,
+사료 징징, 창북공정, 쌀인스텝 탭 탭댄스
+이런 안에라도 뇌 안에가 되기에 안될 건 없잖아
+너희들이 아무리 시기해도 아무튼 우리는 행복하다고
+
+기획자로 시작해 어쩌다 돼버렸지 단풍세계의 책임자
+나도 몰랐어 여기서 내 운명의 상대를 만나게 될 줄은
+내가 가진 버섯 알레르기를 배려해주며 대신 먹어주기까지 해
+서버비도 안 내고 감히 버섯을 집어던진 표독 접선족들보다 훨씬 낫지
+
+밸패 해달라 드러눕는 모습까지 받아줄 수 있어
+어차피 다 WWE고 나를 사랑해서 그러는 거야
+마인드셋부터 젖가슴둘레까지 부족할게 뭐 있겠어
+매달 사료만 꼬박 바치면 정말로 정말로 행복하다고
+
+리부트 혐오, but 창팝 좋아, 창팝 싫어, 창팝이 범죄다, 
+사료 징징, 창북공정, 쌀인스텝 탭 탭댄스 
+이런 안에라도 뇌 안에가 되기에 안될 건 없잖아
+너희들이 아무리 시기해도 아무튼 우리는 행복하다고
+
+원기형은 도대체 왜 패드립을 들으며 산지 모르겠어
+이렇게 매력있고 사랑스러운 뇌 안에인걸
+리슨족 친구들 부러우면 부럽다고 말해 신포도는 그만둬
+너희들도 당장 이 세계로 와서 사랑스런 쌀숭이들과 만나자
+
+리부트 혐오, but 창팝 좋아, 창팝 싫어, 창팝이 범죄다,
+사료 징징, 창북공정, 쌀인스텝 탭 탭댄스
+이런 안에라도 뇌 안에가 되기에 안될 건 없잖아
+너희들이 아무리 시기해도 아무튼 우리는 행복하다고
+아무튼, 아무튼 행복하다고 (씨발)</text>
+      <sha1>ovf4mi1ergqdc6uf5fc07zc5ct5tqmr</sha1>
     </revision>
   </page>
 </mediawiki>
