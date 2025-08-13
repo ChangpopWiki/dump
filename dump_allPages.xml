@@ -21080,25 +21080,28 @@ Cultual, 어차피 언젠가
     </revision>
   </page>
   <page>
-    <title>렌창섭: 선족 헌터즈</title>
+    <title>렌창섭</title>
     <ns>0</ns>
     <id>426</id>
     <revision>
-      <id>696</id>
-      <parentid>695</parentid>
-      <timestamp>2025-07-15T10:49:04Z</timestamp>
+      <id>770</id>
+      <parentid>760</parentid>
+      <timestamp>2025-08-13T12:48:05Z</timestamp>
       <contributor>
-        <username>브론넷 박사</username>
-        <id>10</id>
+        <username>리자예</username>
+        <id>7</id>
       </contributor>
-      <origin>696</origin>
+      <origin>770</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="584" sha1="opo4qj5edxz8vqzvhxfxa35z0pogt8e" xml:space="preserve">{{문서:창팝
-|곡명=렌창섭: 선족 헌터스
+      <text bytes="641" sha1="1rje01fs76jjthb279kms2gi7o362vx" xml:space="preserve">{{문서:창팝
 |유튜브Id=Nq7poJtTrY0
 |제작자=도사의 길
 |개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 3편
+}}
+|고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -21115,7 +21118,7 @@ Cultual, 어차피 언젠가
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>opo4qj5edxz8vqzvhxfxa35z0pogt8e</sha1>
+      <sha1>1rje01fs76jjthb279kms2gi7o362vx</sha1>
     </revision>
   </page>
   <page>
@@ -21419,20 +21422,24 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>435</id>
     <revision>
-      <id>722</id>
-      <parentid>721</parentid>
-      <timestamp>2025-07-27T08:05:38Z</timestamp>
+      <id>759</id>
+      <parentid>722</parentid>
+      <timestamp>2025-08-13T12:12:52Z</timestamp>
       <contributor>
-        <username>창팝위키</username>
-        <id>2</id>
+        <username>리자예</username>
+        <id>7</id>
       </contributor>
-      <origin>722</origin>
+      <origin>759</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="536" sha1="9nl503f14myxla13rdd2hklbxuio398" xml:space="preserve">{{문서:창팝
+      <text bytes="629" sha1="arl4eyy5pi811baa3gqcdzn6ic0pp2e" xml:space="preserve">{{문서:창팝
 |유튜브Id=qQMojuUzs5s
 |제작자=선율족
 |개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 3편
+}}
+|고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -21449,7 +21456,7 @@ Cultual, 어차피 언젠가
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>9nl503f14myxla13rdd2hklbxuio398</sha1>
+      <sha1>arl4eyy5pi811baa3gqcdzn6ic0pp2e</sha1>
     </revision>
   </page>
   <page>
@@ -23329,17 +23336,19 @@ Cultual, 어차피 언젠가
     </revision>
   </page>
   <page>
-    <title>가사:렌창섭: 선족 헌터즈</title>
+    <title>가사:렌창섭</title>
     <ns>3200</ns>
     <id>484</id>
     <revision>
-      <id>701</id>
-      <parentid>698</parentid>
-      <timestamp>2025-07-15T11:07:43Z</timestamp>
+      <id>755</id>
+      <parentid>701</parentid>
+      <timestamp>2025-08-13T11:49:09Z</timestamp>
       <contributor>
-        <username>브론넷 박사</username>
-        <id>10</id>
+        <username>리자예</username>
+        <id>7</id>
       </contributor>
+      <minor/>
+      <comment>리자예님이 [[가사:렌창섭: 선족 헌터즈]] 문서를 넘겨주기를 만들지 않고 [[가사:렌창섭]] 문서로 이동했습니다: 곡 제목 바뀜</comment>
       <origin>701</origin>
       <model>text</model>
       <format>text/plain</format>
@@ -24038,6 +24047,752 @@ $.pages.*.params['{{{변수이름}}}'].&lt;!--
 너희들이 아무리 시기해도 아무튼 우리는 행복하다고
 아무튼, 아무튼 행복하다고 (씨발)</text>
       <sha1>ovf4mi1ergqdc6uf5fc07zc5ct5tqmr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2025년 3편</title>
+    <ns>0</ns>
+    <id>496</id>
+    <revision>
+      <id>750</id>
+      <parentid>749</parentid>
+      <timestamp>2025-08-13T11:44:55Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>수록곡 목록</comment>
+      <origin>750</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1297" sha1="259la0m4xilg1wjqwnz5p0jg0jxt3gq" xml:space="preserve">{{문서:창드컵
+|명칭=엄선작 2025년 3편
+|PikuId=5XFISn
+|강=32
+|유형=엄선작 2025
+|오픈날짜=2025-08-09
+|오픈날짜_=&lt;ref&gt;[https://gall.dcinside.com/mgallery/board/view/?id=maplereboot&amp;no=3640257 25-3 베타 종료 및 4차 패치 노트]&lt;/ref&gt;&lt;ref&gt;베타는 7월 13일에 오픈했다. [https://gall.dcinside.com/mgallery/board/view/?id=maplereboot&amp;no=3624830 25-3 베타 시작]&lt;/ref&gt;
+}}
+
+== 수록곡 ==
+* [[X스머신 김쌀숭]]
+* [[Bastard]]
+* [[렌창섭]]
+* [[황혼, 저편으로]]
+* [[창팝이란 무엇인가?]]
+* [[쌀쌀한 보랏빛 꿈 속의 지각]]
+* [[주입돼 버린 거야]]
+* [[사탄, 사명, 사랑, 사탕]]
+* [[Nostalgia]]
+* [[기대해,]]
+* [[돌아와줘]]
+* [[이대로만 갑시다.]]
+* [[불편한 거지]]
+* [[창팝을 고소 하라고? 즐기면 되잖아]]
+* [[쉼,표]]
+* [[내 쌀값이 무너졌어]]
+* [[쌀리갈리]]
+* [[판교 never sleeps]]
+* [[봉봉]]
+* [[Pangyo Casino]]
+* [[밑반찬의 신]]
+* [[펑크 메이플]]
+* [[초비 상~! 메이플 역대급 쇼케 이후 리선족들 근황 ㅋㅋ]]
+* [[Hollow Game]]
+* [[사자의 노래]]
+* [[라이스피싱]]
+* [[나 돈쓰면서 게임 했었다]]
+* [[메접의 종류와 단계를 알아보자]]
+* [[스윙 인 창팝]]
+* [[역극]]
+* [[(외쳐) 신]]
+* [[명품 레스토랑]]</text>
+      <sha1>259la0m4xilg1wjqwnz5p0jg0jxt3gq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>25-3</title>
+    <ns>0</ns>
+    <id>497</id>
+    <redirect title="2025년 3편" />
+    <revision>
+      <id>751</id>
+      <timestamp>2025-08-13T11:46:28Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>[[2025년 3편]] 문서로 넘겨주기</comment>
+      <origin>751</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30" sha1="qwkdcr557kd9l70jlrecxpcfaxafver" xml:space="preserve">#넘겨주기 [[2025년 3편]]</text>
+      <sha1>qwkdcr557kd9l70jlrecxpcfaxafver</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>25-2</title>
+    <ns>0</ns>
+    <id>498</id>
+    <redirect title="2025년 2편" />
+    <revision>
+      <id>752</id>
+      <timestamp>2025-08-13T11:47:19Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>[[2025년 2편]] 문서로 넘겨주기</comment>
+      <origin>752</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30" sha1="ox2mw8lg5rilw0u8c005uau859wpjwy" xml:space="preserve">#넘겨주기 [[2025년 2편]]</text>
+      <sha1>ox2mw8lg5rilw0u8c005uau859wpjwy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>렌창섭: 선족 헌터즈</title>
+    <ns>0</ns>
+    <id>499</id>
+    <redirect title="렌창섭" />
+    <revision>
+      <id>754</id>
+      <timestamp>2025-08-13T11:48:58Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>리자예님이 [[렌창섭: 선족 헌터즈]] 문서를 [[렌창섭]] 문서로 이동했습니다: 곡 제목 바뀜</comment>
+      <origin>754</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27" sha1="gxwz00vqlnz8dys08xp396begutaw11" xml:space="preserve">#넘겨주기 [[렌창섭]]</text>
+      <sha1>gxwz00vqlnz8dys08xp396begutaw11</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:X스머신 김쌀숭</title>
+    <ns>3200</ns>
+    <id>500</id>
+    <revision>
+      <id>756</id>
+      <timestamp>2025-08-13T12:02:18Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 창섭이형 고마워요 이게 바로 SAX (SAX) 메소값만 바라봐도 단단해져 SAX (SAX) 매순간이 고점이야 지금 바로 털어내 한철장사 끝나기전 템을 전부 털어내  메소가 2000원을 넘었잖아 시급이 미친듯이 오르잖아 배고팟던 날들아 이제는 BYE BYE 사고팟던 것들을 이제는 BUY BUY  뉴비, 복귀한테 아이템을 처분해! 현실을 보기전에 한달안에 처분해! 물린 템들 손절하고 나는 이...</comment>
+      <origin>756</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1698" sha1="nw83g5inj97efp3mfpaf2l2qtm9k6hi" xml:space="preserve">창섭이형 고마워요 이게 바로 SAX (SAX)
+메소값만 바라봐도 단단해져 SAX (SAX)
+매순간이 고점이야 지금 바로 털어내
+한철장사 끝나기전 템을 전부 털어내
+
+메소가 2000원을 넘었잖아
+시급이 미친듯이 오르잖아
+배고팟던 날들아 이제는 BYE BYE
+사고팟던 것들을 이제는 BUY BUY
+
+뉴비, 복귀한테 아이템을 처분해!
+현실을 보기전에 한달안에 처분해!
+물린 템들 손절하고 나는 이제 떠난다!
+지겨웠던 날들아 이제는 bye! byeeeeeeeeeee!
+
+메소팔아 치킨먹어 이게바로
+SAX SAX (SAX SAX)
+SAX SAX (SAX SAX)
+점유율이 올라가니 이게바로
+SAX SAX (SAX SAX)
+SAX SAX (SAX SAX)
+SAX SAX SAX SAX SAX SAX SAX SAX 
+
+사기치던 그날들을 이제는 용서해줘
+한달 굶은 자취생도 돈을 버는 이기분
+올라가는 그래프에 내 심장도 떨려와
+남들 파는 그 타이밍 나만 홀딩했잖아
+
+악성재고 던져버려 물량조절 기가막혀
+인벤정리 시원하게 일확천금이 보인다
+메이플 시작한뒤로 현실이 더 게임같아
+창섭이형, 그 말대로 이게 진짜 SAX
+
+익절은 못 했지만 포기는 안 해
+물렸던 기억조차도 이젠 미화돼
+다신 안 한다 외치면서 창을 열어
+오늘도 템값 확인하며 
+외쳐!
+SAX
+
+뉴비, 복귀한테 아이템을 처분해!
+현실을 보기전에 한달안에 처분해!
+물린 템들 손절하고 나는 이제 떠난다!
+지겨웠던 날들아 이제는 bye! byeeeeeeeeeee!
+
+메소팔아 치킨먹어 이게바로
+SAX SAX (SAX SAX)
+SAX SAX (SAX SAX)
+점유율이 올라가니 이게바로
+SAX SAX (SAX SAX)
+SAX SAX (SAX SAX)
+SAX SAX SAX SAX SAX SAX SAX SAX SAX</text>
+      <sha1>nw83g5inj97efp3mfpaf2l2qtm9k6hi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bastard</title>
+    <ns>0</ns>
+    <id>501</id>
+    <revision>
+      <id>757</id>
+      <timestamp>2025-08-13T12:06:15Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=DCwVcBbYpYY |제작자=노래일기 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |다른언어제목=꼴통 |제작방법=Suno |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
+      <origin>757</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="359" sha1="lregt6fxzjzv9l4wsbr1tynoq3zm9rp" xml:space="preserve">{{문서:창팝
+|유튜브Id=DCwVcBbYpYY
+|제작자=노래일기
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 3편
+}}
+|다른언어제목=꼴통
+|제작방법=Suno
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>lregt6fxzjzv9l4wsbr1tynoq3zm9rp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:Bastard</title>
+    <ns>3200</ns>
+    <id>502</id>
+    <revision>
+      <id>758</id>
+      <timestamp>2025-08-13T12:11:28Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 안녕 꼴통들아!  재미 좀 봤냐? 인디 싸다구 페스티벌 인 척 패버리기 일쑤 그따구면 대체 누가 오겠냐? 병신같은 생각? 지금 당장 하자!  모두 모여 Bastard(Bastard) 저질러 보자 지금 Like a Suicide Squad 놀아 보자 Psycho(Psycho) 끝까지 가자 폭주 We're Trouble Makers  거지라니 왠 깡통을 구해와서 두들기며 노래하던 또라이도 사람말이 안통하는 짐승무리 사람되라 훈계하는 멍청...</comment>
+      <origin>758</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1217" sha1="3u3oyqpzdtxr4w8iiqct33494va1phq" xml:space="preserve">안녕 꼴통들아!
+
+재미 좀 봤냐? 인디 싸다구
+페스티벌 인 척 패버리기 일쑤
+그따구면 대체 누가 오겠냐?
+병신같은 생각? 지금 당장 하자!
+
+모두 모여 Bastard(Bastard)
+저질러 보자 지금
+Like a Suicide Squad
+놀아 보자 Psycho(Psycho)
+끝까지 가자 폭주
+We're Trouble Makers
+
+거지라니 왠 깡통을 구해와서
+두들기며 노래하던 또라이도
+사람말이 안통하는 짐승무리
+사람되라 훈계하는 멍청이도
+이십년된 넥슨기업 게임한테
+망하라고 소리치는 돈키호테
+
+모두 모여 Bastard(Bastard)
+저질러 보자 지금
+Like a Suicide Squad
+놀아 보자 Psycho(Psycho)
+끝까지 가자 폭주
+We're Trouble Makers
+
+반년넘게 하루종일 즐겨놓고
+아직 재미있길 바라는 머저리도
+한 여름 태양아래 아이스크림
+영원하길 기도하는 바보들도
+무지개의 끝을찾아 헤매이는
+답이없는 문제를 푸는 덤앤더머
+
+저지르자 꼴통들아
+뒤엎어라 꿀통메소
+니가삼킨 고통모두
+갚아주자 분통나게
+
+모두 모여 Bastard(Bastard)
+저질러 보자 지금
+Like a Suicide Squad
+놀아 보자 Psycho(Psycho)
+끝까지 가자 폭주
+We're Trouble Makers</text>
+      <sha1>3u3oyqpzdtxr4w8iiqct33494va1phq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>황혼, 저편으로</title>
+    <ns>0</ns>
+    <id>503</id>
+    <revision>
+      <id>761</id>
+      <timestamp>2025-08-13T12:16:12Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=yQKYzUEeAug |제작자=폰서트 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |곡명=黄昏、向こうへ |다른언어제목=황혼, 저편으로 |제작방법=Suno |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
+      <origin>761</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="400" sha1="g2c0r35s0pzbor05z2emkg3mpqbil4u" xml:space="preserve">{{문서:창팝
+|유튜브Id=yQKYzUEeAug
+|제작자=폰서트
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 3편
+}}
+|곡명=黄昏、向こうへ
+|다른언어제목=황혼, 저편으로
+|제작방법=Suno
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>g2c0r35s0pzbor05z2emkg3mpqbil4u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:황혼, 저편으로</title>
+    <ns>3200</ns>
+    <id>504</id>
+    <revision>
+      <id>762</id>
+      <timestamp>2025-08-13T12:16:39Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>유튜브 설명에서 복사</comment>
+      <origin>762</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1720" sha1="90ev5f3u6j9ota8tkk3qhmqdjw1z9vy" xml:space="preserve">このままじゃないと思った
+이대로는 안 될 것 같았어
+全部僕の死を願う人ばかり
+전부 내가 죽길 바라는 사람들 뿐
+だから、思い出ももう捨てよう
+그러니, 추억도 이제는 버리자
+
+僕ら、遠くへ逃げ出そう
+우리들, 멀리 도망가자
+今更怖いものなんてないから
+이제 와서 무서울 건 아무것도 없으니까
+行こう、夕暮れの白昼夢
+가자, 해질녘의 백일몽
+
+僕ら、今何も知らないまま
+우리들, 지금 아무것도 모른 채
+疎外された僕らの終着点で
+소외당한 우리들의 종착점에서
+盲目的な追従を脱ぎ捨てて
+맹목적인 추종을 벗어던지고
+僕らの理想郷、そんな場所へ
+우리들의 이상향, 그런 곳으로
+
+等身大でいい世界なら
+있는 그대로 인정해주는 세상이었다면
+平和が続いたのだろうか
+평화가 계속될 수 있었을까?
+そうだったかもしれないけど
+그랬을지도 모르겠지만
+今は遅いみたいだね
+지금은 늦은 것 같네
+
+陰に身を潜めていたら
+그늘에 몸을 숨기고 있으면
+標的にされてしまうから
+표적이 되어버리니까
+反撃で撃つ光線銃
+반격으로 쏘는 광선총
+
+僕ら、今何も知らないまま
+우리들, 지금 아무것도 모른 채
+信じたものに裏切られてたけど
+믿었던 것들에 배신당했지만
+壊れかけた心を連れて
+부서져버린 마음을 안고서
+僕らの理想郷、そんな場所へ
+우리들의 이상향, 그런 곳으로
+
+置いてきたのは　
+두고 온 것은
+生きてきた証
+살아 온 증거
+僕らは、今
+우리들은, 지금
+黄昏、向こうへ
+황혼, 저편으로</text>
+      <sha1>90ev5f3u6j9ota8tkk3qhmqdjw1z9vy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>창팝이란 무엇인가?</title>
+    <ns>0</ns>
+    <id>505</id>
+    <revision>
+      <id>763</id>
+      <timestamp>2025-08-13T12:18:11Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=SU44Rtm4vCQ |제작자=롹슨족 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
+      <origin>763</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="310" sha1="ohrp36ff6q96b6crj3zuz7iymlg8lwh" xml:space="preserve">{{문서:창팝
+|유튜브Id=SU44Rtm4vCQ
+|제작자=롹슨족
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 3편
+}}
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>ohrp36ff6q96b6crj3zuz7iymlg8lwh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:창팝이란 무엇인가?</title>
+    <ns>3200</ns>
+    <id>506</id>
+    <revision>
+      <id>764</id>
+      <timestamp>2025-08-13T12:27:49Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 신명나게 놀아보자  창드컵은 무엇인고? 엄선작은 무엇인고? 힙드컵은 무엇인고? 락드컵은 무엇인고? 이 씨발 공포컵은 또 무엇이란 말인가?  좋~다!  창팝이란 무엇인가? 판소리 팝송인가? 창섭이가 춤을 추면 창팝으로 쳐주는가?  대체 창팝이 무엇인고? 자네들이 말해보게 대체 창팝이 무엇인가?  그래서 창팝이  무엇이란 말인가? (무엇이요?) 씨이발 나도 모르겠소...</comment>
+      <origin>764</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1556" sha1="2ud0hwjk5rsf3kbt919c2aw7bb67p82" xml:space="preserve">신명나게 놀아보자
+
+창드컵은 무엇인고?
+엄선작은 무엇인고?
+힙드컵은 무엇인고?
+락드컵은 무엇인고?
+이 씨발
+공포컵은 또
+무엇이란 말인가?
+
+좋~다!
+
+창팝이란 무엇인가?
+판소리 팝송인가?
+창섭이가 춤을 추면
+창팝으로 쳐주는가?
+
+대체 창팝이 무엇인고?
+자네들이 말해보게
+대체 창팝이 무엇인가?
+
+그래서 창팝이 
+무엇이란 말인가? (무엇이요?)
+씨이발 나도 모르겠소!
+그냥 존나게 신나서
+빵뎅이가 흔들리면
+그걸로 좋지 아니한가
+
+유스어셈블컵은 무엇인고?
+감성컵은 무엇인고?
+도파민컵은 무엇인고?
+매운맛은 무엇인고?
+아방가르드는 감도 안오네
+
+조오타~!
+
+창팝이란 무엇인가?
+팝송이 창났는가?
+메이플을 까야만
+창팝으로 쳐주는가?
+대체 창팝이 무엇인고?
+자네들이 말해보게
+대체 창팝이 무엇인고?
+
+그래서 창팝이
+무엇이란 말인가? (무엇이요?)
+씨발 나도 모르겠소!
+그냥 존나게 신나서
+빵뎅이가 흔들리면
+그걸로 좋지 아니한가
+
+하늘보고 별을 따고 땅을보고 농사 짓고
+
+올해도 풍년이요 내년에는 대풍일세!
+
+달아, 달아 밝은 달아 대낮같이 밝은 달아!
+
+어둠속의 불빛이 우리를 빛춰주네!
+
+그래서 창팝이
+무엇이란 말인가? (무엇이요?)
+씨발 나도 모르겠소!
+그냥 존나게 신나서
+빵뎅이가 흔들리면
+그걸로 좋지 아니한가
+
+씨발!
+이 곡은 오늘부터!
+창팝놀이 메탈이로다!
+
+얼쑤!</text>
+      <sha1>2ud0hwjk5rsf3kbt919c2aw7bb67p82</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>쌀쌀한 보랏빛 꿈 속의 지각</title>
+    <ns>0</ns>
+    <id>507</id>
+    <revision>
+      <id>765</id>
+      <timestamp>2025-08-13T12:31:18Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=GC8EJzMBfX8 |제작자=이단아 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |곡명=Lucid Nightmare: 쌀쌀한 보랏빛 꿈 속의 지각 |별명=쌀보지 |화자=루시드 |제작방법=Suno |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
+      <origin>765</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="428" sha1="2c9tdvjetp6m3pho6j5y8tjaei18p7r" xml:space="preserve">{{문서:창팝
+|유튜브Id=GC8EJzMBfX8
+|제작자=이단아
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 3편
+}}
+|곡명=Lucid Nightmare: 쌀쌀한 보랏빛 꿈 속의 지각
+|별명=쌀보지
+|화자=루시드
+|제작방법=Suno
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>2c9tdvjetp6m3pho6j5y8tjaei18p7r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:쌀쌀한 보랏빛 꿈 속의 지각</title>
+    <ns>3200</ns>
+    <id>508</id>
+    <revision>
+      <id>766</id>
+      <timestamp>2025-08-13T12:36:59Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 꿈에서 깬 줄 알았는데 여긴 여전히 네가 없는 곳 아무 말도 건넬 수 없어도 그때의 마음은 흐르고 있어  조금만 더 가까이 가면 닿을 수 있을 것 같았지 하지만 그 자린 늘 내 것이 아니었어  너를 위한 노래를 만들고 혼자서 불러보다 멈췄어 모두의 것이 된 순간 나는 조용히 사라졌지  지워지면 편할 줄 알았어 기억에서조차 사라지면 니 곁에 있던 나는 처음부터...</comment>
+      <origin>766</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1381" sha1="c168eypwg3qt0wxscsnpenlm257ss2o" xml:space="preserve">꿈에서 깬 줄 알았는데
+여긴 여전히 네가 없는 곳
+아무 말도 건넬 수 없어도
+그때의 마음은 흐르고 있어
+
+조금만 더 가까이 가면
+닿을 수 있을 것 같았지
+하지만 그 자린 늘
+내 것이 아니었어
+
+너를 위한 노래를 만들고
+혼자서 불러보다 멈췄어
+모두의 것이 된 순간 나는
+조용히 사라졌지
+
+지워지면 편할 줄 알았어
+기억에서조차 사라지면
+니 곁에 있던 나는 처음부터
+없던 것처럼
+
+얼어붙은 시간 속에서
+몇 번이나 널 불러봤어
+꿈처럼 아득한 너의 이름
+그게 아직 날 숨쉬게 해
+
+아무도 없는 어둠 속에서
+낯선 빛 하나가 말을 걸었지
+손을 내민 건 그였지만
+나는 너를 떠올렸어
+
+너 없는 세상을 만들며
+너를 잊지 못한 채 살아
+웃는 얼굴 사이마다
+너를 향한 그리움이 스며
+
+꿈은 점점 깊어졌고
+난 거기서 점점 멀어졌어
+내가 만든 이 모든 것엔
+너만 빠져 있다는 걸
+
+누굴 위해서였는지
+그제야 조금 알 것 같았어
+내가 찾던 건 언제나 네가
+웃던 그 날이었어
+
+이름 모를 얼굴들이
+날 비웃듯 손을 흔들어도
+한 번쯤, 단 한 번쯤 너의 눈에
+내가 닿기를
+
+돌이킬 수 없는 꿈이라도
+후회하고 싶진 않아
+마지막에 남은 마음 하나
+그게 너였다면
+그걸로 충분해</text>
+      <sha1>c168eypwg3qt0wxscsnpenlm257ss2o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>분류:2025년 3편 수록곡</title>
+    <ns>14</ns>
+    <id>509</id>
+    <revision>
+      <id>767</id>
+      <timestamp>2025-08-13T12:41:26Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: [[분류:창드컵 수록곡]]</comment>
+      <origin>767</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30" sha1="fw2hu95g843qzh588t6swffl7hy6t7l" xml:space="preserve">[[분류:창드컵 수록곡]]</text>
+      <sha1>fw2hu95g843qzh588t6swffl7hy6t7l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>주입돼 버린 거야</title>
+    <ns>0</ns>
+    <id>510</id>
+    <revision>
+      <id>768</id>
+      <timestamp>2025-08-13T12:43:36Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=om5RxVmWVFA |제작자=jetspous J |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |제작방법=Rifussion |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
+      <origin>768</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="335" sha1="hkh2eeqa37rdxs3tamfdshtmkpw8ro6" xml:space="preserve">{{문서:창팝
+|유튜브Id=om5RxVmWVFA
+|제작자=jetspous J
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 3편
+}}
+|제작방법=Rifussion
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>hkh2eeqa37rdxs3tamfdshtmkpw8ro6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:주입돼 버린 거야</title>
+    <ns>3200</ns>
+    <id>511</id>
+    <revision>
+      <id>769</id>
+      <timestamp>2025-08-13T12:47:26Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 나는야 평범한 리슨족 그저 창팝이 좋았을 뿐 정상화엔 관심도 없었어 그저 웃고 즐기기에 바빴어  그러다 창팝을 듣다보니 어느새 내 머릿속엔 리부트의 추억이 자리잡고 말았네  나는 메이플 한 적도 없는데 왜 리선족들의 증오들이 나한테도 생겨나는거지?  주입돼 버린 거야 주입돼 버린 거야 이 끔찍한 사탄의 혈육 놈들이 나의 머릿속에 추억을 주입해버린 거...</comment>
+      <origin>769</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1213" sha1="qah7kea6zdqnh63w29c062z9f5c6jhp" xml:space="preserve">나는야 평범한 리슨족
+그저 창팝이 좋았을 뿐
+정상화엔 관심도 없었어
+그저 웃고 즐기기에 바빴어
+
+그러다 창팝을 듣다보니
+어느새 내 머릿속엔
+리부트의 추억이
+자리잡고 말았네
+
+나는 메이플 한 적도 없는데
+왜 리선족들의 증오들이
+나한테도 생겨나는거지?
+
+주입돼 버린 거야
+주입돼 버린 거야
+이 끔찍한 사탄의 혈육 놈들이
+나의 머릿속에
+추억을 주입해버린 거야
+
+나는야 평범한 리슨족
+그저 창팝이 좋았을 뿐
+쌀숭이엔 관심도 없었어
+비웃으며 즐기기에 바밨어
+
+그러다 창팝을 듣다보니
+어느새 내 머릿속엔
+리부트의 증오가
+자리잡고 말았네
+
+나는 리부트 한 적도 없는데
+왜 쌀숭이에 대한 증오들이
+나한테도 생겨나는거지?
+
+주입돼 버린 거야
+주입돼 버린 거야
+이 끔찍한 사탄의 혈육 놈들이
+증오를 주입해버린 거야
+
+비록 주입돼버린 추억이지만
+오랜 시간동안 같이 노래하니
+그 추억은 내 것이 되었네
+
+주입돼 버린 거야
+주입돼 버린 거야
+이 끔찍한 사탄의 혈육 놈들이
+이젠 내 마음까지
+완전히 바꿔버린거야</text>
+      <sha1>qah7kea6zdqnh63w29c062z9f5c6jhp</sha1>
     </revision>
   </page>
 </mediawiki>
