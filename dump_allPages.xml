@@ -5381,17 +5381,19 @@ html.skin-theme-clientpref-night .ts-doc-footer {
     <ns>10</ns>
     <id>122</id>
     <revision>
-      <id>122</id>
-      <timestamp>2025-06-09T12:34:57Z</timestamp>
+      <id>813</id>
+      <parentid>122</parentid>
+      <timestamp>2025-08-18T18:57:03Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>122</origin>
+      <comment>긴 가사가 페이지 오른쪽으로 넘어가는 문제 수정</comment>
+      <origin>813</origin>
       <model>sanitized-css</model>
       <format>text/css</format>
-      <text bytes="548" sha1="2qxs9rpx0labkasywykeam66w3i17me" xml:space="preserve">.ts-lyric-container {
-	width: max-content;
+      <text bytes="548" sha1="k9rmgzhu5f285mg5z4loakst3haws4w" xml:space="preserve">.ts-lyric-container {
+	display: flow-root;
 }
 
 .ts-lyric-header {
@@ -5422,7 +5424,7 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 	border-width: 3px;
 	padding: 16px;
 }</text>
-      <sha1>2qxs9rpx0labkasywykeam66w3i17me</sha1>
+      <sha1>k9rmgzhu5f285mg5z4loakst3haws4w</sha1>
     </revision>
   </page>
   <page>
@@ -7029,16 +7031,14 @@ Big Brother의 창을 넘어, 너만의 길을 가
     <ns>0</ns>
     <id>167</id>
     <revision>
-      <id>592</id>
-      <parentid>175</parentid>
-      <timestamp>2025-07-06T11:59:13Z</timestamp>
+      <id>801</id>
+      <parentid>785</parentid>
+      <timestamp>2025-08-18T01:43:47Z</timestamp>
       <contributor>
-        <username>창팝위키</username>
-        <id>2</id>
+        <username>독슝좍</username>
+        <id>13</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>592</origin>
+      <origin>801</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="248" sha1="t30twopybj3ppvrun0i0oltv0lslj2s" xml:space="preserve">{{문서:창팝
@@ -20632,19 +20632,23 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>414</id>
     <revision>
-      <id>609</id>
-      <timestamp>2025-07-06T17:07:15Z</timestamp>
+      <id>802</id>
+      <parentid>609</parentid>
+      <timestamp>2025-08-18T01:46:26Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>독슝좍</username>
+        <id>13</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=9uXnGGbK8u0 |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=1 |참가닉네임=다람쥐2차전직교관찾습니다 |제목=갈길가자 |키워드=밤 |각오="대체 왜 이렇게 까지?" 광기의 딥페이크 범죄 |한마디=지게로치면 밴 }}  == 가사 == {{가사}}</comment>
-      <origin>609</origin>
+      <origin>802</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="455" sha1="a83lkcq1h68e8jgkufrc9dwl51uivk0" xml:space="preserve">{{문서:창팝
-|유튜브Id=9uXnGGbK8u0
+      <text bytes="598" sha1="a5g4uqdeexwih6wea510nkkeuqwx3kv" xml:space="preserve">{{문서:창팝
+|유튜브Id=_wRpoUOyba8
+|제작자=독슝좍
 |개사여부=아니오
+|제작방법=Suno
+|프롬프트=00's Korean Neo soul R&amp;B, Groovy, Very hard Bassline
+|고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -20661,7 +20665,7 @@ Cultual, 어차피 언젠가
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>a83lkcq1h68e8jgkufrc9dwl51uivk0</sha1>
+      <sha1>a5g4uqdeexwih6wea510nkkeuqwx3kv</sha1>
     </revision>
   </page>
   <page>
@@ -21163,19 +21167,22 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>428</id>
     <revision>
-      <id>624</id>
-      <timestamp>2025-07-06T17:11:05Z</timestamp>
+      <id>812</id>
+      <parentid>624</parentid>
+      <timestamp>2025-08-18T05:10:45Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝용</username>
+        <id>12</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=2SzPHYNFHns |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=15 |참가닉네임=Suttungr |제목=시해, 난 |키워드=자석 |각오=저는 깔개입니다 |한마디=라임 날먹은 역시 리평 }}  == 가사 == {{가사}}</comment>
-      <origin>624</origin>
+      <minor/>
+      <origin>812</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="402" sha1="sqm0nm1rqwi9qc3669k2ut11khpzim5" xml:space="preserve">{{문서:창팝
+      <text bytes="458" sha1="j3tpldwb83mmni4cah25yt8t5iun1iu" xml:space="preserve">{{문서:창팝
 |유튜브Id=2SzPHYNFHns
+|제작자=Novelist
 |개사여부=아니오
+|고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -21192,7 +21199,7 @@ Cultual, 어차피 언젠가
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>sqm0nm1rqwi9qc3669k2ut11khpzim5</sha1>
+      <sha1>j3tpldwb83mmni4cah25yt8t5iun1iu</sha1>
     </revision>
   </page>
   <page>
@@ -25559,6 +25566,1255 @@ PC방 이벤트가 없으니 당연한 일이래.
 쌀파는 거지
 새끼들이 불편한 거지</text>
       <sha1>gx51robao9956wddmpso8doar30i8i0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:TT</title>
+    <ns>3200</ns>
+    <id>524</id>
+    <revision>
+      <id>786</id>
+      <timestamp>2025-08-18T01:08:52Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <comment>새 문서: 눌러 허리 네 교성이 날 미치게 해 다 가져가 Hurry Hyper Burning Max 패스 샀으면 꺼져 6만원 잘 먹을게 Wait Wait Wait Wait Wait 자석펫도 한 마리 Yeah Woah 온천지 다 렌으로 도배 바니걸 That, That, I could that 가엔슬 2분 무한 하루시 3페 딸깍 한번에 세상을 줄게 기가 막힌 한정판 Bag 그거 인턴이 만들고 버린 거 기가 차 뭐 난 좋지 Ay 기가 창섭 잘했지  다 가져가 Twenty Two 모셔 스...</comment>
+      <origin>786</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1859" sha1="lt26bdfyp915wrqb34v8wiwqes6wxf1" xml:space="preserve">눌러 허리
+네 교성이 날 미치게 해
+다 가져가 Hurry
+Hyper Burning Max
+패스 샀으면 꺼져
+6만원 잘 먹을게
+Wait Wait Wait Wait Wait
+자석펫도 한 마리 Yeah
+Woah 온천지 다 렌으로 도배
+바니걸 That, That, I could that
+가엔슬 2분 무한 하루시 3페
+딸깍 한번에 세상을 줄게
+기가 막힌 한정판 Bag
+그거 인턴이 만들고 버린 거
+기가 차 뭐 난 좋지 Ay
+기가 창섭 잘했지
+
+다 가져가 Twenty Two
+모셔 스물두마리 흑우
+혹시 모르지 확률 조작해줄지
+그거 입고서 강화하면 잘 될지
+갖고 싶어 Do any of you
+가치 너네끼리 매겨보라구
+혹시 모르지 예상치를 넘겨 제재 들어간다 해도
+너네가 대체 뭘할 수 있냐구
+
+질러 너네 수준에 맞는 한정판 Ay
+길러 사이버 적금 부동산
+싫어 손해 돈 내 개돼지들아
+Twenty two Yay ay
+알잖아 투기 Ay
+
+
+So money 더 땡김 또
+Seoul 아니 판교에 멋쟁이 포즈
+라방 후 마시는 Dom Pérignon
+지하철 타지만 Rari 차고에
+칠하자 금 걸렸나봐 치매에
+아홉번째 방 벽엔 가득찬 시계
+오로지 날 위해 발 닦는 너 덕에
+Shipshape 내 미래 더 빨아줘 비데
+사서 투기해줘
+Limited Limited Limit edition
+어딜 밸패를 논해
+I got it I got it 아가리 쫌
+25%
+종민 재학 너넨 대체 어디있어
+종신 계약
+너넨 절대 메이플 못 접어
+
+다 가져가 Twenty Two
+모셔 스물두마리 흑우
+혹시 모르지 확률 조작해줄지
+그거 입고서 강화하면 잘 될지
+갖고 싶어 Do any of you
+가치 너네끼리 매겨보라구
+혹시 모르지 예상치를 넘겨 제재 들어간다 해도
+너네가 대체 뭘할 수 있냐구
+
+질러 너네 수준에 맞는 한정판 Ay
+길러 사이버 적금 부동산
+싫어 손해 돈 내 개돼지들아
+Twenty two Yay ay
+알잖아 투기 Ay</text>
+      <sha1>lt26bdfyp915wrqb34v8wiwqes6wxf1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:블헤포차</title>
+    <ns>3200</ns>
+    <id>525</id>
+    <revision>
+      <id>787</id>
+      <timestamp>2025-08-18T01:11:22Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <comment>새 문서: 블랙헤븐 4번출구 내부에서 먹던 술 너와 함께 웃고 울구 했던 포차에 앉아서 너프먹은 확률만 멍하니 쳐다보고 있어 친구들은 눈물짓는 내가 병신이라 했어  하나씩 떨어지던 심장을 볼 때면 기대앉아 술을 마시던 허리가 펴지곤 했고 경매장에 올리고 자랑스레 팔아서 치킨 시켜 먹었던 그때가 다시 생각이 나서  널 그리며 한 잔 더 그리워 한 잔 보상이 짜잖아 잘...</comment>
+      <origin>787</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1691" sha1="o4svcpfhcetitjxdns6ghfoqaqta2mz" xml:space="preserve">블랙헤븐 4번출구
+내부에서 먹던 술
+너와 함께 웃고 울구
+했던 포차에 앉아서
+너프먹은 확률만 멍하니
+쳐다보고 있어
+친구들은 눈물짓는 내가
+병신이라 했어
+
+하나씩 떨어지던
+심장을 볼 때면
+기대앉아 술을 마시던
+허리가 펴지곤 했고
+경매장에 올리고
+자랑스레 팔아서
+치킨 시켜 먹었던
+그때가 다시 생각이 나서
+
+널 그리며 한 잔
+더 그리워 한 잔
+보상이 짜잖아 잘했잖아
+이러는 게 어딨어
+억울해서 한 잔
+했어 그리고 한 잔
+결정석만 남은 블헤포차
+에서 너를 부른다
+
+까만 심장을 뺏어
+스우가 의미가 없어
+기껏 늘린 챌린져스 배럭
+다 부질없었어
+1억 누구 코에 붙여 이제
+쌀값 또 떨어졌는데
+친구들은 울상짓는 내가
+병신이라 했어
+
+또 다시 떨어지던
+쌀값을 볼 때면
+착잡했던 마음 다 잡고
+억지로 재획을 했고
+목요일이 지나서
+배럭 10개 돌리면
+대기업 초봉 다 따잇하던
+그때가 다시 생각이나서
+
+널 그리며 한 잔
+더 그리워 한 잔
+보상이 짜잖아 잘했잖아
+이러는 게 어딨어
+억울해서 한 잔
+했어 그리고 한 잔
+결정석만 남은 블헤포차
+에서 너를 부른다
+
+어렵게 하는 말 아니잖아
+그냥 한번 무르면 되잖아
+제발
+여기 내 인생이 있다니까
+다시 한번만 생각해보자
+장난인줄 아나봐 웃지 마
+제발 제발
+대출금 갚아야 된다니까
+
+널 그리며 한 잔
+더 그리워 한 잔
+보상이 짜잖아 잘했잖아
+이러는 게 어딨어
+사실 안 쓰지만
+쌀 기댓값이 줄잖아
+결정석만 남은 블헤포차
+에서 너를 부른다</text>
+      <sha1>o4svcpfhcetitjxdns6ghfoqaqta2mz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:Unstoppable</title>
+    <ns>3200</ns>
+    <id>526</id>
+    <revision>
+      <id>788</id>
+      <timestamp>2025-08-18T01:13:56Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <comment>새 문서: Mirror, mirror, can’t you see Who’s the real boss? Yeah, that’s me 빨간 립, but attitude’s cold 나만의 rule로 rule the world Back off girls, I set the pace Check my vibe, you can’t replace 태도는 swag, 시선은 ice I never ask twice, better think twice I don’t care what you say, I run my way 숨지 마 win or die, 어차피 내가 play Rule breaker, 또 어쩌면 trend maker 눈치 따윈 난 안 봐, see ya later  Don't get in my zone, I’m too savage Cr...</comment>
+      <origin>788</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1844" sha1="ja7ynbwvlciy88twcy99yh26ioyeye8" xml:space="preserve">Mirror, mirror, can’t you see
+Who’s the real boss? Yeah, that’s me
+빨간 립, but attitude’s cold
+나만의 rule로 rule the world
+Back off girls, I set the pace
+Check my vibe, you can’t replace
+태도는 swag, 시선은 ice
+I never ask twice, better think twice
+I don’t care what you say, I run my way
+숨지 마 win or die, 어차피 내가 play
+Rule breaker, 또 어쩌면 trend maker
+눈치 따윈 난 안 봐, see ya later
+
+Don't get in my zone, I’m too savage
+Crowned on my throne, I’m the bad chick
+Blowin’ up your mind, magic
+뒤로 줄 서, tragic
+Unstoppable, so untouchable
+I'm that bad girl, unforgettable
+Unstoppable so untouchable
+I'm that bad 5 5 5 5 5 0 OH oh
+Unstoppable, so untouchable
+I'm that bad girl, unforgettable
+Unstoppable so untouchable
+I'm that bad 5 5 5 5 5 0 OH oh
+
+Get out the way, I walk in like a riot
+I’m the headline, you just quiet
+Stacking my wins while they tryna compete
+Drop a line, I own this beat
+Spin the game, I flip the script
+Top of the chart, I never slip
+Shadow my name, they wish and trip
+But I keep it cold, ICE—let it drip
+내 세상에선 내가 법
+질투해도 쿨하게 버텨
+뭐라든 바꿀 맘 없어
+말 많으면 그냥 걍 꺼져
+어리광 부리다 Killer
+남 따라 걷는 건 좀 질려
+여기까지 왔어 내 방식으로도
+계속 가, 그게 내 실력
+Guess who got the power, hear me roar
+겁 없는 내 태도, want more
+Me, myself, and I, no lie
+올려다 봐, look how I fly
+
+Don't get in my zone, I’m too savage
+Crowned on my throne, I’m the bad chick
+Blowin’ up your mind, magic
+뒤로 줄 서, tragic
+Unstoppable, so untouchable
+I'm that bad girl, unforgettable
+Unstoppable so untouchable
+I'm that bad 5 5 5 5 5 0 OH oh
+Unstoppable, so untouchable
+I'm that bad girl, unforgettable
+Unstoppable so untouchable
+I'm that bad 5 5 5 5 5 0 OH oh</text>
+      <sha1>ja7ynbwvlciy88twcy99yh26ioyeye8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:메끼얏호우</title>
+    <ns>3200</ns>
+    <id>527</id>
+    <revision>
+      <id>789</id>
+      <timestamp>2025-08-18T01:16:37Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <comment>새 문서: 너만 빼고 다 Ay Okay 한놈 두시기 석삼 너구리 너만 빼고 다 Ay Okay 까고 보니 싹다 메숭이 너만 빼고 다 Ay Okay 한놈 두시기 석삼 너구리 너만 빼고 다 Ay Okay 까고 보니 싹다 메숭이라 웃어 메끼얏호 끼룩끼룩슨 Ay 낄렵낄렵슨 Ay 메하하하 웃어 곱창 막창 내지말고 Baby 메끼얏호 끼룩끼룩슨 Ay 낄렵낄렵슨 Ay 메하하하 웃어 도래창 신창 내지말고 Baby  싹다 구속시켜 범죄야...</comment>
+      <origin>789</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="3138" sha1="hi3j8bq3rgcnmz2m1buv57thdmjvjp3" xml:space="preserve">너만 빼고 다 Ay Okay
+한놈 두시기 석삼 너구리
+너만 빼고 다 Ay Okay
+까고 보니 싹다 메숭이
+너만 빼고 다 Ay Okay
+한놈 두시기 석삼 너구리
+너만 빼고 다 Ay Okay
+까고 보니 싹다 메숭이라 웃어
+메끼얏호 끼룩끼룩슨 Ay
+낄렵낄렵슨 Ay
+메하하하
+웃어 곱창 막창 내지말고 Baby
+메끼얏호 끼룩끼룩슨 Ay
+낄렵낄렵슨 Ay
+메하하하
+웃어 도래창 신창 내지말고 Baby
+
+싹다 구속시켜
+범죄야 범죄 이거
+칼 빼들어 딥페 척살
+꺼드럭 인벤 판사
+창섭아 참지마세요
+창섭아 참지말자 이제
+창섭아 참지말라고
+징징징징
+호평일색 영상
+혹평이네 혼자
+간지 군계일학
+차가운 비평의 닌자
+내가 기분이 나쁘고
+내 얘기니 열 받고
+내가 나오니 화가 나니까
+범죄야 범죄 구속 시켜 싹 다
+
+너만 빼고 다 Ay Okay
+한놈 두시기 석삼 너구리
+너만 빼고 다 Ay Okay
+까고 보니 싹다 메숭이
+너만 빼고 다 Ay Okay
+한놈 두시기 석삼 너구리
+너만 빼고 다 Ay Okay
+까고 보니 싹다 메숭이라 웃어
+메끼얏호 끼룩끼룩슨 Ay
+낄렵낄렵슨 Ay
+메하하하
+웃어 곱창 막창 내지말고 Baby
+메끼얏호 끼룩끼룩슨 Ay
+낄렵낄렵슨 Ay
+메하하하
+웃어 도래창 신창 내지말고 Baby
+
+웃지마 나 진지해
+숨이 가빠 나 이젠
+우리 안 참아 이젠
+무뗘워 무뗘워
+주름이 쫙쫙 이마에
+특기사항에 메이플
+수지타산 딱 맞게
+머시뗘 머시뗘
+뼈 맞았어 레프리
+그만하자노 백기
+이랬다 저랬다 청기 백기
+이러다 뺏기겠어 내 뱃지
+사기는 게임에 당하니
+화는 노래에 당연히
+사기는 게임이 잘하니
+못 하는 나는 당연히
+
+너만 빼고 다 Ay Okay
+한놈 두시기 석삼 너구리
+너만 빼고 다 Ay Okay
+까고 보니 싹다 메숭이
+너만 빼고 다 Ay Okay
+한놈 두시기 석삼 너구리
+너만 빼고 다 Ay Okay
+까고 보니 싹다 메숭이라 웃어
+메끼얏호 끼룩끼룩슨 Ay
+낄렵낄렵슨 Ay
+메하하하
+웃어 곱창 막창 내지말고 Baby
+메끼얏호 끼룩끼룩슨 Ay
+낄렵낄렵슨 Ay
+메하하하
+웃어 도래창 신창 내지말고 Baby
+
+공론화하자 공
+공든 탑 와르르 무너지겠네
+공론화하자 공
+골든 파워 계속 유지해야제
+공론화하자 공
+곤봉 맞자 이 범죄자들아
+공론화하자 공
+공룡 당장 살려내 십새 (그건 미안해)
+땅 팔아 소 팔아 키운 아들래미
+하루종일 게임 변호인 노인 놀이
+아무튼 사실적시 명예훼손이니
+깜빵갈 준비 딱 해야지
+와 나 쫄았어 대박
+와 나 무서워 엄마
+와 나 어캄 어캄
+뭘 어캄 웃기니 웃자
+
+너만 빼고 다 Ay Okay
+한놈 두시기 석삼 너구리
+너만 빼고 다 Ay Okay
+까고 보니 싹다 메숭이
+너만 빼고 다 Ay Okay
+한놈 두시기 석삼 너구리
+너만 빼고 다 Ay Okay
+까고 보니 싹다 메숭이라 웃어
+메끼얏호 끼룩끼룩슨 Ay
+낄렵낄렵슨 Ay
+메하하하
+웃어 곱창 막창 내지말고 Baby
+메끼얏호 끼룩끼룩슨 Ay
+낄렵낄렵슨 Ay
+메하하하
+웃어 도래창 신창 내지말고 Baby</text>
+      <sha1>hi3j8bq3rgcnmz2m1buv57thdmjvjp3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:플이메이플</title>
+    <ns>3200</ns>
+    <id>528</id>
+    <revision>
+      <id>791</id>
+      <parentid>790</parentid>
+      <timestamp>2025-08-18T01:21:19Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <origin>791</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="3502" sha1="n48cht5sb4wcpy5v7wsdia7y021wcge" xml:space="preserve">Free Maple 닫아 거지 서버
+Free Maple 현질 안 할 거면
+Free Maple 썩 여기서 꺼져
+Free Maple 플이메이플
+Free Maple 뇌 비워 지워 기워
+Free Maple 지겹지도 않어
+Free Maple 이어 직업 키워
+Free Maple 플이메이플
+
+만족하니 삼천 너넨 웃는 게 참 예뻐
+그러다 울상 지으면 그걸로 또 Jam it, sir
+신 숭이 더지 저글링하는 게 재밌어
+아차 살살해 또 꼭꼭 숨었잖아 아비터
+내 독기 그대로니 쓰러질 때까지 내리쳐
+역린 살짝 건드리면 속의 속내까지 내비쳐
+소개 할게 I'm an editor 한마디마다 편집점
+틀린 말은 안해 백 프로 맞긴 하지 아마추어
+쿨찐 선생 uh 무슨 정말 대단하신 척
+언제쯤 마주하고 그 현실을 깨닫나싶어
+네 친구들 소식엔 어째 왜 가만있어
+저기, 그 쪽 애들이랑 너넨 꽤 닮아있어
+발작하는 반응 쌀슐랭은 맨날 맛있어
+먹어도 질리지 않아 보증된 흥행수표
+난 그저 가사로 고이 옮겨 배달만 했어
+역사에 기록될 것 무구정광대다라니경
+
+Free Maple 닫아 거지 서버
+Free Maple 현질 안 할 거면
+Free Maple 썩 여기서 꺼져
+Free Maple 플이메이플
+Free Maple 뇌 비워 지워 기워
+Free Maple 지겹지도 않어
+Free Maple 이어 직업 키워
+Free Maple 플이메이플
+
+오늘도 메벤을 눈팅하는 신창섭
+사이버 도박장의 사장님 캬 죽여주는 서비스
+이젠 우주슈퍼대스타라 개발따윈 뒷짐
+샤라웃은 잘 봤어 쇼케선 바꿨더라 위치
+뉴비 사랑하는 척은 아동학대 아가페
+한달 지났으니 이제 사야겠지 자석펫
+이십만원 못 내는 거지는 좀 꺼지라는데
+네가 아끼던 팬들 수준이야 더 읽어줄게
+없어서 죽을 것 같애? 현질하거나 피시방을 가
+챌섭에선 등급업 될 때마다 스펙업 퍼준다
+재획할 때나 마려운 자석펫이 왜 필요함
+자석펫 하나로 징징 내 템 사겠냐 씹공감
+오늘도 메벤을 눈팅하는 신창서비
+하나같이 숨바꼭질 감투 쓴 도깨비
+돈에 미친 귀신 유저들을 빛 내리
+아주 굿 이에요 굿 받았잖아 신 내림
+
+Free Maple 닫아 거지 서버
+Free Maple 현질 안 할 거면
+Free Maple 썩 여기서 꺼져
+Free Maple 플이메이플
+Free Maple 뇌 비워 지워 기워
+Free Maple 지겹지도 않어
+Free Maple 이어 직업 키워
+Free Maple 플이메이플
+
+1층 가게 뺏기고 앞에서 붕어빵 팔기
+학폭 당하고 커서 걔 밑에서 폰팔이
+밀정 새끼 가슴 속에 품고 살지 욱일기
+보신탕 집 마당에서 집 잘 지키는 개새끼
+초기 창팝은 재밌었대 근데 그 뒤론 뇌절이래
+그럴 수 있지 그런데 그 말을 니네가 하면 어떡해
+바리정은 잘 듣는대 그게 마지막 자존심
+부모 말이나 잘 들어 불효막심한 자식
+이랬다 저랬다 역겨워 우웩 쏠리지 토가
+메이플을 복귀하는 이유 너무 싫었대 버튜버가
+들이대도 못 껴 평생이 만년 총각
+둘러봐 어딨어 니 편 없지 사면초가
+살기 원해 착한 척해 악착같이 
+속 뒤집어보면 욕심만 그득해 원기 살같이
+Welcome Challengers 쌀값으로 판단하는
+신창섭의 메이플
+탑선족은 제외
+
+Free Maple 닫아 거지 서버
+Free Maple 현질 안 할 거면
+Free Maple 썩 여기서 꺼져
+Free Maple 플이메이플
+Free Maple 뇌 비워 지워 기워
+Free Maple 지겹지도 않어
+Free Maple 이어 직업 키워
+Free Maple 플이메이플</text>
+      <sha1>n48cht5sb4wcpy5v7wsdia7y021wcge</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:메이플 왜 했어</title>
+    <ns>3200</ns>
+    <id>529</id>
+    <revision>
+      <id>792</id>
+      <timestamp>2025-08-18T01:23:59Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <comment>새 문서: 아 씨발 메이플 하지 말걸 아 씨발 메이플 왜 했지 아 씨발 메이플 아 씨발 아 좆같다 메이플 하지 말걸  그 시간이면 아 씨발 그 시간이면 그 돈이면 이런 씨발 그 시간이면  아 씨발 메이플 하지 말걸 아 씨발 메이플 좆같다  엄마 미안 메이플 해서 아빠 미안 메이플 해서 할머니 할아버지 죄송해요 용돈 주신 거 메이플에 썼어요 아 씨발 한심한 새끼 아 씨발 병신...</comment>
+      <origin>792</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="692" sha1="pd7z2dxndxzwjqrc145b8aac7eerays" xml:space="preserve">아 씨발 메이플 하지 말걸
+아 씨발 메이플 왜 했지
+아 씨발 메이플 아 씨발
+아 좆같다 메이플 하지 말걸
+
+그 시간이면 아 씨발
+그 시간이면
+그 돈이면
+이런 씨발 그 시간이면
+
+아 씨발 메이플 하지 말걸
+아 씨발 메이플 좆같다
+
+엄마 미안 메이플 해서
+아빠 미안 메이플 해서
+할머니 할아버지 죄송해요
+용돈 주신 거 메이플에 썼어요
+아 씨발 한심한 새끼
+아 씨발 병신 새끼
+아 씨발 좆같은 새끼
+아 씨발 한심한 새끼
+
+야 그만 메이플 하지 마
+병신아 병신아 메이플 하지 마
+아 제발 메이플 하지 마
+지능이 딸리세요 병신인가 진짜</text>
+      <sha1>pd7z2dxndxzwjqrc145b8aac7eerays</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>TT</title>
+    <ns>0</ns>
+    <id>530</id>
+    <revision>
+      <id>793</id>
+      <timestamp>2025-08-18T01:29:26Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=_N7YegqlCBc |제작자=독슝좍 |개사여부=아니오 |이전수록컵={{이전 수록 창드컵 |창드컵=2025년 3편 |수록날짜=2025-07-19 |제외날짜=2025-08-09 }} |프롬프트=Sexy male Vocalist, Neosoul R&amp;B, Distorted synths meet a fractured R&amp;B beat, dissonant harmonies clash, creating an unsettling, Unexpected tempo changes and glitchy effects enhance the chaotic feel |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}...</comment>
+      <origin>793</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="585" sha1="hktm2tjt5zulrjb90l16m3r4efv5q54" xml:space="preserve">{{문서:창팝
+|유튜브Id=_N7YegqlCBc
+|제작자=독슝좍
+|개사여부=아니오
+|이전수록컵={{이전 수록 창드컵
+|창드컵=2025년 3편
+|수록날짜=2025-07-19
+|제외날짜=2025-08-09
+}}
+|프롬프트=Sexy male Vocalist, Neosoul R&amp;B, Distorted synths meet a fractured R&amp;B beat, dissonant harmonies clash, creating an unsettling, Unexpected tempo changes and glitchy effects enhance the chaotic feel
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>hktm2tjt5zulrjb90l16m3r4efv5q54</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>메이플 왜 했어</title>
+    <ns>0</ns>
+    <id>531</id>
+    <revision>
+      <id>794</id>
+      <timestamp>2025-08-18T01:31:30Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=3Av30satMEc |제작자=독슝좍 |개사여부=아니오 |프롬프트=dark ethereal dream pop, with pulsating synths, reverb-drenched guitars, and a haunting vocal melody, creating an intensely melancholic atmosphere |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
+      <origin>794</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="414" sha1="3svggsjgtf72t1qw7ot6b4xkumok9ls" xml:space="preserve">{{문서:창팝
+|유튜브Id=3Av30satMEc
+|제작자=독슝좍
+|개사여부=아니오
+|프롬프트=dark ethereal dream pop, with pulsating synths, reverb-drenched guitars, and a haunting vocal melody, creating an intensely melancholic atmosphere
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>3svggsjgtf72t1qw7ot6b4xkumok9ls</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>플이메이플</title>
+    <ns>0</ns>
+    <id>532</id>
+    <revision>
+      <id>795</id>
+      <timestamp>2025-08-18T01:32:49Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=I1JqAqRWKqg |제작자=독슝좍 |개사여부=아니오 |프롬프트=Sampling, Powerful, Trendy boombap, Unease vocalist, Scratch, Rapidfire rap, rap, rap, rap, Glitched |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
+      <origin>795</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="368" sha1="osdj01da4bkj5elm01uk279u2285b7l" xml:space="preserve">{{문서:창팝
+|유튜브Id=I1JqAqRWKqg
+|제작자=독슝좍
+|개사여부=아니오
+|프롬프트=Sampling, Powerful, Trendy boombap, Unease vocalist, Scratch, Rapidfire rap, rap, rap, rap, Glitched
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>osdj01da4bkj5elm01uk279u2285b7l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>메끼얏호우</title>
+    <ns>0</ns>
+    <id>533</id>
+    <revision>
+      <id>798</id>
+      <parentid>796</parentid>
+      <timestamp>2025-08-18T01:36:14Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <origin>798</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="450" sha1="fjhoyssiuph4i8xnlrnp0ql5imyv7sc" xml:space="preserve">{{문서:창팝
+|유튜브Id=0wlT5PvRLjo
+|제작자=독슝좍
+|개사여부=아니오
+|프롬프트=Rage hiphop, Hyperpop, Simple pattern, Unease vocalist, -trap, -trap, -trap, -trap, -trap, -trap, -trap, -trap, -trap, -trap, -trap, -trap, -autotune, -autotune, -autotune, -autotune
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>fjhoyssiuph4i8xnlrnp0ql5imyv7sc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>블헤포차</title>
+    <ns>0</ns>
+    <id>534</id>
+    <revision>
+      <id>797</id>
+      <timestamp>2025-08-18T01:35:04Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=zzKI76ora3s |개사여부=아니오 |프롬프트=scratchy and gritty Vocalist, Strong vocal scratches, The Korean Ballad opens with delicate piano arpeggios and subtle string pads, establishing a sentimental atmosphere, Verses feature restrained vocals over minimal instrumentation; the chorus swells with lush strings, dynamic drums, and emotive melody lines, A soaring bridge with orchestral build adds drama before a soft, fading outro |고화질썸...</comment>
+      <origin>797</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="636" sha1="pbafijksfzc5jm81at30d884znzm7b8" xml:space="preserve">{{문서:창팝
+|유튜브Id=zzKI76ora3s
+|개사여부=아니오
+|프롬프트=scratchy and gritty Vocalist, Strong vocal scratches, The Korean Ballad opens with delicate piano arpeggios and subtle string pads, establishing a sentimental atmosphere, Verses feature restrained vocals over minimal instrumentation; the chorus swells with lush strings, dynamic drums, and emotive melody lines, A soaring bridge with orchestral build adds drama before a soft, fading outro
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>pbafijksfzc5jm81at30d884znzm7b8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Unstoppable</title>
+    <ns>0</ns>
+    <id>535</id>
+    <revision>
+      <id>799</id>
+      <timestamp>2025-08-18T01:38:04Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=e---HScYbZ4 |제작자=독슝좍 |개사여부=아니오 |프롬프트=Punchy K-pop production kicks off with stacked synths, bright trap-inspired beats, and bold vocal layering, The verses are crisp with syncopated hi-hats, tight bass, and playful sidechaining, Explosive pre-chorus tension builds into a powerful drop, blending dynamic rap and soaring group vocals |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를...</comment>
+      <origin>799</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="563" sha1="m5o9ho10z81hie099bnf6pfucv7obp9" xml:space="preserve">{{문서:창팝
+|유튜브Id=e---HScYbZ4
+|제작자=독슝좍
+|개사여부=아니오
+|프롬프트=Punchy K-pop production kicks off with stacked synths, bright trap-inspired beats, and bold vocal layering, The verses are crisp with syncopated hi-hats, tight bass, and playful sidechaining, Explosive pre-chorus tension builds into a powerful drop, blending dynamic rap and soaring group vocals
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>m5o9ho10z81hie099bnf6pfucv7obp9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:리슝좍 패배선언</title>
+    <ns>3200</ns>
+    <id>536</id>
+    <revision>
+      <id>800</id>
+      <timestamp>2025-08-18T01:43:11Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <comment>새 문서: 내가 졌어요 아무런 힘도 나지 않네요 한 번도 이긴 적이 없는데 근데 내가 졌대요 아 저런 죄송해요 패배자가 말이 많네요 가진 것도 없고 잃을 것도 없는데 뭘 더 가져간대요 아 저런 죄송해요 웃으려던 건 아닌데 제가 웃음이 헤퍼요  깝쳐서 죄송합니다 대 킹 쌀 쌀숭이 사마 대기업 방송 낙수에 잠겨 전 익사하고 말 거에요 근데 마실 숨도 뱉을 숨도 없게 죽여놓...</comment>
+      <origin>800</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1740" sha1="1qarnpmtnougyjqa3a9g6nq319taf54" xml:space="preserve">내가 졌어요
+아무런 힘도 나지 않네요
+한 번도 이긴 적이 없는데
+근데 내가 졌대요
+아 저런 죄송해요
+패배자가 말이 많네요
+가진 것도 없고 잃을 것도 없는데
+뭘 더 가져간대요
+아 저런 죄송해요
+웃으려던 건 아닌데
+제가 웃음이 헤퍼요
+
+깝쳐서 죄송합니다
+대 킹 쌀 쌀숭이 사마
+대기업 방송 낙수에 잠겨
+전 익사하고 말 거에요
+근데 마실 숨도 뱉을 숨도
+없게 죽여놓고 또
+죽으라고 하면 전 어디서
+죽어야 하는 건가요
+
+내가 졌어요
+일단 제가 졌대요
+분명 링에 올라갈 때마다
+넌 자격도 없다 했었는데
+주먹 한번 뻗어본 적 없이
+맞고 맞다가 죽었는데
+졌다네요
+알겠어요
+
+깝쳐서 죄송합니다
+대 킹 쌀 쌀숭이 사마
+개념 커뮤니티 메벤에 쓸려
+전 사라지고 말 거에요
+근데 앉을 자리 누울 자리
+없게 쫓아놓고 또
+꺼지라고 하면 전 어디로
+꺼져야 하는 건가요
+
+가장 높이 올라가요
+내가 쳐다도 못 볼 만큼
+그래야 다시금 떨어질 때
+높은 하늘을 더 그리워하니까
+하루빨리 다 털어요
+다단계 신입사원 나가기 전에
+이번 기회를 놓치면
+다신 안 올지 모르니까
+
+깝쳐서 죄송합니다
+대 킹 쌀 쌀숭이 사마
+대기업 방송 낙수에 잠겨
+전 익사하고 말 거에요
+근데 마실 숨도 뱉을 숨도
+없게 죽여놓고 또
+죽으라고 하면 전 어디서
+죽어야 하는 건가요
+
+깝쳐서 죄송합니다
+대 킹 쌀 쌀숭이 사마
+개념 커뮤니티 메벤에 쓸려
+전 사라지고 말 거에요
+근데 앉을 자리 누울 자리
+없게 쫓아놓고 또
+꺼지라고 하면 전 어디로
+꺼져야 하는 건가요</text>
+      <sha1>1qarnpmtnougyjqa3a9g6nq319taf54</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:눈 가리고 아웅</title>
+    <ns>3200</ns>
+    <id>537</id>
+    <revision>
+      <id>803</id>
+      <timestamp>2025-08-18T01:49:49Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <comment>새 문서: 내 눈 가리고 아웅 비겁한 Fact는 Down 보고싶은 것만 가져와 이걸 원한게 아니야 내 눈 가리고 아웅 얘들아 눌러줘 Down 흥하고 있단 말이야 제발 조용히 해주라  끔찍한 놈들 메이플만 켰다하면 우르르 몰려가서 깽판치고 쥐흔 좋은 방패다 들어볼까 지금 근데 증거 찾으려니 바닥 쌓인 먼지 분명 채팅 창냈다는데 대체 뭔지 그럼 내가 직접 만들어 방송인 속상한 건 알...</comment>
+      <origin>803</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2522" sha1="df2ddoh3fpo69bh1m1sstz55xxkpjtr" xml:space="preserve">내 눈 가리고 아웅
+비겁한 Fact는 Down
+보고싶은 것만 가져와
+이걸 원한게 아니야
+내 눈 가리고 아웅
+얘들아 눌러줘 Down
+흥하고 있단 말이야
+제발 조용히 해주라
+
+끔찍한 놈들
+메이플만 켰다하면 우르르
+몰려가서 깽판치고 쥐흔
+좋은 방패다 들어볼까 지금
+근데 증거 찾으려니 바닥 쌓인 먼지
+분명 채팅 창냈다는데 대체 뭔지
+그럼 내가 직접 만들어 방송인 속상한 건
+알빠노 바로 메벤 링크 달고 일름보
+해적 닉네임 모아둔 77억 페이지
+에 내 이름 없지만 그래도 흉내 내야지
+배알이 꼴리지만 긁힌 티는 내지 말아야지
+애써 쿨한 척 달아 너 리선족이지
+눌러 비추 어딜 감히 리슝좍이
+우린 식구 내 홈에서 팩트를 들이밀었다는 이유
+악인의 업보는 부지기수
+벌 받아야지 지금 꼴이 좋아 아무튼
+
+내 눈 가리고 아웅
+비겁한 Fact는 Down
+보고싶은 것만 가져와
+이걸 원한게 아니야
+내 눈 가리고 아웅
+얘들아 눌러줘 Down
+흥하고 있단 말이야
+제발 조용히 해주라
+
+역대급 흥한 메이플인데 뉴비는 다 챌섭
+설거지하려던 게 다 물거품이 됐어
+알아 해방은 고사하고 하루나 버티면
+용한 게임 나도 털고 싶어
+일단 공정해 창팝은 비하의 목적으로 만든
+딥페이크 조롱 악의적인 합성이라고
+근데 반년 전에 쓴 내 글에 창팝 그거
+메이플 유저가 만든 거라고 써놨네 골아 골
+그럼 반대로 창팝이 메이플 흥행에 도움
+주는 무료 홍보 마케팅이었다고 적었어
+근데 날 리선족으로 몰아가며 블라를 먹이네
+내려친 키보드 q와 t가 망가져버렸어
+씩씩대며 이거까진 참으려했는데 안 되겠어
+용감하게 쳐들어가자 나는 잔다르크
+근데 댓글 하나 안 달리고 빌어먹을 파딱은
+메갤로 세글자 달고선 차단 ㅋㅋ
+
+내 눈 가리고 아웅
+비겁한 Fact는 Down
+보고싶은 것만 가져와
+이걸 원한게 아니야
+내 눈 가리고 아웅
+얘들아 눌러줘 Down
+흥하고 있단 말이야
+제발 조용히 해주라
+
+
+도망가
+여긴 내가 유리한 고지가 아니야
+도망가
+도망가
+여기까지 와서 망치는 리선족
+도망가
+글 삭제하고 도 망 가
+
+내 눈 가리고 아웅
+비겁한 Fact는 Down
+보고싶은 것만 가져와
+이걸 원한게 아니야
+내 눈 가리고 아웅
+얘들아 눌러줘 Down
+흥하고 있단 말이야
+제발 조용히 해주라</text>
+      <sha1>df2ddoh3fpo69bh1m1sstz55xxkpjtr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>눈 가리고 아웅</title>
+    <ns>0</ns>
+    <id>538</id>
+    <revision>
+      <id>804</id>
+      <timestamp>2025-08-18T01:50:50Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=UhVxNWjEHYg |제작자=독슝좍 |개사여부=아니오 |프롬프트=Emotional Rap, Groovy, laid back, R&amp;B vocalist |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
+      <origin>804</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="314" sha1="1btodrqqugdcue50qkgol1ggd4i855l" xml:space="preserve">{{문서:창팝
+|유튜브Id=UhVxNWjEHYg
+|제작자=독슝좍
+|개사여부=아니오
+|프롬프트=Emotional Rap, Groovy, laid back, R&amp;B vocalist
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>1btodrqqugdcue50qkgol1ggd4i855l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:유비당식</title>
+    <ns>3200</ns>
+    <id>539</id>
+    <revision>
+      <id>805</id>
+      <timestamp>2025-08-18T01:52:43Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <comment>새 문서: 내가 친구랑 국밥집에 갔는데 매뉴가 a,b,c가 있는거임 근데 a에 들어가는 고기국밥인데 이건 국내산이고 b랑 c는 호주산인거임 그래서 내가 a를 시킨다고 하니까 주인장이 와서 잠깐 바쁘니까 나한테 알바생좀 데려오라거 한거임 그래서 알바생이 왔는데 주인장은 나가서 담배를 피고있음ㅋㅋㅋㅋ 근데 이 매뉴를 시키려는데 친구가 갑자기 국밥이 아니라 순대볶음...</comment>
+      <origin>805</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="4493" sha1="ngg04g5wc4lp9dxoyu456f09lq4mmxi" xml:space="preserve">내가 친구랑 국밥집에 갔는데 매뉴가 a,b,c가 있는거임 근데 a에 들어가는 고기국밥인데 이건 국내산이고 b랑 c는 호주산인거임 그래서 내가 a를 시킨다고 하니까 주인장이 와서 잠깐 바쁘니까 나한테 알바생좀 데려오라거 한거임 그래서 알바생이 왔는데 주인장은 나가서 담배를 피고있음ㅋㅋㅋㅋ 근데 이 매뉴를 시키려는데 친구가 갑자기 국밥이 아니라 순대볶음이 먹고싶다고 하는데 처음에는 얘가 먹고싶다고 해서 국밥집 온건데 말을 바꾸니까 ㅈㄴ 어이없지 근데도 예전에 내가 재획해서 치킨사준적 있어서 그거로 생색한번 내니까 한숨 푹 쉬면서 알겠다 하는데 기분 ㅈ같음 그래서 싸웠는데 알바생이 그 앞에서 5분동안 우리가 싸우는데 관찰하다가 돌아가는데 내 친구가 그냥 여기서 먹자고함 그래서 나는 a시키고 친구는 b시키기로 했는데 b가 소머리국밥이잖아 근데 소머리국밥은 알바생이 세트매뉴라고 하는거임 이게 뭔 개소리냐고 하니까 유럽식 국밥집이라고 앞에 에피타이저 나오고 그다음 국밥나오고 후식으로 탕후루 나온다길래 그래서 그냥 알겠다했지 요즘에는 이렇게 노는구나 싶어가지고 근데 나중에 매뉴 나오는거 보니까 매뉴가 순대볶음인거임 에피타이저로 순대볶음을 주는데 이럴줄알았으면 아까 친구랑 싸울 필요도 없었지 왜냐면 여기서도 순대볶음을 파는거니까 그래서 진짜 열받아서 알바생 불러가지고 지금 뭐하자는거냐고 하니까 내가 꼬라보니까 눈 푹깔고 미안하다고 하는데 귀여워보이는거임 21살에 가슴은 b컵정도고 부모님일 도와주는거같은데 그래서 그냥 됐다고 대신 인스타번호 달라고 하니까 절대안준대 대신 매인매뉴나올때 번호준다고 하는데 그런데 30분이 지나도 매인매뉴가 안나오는거임 난 인스타 릴스보는데 시간가는줄 몰랐거든 근데 친구가 벌떡 일어서더니 그냥 국밥집을 걸어 나가더라 근데 바로 매인매뉴가 나옴 그 매뉴가 뭔지앎? 그게 친구가 두고간 차키를 들어있는거야 국밥안에 그래서 나는 밖으로 나가서 친구를 찾는데 아무데도없음 주차장에가도없음 차가 그냥 증발해버린거임 그래서 친구한테 전화를 했는데 전화도 안받아 그래서 디코방에서 지금 ㅇㅇ이 어딨냐고 하니까 너 지금 무슨소리하냐고 그런 이름은 듣도보도 못했다고 하더라 나는 그 자리에 주저앉아 인과가 뒤틀린 세계선에서 나의 어깨를 부여잡고선 어린아이처럼 엉엉 울었다 그때였다 누군가 인기척도 없이 뒤에서 다가오더니 나의 뒷통수를 가격한 것이다 나는 짧은 단말마를 내질렀지만, 난데없이 날아든 폭력에 저항없이 쓰러질 수 밖에 없었다 그리고 그 남자는, 나의 목덜미를 붙잡고선 어딘가로 질질 끌고가기 시작했다 의식은 희미했지만, 까칠까칠하고 털이 많은 남자 손바닥의 감각만큼은 선명했으리라 어깻죽지에 각목, 쇠파이프가 몇번이나 날아들었을까 의식을 되찾았을 때, 나는 온몸이 끊어지는 통증에 정신을 차릴 수가 없었다 어깨는 관절이 완전히 박살난 것처럼 불쾌한 소리를 내며 덜그럭거렸고, 폐는 송곳을 잔뜩 넣은 것처럼 흉부를 찔러댔다 짧은 비명, 그리고 다시금 날아오는 쇠파이프, 혀 끝에서 비릿한 피맛이 감돈다 손목은 단단한 밧줄에 고정되어 움직일 수 없다 선명한 햇빛이 흐릿한 나의 눈동자에 파고든다 이윽고 천천히 고개를 들자, 나는 아연실색하며 비명을 지를 수 밖에 없었다 수백마리의 원숭이들은, 영문모를 의용군의 제복을 입고서 나를 둘러싸고 있었다 그럼에도 내가 진정으로 공포에 빠진 까닭은 따로 있었다 그들 무리의 한가운데에 서있는 대장격의 원숭이가, 다름아닌 나의 친구의 얼굴을 하고 있었기 때문이다 헤네시스 한복판에서, 나는 부모라도 잃어버린 어린아이처럼 울부짖었다. 아, 평범한 삶을 살던 내가 난데없이 메이플 월드에 전송되어 원숭이화된 친구와 재회한 이유는 무엇인가</text>
+      <sha1>ngg04g5wc4lp9dxoyu456f09lq4mmxi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>유비당식</title>
+    <ns>0</ns>
+    <id>540</id>
+    <revision>
+      <id>806</id>
+      <timestamp>2025-08-18T01:53:26Z</timestamp>
+      <contributor>
+        <username>독슝좍</username>
+        <id>13</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=2LZCVGe3PDs |제작자=독슝좍 |개사여부=아니오 |제작방법=Suno |프롬프트=Loud, forceful dynamics, the pentatonic scale, syncopated rhythm and dissonant harmonies combine, an energetic, chaotic and experimental piece |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
+      <origin>806</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="429" sha1="9svt4y32fy50pnzjzj8gbwkebpp2vsq" xml:space="preserve">{{문서:창팝
+|유튜브Id=2LZCVGe3PDs
+|제작자=독슝좍
+|개사여부=아니오
+|제작방법=Suno
+|프롬프트=Loud, forceful dynamics, the pentatonic scale, syncopated rhythm and dissonant harmonies combine, an energetic, chaotic and experimental piece
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>9svt4y32fy50pnzjzj8gbwkebpp2vsq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Diss Go!</title>
+    <ns>0</ns>
+    <id>541</id>
+    <revision>
+      <id>807</id>
+      <timestamp>2025-08-18T04:28:54Z</timestamp>
+      <contributor>
+        <username>다하카</username>
+        <id>15</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=pPfJZLuGr2k |제작자=다하카 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2024년 4편 |수록날짜=2024-10-29 }} |다른언어제목=디스고 |화자=신창섭 |제작방법=Suno |프롬프트=nu disco, dance, funk |BPM=118 |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
+      <origin>807</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="447" sha1="klpjn4j763talsf2zqzr0nu3uqruvl2" xml:space="preserve">{{문서:창팝
+|유튜브Id=pPfJZLuGr2k
+|제작자=다하카
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2024년 4편
+|수록날짜=2024-10-29
+}}
+|다른언어제목=디스고
+|화자=신창섭
+|제작방법=Suno
+|프롬프트=nu disco, dance, funk
+|BPM=118
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>klpjn4j763talsf2zqzr0nu3uqruvl2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:Diss Go!</title>
+    <ns>3200</ns>
+    <id>542</id>
+    <revision>
+      <id>808</id>
+      <timestamp>2025-08-18T04:37:00Z</timestamp>
+      <contributor>
+        <username>다하카</username>
+        <id>15</id>
+      </contributor>
+      <comment>새 문서: Hey Everybody Say my name (신! 창! 섭!) 내가 한국에서 제일 잘하는 건? (Dance dance party!) 국가 공인 사기 게임? 국가 공인 문화로 (Rewind!) 대세가 된 Trend-setter 신창섭 is fashion style  Go! Go! let's go!  Diss go!(디스곡!)Diss go!(디스곡!) 정상화 let's go, 본섭화 let's go DISCO!(디스곡!)DISCO!(디스곡!) 공정위 디스곡, 국회로, let's go  Diss go!(디스곡!)Diss go!(디스곡!) BTS, 봉준호, 신창섭, let's go! DIS...</comment>
+      <origin>808</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2157" sha1="0x7q10f5mbp8r2ohz2ppq3gmimu29on" xml:space="preserve">Hey Everybody Say my name
+(신! 창! 섭!)
+내가 한국에서 제일 잘하는 건?
+(Dance dance party!)
+국가 공인 사기 게임?
+국가 공인 문화로 (Rewind!)
+대세가 된 Trend-setter 신창섭 is fashion style
+
+Go! Go! let's go!
+
+Diss go!(디스곡!)Diss go!(디스곡!)
+정상화 let's go, 본섭화 let's go
+DISCO!(디스곡!)DISCO!(디스곡!)
+공정위 디스곡, 국회로, let's go
+
+Diss go!(디스곡!)Diss go!(디스곡!)
+BTS, 봉준호, 신창섭, let's go!
+DISCO!(디스곡!)DISCO!(디스곡!)
+손흥민, 제이팍, 신창섭, let's go!
+
+약속을 지킬 시간 반짝이는 옷을 입고
+On the stage, Give me mic, Give me money
+무대 위를 나는 신 나는 빛나는 Star (Force!)
+모두 준비됐어? (Yes!) 쇼통 time, Everybody 리듬 타
+내 팬들의 환호성 나는 많이 듣고 파
+
+Light, Camera, Action!
+
+Diss go!(디스곡!)Diss go!(디스곡!)
+정상화 let's go, 본섭화 let's go
+DISCO!(디스곡!)DISCO!(디스곡!)
+공정위 디스곡, 국회로, let's go
+
+Diss go!(디스곡!)Diss go!(디스곡!)
+BTS, 봉준호, 신창섭, let's go!
+DISCO!(디스곡!)DISCO!(디스곡!)
+손흥민, 제이팍, 신창섭, let's go!
+
+Break it down!
+
+DISCO Diss, go
+디스곡, Diss go 이곳은 이제 축제
+리선족 족패고 가수가 된 내 무대
+쌀숭이 쌀더지 돈 내, 쌀 그만 축 내
+신규 BM Concert 티켓 앞 좌석 모두 다 돈 내
+
+돈 내!
+
+Are you ready?
+Jump!
+
+Ah~ yes!
+
+Go! Go! let's go!
+
+Diss go!(디스곡!)Diss go!(디스곡!)
+정상화 let's go, 본섭화 let's go
+DISCO!(디스곡!)DISCO!(디스곡!)
+공정위 디스곡, 국회로, let's go
+
+Diss go!(디스곡!)Diss go!(디스곡!)
+BTS, 봉준호, 신창섭, let's go!
+DISCO!(디스곡!)DISCO!(디스곡!)
+손흥민, 제이팍, 신창섭, let's go!
+
+Ho!
+
+(one more time!)
+(one more time!)
+
+Diss go!(디스곡!)Diss go!(디스곡!)
+정상화 let's go, 본섭화 let's go
+DISCO!(디스곡!)DISCO!(디스곡!)
+공정위 디스곡, 국회로, let's go
+
+Diss go!(디스곡!)Diss go!(디스곡!)
+BTS, 봉준호, 신창섭, let's go!
+DISCO!(디스곡!)DISCO!(디스곡!)
+손흥민, 제이팍, 신창섭, let's go!
+
+Dance Dance Party(Yes!)
+
+Diss! Go!</text>
+      <sha1>0x7q10f5mbp8r2ohz2ppq3gmimu29on</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>다시 쓰는 쌀박도</title>
+    <ns>0</ns>
+    <id>543</id>
+    <revision>
+      <id>810</id>
+      <parentid>809</parentid>
+      <timestamp>2025-08-18T04:56:16Z</timestamp>
+      <contributor>
+        <username>다하카</username>
+        <id>15</id>
+      </contributor>
+      <origin>810</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="677" sha1="9bmkigrgqdlynj8xydhtyxrpzsbwboo" xml:space="preserve">{{문서:창팝
+|유튜브Id=oabcKeSGFNE
+|제작자=다하카
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=유스 라이징컵 1편
+|수록날짜=2024-10-24
+}}{{수록 창드컵
+|창드컵=2024년 4편
+|수록날짜=2024-10-11
+}}
+|이전수록컵={{이전 수록 창드컵
+|창드컵=유스 어셈블컵
+|수록날짜=2024-10-04
+|제외날짜=2024-10-24
+}}
+|별명=다박도
+|화자=리선족
+|제작방법=Suno
+|프롬프트=electro swing, house, bittersweet, vinyl scratching, bpm 160
+|BPM=120
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>9bmkigrgqdlynj8xydhtyxrpzsbwboo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:다시 쓰는 쌀박도</title>
+    <ns>3200</ns>
+    <id>544</id>
+    <revision>
+      <id>811</id>
+      <timestamp>2025-08-18T05:00:52Z</timestamp>
+      <contributor>
+        <username>다하카</username>
+        <id>15</id>
+      </contributor>
+      <comment>새 문서: 모든 게 끝나는 밤은 오지 않아 선박에 몸을 실어 음악의 파도 위에 단풍이 사라져도 영원히 남을 노래 새로운 빛으로 항해하는 해적선의 밝은 미래   해적단들 모두 모여, 새로운 항구로 출항 Pirates of the candy, 행복을 전하는 문화 이제는 멈추지 않는 game changers 새로운 역사로 다시 써 내려갈 쌀박도  이건 다시 쓰는 쌀박도 우리의 이야기 오판이 되어버린 사람들의...</comment>
+      <origin>811</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2584" sha1="l47dmyx09tuqfcvexin0vb5cy0uwkfs" xml:space="preserve">모든 게 끝나는 밤은 오지 않아
+선박에 몸을 실어 음악의 파도 위에
+단풍이 사라져도 영원히 남을 노래
+새로운 빛으로 항해하는 해적선의 밝은 미래 
+
+해적단들 모두 모여, 새로운 항구로 출항
+Pirates of the candy, 행복을 전하는 문화
+이제는 멈추지 않는 game changers
+새로운 역사로 다시 써 내려갈 쌀박도
+
+이건 다시 쓰는 쌀박도 우리의 이야기
+오판이 되어버린 사람들의 이야기
+이건 다시 쓰는 쌀박도 우리의 이야기
+갈등의 주범은 리선족이 아닌 쌀숭이
+
+공룡 대 멸종? 그건 우리 잘못...맞아
+하하!
+
+쌀숭이 리선족 정상화 WWE?
+이제는 모두가 다 알지, 온 세상이 리선족
+모든 진실이 밝혀질 리네그리프를 찾아가
+Swipe on the beat, Life and death is all ready
+
+모두가 즐길 수 있는 world, This is for you
+신창섭을 만든 worlds 즐겨 한잔해 할만해
+리선족 해적단의 항해 리슨족도 함께해
+온 세상을 정상화해 다음 목표는 어디에?
+
+이건 다시 쓰는 쌀박도 우리의 이야기
+오판이 되어버린 사람들의 이야기
+이건 다시 쓰는 쌀박도 우리의 이야기
+갈등의 주범은 리선족이 아닌 쌀숭이
+
+메벤 도배? 칠십칠억 페이지 어때?
+하하!
+
+쌀숭이의 비난과 괴이한 식당 비유
+금수미만 지식과 지랄이 심한 이유
+삼십원 보상받은 메벤남의 본모습
+사실로 밝혀지는 너희들의 본모습
+
+일어나 이제 앞으로 삼각 돛 펴고 나아가
+넷 이야기 오판이 아냐 육지에서 떠나가
+세 분의 신들을 알리러 follow me 모두다 따라와
+구약과 신약을 전하기 위해 파도 타는 Ship!
+
+축제가 끝나도 문화는 살아남아
+태양을 향하는 선두의 날개펴고
+진심을 전하는 과거의 기록으로
+영원을 말하는 거짓말을 현실로
+리선족의 전설을 모든 음악의 시작으로
+
+끝이 없을 이야기, 멈추지 않을 노래
+리듬이란 바다에 빠져, 음악 속에 살아가
+I want you, See you smile again rebound from despair
+신창섭을 써낸 배, 역사 속을 헤치며 나아가
+
+이건 다시 쓰는 쌀박도 우리의 이야기
+오판이 되어버린 사람들의 이야기
+이건 다시 쓰는 쌀박도 우리의 이야기
+갈등의 주범은 리선족이 아닌 쌀숭이
+
+공룡대멸종? 그건 우리잘못...맞아
+하하!
+
+
+이건 다시 쓰는 쌀박도
+모두 즐겨 축제가 끝나지 않게
+다시 쓰는 쌀박도
+영원 영원 영원 챌린지 영, 영원을 향하는 배</text>
+      <sha1>l47dmyx09tuqfcvexin0vb5cy0uwkfs</sha1>
     </revision>
   </page>
 </mediawiki>
