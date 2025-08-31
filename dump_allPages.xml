@@ -43,18 +43,17 @@
     <ns>4</ns>
     <id>2</id>
     <revision>
-      <id>687</id>
-      <parentid>686</parentid>
-      <timestamp>2025-07-09T16:22:11Z</timestamp>
+      <id>843</id>
+      <parentid>687</parentid>
+      <timestamp>2025-08-31T09:03:53Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <origin>687</origin>
+      <origin>843</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1454" sha1="d3dvwrvyomqwrfk9vqei84213b0zx27" xml:space="preserve">__목차숨김__
+      <text bytes="1458" sha1="0duv1a599j4k07l0oyl9k29jeitmdtb" xml:space="preserve">__목차숨김__
 &lt;templatestyles src="대문"&gt;&lt;/templatestyles&gt;
 &lt;p class="ts-subtitle"&gt;[[창팝]] 가사, 기록 저장소&lt;/p&gt;
 &lt;h1 class="ts-title"&gt;창팝위키&lt;/h1&gt;
@@ -77,12 +76,12 @@ break=no
 &lt;/inputbox&gt;
 
 &lt;div class="ts-layout-container"&gt;
-&lt;div class="ts-layout-item"&gt;{{최초공개 릴레이표}}&lt;/div&gt;
+&lt;div class="ts-layout-item"&gt;{{대문/최초공개 릴레이}}&lt;/div&gt;
 &lt;div class="ts-layout-item"&gt;{{최근 바뀜}}&lt;/div&gt;
 &lt;/div&gt;
 
 [[분류:창팝위키]]</text>
-      <sha1>d3dvwrvyomqwrfk9vqei84213b0zx27</sha1>
+      <sha1>0duv1a599j4k07l0oyl9k29jeitmdtb</sha1>
     </revision>
   </page>
   <page>
@@ -657,18 +656,18 @@ a {
     <ns>4</ns>
     <id>12</id>
     <revision>
-      <id>745</id>
-      <parentid>682</parentid>
-      <timestamp>2025-08-06T12:17:55Z</timestamp>
+      <id>846</id>
+      <parentid>745</parentid>
+      <timestamp>2025-08-31T09:14:09Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <comment>/* 창팝위키 베타 오픈 */ 답변</comment>
-      <origin>745</origin>
+      <origin>846</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="3282" sha1="jheesybi5dr8brp8d8kfevg1o11f46n" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
+      <text bytes="3571" sha1="0eavofyb8lfii2sknn6ybz4ljjjddn6" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
 __새문단쓰기__
 [[분류:창팝위키]]
 {{창팝위키 둘러보기}}
@@ -688,6 +687,8 @@ __새문단쓰기__
 :창팝 문서에 &lt;code&gt;별명&lt;/code&gt;, &lt;code&gt;화자&lt;/code&gt;, &lt;code&gt;BPM&lt;/code&gt;, &lt;code&gt;제작 방법&lt;/code&gt; 필드가 새롭게 추가되었습니다. &lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 7월 6일 (일) 18:11 (KST)
 :업데이트:
 :양식으로 편집할 때 더 이상 문서별 편집지침을 왔다갔다 하지 않아도 되도록 편집 창에 필드 설명이 나타납니다. 문서별 편집지침은 곧 폐지할 예정입니다.&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 8월 6일 (수) 21:17 (KST)
+:업데이트:
+:개별 문서 편집지침 삭제 및 간소화, 대문에 업그레이드된 최공릴레이 정보 삽입&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 8월 31일 (일) 18:14 (KST)
 
 == 건?의?사항 ==
 
@@ -702,7 +703,7 @@ __새문단쓰기__
 
 :지금은 선착장이 통합 창구 맞아요. 잘 찾아오셨습니다.
 :단독 가사 문서를 직접 볼 경우는 따로 생각하지 않았는데 일단 바꿀 수 있게 소도구에 추가했습니다. ('환경 설정 → 소도구'에서 활성화 가능)&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 6월 20일 (금) 01:27 (KST)</text>
-      <sha1>jheesybi5dr8brp8d8kfevg1o11f46n</sha1>
+      <sha1>0eavofyb8lfii2sknn6ybz4ljjjddn6</sha1>
     </revision>
   </page>
   <page>
@@ -1013,17 +1014,19 @@ __새문단쓰기__
     <ns>106</ns>
     <id>16</id>
     <revision>
-      <id>743</id>
-      <parentid>16</parentid>
-      <timestamp>2025-08-06T12:12:18Z</timestamp>
+      <id>836</id>
+      <parentid>743</parentid>
+      <timestamp>2025-08-31T08:58:47Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>743</origin>
+      <minor/>
+      <comment>문서별 편집지침으로 안내하는 문구 삭제(편집지침 통합)</comment>
+      <origin>836</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2533" sha1="l6cuxw957bb5gl0w03k11chtvxy5rdc" xml:space="preserve">&lt;!--
+      <text bytes="2462" sha1="sc8m48bmsim4rd1fc9s2ci68dxhzgdq" xml:space="preserve">&lt;!--
 ---------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------
 
 --&gt;
@@ -1039,7 +1042,6 @@ __새문단쓰기__
 &lt;div style="clear: both"&gt;&lt;/div&gt;
 &lt;templatestyles src="양식" /&gt;
 {{{ info | add title = 양식으로 문서 생성 | edit title = 양식으로 편집 }}}
-편집 전 [[창팝위키:편집지침/창드컵]]을 읽어주세요.
 ----
 {{{ for template| 문서:창드컵 }}}
 {| class="wikitable wikitable--fluid formbox"
@@ -1094,7 +1096,7 @@ __새문단쓰기__
 
 --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
 --&gt;</text>
-      <sha1>l6cuxw957bb5gl0w03k11chtvxy5rdc</sha1>
+      <sha1>sc8m48bmsim4rd1fc9s2ci68dxhzgdq</sha1>
     </revision>
   </page>
   <page>
@@ -2373,397 +2375,57 @@ break = no
     <ns>4</ns>
     <id>65</id>
     <revision>
-      <id>163</id>
-      <parentid>65</parentid>
-      <timestamp>2025-06-15T14:47:42Z</timestamp>
+      <id>835</id>
+      <parentid>163</parentid>
+      <timestamp>2025-08-31T08:55:37Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>163</origin>
+      <comment>편집지침 통합</comment>
+      <origin>835</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1829" sha1="bchi64o3mue2guizwuyjya7qi30k4gc" xml:space="preserve">{{창팝위키 둘러보기}}
+      <text bytes="1943" sha1="dxdtne1twagcp05yfe7eu1kcxh3t63y" xml:space="preserve">{{창팝위키 둘러보기}}
 [[분류:창팝위키]]
 [[분류:편집지침]]
 
 창팝위키의 편집지침입니다.
 
-문서 생성은 [[창팝위키:기여하기|기여하기]]에서 할 수 있습니다.
-
-&lt;blockquote&gt;개인적인 의견으로만 만들어진 임시 지침입니다. 건피가 있으면 [[창팝위키토론:{{문서이름}}|토론 문서]]에 남겨주세요.&lt;/blockquote&gt;
+질문이나 피드백은 [[창팝위키:선착장|선착장]]에서 남겨주세요!
 
 == 원칙 ==
 * 단쌀제
 * 항아리
 
-피로 쓰인 규칙은 아직 없지만, 다른 위키들에서 통하는 상식이 그대로 적용된다고 가정합니다.
+창팝과 신창섭과 관련된 모든 기여를 환영합니다! (창팝, 창드컵, 합작, 대회, 제작자, 개념 설명 등 무엇이든지)
 
-== 작성 가능한 문서 ==
+== 지침 ==
 
-현재 창팝위키는 베타 오픈으로 작성 가능한 문서는 아래와 같습니다.
-* '''창팝'''
-* '''창드컵'''
-* 창팝 합작
-* 창팝 제작자
-* 보편적인 창팝 개념 (리선족, 쌀숭이, 신창섭, 창팝)
+=== 문서 이름 ===
 
-하지만 이런 내용들은 현 시점에서 일단 제외입니다.
-* 쌀팝
-* 그 외 근들갑을 떨 수 있는 내용 (항아리, 리북공정 가능성 등) 
+* 창팝 커뮤니티에서 정착된 이름을 선호합니다. 
+** 예: &lt;code&gt;창팝 월드컵&lt;/code&gt;(X), &lt;code&gt;창드컵&lt;/code&gt;(O)
+* 검색하기 쉬운 이름을 선호합니다.
+** 로마자나 한글이 아닌 문자가 제목인 작품에서 한글로 불리는 명칭이 있다면 사용합니다. 예: &lt;code&gt;애미가&lt;/code&gt;
+* 창팝 문서
+** 화자나 부제목 등의 부가 정보는 제외하고 순수 제목만 남깁니다.
+*** 예: &lt;code&gt;[메이플] 신창섭 - 다 해줬잖아 (feat.전재학) MV&lt;/code&gt; -&gt; &lt;code&gt;다 해줬잖아&lt;/code&gt;
+* 제작자 문서
+** 본인의 요청이 있지 않은 이상 익숙한 이름을 선호합니다.
+*** 예를 들어 창팝 은퇴 후 이름을 바꾼 경우 활동 당시 이름 사용
 
-이런 내용을 어떻게 처리할지 같이 의견 주신다면 감사하겠습니다. 운영이 안정된다면 추후 다른 유형의 문서 및 서술을 차차 허용할 예정입니다. [[창팝위키:계획]]을 참고해주세요. 
+==== 동명의 문서 ====
 
-질문은 [[창팝위키:선착장]]에 남겨주세요.
+위키 시스템 상 제목이 같은 문서를 만들 수 없기 때문에 구분이 필요합니다.
 
-== 문서별 편집지침 ==
+창팝과 개념에 대한 충돌이면 &lt;code&gt;(창팝)&lt;/code&gt; 을 붙이고, 서로 다른 제작자의 같은 제목의 곡이면 &lt;code&gt;(⧼제작자 이름⧽)&lt;/code&gt;을 붙입니다. 시리즈, 앨범에 속한 곡 등 더 적합한 구분자가 있다면 대신할 수 있습니다.
 
-=== 주제 문서 ===
-* [[/창드컵]]
-* [[/창팝]]
-* 제작자
-** '''문서 제목''': 자주 불리는 이름을 우선시합니다. 예: ح(X), 슝좍TV(O). 그러나 제목 표기에 대한 제작자 본인의 특정 요청이 있다면 수용할 수 있습니다. 
-** 제작자 문서를 제작자 본인이 편집하는 경우라고 하더라도 문체를 본인 입장에서 서술하는 것처럼 하지 말아주세요! 그런 용도로는 대신 사용자 문서를 활용할 수 있습니다.</text>
-      <sha1>bchi64o3mue2guizwuyjya7qi30k4gc</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>창팝위키:편집지침/창드컵</title>
-    <ns>4</ns>
-    <id>66</id>
-    <revision>
-      <id>66</id>
-      <timestamp>2025-06-10T13:48:56Z</timestamp>
-      <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
-      </contributor>
-      <origin>66</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="10578" sha1="4sqjur6di4weedk34x2ypv9t46phuim" xml:space="preserve">개별 창드컵 문서에 대한 창팝위키의 편집지침입니다.
-
-문서 생성은 [[창팝위키:기여하기]]에서 할 수 있습니다.
-
-&lt;blockquote&gt;개인적인 의견으로만 만들어진 임시 지침입니다. 건피가 있으면 [[창팝위키토론:{{문서이름}}|토론 문서]]에 남겨주세요.&lt;/blockquote&gt;
-
-창드컵 문서는 [[양식:창드컵]]을 사용하며 [[:분류:창드컵]]이 붙는 문서로서, 단일 창드컵을 나타내는 문서입니다. 창드컵 문서의 예시 모습은 [[본보기:창드컵]]을 참고하세요.
-
-== 문서 이름 ==
-
-=== 엄선작 ===
-엄선작의 경우 문서 이름으로 &lt;code&gt;XXXX년 X편&lt;/code&gt;을 사용합니다.
-
-넘겨주기 문서는 &lt;code&gt;XX-X&lt;/code&gt;(예: 25-1)를 사용합니다. 2024년 엄선작의 경우 추가로 &lt;code&gt;엄선작 X편&lt;/code&gt;(예: 2024년 1편 - 엄선작 1편)도 사용합니다.
-
-=== 그 외 ===
-일반적으로 불리는 이름을 문서명으로 사용합니다. (예: 공포컵 (O), 공포의 신창섭 월드컵 (X)) 공식적인 이름은 [[틀:문서:창드컵]]의 &lt;code&gt;명칭&lt;/code&gt; 변수에서 사용합니다.
-
-=== 임시 문서명 초안 ===
-
-{| class="wikitable mw-collapsible mw-collapsed" style="display: grid"
-|+ 임시 문서명 초안 
-!본문서명
-!정보상자 틀 내 표기
-!넘겨주기 문서
-|-
-|[[2024년 1편]]
-|엄선작 2024년 1편
-|[[24-1]], [[엄선작 1편]]
-|-
-|[[2024년 2편]]
-|엄선작 2024년 2편
-|[[24-2]], [[엄선작 2편]]
-|-
-|[[2024년 3편]]
-|엄선작 2024년 3편
-|[[24-3]], [[엄선작 3편]]
-|-
-|[[2024년 4편]]
-|엄선작 2024년 4편
-|[[24-4]], [[엄선작 4편]]
-|-
-|[[2024년 5편]]
-|엄선작 2024년 5편
-|[[24-5]], [[엄선작 5편]]
-|-
-|[[2025년 1편]]
-|엄선작 2025년 3편
-|[[25-1]]
-|-
-|[[2025년 2편]]
-|엄선작 2025년 2편
-|[[25-2]]
-|-
-|[[2025년 3편]]
-|엄선작 2025년 3편
-|[[25-3]]
-|-
-|[[DLC컵]]
-|엄선작 DLC컵
-|[[레거시컵]]&lt;ref name="이전이름"&gt;이전 이름&lt;/ref&gt;&lt;ref&gt;[[레거시컵]]이 구 레거시컵에 대한 문서가 된다면, 넘겨주기가 아니라 상단 안내문이 될 수도 있음.&lt;/ref&gt;
-|-
-|[[공포컵]]
-|공포의 신창섭 월드컵
-|[[공포의 신창섭 월드컵]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[사탕컵]]
-|사탕컵&lt;br&gt;&lt;small&gt;우리는 사탕의 혈육! 달달하고 귀여운 노래들을 모아둔 창-POP 월드컵&lt;/small&gt;
-|[[달달하고 귀여운 노래들을 모아둔 창-POP 월드컵]]&lt;ref name="시트명"&gt;일정시트에서 사용되는 명칭&lt;/ref&gt;
-|-
-|[[도파민컵]]
-|창팝 월드컵 도파민 테마
-|[[도파민 테마]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[문학컵]]
-|독서와 함께하는 문학 창팝 월드컵
-|[[독서와 함께하는 문학 창팝 월드컵]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[감성컵: 개화]]
-|감성컵: 개화&lt;br&gt;&lt;small&gt;마음을 촉촉하게 해줄 감성 창-POP 월드컵&lt;/small&gt;
-|[[감성컵 개화]], [[마음을 촉촉하게 해줄 감성 창팝 - 개화]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[감성컵: 월영]]
-|감성컵: 월영&lt;br&gt;&lt;small&gt;마음을 촉촉하게 해줄 감성 창-POP 월드컵&lt;/small&gt;
-|[[감성컵 월영]], [[마음을 촉촉하게 해줄 감성 창팝 - 월영]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[심연컵 1편]]
-|창팝 매운맛 1편
-|[[심연1]], [[매운맛 1편]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[심연컵 2편]]
-|창팝 매운맛 2편
-|[[심연2]], [[매운맛 2편]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[스토리컵]]
-|창팝 월드컵 외전:스토리컵
-|[[스토리편]]&lt;ref name="이전이름"&gt;&lt;/ref&gt;, [[세계여행컵]]&lt;ref name="이전이름"&gt;&lt;/ref&gt;
-|-
-|[[아방가르드컵]]
-|창팝 아방가르드컵
-| -
-|-
-|[[지옥컵]]
-|창팝 지옥컵
-| -
-|-
-|[[축제컵]]
-|창팝 월드컵 축제편
-|[[축제편]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[캐롤컵]]
-|창팝 월드컵 엄선작 크리스마스 캐롤편
-|[[캐롤편]], [[크리스마스 캐롤편]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[캐롤컵 실전압축]]
-|창팝 월드컵 엄선작 크리스마스 캐롤편 실전압축 16강
-|[[캐롤편 실전압축]], [[캐롤컵 16강]], [[크리스마스 캐롤편 실전압축]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[통발컵]]
-|통발컵&lt;br&gt;&lt;small&gt;창팝 C-pop 신창섭 올스타즈 왕중왕전&lt;/small&gt;&lt;ref&gt;제목이 통발임&lt;/ref&gt;
-| -
-|-
-|[[해적컵 1편]]
-|창팝 해적컵 1편
-| -
-|-
-|[[해적컵 2편]]
-|창팝 해적컵 2편
-| -
-|-
-|[[맷돌컵]]
-|신창섭 맷돌 월드컵
-| -
-|-
-|[[고소컵]]
-|고소 당할 거 같은 신창섭 월드컵
-| -
-|-
-|[[항드컵]]
-|항-pop 월드컵
-| -
-|-
-|[[락드컵 1편]]
-|창팝 락드컵 1편&lt;br&gt;&lt;small&gt;울려퍼지는 우리의 스토리&lt;/small&gt;
-| -
-|-
-|[[락드컵 2편]]
-|창팝 락드컵 2편&lt;br&gt;&lt;small&gt;울려퍼지는 우리의 스토리&lt;/small&gt;
-| -
-|-
-|[[보컬로이드 오리지널컵]]
-|보컬로이드 오리지날 창팝 월드컵
-|[[보컬로이드풍 오리지널 창팝]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[메탈컵 1편]]
-|압도되는 강렬한 창팝 메탈컵 1편
-|[[압도되는 강렬한 창팝 메탈컵 1편]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[메탈컵 2편]]
-|압도되는 강렬한 창팝 메탈컵 2편
-|[[압도되는 강렬한 창팝 메탈컵 2편]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[국악컵]]
-|우리의 소리를 찾아서 국악 창-POP 월드컵
-|[[우리의 소리를 찾아서 국악 창팝]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[성가컵]]
-|웅장하고 신성한 창팝 성가컵
-|[[웅장하고 신성한 창팝 성가컵]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[EDM컵]]
-|창팝 EDM 월드컵
-|[[매드무비컵]]&lt;ref&gt;별명&lt;/ref&gt;, [[창팝 EDM]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[트로트컵]]
-|창팝 트로트컵
-|[[트롯컵]]
-|-
-|[[뮤지컬컵]]
-|뮤지컬컵&lt;br&gt;&lt;small&gt;희노애락을 함께하는 뮤지컬 창-POP 월드컵&lt;/small&gt;
-|[[희노애락을 함께하는 뮤지컬]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[힙드컵 1편]]
-|창팝 힙합 부문 월드컵
-|[[힙합컵 1편]], [[힙합 부문]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[힙드컵 2025년 1편]]
-|창팝 힙합 장르 2025년 1편
-|[[힙드컵 25-1]], [[힙드컵 2편]], [[힙합 장르 2025년 1편]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[재즈컵 1편]]
-|힐링되는 잔잔한 창팝 재즈컵
-|[[힐링되는 잔잔한 창팝 재즈컵]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[J-창팝컵]]
-|J-창팝 월드컵
-|[[J창팝컵]], [[제이팝컵]], [[J팝컵]], [[J-창팝]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[K팝컵]]
-|창팝 KPOP컵&lt;br&gt;&lt;small&gt;정겨운 멜로디&lt;/small&gt;
-|[[케이팝컵]], [[KPOP컵]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[만동컵 1편]]
-|만화&amp;동요 시즌1
-|[[만화동요컵 1편]], [[만화/동요 1편]]&lt;ref name="시트명"&gt;&lt;/ref&gt;&lt;ref name="문서명주의"&gt;'/'가 들어간 문서명은 처리에 무언가 더 필요한 걸로 알고 있음.&lt;/ref&gt;
-|-
-|[[만동컵 2편]]
-|만화&amp;동요 시즌2
-|[[만화동요컵 2편]], [[만화/동요 2편]]&lt;ref name="시트명"&gt;&lt;/ref&gt;&lt;ref name="문서명주의"&gt;&lt;/ref&gt;
-|-
-|[[메인스트림 1편]]
-|개사곡 메인스트림 1편
-|[[개사메인 1편]]
-|-
-|[[메인스트림 2편]]
-|개사곡 메인스트림 1편
-|[[개사메인 2편]]
-|-
-|[[메인스트림 실전압축]]
-|개사곡 메인스트림 실전압축
-|[[개사메인 실전압축]]
-|-
-|[[리듬게임 개사컵]]
-|창팝 리듬게임 개사곡 월드컵
-|[[리겜개사컵]], [[리듬게임 개사곡]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[발라드컵]]
-|창팝 개사곡 발라드컵
-| -
-|-
-|[[보컬로이드 개사컵]]
-|신창섭 보컬로이드 개사곡 월드컵
-|[[보컬로이드 개사곡]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[서브컬쳐컵 1편]]
-|개사곡 서브컬쳐컵 시즌1
-|[[서브컬쳐컵 시즌1]]
-|-
-|[[서브컬쳐컵 2편]]
-|개사곡 서브컬쳐컵 시즌2
-|[[서브컬쳐컵 시즌2]]
-|-
-|[[서브컬쳐컵 3편]]
-|개사곡 서브컬쳐컵 시즌3
-|[[서브컬쳐컵 시즌3]]
-|-
-|[[리믹스컵]]
-|창팝을 개사한 곡을 모은 창팝 리믹스컵
-| -
-|-
-|[[리부트 추모관]]
-|리부트 추모관
-|[[추모관]], [[추모컵]]
-|-
-|[[목사컵 1편]]
-|스트리머 직접 제작 창팝 월드컵 1편
-|[[스트리머 직접 제작 창팝 1편]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[목사컵 2편]]
-|스트리머 직접 제작 창팝 월드컵 2편
-|[[스트리머 직접 제작 창팝 2편]]&lt;ref name="시트명"&gt;&lt;/ref&gt;
-|-
-|[[유스 어셈블컵]]
-|창팝 유스 어셈블컵
-|[[유스유스컵]]&lt;ref name="이전이름"&gt;&lt;/ref&gt;, [[유스컵 시즌3]]
-|-
-|[[유스 라이징컵 1편]]
-|창팝 유스 라이징컵 1편
-|[[유스유스 졸업컵 1편]]&lt;ref name="이전이름"&gt;&lt;/ref&gt;
-|-
-|[[유스 라이징컵 2편]]
-|창팝 유스 라이징컵 2편
-|[[유스유스 졸업컵 2편]]&lt;ref name="이전이름"&gt;&lt;/ref&gt;
-|-
-|[[유스 자추컵]]
-|유스 자추컵
-|[[유스컵 시즌4]]
-|-
-|}
-&lt;references/&gt;
-
-== 양식 ==
-
-참고: 필수 필드 입력을 권장하지만 필드를 다 안 채우고 일단 만들어도 괜찮습니다.
-
-==== 양식 필드 설명 ====
-
-; 명칭
-: 위 예시와 같이 공식적인 명칭을 적어주세요. 정보상자의 최상단에 표시됩니다.
-
-; PIKU 월드컵 ID
-: PIKU 월드컵 URL에서 ID 부분만 적어주세요 (예: '&lt;nowiki&gt;https://www.piku.co.kr/w/3J0qXz&lt;/nowiki&gt;'이면 &lt;code&gt;3J0qXz&lt;/code&gt;)
-
-; 강
-: 창드컵이 몇 강인지 수로 적어주세요
-
-; 유형
-: 창드컵의 유형을 선택할 수 있습니다.
-
-; 오픈 날짜
-: 오픈 날짜를 지정해주세요. 
-
-; 폐지 날짜
-: 현재 관리되지 않는 월드컵이면 폐지 날짜를 지정해주세요. 
-
-정확한 날짜를 알 수 없는 경우가 대부분일 것이므로 대충 비슷한 시기의 임의의 날로 해도 됩니다. 정확한 날짜를 확인할 수 있는 근거를 찾으셨다면 추가 공간에 각주로 링크를 달아주세요.
-
-예: &lt;code&gt;&lt;nowiki&gt;&lt;ref&gt;[⧼링크⧽] 이 글의 댓글을 보면 이 날에 오픈했다는걸 확인할 수 있다.&lt;/ref&gt;&lt;/nowiki&gt;&lt;/code&gt;
-
-== 틀 ==
-문서 메인 틀로 [[틀:문서:창드컵]]을 사용합니다. 양식으로 편집 시 자동으로 포함됩니다. 틀을 직접 사용하는 경우 [[설명문서:틀:문서:창드컵]]을 참고하세요.
-
-== 창드컵 시리즈 문서 ==
-창드컵 시리즈 문서란 자체로 존재하는 단일 월드컵에 대응되지 않지만 설명이 가능한 개념에 대한 문서입니다. (예: [[심연컵 1편]]과 [[심연컵 2편]]을 포괄적으로 설명하는 [[심연컵]]이라는 문서가 될 수 있음)
-
-이러한 문서는 [[:분류:창드컵 시리즈]]로 분류해야 합니다. 
-
-
-{{창드컵 메타 둘러보기}}
-{{기본정렬:창드컵}}
-[[분류:편집지침]]
-[[분류:메타:창드컵]]</text>
-      <sha1>4sqjur6di4weedk34x2ypv9t46phuim</sha1>
+예:
+* 쌀숭이 개념: &lt;code&gt;쌀숭이&lt;/code&gt; - 더문잘의 창팝: &lt;code&gt;쌀숭이 (창팝)&lt;/code&gt;
+* 릴창섭의 창팝: &lt;code&gt;신 (릴창섭)&lt;/code&gt; - 이딴게의 창팝: &lt;code&gt;신 (이딴게)&lt;/code&gt;
+* 하얀까망의 뮤지컬 시리즈 창팝: &lt;code&gt;축제 (리버스)&lt;/code&gt; - 제목이 축제인 그 외 창팝: &lt;code&gt;축제 (?)&lt;/code&gt;</text>
+      <sha1>dxdtne1twagcp05yfe7eu1kcxh3t63y</sha1>
     </revision>
   </page>
   <page>
@@ -5110,18 +4772,18 @@ html.skin-theme-clientpref-night .ts-doc-footer {
     <ns>106</ns>
     <id>120</id>
     <revision>
-      <id>741</id>
-      <parentid>467</parentid>
-      <timestamp>2025-08-06T12:10:20Z</timestamp>
+      <id>837</id>
+      <parentid>741</parentid>
+      <timestamp>2025-08-31T08:58:58Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>양식 레이아웃 변경</comment>
-      <origin>741</origin>
+      <comment>문서별 편집지침으로 안내하는 문구 삭제(편집지침 통합)</comment>
+      <origin>837</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="6184" sha1="8rn0zpg03nmdgswvczvtp0k3e8juud1" xml:space="preserve">&lt;!-------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------
+      <text bytes="6116" sha1="ph3qm5za9rz5pb18yt62h47jf4pri3g" xml:space="preserve">&lt;!-------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------
 
 --&gt;
 {{문서:양식}}
@@ -5136,7 +4798,6 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 --&gt; &lt;div style="clear: both"&gt;&lt;/div&gt;
 &lt;templatestyles src="양식" /&gt;
 {{{ info | add title = 양식으로 문서 생성 | edit title = 양식으로 편집 }}}
-편집 전 [[창팝위키:편집지침/창팝]]을 읽어주세요.
 {{{ for template| 문서:창팝 }}}
 
 == 주요 필요 정보 ==
@@ -5308,7 +4969,7 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 
 --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
 --&gt;</text>
-      <sha1>8rn0zpg03nmdgswvczvtp0k3e8juud1</sha1>
+      <sha1>ph3qm5za9rz5pb18yt62h47jf4pri3g</sha1>
     </revision>
   </page>
   <page>
@@ -6032,96 +5693,6 @@ piku\.co.kr
       <format>text/x-wiki</format>
       <text bytes="17" sha1="kadfslw1penjaw7p1fcdiozcc5sev6x" xml:space="preserve">[[분류:창팝]]</text>
       <sha1>kadfslw1penjaw7p1fcdiozcc5sev6x</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>창팝위키:편집지침/창팝</title>
-    <ns>4</ns>
-    <id>141</id>
-    <revision>
-      <id>461</id>
-      <parentid>314</parentid>
-      <timestamp>2025-07-06T05:33:49Z</timestamp>
-      <contributor>
-        <username>창팝위키</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* 문서 이름 */</comment>
-      <origin>461</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="4246" sha1="4mrew81u2u8i3snrgao4ttlcm00fyw1" xml:space="preserve">개별 창팝 문서에 대한 창팝위키의 편집지침입니다.
-
-문서 생성은 [[창팝위키:기여하기]]에서 할 수 있습니다.
-
-&lt;blockquote&gt;개인적인 의견으로만 만들어진 임시 지침입니다. 건피가 있으면 [[창팝위키토론:{{문서이름}}|토론 문서]]에 남겨주세요.&lt;/blockquote&gt;
-
-
-창팝 문서는 [[양식:창팝]]을 사용하며 [[:분류:창팝]]이 붙는 문서로서, 단일 창팝을 나타내는 문서입니다. 창팝 문서의 예시 모습은 [[본보기:창팝]]을 참고하세요.
-
-합작의 경우, 단품이 없는 형태(싸이퍼 등)만 이 문서로 표현이 가능합니다.
-
-== 문서 이름 ==
-
-화자 등 부가 요소는 제외하고 순수 제목만 남깁니다.
-
-예: &lt;code&gt;[메이플] 신창섭 - 다 해줬잖아 (feat.전재학) MV&lt;/code&gt; -&gt; &lt;code&gt;다 해줬잖아&lt;/code&gt;
-
-화자나 부제가 곡 이름의 일부로 볼 수 있어 애매한 경우에는 ''그때그때 고를게''입니다.
-
-곡 이름이 로마자나 한글이 아닌 다른 문자로 되어 있을 때, 한글로 쓰이는 적절한 제목이 있다면 그걸 씁니다. 예: [[애미가]]
-
-=== 동명의 문서 ===
-
-창팝과 개념에 대한 충돌이면 &lt;code&gt;(창팝)&lt;/code&gt; 을 붙이고, 서로 다른 제작자의 같은 제목의 곡이면 &lt;code&gt;(⧼제작자 이름⧽)&lt;/code&gt;을 붙입니다. 시리즈, 앨범에 속한 곡 등 더 적합한 구분자가 있다면 대신할 수 있습니다.
-
-예:
-* 쌀숭이 개념: &lt;code&gt;쌀숭이&lt;/code&gt; - 더문잘의 창팝: &lt;code&gt;쌀숭이 (창팝)&lt;/code&gt;
-* 릴창섭의 창팝: &lt;code&gt;신 (릴창섭)&lt;/code&gt; - 이딴게의 창팝: &lt;code&gt;신 (이딴게)&lt;/code&gt;
-* 주차장P의 합작 두번째 트랙: &lt;code&gt;축제 (?)&lt;/code&gt;&lt;ref&gt;주차장P의 합작 트랙을 아직 뭐라고 불러야 할 지 모르겠음.&lt;/ref&gt; - 하얀까망의 뮤지컬 시리즈 창팝: &lt;code&gt;축제 (리버스)&lt;/code&gt;
-
-== 양식 ==
-
-참고: 필수 필드 입력을 권장하지만 필드를 다 안 채우고 일단 만들어도 괜찮습니다.
-
-=== 양식 필드 설명 ===
-
-; 곡명
-: 곡의 제목. 비워 둬도 자동으로 문서 이름이 사용되므로 문서 이름이 곡명이 아닌 경우(동명의 문서 구분자가 있는 경우 등)가 아니면 입력할 필요가 없는 경우가 대부분입니다. 트랙 번호나 부제가 있는 경우 추가하는 용도로 쓸 수 있습니다.
-
-; 다른 언어 제목
-: 원제가 한국어가 아닌 경우에 자주 불리는 한국어 제목이 있다면 적을 수 있습니다. 원제가 한국어인 경우, 공식적으로 다른 언어 표기가 있는 경우에만 적고 임의로 번역해서 적지 말아주세요. 여러 언어가 있는 경우 &lt;code&gt;|&lt;/code&gt; 로 구분해서 적어주세요. (예: Untitled - &lt;code&gt;무제 | 無題&lt;/code&gt;)
-
-; 유튜브 ID
-: 대표 유튜브 영상의 ID를 적어주세요 
-
-; 제작자
-: 대표 제작자 한명만 적어주세요. 공동 제작자 표기는 추후 지원 예정입니다.
-
-; 개사 여부
-: 개사곡인 경우(리믹스 포함) 체크해주세요. 
-
-; 원곡
-: 개사곡이라면 원곡을 입력해주세요
-
-; 공개일
-: 곡이 공개된 날짜. 비워 두면 유튜브 영상의 업로드 날짜가 사용됩니다.
-
-; 수록컵 / 이전 수록컵
-: 현재 수록된 창드컵, 과거에 수록되었던 창드컵을 추가할 수 있습니다. 수록 날짜 및 제외 날짜는 확실한 날짜가 있다면 입력하고, 모른다면 비워두세요.
-
-; 프롬프트
-: 제작자가 공개한 프롬프트가 있다면 적어주세요.
-
-== 틀 ==
-문서 메인 틀로 [[틀:문서:창드컵]]을 사용합니다. 양식으로 편집 시 자동으로 포함됩니다. 틀을 직접 사용하는 경우 [[설명문서:틀:문서:창팝]]을 참고하세요.
-
-== 가사 ==
-
-문서를 만들면 가사 문단이 자동으로 추가됩니다. 가사 영역 위에 '가사 추가' 링크가 있고 이 링크를 따라가면 가사를 입력할 수 있습니다. 거기에 입력하는 가사는 송폼, 메타태그, 보컬 구분등이 없는 순수 가사만 적어주세요. 가사 설명이나 제식 등의 내용을 넣고 싶다면 본 문서에서 별도의 가사를 직접 추가해주세요. 
-
-[[분류:편집지침]]</text>
-      <sha1>4mrew81u2u8i3snrgao4ttlcm00fyw1</sha1>
     </revision>
   </page>
   <page>
@@ -28681,6 +28252,361 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
       <format>text/x-wiki</format>
       <text bytes="14" sha1="3r48emcnr6xbopch1zode6alw6mftul" xml:space="preserve">[[분류:틀]]</text>
       <sha1>3r48emcnr6xbopch1zode6alw6mftul</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:최초공개 릴레이/항목</title>
+    <ns>10</ns>
+    <id>564</id>
+    <revision>
+      <id>851</id>
+      <parentid>838</parentid>
+      <timestamp>2025-08-31T09:46:32Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <origin>851</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2407" sha1="g8i7c4e1sqpdb17c3hg7vi0l9co1zpr" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+--&gt;{{#if: &lt;!-- 
+아래 변수 중 하나라도 있어야 항목을 표시하기 --&gt;
+{{#or: {{{예약자|}}} | {{{링크|}}} | {{{기타표기사항|}}} | {{{영상Id|}}} }} 
+|
+{{#if: {{{영상Id|}}} |
+&lt;div class="ts--item-container" style="display: flex; padding: 4px 0"&gt;
+&lt;div class="thumbnail-container" style="width: 160px; min-width: 160px"&gt;https://i.ytimg.com/vi/{{{영상Id}}}/mqdefault.jpg&lt;/div&gt;
+&lt;div class="meta" style="flex-direction: column; padding: 0 8px;"&gt;
+&lt;div class="ts--video-title plainlinks" style="font-weight: 500; font-size: var(--font-size-small);"&gt;[https://youtu.be/{{{영상Id}}} {{#tag:nowiki | {{#or: {{{제목}}} | {{{링크}}} }} }}]&lt;/div&gt;
+&lt;div style="font-size: var(--font-size-x-small); color: var(--color-subtle)"&gt;&lt;!--
+--&gt;&lt;span class="ts--uploader plainlinks"&gt;[https://www.youtube.com/channel/{{{채널Id}}} {{#tag:nowiki | {{{채널이름}}} }}]&lt;/span&gt;&lt;!--
+
+예약자와 채널이름 문자열이 일치하지 않는 경우에만 예약자를 별도로 표시
+ --&gt;{{#ifeq: {{{채널이름|}}} | {{{예약자|}}} 
+	| &lt;!-- 동일하면 표시 안 함 --&gt;
+	| &lt;code style="font-size: var(--font-size-x-small);"&gt;{{{예약자|}}}&lt;/code&gt; 
+	}}&lt;!--
+
+--&gt;&lt;br&gt;&lt;!--
+
+시작시간 값이 있을때만 표시
+--&gt;{{#if: {{{시작시간|}}} |&lt;!--
+
+	시작 시간 표기
+	--&gt;&lt;span&gt;{{#timel: H:i | {{{시작시간}}} }} 시작&lt;/span&gt;&lt;!--
+	
+	구분점
+	--&gt;&lt;span class="meta-delimiter"&gt;•&lt;/span&gt;&lt;!--
+	
+--&gt;}}&lt;!--
+--&gt;&lt;span&gt;{{{기타표기사항}}}&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+|
+&lt;div class="ts--item-container" style="padding: 4px 0; font-size: var(--font-size-x-small); color: var(--color-subtle)"&gt;''시트에서 유튜브 ID가 분석되지 않았습니다.''&lt;br&gt;&lt;!-- 
+--&gt;{{{시간슬롯}}}&lt;!-- 
+--&gt;&lt;span class="meta-delimiter"&gt;&lt;nowiki&gt;|&lt;/nowiki&gt;&lt;/span&gt;&lt;!--
+--&gt;{{{예약자}}}&lt;!-- 
+--&gt;&lt;span class="meta-delimiter"&gt;&lt;nowiki&gt;|&lt;/nowiki&gt;&lt;/span&gt;&lt;!--
+--&gt;{{{링크}}}&lt;!--
+--&gt;&lt;span class="meta-delimiter"&gt;&lt;nowiki&gt;|&lt;/nowiki&gt;&lt;/span&gt;&lt;!--
+--&gt;{{{기타표기사항}}} 
+&lt;/div&gt;
+}}
+&lt;templatestyles src="틀:최초공개 릴레이/항목/스타일.css" /&gt;
+}}&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;{{설명문서}}&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>g8i7c4e1sqpdb17c3hg7vi0l9co1zpr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:최초공개 릴레이/항목/스타일.css</title>
+    <ns>10</ns>
+    <id>565</id>
+    <revision>
+      <id>839</id>
+      <timestamp>2025-08-31T09:01:23Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: .thumbnail-container &gt; img { 	width: 100%; }  .meta-delimiter { 	margin: 0 4px; }  .ts--video-title &gt; a { 	color: var(--color-base); }  .ts--uploader &gt; a { 	color: var(--color-subtle); }  .ts--item-container:hover { 	background-color: var(--background-color-button-quiet--hover); }</comment>
+      <origin>839</origin>
+      <model>sanitized-css</model>
+      <format>text/css</format>
+      <text bytes="281" sha1="pr4enxebshp02wvj5kmsw2ie9dh93r2" xml:space="preserve">.thumbnail-container &gt; img {
+	width: 100%;
+}
+
+.meta-delimiter {
+	margin: 0 4px;
+}
+
+.ts--video-title &gt; a {
+	color: var(--color-base);
+}
+
+.ts--uploader &gt; a {
+	color: var(--color-subtle);
+}
+
+.ts--item-container:hover {
+	background-color: var(--background-color-button-quiet--hover);
+}</text>
+      <sha1>pr4enxebshp02wvj5kmsw2ie9dh93r2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>설명문서:틀:최초공개 릴레이/항목</title>
+    <ns>3010</ns>
+    <id>566</id>
+    <revision>
+      <id>840</id>
+      <timestamp>2025-08-31T09:01:47Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: [[틀:최초공개 릴레이]]에서 각 행 단위로 사용됩니다. == 예시 == 아래 예시는 여러 경우를 확인해보기 위한 테스트입니다. 실제 사용에서는 수동으로 틀을 사용하지 않고 [[틀:최초공개 릴레이]]에 의해 External Data로 틀 변수가 채워집니다.   첫번째 항목: 일반적인 형태, 두번째 항목: 최공시트에 유튜브 링크가 입력되지 않은 경우, 세번째 항목: 최공시트의 예약자...</comment>
+      <origin>840</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3136" sha1="hi78pct26igueg8wg3e8cpsg0wkm2ep" xml:space="preserve">[[틀:최초공개 릴레이]]에서 각 행 단위로 사용됩니다.
+== 예시 ==
+아래 예시는 여러 경우를 확인해보기 위한 테스트입니다. 실제 사용에서는 수동으로 틀을 사용하지 않고 [[틀:최초공개 릴레이]]에 의해 External Data로 틀 변수가 채워집니다. 
+
+첫번째 항목: 일반적인 형태, 두번째 항목: 최공시트에 유튜브 링크가 입력되지 않은 경우, 세번째 항목: 최공시트의 예약자 칸에 적힌 것이 채널 이름과 다른 경우, 네번째 항목: 빈 칸(아무것도 출력되지 않음)
+{{틀 예시
+| 코드 = 
+&lt;pre&gt;
+{{최초공개 릴레이/항목
+|시간슬롯 = 23:05
+|예약자 = 성보의 내가하고싶은거만하는 채널
+|링크 = https://youtu.be/EslXg6BaUnc
+|기타표기사항 = 2:24/?분
+|영상Id = EslXg6BaUnc
+|채널Id = UC5tTVvLOduGPxuf9VCijJ3g
+|제목 = 김창섭의 건드림~
+|채널이름 = 성보의 내가하고싶은거만하는 채널
+|시작시간 = 2025-08-27T14:05:00Z
+}}
+{{최초공개 릴레이/항목
+|시간슬롯 = 23:10
+|예약자 = 성보
+|링크 = 링크에 링크가 아닌 문자가 적힌 상황
+|기타표기사항 = 2:24/?분
+|영상Id = 
+|채널Id = 
+|제목 = 
+|채널이름 =
+|시작시간 =
+}}
+{{최초공개 릴레이/항목
+|시간슬롯 = 23:15
+|예약자 = 성보
+|링크 = https://youtu.be/EslXg6BaUnc
+|기타표기사항 = 2:24/?분
+|영상Id = EslXg6BaUnc
+|채널Id = UC5tTVvLOduGPxuf9VCijJ3g
+|제목 = 김창섭의 건드림~
+|채널이름 = 성보의 내가하고싶은거만하는 채널
+|시작시간 = 2025-08-27T14:05:00Z
+}}
+{{최초공개 릴레이/항목
+|시간슬롯 = 23:20
+|예약자 = 
+|링크 = 
+|기타표기사항 = 
+|영상Id = 
+|채널Id = 
+|제목 = 
+|채널이름 = 
+|시작시간 = 
+}}
+&lt;/pre&gt;
+| 결과 = 
+{{최초공개 릴레이/항목
+|시간슬롯 = 23:05
+|예약자 = 성보의 내가하고싶은거만하는 채널
+|링크 = https://youtu.be/EslXg6BaUnc
+|기타표기사항 = 2:24/?분
+|영상Id = EslXg6BaUnc
+|채널Id = UC5tTVvLOduGPxuf9VCijJ3g
+|제목 = 김창섭의 건드림~
+|채널이름 = 성보의 내가하고싶은거만하는 채널
+|시작시간 = 2025-08-27T14:05:00Z
+}}
+{{최초공개 릴레이/항목
+|시간슬롯 = 23:10
+|예약자 = 성보
+|링크 = 링크에 링크가 아닌 문자가 적힌 상황
+|기타표기사항 = 2:24/?분
+|영상Id = 
+|채널Id = 
+|제목 = 
+|채널이름 =
+|시작시간 =
+}}
+{{최초공개 릴레이/항목
+|시간슬롯 = 23:15
+|예약자 = 성보
+|링크 = https://youtu.be/EslXg6BaUnc
+|기타표기사항 = 2:24/?분
+|영상Id = EslXg6BaUnc
+|채널Id = UC5tTVvLOduGPxuf9VCijJ3g
+|제목 = 김창섭의 건드림~
+|채널이름 = 성보의 내가하고싶은거만하는 채널
+|시작시간 = 2025-08-27T14:05:00Z
+}}
+{{최초공개 릴레이/항목
+|시간슬롯 = 23:20
+|예약자 = 
+|링크 = 
+|기타표기사항 = 
+|영상Id = 
+|채널Id = 
+|제목 = 
+|채널이름 = 
+|시작시간 = 
+}}
+}}
+
+&lt;!--
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;[[분류:설명문서]]&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>hi78pct26igueg8wg3e8cpsg0wkm2ep</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:최초공개 릴레이</title>
+    <ns>10</ns>
+    <id>567</id>
+    <revision>
+      <id>850</id>
+      <parentid>849</parentid>
+      <timestamp>2025-08-31T09:18:51Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>[[Special:Contributions/창팝위키|창팝위키]] ([[User talk:창팝위키|토론]])의 [[Special:Diff/849|849]] 판 편집을 되돌림</comment>
+      <origin>850</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1232" sha1="dewnu0ababrf1mudbkhxl3kfvk967ll" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+--&gt;{{#if: {{{날짜|}}} |
+{{#or:
+{{#display_external_table: template = 최초공개 릴레이/항목
+| source = https://changpop.wiki/premiere-relay-archive/api.php?date={{{날짜}}}
+| format = json
+| use jsonpath = true
+| cache seconds = {{#or: {{{cache seconds|}}} | 3600}}
+| delimiter =
+| data = 
+시간슬롯 = $[*].time_slot,
+예약자 = $[*].column_a,
+링크 = $[*].column_b,
+기타표기사항 = $[*].column_c,
+영상Id = $[*].video_id,
+채널Id = $[*].channel_id,
+제목 = $[*].title,
+채널이름 = $[*].channel_title,
+시작시간 = $[*].scheduled_start_time,
+}}
+| 
+&lt;div style="
+  font-size: var(--font-size-small); 
+  display: flex;
+  justify-content: center;
+  height: 160px;
+  align-items: center;
+  "&gt;{{{날짜}}}의 최초공개가 없습니다.&lt;/div&gt;
+}}
+| &lt;span class="error"&gt;[[{{전체문서이름}}]]: 날짜가 입력되지 않았습니다.&lt;/span&gt;&lt;!-- 
+--&gt;}}&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;[[분류:틀]]&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>dewnu0ababrf1mudbkhxl3kfvk967ll</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:대문/최초공개 릴레이</title>
+    <ns>10</ns>
+    <id>568</id>
+    <revision>
+      <id>848</id>
+      <parentid>847</parentid>
+      <timestamp>2025-08-31T09:17:59Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>[[Special:Contributions/창팝위키|창팝위키]] ([[User talk:창팝위키|토론]])의 [[Special:Diff/847|847]] 판 편집을 되돌림</comment>
+      <origin>848</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1024" sha1="19l45uuaq6d5wzlisgigtsm4ygpx7n7" xml:space="preserve">&lt;div style="
+margin-block: var(--space-md);
+border-radius: var(--border-radius-medium);
+box-shadow: var(--box-shadow-border);
+"&gt;
+&lt;h4 style="padding: 0.5rem 0.75rem; margin: 0;"&gt;최초공개 릴레이&lt;/h4&gt;
+&lt;tabber&gt;
+|-| 오늘 = 
+{{최초공개 릴레이|날짜 = {{#timel: Y-m-d }} | cache seconds = 1 }}
+|-| 어제 = 
+{{최초공개 릴레이|날짜 = {{#timel: Y-m-d | -1 day }} }}
+|-| 아카이브 = &lt;!-- 
+--&gt;&lt;div style="padding: var(--space-xs) var(--space-sm);"&gt;&lt;!-- 
+	--&gt;[https://changpop.wiki/premiere-relay-archive 창팝 최초공개 릴레이 아카이브]&lt;!-- 
+	--&gt;&lt;br&gt;&lt;!-- 
+	--&gt;향후 위키 페이지로도 정리할 예정입니다.&lt;!-- 
+--&gt;&lt;/div&gt;
+&lt;/tabber&gt;
+&lt;div style="padding: var(--space-xs) var(--space-sm); border-top: var(--border-width-base) solid var(--border-color-base);"&gt;&lt;span style="font-size: var(--font-size-small); "&gt;최초공개 정보는 [https://docs.google.com/spreadsheets/d/134a8r9X5_hruHvDi_lR2O0EeymGgXExDI0ie8MnpWVw/ 최공 릴레이표] 시트에서 가져옵니다.&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;</text>
+      <sha1>19l45uuaq6d5wzlisgigtsm4ygpx7n7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>분류:Pages using Tabber parser tag</title>
+    <ns>14</ns>
+    <id>569</id>
+    <revision>
+      <id>845</id>
+      <timestamp>2025-08-31T09:10:38Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: __숨은분류__ [[분류:추적용 분류]]</comment>
+      <origin>845</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="jqswtnelan4u4053hrqgtzdnw1gquan" xml:space="preserve">__숨은분류__
+[[분류:추적용 분류]]</text>
+      <sha1>jqswtnelan4u4053hrqgtzdnw1gquan</sha1>
     </revision>
   </page>
 </mediawiki>
