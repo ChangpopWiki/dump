@@ -28523,17 +28523,18 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
     <ns>10</ns>
     <id>567</id>
     <revision>
-      <id>854</id>
-      <parentid>850</parentid>
-      <timestamp>2025-09-04T11:34:40Z</timestamp>
+      <id>867</id>
+      <parentid>854</parentid>
+      <timestamp>2025-09-15T20:35:13Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>854</origin>
+      <comment>"max tries = 1" 추가</comment>
+      <origin>867</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1045" sha1="9ihcrzohihzsjpi4vgpi87nbhg6x3dw" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="1061" sha1="p6mhasj7yt83puhiu8t9e6ktjn5vv3u" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;{{#if: {{{날짜|}}} |
 {{#display_external_table: template = 최초공개 릴레이/항목
@@ -28542,6 +28543,7 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 | use jsonpath = true
 | cache seconds = {{#or: {{{cache seconds|}}} | 3600}}
 | suppress error
+| max tries = 1
 | delimiter =
 | data = 
 시간슬롯 = $[*].time_slot,
@@ -28564,7 +28566,7 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 --&gt;[[분류:틀]]&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>9ihcrzohihzsjpi4vgpi87nbhg6x3dw</sha1>
+      <sha1>p6mhasj7yt83puhiu8t9e6ktjn5vv3u</sha1>
     </revision>
   </page>
   <page>
