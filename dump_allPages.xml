@@ -23396,17 +23396,18 @@ I didn't even have time to think about it, 역돌격</text>
     <ns>10</ns>
     <id>492</id>
     <revision>
-      <id>730</id>
-      <timestamp>2025-08-06T11:41:22Z</timestamp>
+      <id>874</id>
+      <parentid>730</parentid>
+      <timestamp>2025-09-17T12:43:14Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: &lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------  --&gt;{{#external_value:   $.pages.*.params['{{{변수이름}}}'].&lt;!-- --&gt;{{#스위치: {{{속성}}} | 레이블 = label | 설명 = description | 예시 = example | 종류 = type | 기본값 = default | 자동값 = autovalue | 필수 = required | 권장 = suggested | 사용되지않음 = deprecated }}  | source =  {{서버}}{{스크립트경로}}&lt;!--  --&gt;/api.php?&lt;!--  --&gt;action=templatedata&lt;!--  --&gt;&amp;...</comment>
-      <origin>730</origin>
+      <minor/>
+      <origin>874</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="905" sha1="q0sfbsllx2s1ittvl4xidhz33g57th3" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="920" sha1="jwvpjcjsb8d1tlyiwi1cqjv3kashhxz" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;{{#external_value: 
 
@@ -23432,7 +23433,8 @@ $.pages.*.params['{{{변수이름}}}'].&lt;!--
 --&gt;&amp;titles={{주소인코딩: {{{틀이름}}} }}
 
 | use jsonpath = true
-| min cache seconds = 10
+| cache seconds = 86400
+| max tries = 1
 }}&lt;!--
 
 --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
@@ -23442,7 +23444,7 @@ $.pages.*.params['{{{변수이름}}}'].&lt;!--
 --&gt;{{설명문서}}[[분류:틀]]&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>q0sfbsllx2s1ittvl4xidhz33g57th3</sha1>
+      <sha1>jwvpjcjsb8d1tlyiwi1cqjv3kashhxz</sha1>
     </revision>
   </page>
   <page>
@@ -29106,6 +29108,323 @@ box-shadow: var(--box-shadow-border);
 를 넣고 푹 삶으면
 메이플스토리 여름 쇼케이스 대 성공~!</text>
       <sha1>9pj20gg50r8y9sdkmt0y235uv3i5x5o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>내 쌀값이 무너졌어</title>
+    <ns>0</ns>
+    <id>579</id>
+    <revision>
+      <id>868</id>
+      <timestamp>2025-09-17T12:19:15Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=ATvp2G2WNBk |제작자=이딴게 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |화자=신창섭 |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
+      <origin>868</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="328" sha1="p4iqk7ydjkt222kn9m3x8naar1bwaig" xml:space="preserve">{{문서:창팝
+|유튜브Id=ATvp2G2WNBk
+|제작자=이딴게
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 3편
+}}
+|화자=신창섭
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>p4iqk7ydjkt222kn9m3x8naar1bwaig</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:내 쌀값이 무너졌어</title>
+    <ns>3200</ns>
+    <id>580</id>
+    <revision>
+      <id>869</id>
+      <timestamp>2025-09-17T12:23:24Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 쌀값 오르고 오르네 3,700에 다 사야 해 분명 4,000원까지 다 오를 거야 부자가 된 기분이야  쌀값이 오를 거야 오를 거야 떨어지지 않아 떡상 한다 신창섭 계속 외쳐 쌀값이 올라 내 세상이 환해졌어  쌀값이 오를 거야 오를 거야 떨어지지 않아 떡상 한다 신창섭 샤타포스 나온다 했어 내 세상이 환해졌어  쌀값 이상해 왜 이래 3,500이 되었잖아 3,200원에 급처해야해 2,800...</comment>
+      <origin>869</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1259" sha1="75h424gb84risr26x7u2d4dodsrklvx" xml:space="preserve">쌀값 오르고 오르네
+3,700에 다 사야 해
+분명 4,000원까지 다 오를 거야
+부자가 된 기분이야
+
+쌀값이 오를 거야 오를 거야
+떨어지지 않아 떡상 한다
+신창섭 계속 외쳐 쌀값이 올라
+내 세상이 환해졌어
+
+쌀값이 오를 거야 오를 거야
+떨어지지 않아 떡상 한다
+신창섭 샤타포스 나온다 했어
+내 세상이 환해졌어
+
+쌀값 이상해 왜 이래
+3,500이 되었잖아
+3,200원에 급처해야해
+2,800에 팔아요
+
+수십만 뉴비 어디로 갔나
+쌀값은 왜 이렇게 초라한가
+
+쌀값이 올라야 해 올라야 해
+떨어지면 안 돼 제발 안 돼
+신창섭 외쳐봐도 오르지 않아
+내 세상이 무너졌어
+
+쌀값이 올라야 해 올라야 해
+떨어지면 안 돼 제발 안 돼
+뉴비를 꼬셔봐도 사 가지 않아
+내 세상이 무너졌어
+
+쌀이여
+내게 말해줘
+왜 이렇게 나를 떠나는 거야
+
+쌀이여
+다시 일어나
+쌀먹의 눈물을
+닦아줘
+
+쌀값이 올라야 해 올라야 해
+떨어지면 안 돼 제발 안 돼
+쌀다팜 보고 나서 모두 다 팔 걸
+내 세상이 무너졌어
+
+쌀값이 올라야 해 올라야 해
+모은 메소 아직 못 팔았어
+뉴비를 꼬셔봐도 사 가지 않아
+이 X같은 세상아</text>
+      <sha1>75h424gb84risr26x7u2d4dodsrklvx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>쌀리갈리</title>
+    <ns>0</ns>
+    <id>581</id>
+    <revision>
+      <id>870</id>
+      <timestamp>2025-09-17T12:25:37Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=S5MsPbcRr9M |제작자=돗박 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |화자=$$AL (Feat.$IN창섭) |제작방법=Suno |프롬프트=Speedy rap, rap, chiptune, beat, male vocal, Features a dynamic rap flow, rhyme, hip hop, 8-bit, Mix, Mixing, Upbeat hi-hat driven hip-hop with comple, powerful rap |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요...</comment>
+      <origin>870</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="535" sha1="b5roxrchma7uqvz4rc82339mrt8coqg" xml:space="preserve">{{문서:창팝
+|유튜브Id=S5MsPbcRr9M
+|제작자=돗박
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 3편
+}}
+|화자=$$AL (Feat.$IN창섭)
+|제작방법=Suno
+|프롬프트=Speedy rap, rap, chiptune, beat, male vocal, Features a dynamic rap flow, rhyme, hip hop, 8-bit, Mix, Mixing, Upbeat hi-hat driven hip-hop with comple, powerful rap
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>b5roxrchma7uqvz4rc82339mrt8coqg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:쌀리갈리</title>
+    <ns>3200</ns>
+    <id>582</id>
+    <revision>
+      <id>871</id>
+      <timestamp>2025-09-17T12:26:37Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>영상 설명에서 복사</comment>
+      <origin>871</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1773" sha1="rj0b8n8p438rxpgpirh7uladgxhaek2" xml:space="preserve">이거이건 쌀리갈리
+먼저패면 승리승리
+반박하면 빨리빨리
+리선족은 punchpunch
+
+(And then?)
+
+This Thisis 쌀리갈리 갈리
+먼저 누른놈이 winning winning winning
+춤춰 쌀인스텝 deal it deal it deal it
+리선족은 killing killing killing
+
+오늘도 클릭 maplestory
+이건내 인생 lifestory
+이리저리 finding해 꼬라박힌
+이미지와 쌀값시세 fallingfalling
+
+바로바로 병신같은 선족이지
+커뮤니티 분탕때문 접었음 좀 꺼 쥐지!
+이로저로 몰아가는 메밴이쥐
+선 넘지말고 선으로 선족 박히면 좀 꺼쥐지 선족아!
+
+이거이건 쌀리갈리
+먼저패면 승리승리
+반박하면 빨리빨리
+리선족은 punchpunch
+
+This Thisis 쌀리갈리 갈리
+먼저 누른놈이 winning winning winning
+춤춰 쌀인스텝 deal it deal it deal it
+리선족은 killing killing killing
+
+어 신이야~
+
+이미지는 번지 이제나는 다시 이것봐봐 재킷
+이건나의 freestyle 이젠아냐 marionette
+이십세기 maestrooooo!
+변신 사신 딴신 신 다움 신
+이 형은 올스타 쇼케이스 스타 속 빛나는
+ ‘신’!
+
+자기의견 반대하면? 선족이지
+상식적인 말만하면? 선족이지
+테러한건 공정하면? 선족easy
+아무튼간 뭐만하면? 선족easy
+쌀숭이의 지능수준? 매우부족이쥐이!!!!!
+Skrrrrrrrr!
+
+(Ready?)
+
+(Press  the  coin)
+
+(Game  start)
+
+쌀리갈리 쌀리쌀리 쌀리갈리
+갈리갈리 갈리쌀리 쌀리갈리쌀리갈리
+
+쌀리갈리 쌀리쌀리 쌀리갈리
+갈리갈리 갈리쌀리 쌀리갈리쌀리갈리
+
+쌀리쌀리쌀리 갈리 갈리갈리갈리 쌀리
+목딱닦고 기다려 쌀리쌀리갈리
+쌀인스텝 기대해 갈리갈리쌀리
+쌀리갈리 쌀리쌀리 갈리갈리 쌀리갈리
+
+쌀리갈리</text>
+      <sha1>rj0b8n8p438rxpgpirh7uladgxhaek2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>판교 never sleeps</title>
+    <ns>0</ns>
+    <id>583</id>
+    <revision>
+      <id>872</id>
+      <timestamp>2025-09-17T12:29:19Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=iFXL3RsyGXw |제작자=모슝좍 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |곡명=판교 never sleeps (until the dead end) |제작방법=Suno |프롬프트=eurobeat, super eurobeat, alternative rock, male vocal |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
+      <origin>872</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="447" sha1="8xm0lafaqltlzivqdeixyahjaqa1n6n" xml:space="preserve">{{문서:창팝
+|유튜브Id=iFXL3RsyGXw
+|제작자=모슝좍
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 3편
+}}
+|곡명=판교 never sleeps (until the dead end)
+|제작방법=Suno
+|프롬프트=eurobeat, super eurobeat, alternative rock, male vocal
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>8xm0lafaqltlzivqdeixyahjaqa1n6n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:판교 never sleeps</title>
+    <ns>3200</ns>
+    <id>584</id>
+    <revision>
+      <id>873</id>
+      <timestamp>2025-09-17T12:34:46Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 판교 is never sleep...  Do you like my kart? 원작과는 다른 Nitro's new kart 새로운 경험 말 못하는 유저는 묵살  Different than others! 운전을 못해도 판교를 뒤흔드는 Drive 10만을 밀어버린 과감한 Drift  The road is hyper-burning! Full throttle to 260 제로백 없는 급발진 바로 리부트 삭제 정상화된 도로엔 오로지 One Three Three Three  신과 같은 속도로 앞길엔 Godspeed! 10만을 죽여버린 과감한 Accel  S...</comment>
+      <origin>873</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="794" sha1="dr796jdbc5d6qk4f2tq2vq6g3pguwtg" xml:space="preserve">판교 is never sleep...
+
+Do you like my kart?
+원작과는 다른 Nitro's new kart
+새로운 경험
+말 못하는 유저는 묵살
+
+Different than others!
+운전을 못해도 판교를 뒤흔드는 Drive
+10만을 밀어버린
+과감한 Drift
+
+The road is hyper-burning!
+Full throttle to 260
+제로백 없는 급발진
+바로 리부트 삭제
+정상화된 도로엔 오로지
+One Three Three Three
+
+신과 같은 속도로
+앞길엔 Godspeed!
+10만을 죽여버린
+과감한 Accel
+
+Start the engine,
+rush to the end!
+who will end first?
+Kart or Maple?
+
+원작견 리선족
+무시하고 달려
+Unitl the dead end
+모든게 끝날때까지
+
+Start the engine,
+rush to the end!
+who will end first?
+Kart or Maple?
+
+원작견 리선족
+무시하고 달려
+Unitl the dead end
+모든게 끝날때까지</text>
+      <sha1>dr796jdbc5d6qk4f2tq2vq6g3pguwtg</sha1>
     </revision>
   </page>
 </mediawiki>
