@@ -6777,31 +6777,34 @@ Big Brother의 창을 넘어, 너만의 길을 가
     <ns>0</ns>
     <id>172</id>
     <revision>
-      <id>503</id>
-      <parentid>182</parentid>
-      <timestamp>2025-07-06T11:32:21Z</timestamp>
+      <id>899</id>
+      <parentid>503</parentid>
+      <timestamp>2025-09-22T12:40:33Z</timestamp>
       <contributor>
-        <username>창팝위키</username>
-        <id>2</id>
+        <username>리자예</username>
+        <id>7</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>503</origin>
+      <comment>창드컵 수록 정보 추가</comment>
+      <origin>899</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="256" sha1="ewwy5skww0jeieke4h8tq5uffn6cn5d" xml:space="preserve">{{문서:창팝
-|곡명=쉼,표
+      <text bytes="349" sha1="fgd13m53x0z8m67ottpvkvfm52to4gy" xml:space="preserve">{{문서:창팝
 |유튜브Id=k4m1fZioIk0
 |제작자=주차장P
 |개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 3편
+}}
 |공개일=2025-06-01
+|곡명=쉼,표
+|고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>ewwy5skww0jeieke4h8tq5uffn6cn5d</sha1>
+      <sha1>fgd13m53x0z8m67ottpvkvfm52to4gy</sha1>
     </revision>
   </page>
   <page>
@@ -23670,18 +23673,18 @@ $.pages.*.params['{{{변수이름}}}'].&lt;!--
     <ns>0</ns>
     <id>496</id>
     <revision>
-      <id>750</id>
-      <parentid>749</parentid>
-      <timestamp>2025-08-13T11:44:55Z</timestamp>
+      <id>902</id>
+      <parentid>750</parentid>
+      <timestamp>2025-09-22T13:44:04Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>수록곡 목록</comment>
-      <origin>750</origin>
+      <comment>수록곡 표 틀 적용</comment>
+      <origin>902</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1297" sha1="259la0m4xilg1wjqwnz5p0jg0jxt3gq" xml:space="preserve">{{문서:창드컵
+      <text bytes="537" sha1="l7v78ynxpeiwye87z4w2z7lyyagycxd" xml:space="preserve">{{문서:창드컵
 |명칭=엄선작 2025년 3편
 |PikuId=5XFISn
 |강=32
@@ -23690,40 +23693,12 @@ $.pages.*.params['{{{변수이름}}}'].&lt;!--
 |오픈날짜_=&lt;ref&gt;[https://gall.dcinside.com/mgallery/board/view/?id=maplereboot&amp;no=3640257 25-3 베타 종료 및 4차 패치 노트]&lt;/ref&gt;&lt;ref&gt;베타는 7월 13일에 오픈했다. [https://gall.dcinside.com/mgallery/board/view/?id=maplereboot&amp;no=3624830 25-3 베타 시작]&lt;/ref&gt;
 }}
 
+'''2025년 3편'''은 2025년 엄선작 [[창드컵]]이다.
+
 == 수록곡 ==
-* [[X스머신 김쌀숭]]
-* [[Bastard]]
-* [[렌창섭]]
-* [[황혼, 저편으로]]
-* [[창팝이란 무엇인가?]]
-* [[쌀쌀한 보랏빛 꿈 속의 지각]]
-* [[주입돼 버린 거야]]
-* [[사탄, 사명, 사랑, 사탕]]
-* [[Nostalgia]]
-* [[기대해,]]
-* [[돌아와줘]]
-* [[이대로만 갑시다.]]
-* [[불편한 거지]]
-* [[창팝을 고소 하라고? 즐기면 되잖아]]
-* [[쉼,표]]
-* [[내 쌀값이 무너졌어]]
-* [[쌀리갈리]]
-* [[판교 never sleeps]]
-* [[봉봉]]
-* [[Pangyo Casino]]
-* [[밑반찬의 신]]
-* [[펑크 메이플]]
-* [[초비 상~! 메이플 역대급 쇼케 이후 리선족들 근황 ㅋㅋ]]
-* [[Hollow Game]]
-* [[사자의 노래]]
-* [[라이스피싱]]
-* [[나 돈쓰면서 게임 했었다]]
-* [[메접의 종류와 단계를 알아보자]]
-* [[스윙 인 창팝]]
-* [[역극]]
-* [[(외쳐) 신]]
-* [[명품 레스토랑]]</text>
-      <sha1>259la0m4xilg1wjqwnz5p0jg0jxt3gq</sha1>
+&lt;div style="clear: both"&gt;&lt;/div&gt;
+{{수록곡 표}}</text>
+      <sha1>l7v78ynxpeiwye87z4w2z7lyyagycxd</sha1>
     </revision>
   </page>
   <page>
@@ -30021,6 +29996,387 @@ GO 슝 GO
 돈 쓰는 유저만 느낄 수 있는 캐주얼함
 AND I ALSO 단풍조아</text>
       <sha1>40oaor4ts2gd3drukixg1sdj1946uy1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>역극</title>
+    <ns>0</ns>
+    <id>595</id>
+    <revision>
+      <id>895</id>
+      <timestamp>2025-09-22T12:18:45Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=DSLhZBab0Oc |제작자=폰서트 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |다른언어제목=逆剋 |화자=??? |제작방법=Suno |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
+      <origin>895</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="368" sha1="2ypiwmbuzjphgyvzou9qswzqdzrsvul" xml:space="preserve">{{문서:창팝
+|유튜브Id=DSLhZBab0Oc
+|제작자=폰서트
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 3편
+}}
+|다른언어제목=逆剋
+|화자=???
+|제작방법=Suno
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>2ypiwmbuzjphgyvzou9qswzqdzrsvul</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:역극</title>
+    <ns>3200</ns>
+    <id>596</id>
+    <revision>
+      <id>896</id>
+      <timestamp>2025-09-22T12:22:50Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 낡아버린 기억 끝에 남아있는 진심 하나 버릴 수 없던 그 생각이 아직도 마음을 적셔  숨겨진 말, 멈춘 기억 돌아갈 수 없는 순간 누구도 대신할 수 없는 그 진실을 데려와  뭐가 그리 문제일까 뭘 그리도 잘못했기에 대체 우리에게 왜 그렇게까지 하려 드는 걸까  시들어버린 사랑아 나는 여기서 머무를 테니 이미 멀어진 마음에 헛된 기대는 품지 말아줘  무거워진...</comment>
+      <origin>896</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1298" sha1="b9onptdc7na4c4gd7xfvj6udf2fm0es" xml:space="preserve">낡아버린 기억 끝에
+남아있는 진심 하나
+버릴 수 없던 그 생각이
+아직도 마음을 적셔
+
+숨겨진 말, 멈춘 기억
+돌아갈 수 없는 순간
+누구도 대신할 수 없는
+그 진실을 데려와
+
+뭐가 그리 문제일까
+뭘 그리도 잘못했기에
+대체 우리에게 왜
+그렇게까지 하려 드는 걸까
+
+시들어버린 사랑아
+나는 여기서 머무를 테니
+이미 멀어진 마음에
+헛된 기대는 품지 말아줘
+
+무거워진 침묵 아래
+쌓여가는 잘못들이
+지키려 했던 것보다 더
+잃어버린 게 많았어
+
+누군가는 지켜내고
+누군가는 숨겨둔 채로
+살아가는 이 현실이
+너무나 견딜 수 없었어
+
+뭐가 그리 문제일까
+뭘 그리도 잘못했기에
+대체 너에게 왜
+그렇게까지 하려 드는 걸까
+
+시들어버린 사랑아
+나는 여기서 떠날 테니
+이미 멀어진 마음에
+헛된 기대는 품지 말아줘
+
+끝나지 않는 이 역극에서
+남아있는 건 비극 뿐
+이미 변해버린 세상에서
+진실 같은 건 의미 없었네
+
+뭐가 그리 문제일까
+그저 필연일 뿐이었는데
+대체 나에게 왜
+그렇게까지 하려 드는 걸까?
+
+시들어버린 사림아
+이 모든 건 당신 탓이니
+모든 기억은 묻어두고
+새 이름을 받아들이길</text>
+      <sha1>b9onptdc7na4c4gd7xfvj6udf2fm0es</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>(외쳐) 신</title>
+    <ns>0</ns>
+    <id>597</id>
+    <revision>
+      <id>897</id>
+      <timestamp>2025-09-22T12:25:03Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=1Q9XX_l_zXo |제작자=신창섭으로극심한자기개발 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
+      <origin>897</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="337" sha1="oq2ujnbfh6eeiqy7ajn5d58zzs985f2" xml:space="preserve">{{문서:창팝
+|유튜브Id=1Q9XX_l_zXo
+|제작자=신창섭으로극심한자기개발
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 3편
+}}
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>oq2ujnbfh6eeiqy7ajn5d58zzs985f2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:(외쳐) 신</title>
+    <ns>3200</ns>
+    <id>598</id>
+    <revision>
+      <id>898</id>
+      <timestamp>2025-09-22T12:38:35Z</timestamp>
+      <contributor>
+        <username>리자예</username>
+        <id>7</id>
+      </contributor>
+      <comment>새 문서: 루저들은 뱉어대 No move But huh, they want Better day 매출 상회는 왜 또 돼 외쳐 돌려줘 Yesterday  신 보다 더 위 멀어 신보다 두 눈 멀어 신 본위제 믿고 벌어 산 와머니 빌려 버려  메에에 일했지 누구는 바람의 나라 에서 발악해 나락 Classic 하게 바라 씨 뿌린 벼들의 발아 어 그래 기대는 말아 신에게 기대는 짠함 억울해 받은 건 빈 찬합 Brrr Brrr Brrr  Zara thustra saids Shout out to C...</comment>
+      <origin>898</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2268" sha1="c202zyx03cgfn7hkzfg8mf0cl4hec7m" xml:space="preserve">루저들은 뱉어대
+No move But huh, they
+want Better day
+매출 상회는 왜 또 돼
+외쳐 돌려줘
+Yesterday
+
+신 보다 더 위 멀어
+신보다 두 눈 멀어
+신 본위제 믿고 벌어
+산 와머니 빌려 버려
+
+메에에 일했지
+누구는 바람의 나라
+에서 발악해 나락
+Classic 하게 바라
+씨 뿌린 벼들의 발아
+어 그래 기대는 말아
+신에게 기대는 짠함
+억울해 받은 건 빈 찬합
+Brrr Brrr Brrr
+
+Zara thustra saids
+Shout out to
+Chart out ay
+
+Simon Saids 쌀먹해
+싸이버거 set 날먹해
+
+우스움은 잘못 해서
+우승은 잘 못해서
+우주는 팽창 중
+우! 우! 우! 는 팽.창 中
+
+Brrr Brrr Brrr
+Skrr!
+
+메 일 퀘
+매 일 해
+메 이 캔't
+메 이 데
+메 익 힘
+메 인 맨
+에 임 킬
+메 니 해ds
+메 안에 선
+맨 인 B
+메 안해 서
+매 우 Brown
+M y naM
+So Many Proud
+Hey Crowd 더
+
+과금 질러
+크게 louder
+외쳐 신
+안들려더크게
+외쳐 신
+안벌려도그게
+외쳐 신
+언빌리버블리
+외쳐 신
+안벌리배불리
+야
+안들려더크게
+외쳐 신
+쌀
+안벌려도그게
+외쳐 신
+승
+언빌리버블리
+외쳐 신
+돈
+안벌리배불리
+
+Yo
+유저들은 게토 대
+U just truly get her day
+매출 전망은 개털 돼
+쌀먹 쳐낸 종민은 왜 탑 돼
+
+창섭 점마는 예수 돼
+Live 때리면 예토 돼
+컨텐츠 대리면 Entertain
+꼬우면 회리맨에 Contack!
+
+에또 뜨거운 쌀 햄벅 겟
+버에 비거운 삶 행복 햇
+회떠 신선한 임티 겟 해
+해 떠도 신성한 엠티 켓
+맘
+
+어머니로 삼행시 지어볼게
+어 머닐 불러 말해
+머 니를 불리 려다가
+니 이제 밖에 좀 나가
+머
+
+나 그럼 죽 어
+
+메 일 퀘
+매 일 해
+메 이 캔't
+메 이 데
+메 익 힘
+메 인 맨
+에 임 킬
+메 니 해ds
+메 안에 선
+맨 인 B
+메 안해 서
+매 우 Brown
+M y naM
+So Many Proud
+Hey Crowd 더
+
+과금 질러
+크게 louder
+외쳐 신
+안들려더크게
+외쳐 신
+안벌려도그게
+외쳐 신
+언빌리버블리
+외쳐 신
+안벌리배불리
+
+외쳐 신
+안들려더크게
+외쳐 신
+안벌려도그게
+외쳐 신
+언빌리버블리 (버블리 yeah)
+외쳐 신
+안벌리배불리
+
+안벌리배불리
+야
+안들려더크게
+외쳐 신
+쌀
+안벌려도그게
+외쳐 신
+승
+언빌리버블리
+외쳐 신
+돈
+안벌리배불리</text>
+      <sha1>c202zyx03cgfn7hkzfg8mf0cl4hec7m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:수록곡 표/행</title>
+    <ns>10</ns>
+    <id>599</id>
+    <revision>
+      <id>900</id>
+      <timestamp>2025-09-22T13:42:23Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------  --&gt; {{!}} [[ {{{_pageName}}} | {{{곡명}}} ]]  {{!}} {{{제작자}}} {{!}} {{{공개일}}} {{!}} {{수형식: {{{조회수}}} }}회 {{!}} {{#invoke: 시간변환 | seconds_to_m_ss | {{{재생시간}}} }} {{!}}- &lt;!--  --------------------------------&gt;&lt;/onlyinclude&gt;&lt;!-------------------------------  --------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------  --&gt;분류:카고...</comment>
+      <origin>900</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="584" sha1="jutgwzrxqzhqj6cc1k2q8osw91zkygo" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
+
+--&gt;
+{{!}} [[ {{{_pageName}}} | {{{곡명}}} ]] 
+{{!}} {{{제작자}}}
+{{!}} {{{공개일}}}
+{{!}} {{수형식: {{{조회수}}} }}회
+{{!}} {{#invoke: 시간변환 | seconds_to_m_ss | {{{재생시간}}} }}
+{{!}}-
+&lt;!--
+
+--------------------------------&gt;&lt;/onlyinclude&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;[[분류:카고 쿼리용 틀]]&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>jutgwzrxqzhqj6cc1k2q8osw91zkygo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:수록곡 표</title>
+    <ns>10</ns>
+    <id>600</id>
+    <revision>
+      <id>904</id>
+      <parentid>903</parentid>
+      <timestamp>2025-09-22T15:56:42Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <origin>904</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="937" sha1="kt78iu621vrmaxwunqn1hm1mr95338c" xml:space="preserve">{| class="wikitable sortable wikitable--stripe wikitable--fluid"
+|+ [[{{#or: {{{창드컵|}}} | {{문서이름}} }}]] 수록곡 표
+|-
+! 곡 !! 제작자 !! 공개일 !!data-sort-type="number"| 조회수 !! 길이 
+|-
+{{#cargo_query: tables = 수록창드컵, 창팝, 유튜브영상
+| fields= 창팝._pageName, 창팝.곡명, 창팝.제작자, 창팝.공개일, MAX(유튜브영상.조회수)=조회수, 유튜브영상.재생시간
+| where = 수록창드컵.창드컵 = '{{#or: {{{창드컵|}}} | {{문서이름}} }}'
+| join on = 
+창팝._pageId = 수록창드컵._pageId, 
+창팝.유튜브Id = 유튜브영상.Id
+| group by = 창팝._ID
+| format = template
+| template = 수록곡 표/행
+| named args = yes
+}}
+|}&lt;!--
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;{{설명문서}}[[분류:카고 쿼리용 틀]]&lt;!--
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>kt78iu621vrmaxwunqn1hm1mr95338c</sha1>
     </revision>
   </page>
 </mediawiki>
