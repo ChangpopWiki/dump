@@ -23673,18 +23673,18 @@ $.pages.*.params['{{{변수이름}}}'].&lt;!--
     <ns>0</ns>
     <id>496</id>
     <revision>
-      <id>902</id>
-      <parentid>750</parentid>
-      <timestamp>2025-09-22T13:44:04Z</timestamp>
+      <id>910</id>
+      <parentid>902</parentid>
+      <timestamp>2025-09-23T12:42:24Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>수록곡 표 틀 적용</comment>
-      <origin>902</origin>
+      <comment>수록곡 둘러보기 틀 추가</comment>
+      <origin>910</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="537" sha1="l7v78ynxpeiwye87z4w2z7lyyagycxd" xml:space="preserve">{{문서:창드컵
+      <text bytes="625" sha1="juhmiiwozyho1yyuu0d20uriglrimoz" xml:space="preserve">{{문서:창드컵
 |명칭=엄선작 2025년 3편
 |PikuId=5XFISn
 |강=32
@@ -23697,8 +23697,12 @@ $.pages.*.params['{{{변수이름}}}'].&lt;!--
 
 == 수록곡 ==
 &lt;div style="clear: both"&gt;&lt;/div&gt;
+{{창드컵 수록곡 둘러보기
+| 창드컵 = {{문서이름}}
+| 펼치기 = 예 
+}}
 {{수록곡 표}}</text>
-      <sha1>l7v78ynxpeiwye87z4w2z7lyyagycxd</sha1>
+      <sha1>juhmiiwozyho1yyuu0d20uriglrimoz</sha1>
     </revision>
   </page>
   <page>
@@ -30377,6 +30381,333 @@ Hey Crowd 더
 --&gt;{{설명문서}}[[분류:카고 쿼리용 틀]]&lt;!--
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
       <sha1>kt78iu621vrmaxwunqn1hm1mr95338c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>미디어위키:Collapsible-animation.js</title>
+    <ns>8</ns>
+    <id>601</id>
+    <revision>
+      <id>905</id>
+      <timestamp>2025-09-23T12:39:31Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: mw.hook('wikipage.content').add(function() {    // --- 초기 상태 설정 ---   document.querySelectorAll('.mw-collapsible .mw-collapsible-content').forEach(function(content) {       content.style.opacity = 1;       content.style.maxHeight = content.scrollHeight + 'px';   });    document.querySelectorAll('.mw-collapsible.mw-collapsed .mw-collapsible-content').forEach(function(content) {       content.style.display = 'none';       content.style.opacity = 0;       content.style....</comment>
+      <origin>905</origin>
+      <model>javascript</model>
+      <format>text/javascript</format>
+      <text bytes="2306" sha1="60dyw172wptfo5foj2f4dpc7vuuu54f" xml:space="preserve">mw.hook('wikipage.content').add(function() {
+
+  // --- 초기 상태 설정 ---
+  document.querySelectorAll('.mw-collapsible .mw-collapsible-content').forEach(function(content) {
+      content.style.opacity = 1;
+      content.style.maxHeight = content.scrollHeight + 'px';
+  });
+
+  document.querySelectorAll('.mw-collapsible.mw-collapsed .mw-collapsible-content').forEach(function(content) {
+      content.style.display = 'none';
+      content.style.opacity = 0;
+      content.style.maxHeight = 0;
+  });
+
+  // --- 클릭 이벤트 설정 ---
+  document.querySelectorAll('.mw-collapsible-toggle').forEach(function(toggle) {
+    if (toggle.dataset.customToggleApplied) return;
+    toggle.dataset.customToggleApplied = 'true';
+    
+    // 토글 영역 위에 올려진 링크를 클릭할 때 토글까지 반응하지 않도록
+    toggle.querySelectorAll('a').forEach(function(link) {
+	    link.addEventListener('click', function(event) {
+	      event.stopPropagation();
+	    });
+	});
+	
+	// 기본 이벤트 비활성화
+    toggle.addEventListener('click', function(e) {
+      e.stopPropagation();
+      e.stopImmediatePropagation();
+
+      const container = this.closest('.mw-collapsible');
+      const icon = container.querySelector('.mw-ui-icon-wikimedia-collapse');
+      const content = container.querySelector('.mw-collapsible-content');
+
+      if (!container || !content) return;
+      const isCollapsed = container.classList.contains('mw-collapsed');
+
+      if (isCollapsed) {
+	    container.classList.remove('mw-collapsed');
+	    content.style.display = 'block';
+	    const scrollHeight = content.scrollHeight;
+	
+	    requestAnimationFrame(function() {
+	      content.style.opacity = '1';
+	      content.style.maxHeight = scrollHeight + 'px';
+	       icon.style.transform = 'none';
+	    });
+      } 
+      else {
+        content.style.opacity = '0';
+        
+        content.style.maxHeight = content.scrollHeight + 'px';
+        
+        requestAnimationFrame(function() {
+          content.style.maxHeight = '0';
+          icon.style.transform = 'rotate(180deg)';
+        });
+        
+        content.addEventListener('transitionend', function() {
+          content.style.display = 'none';
+          container.classList.add('mw-collapsed');
+        }, { once: true });
+      }
+    });
+  });
+});</text>
+      <sha1>60dyw172wptfo5foj2f4dpc7vuuu54f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀스타일:둘러보기</title>
+    <ns>3810</ns>
+    <id>602</id>
+    <revision>
+      <id>906</id>
+      <timestamp>2025-09-23T12:40:09Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: .ts--navbox .mw-collapsible-content {   transition:    	opacity 0.3s ease-out,   	max-height 0.2s cubic-bezier(.77,0,.18,1);   overflow: hidden; }  .ts--navbox.mw-collapsible.mw-collapsed .mw-collapsible-toggle .mw-ui-icon-wikimedia-collapse{ 	transform: rotate(180deg); }  .ts--navbox.mw-collapsible .mw-collapsible-toggle{ 	float: none; 	display: flex;  	justify-content: space-between;  	align-items: center;  	padding: 0.75rem 1rem; 	background-color: var(--background-color-neut...</comment>
+      <origin>906</origin>
+      <model>sanitized-css</model>
+      <format>text/css</format>
+      <text bytes="1069" sha1="ke5vyq8842alpsyw101fuadqff4vfwm" xml:space="preserve">.ts--navbox .mw-collapsible-content {
+  transition: 
+  	opacity 0.3s ease-out,
+  	max-height 0.2s cubic-bezier(.77,0,.18,1);
+  overflow: hidden;
+}
+
+.ts--navbox.mw-collapsible.mw-collapsed .mw-collapsible-toggle .mw-ui-icon-wikimedia-collapse{
+	transform: rotate(180deg);
+}
+
+.ts--navbox.mw-collapsible .mw-collapsible-toggle{
+	float: none;
+	display: flex; 
+	justify-content: space-between; 
+	align-items: center; 
+	padding: 0.75rem 1rem;
+	background-color: var(--background-color-neutral-subtle);
+}
+
+.skin-citizen .ts--navbox.mw-collapsible .mw-collapsible-toggle {
+	background-color: var(--color-surface-1);
+}
+
+.ts--navbox.mw-collapsible.mw-collapsed .mw-collapsible-toggle {
+	background-color: transparent;
+}
+
+.ts--navbox .mw-collapsible-toggle .mw-ui-icon-wikimedia-collapse {
+	transition: transform 0.2s ease;
+}
+
+.ts--navbox.mw-collapsible .mw-collapsible-toggle:hover {
+	background-color: var(--background-color-button-quiet--hover);
+}
+
+.ts--navbox .mw-collapsible-toggle:hover .mw-ui-icon-wikimedia-collapse::before {
+	background-color: var(--color-progressive);
+}</text>
+      <sha1>ke5vyq8842alpsyw101fuadqff4vfwm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:창드컵 수록곡 둘러보기</title>
+    <ns>10</ns>
+    <id>603</id>
+    <revision>
+      <id>907</id>
+      <timestamp>2025-09-23T12:40:44Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------  --&gt;&lt;templatestyles src="둘러보기"/&gt;&lt;usescript src="Collapsible-animation.js" /&gt; &lt;div class="ts--navbox mw-collapsible {{#if: {{부울변환| {{{펼치기|}}} }} | | mw-collapsed }}" style=" border-radius: var(--border-radius-medium); box-shadow: var(--box-shadow-border); font-size: var(--font-size-small); line-height: var(--line-height-xx-small); "&gt; &lt;div class="mw-collapsible-toggle"&gt; &lt;div&gt;&lt;div...</comment>
+      <origin>907</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1634" sha1="np6vl7136sljcvmrtn00v8c917wtpm9" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
+
+--&gt;&lt;templatestyles src="둘러보기"/&gt;&lt;usescript src="Collapsible-animation.js" /&gt;
+&lt;div class="ts--navbox mw-collapsible {{#if: {{부울변환| {{{펼치기|}}} }} | | mw-collapsed }}" style="
+border-radius: var(--border-radius-medium);
+box-shadow: var(--box-shadow-border);
+font-size: var(--font-size-small);
+line-height: var(--line-height-xx-small);
+"&gt;
+&lt;div class="mw-collapsible-toggle"&gt;
+&lt;div&gt;&lt;div style="color: var(--color-emphasized);
+  font-weight: var(--font-weight-semi-bold);
+  font-size: var(--font-size-medium);"&gt;[[{{{창드컵}}}]]&lt;/div&gt;&lt;div
+  style="color: var(--color-subtle);"&gt;수록곡&lt;/div&gt;&lt;/div&gt;
+&lt;div class="citizen-ui-icon mw-ui-icon-wikimedia-collapse"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mw-collapsible-content" style="border-top: var(--border-base);"&gt;
+&lt;div style="
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(max(120px, calc((100% - (7 * 2px)) / 8)), 1fr));
+gap: 2px;
+width: 100%;
+width:100%;
+font-weight: 500;
+padding: 2px;
+"&gt;{{#cargo_query:
+tables=수록창드컵, 창팝
+|fields=창팝._pageName = 문서이름, 창팝.유튜브Id
+|where=수록창드컵.창드컵 = "{{{창드컵}}}"
+|join on=수록창드컵._pageID = 창팝._pageID
+|format=template
+|template=이미지 항목
+|named args=yes
+}}&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;!--
+
+--------------------------------&gt;&lt;/onlyinclude&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;{{설명문서}}[[분류:둘러보기 틀]]&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>np6vl7136sljcvmrtn00v8c917wtpm9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:이미지 항목</title>
+    <ns>10</ns>
+    <id>604</id>
+    <revision>
+      <id>908</id>
+      <timestamp>2025-09-23T12:41:48Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------  --&gt;&lt;templatestyles src="틀:이미지 항목/스타일.css"/&gt; &lt;div class="ts--imageitem-container"&gt; &lt;p class="ts--imageitem-image"&gt;https://i.ytimg.com/vi/{{{유튜브Id}}}/mqdefault.jpg&lt;/p&gt; &lt;div class="ts--imageitem-imagelink"&gt;[[{{{문서이름}}}]]&lt;/div&gt; &lt;div class="ts--imageitem-caption" &gt;&lt;!--  	--&gt;&lt;div class="ts--imageitem-blur-background"&gt;https://i.ytimg.com/vi/{{{유튜브Id}}}/mqdefault.jpg&lt;/...</comment>
+      <origin>908</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="847" sha1="4zigxjtmefxbai2kscq0ftb4m1tuiu6" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
+
+--&gt;&lt;templatestyles src="틀:이미지 항목/스타일.css"/&gt;
+&lt;div class="ts--imageitem-container"&gt;
+&lt;p class="ts--imageitem-image"&gt;https://i.ytimg.com/vi/{{{유튜브Id}}}/mqdefault.jpg&lt;/p&gt;
+&lt;div class="ts--imageitem-imagelink"&gt;[[{{{문서이름}}}]]&lt;/div&gt;
+&lt;div class="ts--imageitem-caption" &gt;&lt;!-- 
+	--&gt;&lt;div class="ts--imageitem-blur-background"&gt;https://i.ytimg.com/vi/{{{유튜브Id}}}/mqdefault.jpg&lt;/div&gt;&lt;!-- 
+	--&gt;[[{{{문서이름}}}]]&lt;!-- 
+--&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;!--
+
+--------------------------------&gt;&lt;/onlyinclude&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;{{설명문서}}[[분류:카고 쿼리용 틀]]&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>4zigxjtmefxbai2kscq0ftb4m1tuiu6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:이미지 항목/스타일.css</title>
+    <ns>10</ns>
+    <id>605</id>
+    <revision>
+      <id>909</id>
+      <timestamp>2025-09-23T12:42:01Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: .ts--imageitem-container { 	position: relative; 	display: flex; 	flex-direction: column; }  .ts--imageitem-image { 	margin: 0; 	width: 100%; }  .ts--imageitem-image &gt; img { 	width: 100%; }  .ts--imageitem-imagelink { 	position: absolute; 	top: 0; 	width: 100%; 	height: 100%; }  .ts--imageitem-imagelink &gt; a { 	display: block; 	width: 100%; 	height: 100%; 	font-size: 0; 	background: linear-gradient( to bottom, rgba(0,0,0,0.4) 0%, transparent 40%, transparent); 	opacity: 0; 	transi...</comment>
+      <origin>909</origin>
+      <model>sanitized-css</model>
+      <format>text/css</format>
+      <text bytes="1184" sha1="7foxhytiar2icyzgqoza54v0skmnwnk" xml:space="preserve">.ts--imageitem-container {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+}
+
+.ts--imageitem-image {
+	margin: 0;
+	width: 100%;
+}
+
+.ts--imageitem-image &gt; img {
+	width: 100%;
+}
+
+.ts--imageitem-imagelink {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.ts--imageitem-imagelink &gt; a {
+	display: block;
+	width: 100%;
+	height: 100%;
+	font-size: 0;
+	background: linear-gradient( to bottom, rgba(0,0,0,0.4) 0%, transparent 40%, transparent);
+	opacity: 0;
+	transition: opacity .135s cubic-bezier(0,0,.2,1);
+}
+
+.ts--imageitem-imagelink &gt; a:hover {
+	opacity: 1;
+}
+
+.ts--imageitem-imagelink &gt; a:active {
+	box-shadow: 0 0 0 2px var(--color-progressive);
+	transition-duration: 0s;
+}
+
+.ts--imageitem-blur-background {
+	position: absolute;
+	width: 100%;
+	z-index: -1;
+}
+
+.ts--imageitem-blur-background &gt; img {
+	filter: blur(2em) brightness(0.6) saturate(3);
+	width: 200%;
+	transform: translateX(-25%) translateY(-50%);
+}
+
+.ts--imageitem-caption {
+	display: flex;
+	width: 100%;
+	justify-content: center;
+	overflow: hidden;
+	position: relative;
+}
+
+.ts--imageitem-caption a {
+	color: white;
+	padding: 6px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}</text>
+      <sha1>7foxhytiar2icyzgqoza54v0skmnwnk</sha1>
     </revision>
   </page>
 </mediawiki>
