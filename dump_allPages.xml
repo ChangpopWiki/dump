@@ -323,20 +323,62 @@ break=no
     <ns>14</ns>
     <id>5</id>
     <revision>
-      <id>949</id>
-      <parentid>948</parentid>
-      <timestamp>2025-09-24T10:49:36Z</timestamp>
+      <id>957</id>
+      <parentid>949</parentid>
+      <timestamp>2025-09-25T15:07:05Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>[[Special:Contributions/창팝위키|창팝위키]] ([[User talk:창팝위키|토론]])의 [[Special:Diff/948|948]] 판 편집을 되돌림</comment>
-      <origin>949</origin>
+      <comment>[모든 창팝 문서를 다이나믹 테이블 쿼리로 보기] 링크 추가</comment>
+      <origin>957</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="61" sha1="tle6ao2j6s4c3wrk3ofh7kknierp0m0" xml:space="preserve">{{#default_form: {{문서이름}} }}
+      <text bytes="1504" sha1="8p1xin85u0ekpxatxi86q5fuzv6vkbf" xml:space="preserve">[{{fullurl: 특수:CargoQuery 
+ |	{{#invoke: String | replace
+	| source = &lt;!-- 
+	--&gt;title=특수:CargoQuery&lt;!--
+	
+	--&gt;&amp;tables=&lt;!--
+		--&gt;창팝,&lt;!--
+		--&gt;수록창드컵,&lt;!--
+		--&gt;유튜브영상,&lt;!--
+		--&gt;창팝추가정보&lt;!--
+		
+	--&gt;&amp;fields=&lt;!--
+		--&gt;CONCAT( '{{카고 테이블 유튜브 썸네일{{!}}', 창팝.유튜브Id, '}}' ) = 썸네일,&lt;!--
+		--&gt;CONCAT( '&amp;#91;&amp;#91;', 창팝._pageName, '{{!}}', 창팝.곡명, '&amp;#93;&amp;#93;' ) = 창팝,&lt;!--
+		--&gt;창팝.제작자,&lt;!--
+		--&gt;창팝추가정보.화자,&lt;!--
+		--&gt;창팝추가정보.다른언어제목 = 다른 언어 제목,&lt;!--
+		--&gt;창팝추가정보.별명,&lt;!--
+		--&gt;GROUP_CONCAT( DISTINCT '&amp;#91;&amp;#91;', 수록창드컵.창드컵,'&amp;#93;&amp;#93;' SEPARATOR ', ' ) = 수록 창드컵,&lt;!--
+		--&gt;유튜브영상.조회수,&lt;!--
+		--&gt;유튜브영상.재생시간 = 길이(초),&lt;!--
+		--&gt;창팝.공개일,&lt;!--
+		--&gt;유튜브영상.업로드시각 = 유튜브 업로드 시각,&lt;!--
+		--&gt;창팝.개사여부 = 개사&lt;!--
+		
+	--&gt;&amp;join on=&lt;!--
+		--&gt;창팝._pageID = 수록창드컵._pageID,&lt;!--
+		--&gt;창팝.유튜브Id = 유튜브영상.Id,&lt;!--
+		--&gt;창팝._pageID = 창팝추가정보._pageID&lt;!--
+		
+	--&gt;&amp;group by=창팝._pageID&lt;!--
+	--&gt;&amp;order by=창팝.곡명 ASC&lt;!--
+	--&gt;&amp;limit= 5000&lt;!--
+	--&gt;&amp;format= dynamic table&lt;!--
+	--&gt;&amp;column widths= 65px,15em,,,,,,,4em,5em,12em,2em
+	
+ 	| &lt;!-- 공백을 
+ --&gt;|+&lt;!-- +로 변환
+ --&gt;}}
+ 
+ }} 모든 창팝 문서를 다이나믹 테이블 쿼리로 보기]
+
+{{#default_form: {{문서이름}} }}
 [[분류:주제 분류]]</text>
-      <sha1>tle6ao2j6s4c3wrk3ofh7kknierp0m0</sha1>
+      <sha1>8p1xin85u0ekpxatxi86q5fuzv6vkbf</sha1>
     </revision>
   </page>
   <page>
@@ -28360,17 +28402,17 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
     <ns>10</ns>
     <id>565</id>
     <revision>
-      <id>852</id>
-      <parentid>839</parentid>
-      <timestamp>2025-09-04T11:33:40Z</timestamp>
+      <id>956</id>
+      <parentid>852</parentid>
+      <timestamp>2025-09-25T08:50:36Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>852</origin>
+      <origin>956</origin>
       <model>sanitized-css</model>
       <format>text/css</format>
-      <text bytes="579" sha1="lq5xjbgoh1n4ggrozf7cqhw27p8lu0g" xml:space="preserve">.ts--thumbnail-container {
+      <text bytes="615" sha1="bkbctef2ww71s71uhzmqagyee27vnka" xml:space="preserve">.ts--thumbnail-container {
 	width: 160px; 
 	min-width: 160px;
 	height: 90px;
@@ -28385,6 +28427,10 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 
 .ts--meta {
 	padding: 0 8px; 
+}
+
+.ts--meta p {
+	margin-block: 0; 
 }
 
 .ts--meta-delimiter {
@@ -28408,7 +28454,7 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 .ts--item-container:hover {
 	background-color: var(--background-color-button-quiet--hover);
 }</text>
-      <sha1>lq5xjbgoh1n4ggrozf7cqhw27p8lu0g</sha1>
+      <sha1>bkbctef2ww71s71uhzmqagyee27vnka</sha1>
     </revision>
   </page>
   <page>
