@@ -5888,21 +5888,22 @@ piku\.co.kr
     <ns>10</ns>
     <id>148</id>
     <revision>
-      <id>704</id>
-      <parentid>148</parentid>
-      <timestamp>2025-07-16T04:29:13Z</timestamp>
+      <id>996</id>
+      <parentid>995</parentid>
+      <timestamp>2025-09-30T12:34:29Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>704</origin>
+      <minor/>
+      <origin>996</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="432" sha1="8uhfh4z4go6u8vt3ivymis76ers5yqj" xml:space="preserve">&lt;templatestyles src="틀:최근 바뀜/스타일.css" /&gt;
+      <text bytes="427" sha1="e0j5lqc0ljmxfhz4itmucc8q2j9vucp" xml:space="preserve">&lt;templatestyles src="틀:최근 바뀜/스타일.css" /&gt;
 {| class="wikitable wikitable--fluid"
 |+ 최근 바뀜
 |-
-| {{특수:최근바뀜/limit=15,namespace=0;4;6;12;14;3010;3200;}}
+| {{특수:최근바뀜/limit=15,namespace=0;4;6;12;14;3200;}}
 |-
 | [[특수:최근바뀜|더보기...]]
 |}&lt;!--
@@ -5910,7 +5911,7 @@ piku\.co.kr
 
 --&gt;[[분류:틀]]{{설명문서}}&lt;!--
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>8uhfh4z4go6u8vt3ivymis76ers5yqj</sha1>
+      <sha1>e0j5lqc0ljmxfhz4itmucc8q2j9vucp</sha1>
     </revision>
   </page>
   <page>
@@ -28313,17 +28314,17 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
     <ns>10</ns>
     <id>564</id>
     <revision>
-      <id>853</id>
-      <parentid>851</parentid>
-      <timestamp>2025-09-04T11:34:03Z</timestamp>
+      <id>994</id>
+      <parentid>853</parentid>
+      <timestamp>2025-09-30T12:32:56Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>853</origin>
+      <origin>994</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2396" sha1="pa4i9fxt9pekxvi8qislqm9zdgehmjp" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="2646" sha1="rbrqrz1d1kqzskjr6elyhyyp8tojnxb" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;{{#if: &lt;!-- 
 아래 변수 중 하나라도 있어야 항목을 표시하기 --&gt;
@@ -28351,11 +28352,10 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 	시작 시간 표기
 	--&gt;&lt;span&gt;{{#timel: H:i | {{{시작시간}}} }} 시작&lt;/span&gt;&lt;!--
 	
-	구분점
-	--&gt;&lt;span class="ts--meta-delimiter"&gt;•&lt;/span&gt;&lt;!--
-	
 --&gt;}}&lt;!--
---&gt;&lt;span&gt;{{{기타표기사항}}}&lt;/span&gt;
+--&gt;&lt;span&gt;{{#if: {{{영상시간|}}} | &lt;span class="ts--meta-delimiter"&gt;•&lt;/span&gt;{{{영상시간}}} }}&lt;/span&gt;&lt;!--
+--&gt;&lt;span&gt;{{#if: {{{카운트다운|}}} | &lt;span class="ts--meta-delimiter"&gt;•&lt;/span&gt;{{{카운트다운}}} }}&lt;/span&gt;&lt;!--
+--&gt;&lt;span&gt;{{#if: {{{기타표기사항|}}} | &lt;span class="ts--meta-delimiter"&gt;•&lt;/span&gt;{{{기타표기사항}}} }}&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -28380,7 +28380,7 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 --&gt;{{설명문서}}&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>pa4i9fxt9pekxvi8qislqm9zdgehmjp</sha1>
+      <sha1>rbrqrz1d1kqzskjr6elyhyyp8tojnxb</sha1>
     </revision>
   </page>
   <page>
@@ -28448,17 +28448,17 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
     <ns>3010</ns>
     <id>566</id>
     <revision>
-      <id>840</id>
-      <timestamp>2025-08-31T09:01:47Z</timestamp>
+      <id>993</id>
+      <parentid>840</parentid>
+      <timestamp>2025-09-30T12:30:42Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: [[틀:최초공개 릴레이]]에서 각 행 단위로 사용됩니다. == 예시 == 아래 예시는 여러 경우를 확인해보기 위한 테스트입니다. 실제 사용에서는 수동으로 틀을 사용하지 않고 [[틀:최초공개 릴레이]]에 의해 External Data로 틀 변수가 채워집니다.   첫번째 항목: 일반적인 형태, 두번째 항목: 최공시트에 유튜브 링크가 입력되지 않은 경우, 세번째 항목: 최공시트의 예약자...</comment>
-      <origin>840</origin>
+      <origin>993</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="3136" sha1="hi78pct26igueg8wg3e8cpsg0wkm2ep" xml:space="preserve">[[틀:최초공개 릴레이]]에서 각 행 단위로 사용됩니다.
+      <text bytes="3220" sha1="88f4eypuqdch5tqx97ksbvixpzkj351" xml:space="preserve">[[틀:최초공개 릴레이]]에서 각 행 단위로 사용됩니다.
 == 예시 ==
 아래 예시는 여러 경우를 확인해보기 위한 테스트입니다. 실제 사용에서는 수동으로 틀을 사용하지 않고 [[틀:최초공개 릴레이]]에 의해 External Data로 틀 변수가 채워집니다. 
 
@@ -28470,6 +28470,8 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 |시간슬롯 = 23:05
 |예약자 = 성보의 내가하고싶은거만하는 채널
 |링크 = https://youtu.be/EslXg6BaUnc
+|영상시간 = 2:24
+|카운트다운 = ?
 |기타표기사항 = 2:24/?분
 |영상Id = EslXg6BaUnc
 |채널Id = UC5tTVvLOduGPxuf9VCijJ3g
@@ -28516,6 +28518,8 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 |시간슬롯 = 23:05
 |예약자 = 성보의 내가하고싶은거만하는 채널
 |링크 = https://youtu.be/EslXg6BaUnc
+|영상시간 = 2:24
+|카운트다운 = ?
 |기타표기사항 = 2:24/?분
 |영상Id = EslXg6BaUnc
 |채널Id = UC5tTVvLOduGPxuf9VCijJ3g
@@ -28565,7 +28569,7 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 --&gt;[[분류:설명문서]]&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>hi78pct26igueg8wg3e8cpsg0wkm2ep</sha1>
+      <sha1>88f4eypuqdch5tqx97ksbvixpzkj351</sha1>
     </revision>
   </page>
   <page>
