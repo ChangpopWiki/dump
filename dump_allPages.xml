@@ -28577,18 +28577,18 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
     <ns>10</ns>
     <id>567</id>
     <revision>
-      <id>867</id>
-      <parentid>854</parentid>
-      <timestamp>2025-09-15T20:35:13Z</timestamp>
+      <id>997</id>
+      <parentid>867</parentid>
+      <timestamp>2025-10-01T15:17:17Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>"max tries = 1" 추가</comment>
-      <origin>867</origin>
+      <comment>시트 변경 대응</comment>
+      <origin>997</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1061" sha1="p6mhasj7yt83puhiu8t9e6ktjn5vv3u" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="1140" sha1="8g3q2lwkszdg1y1trzvkmhlxu0ofo56" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;{{#if: {{{날짜|}}} |
 {{#display_external_table: template = 최초공개 릴레이/항목
@@ -28603,7 +28603,9 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 시간슬롯 = $[*].time_slot,
 예약자 = $[*].column_a,
 링크 = $[*].column_b,
-기타표기사항 = $[*].column_c,
+영상시간 = $[*].column_c,
+카운트다운 = $[*].column_d,
+기타표기사항 = $[*].column_e,
 영상Id = $[*].video_id,
 채널Id = $[*].channel_id,
 제목 = $[*].title,
@@ -28617,10 +28619,10 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 
 --------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
 
---&gt;[[분류:틀]]&lt;!--
+--&gt;[[분류:틀]]{{설명문서}}&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>p6mhasj7yt83puhiu8t9e6ktjn5vv3u</sha1>
+      <sha1>8g3q2lwkszdg1y1trzvkmhlxu0ofo56</sha1>
     </revision>
   </page>
   <page>
@@ -28628,17 +28630,17 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
     <ns>10</ns>
     <id>568</id>
     <revision>
-      <id>855</id>
-      <parentid>848</parentid>
-      <timestamp>2025-09-04T11:35:14Z</timestamp>
+      <id>998</id>
+      <parentid>855</parentid>
+      <timestamp>2025-10-01T15:37:07Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>855</origin>
+      <origin>998</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1405" sha1="l4wnzso4hce2avvaljjef1fx0rwst6s" xml:space="preserve">&lt;div style="
+      <text bytes="1432" sha1="tjrkx8mzqvd14eoogb73lmqjcmadavo" xml:space="preserve">&lt;div style="
 margin-block: var(--space-md);
 border-radius: var(--border-radius-medium);
 box-shadow: var(--box-shadow-border);
@@ -28672,9 +28674,9 @@ box-shadow: var(--box-shadow-border);
 	--&gt;[https://changpop.wiki/premiere-relay-archive 외부 웹으로 보기]&lt;!-- 
 --&gt;&lt;/div&gt;
 &lt;/tabber&gt;
-&lt;div style="padding: var(--space-xs) var(--space-sm); border-top: var(--border-width-base) solid var(--border-color-base);"&gt;&lt;span style="font-size: var(--font-size-small); "&gt;최초공개 정보는 [https://docs.google.com/spreadsheets/d/134a8r9X5_hruHvDi_lR2O0EeymGgXExDI0ie8MnpWVw/ 최공 릴레이표] 시트에서 가져옵니다.&lt;/span&gt;&lt;/div&gt;
+&lt;div style="padding: var(--space-xs) var(--space-sm); border-top: var(--border-width-base) solid var(--border-color-base);"&gt;&lt;span style="font-size: var(--font-size-small); "&gt;최초공개 릴레이는 [https://docs.google.com/spreadsheets/d/1bZ6rfkQZJA7ydXMAMbU5BJkYalkGcjPvU4ulfqAtREI/edit?usp=sharing 최공 릴레이] 시트에서 편집할 수 있습니다.&lt;/span&gt;&lt;/div&gt;
 &lt;/div&gt;</text>
-      <sha1>l4wnzso4hce2avvaljjef1fx0rwst6s</sha1>
+      <sha1>tjrkx8mzqvd14eoogb73lmqjcmadavo</sha1>
     </revision>
   </page>
   <page>
@@ -32357,6 +32359,36 @@ table.dataTable tbody td:has(.mw-Cargoquery--thumbnail) {
 }}
 [[분류:창드컵 수록곡]]</text>
       <sha1>qejd6kbzbrhc8e1a0y7ix0qwyo2sbba</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>최초공개 릴레이/아카이브/2025년 10월</title>
+    <ns>0</ns>
+    <id>654</id>
+    <revision>
+      <id>999</id>
+      <timestamp>2025-10-01T15:37:57Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{#arraymap: 01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 | ,  | {{{일}}}  | &lt;h3&gt;{{#time: j | 2025-10-{{{일}}} }}일&lt;/h3&gt; &lt;div style=" margin-block: var(--space-md); border-radius: var(--border-radius-medium); box-shadow: var(--box-shadow-border); "&gt;{{최초공개 릴레이|날짜=2025-10-{{{일}}} }}&lt;/div&gt; | }}  [[분류:최초공개 릴레이 아카이브]]</comment>
+      <origin>999</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="411" sha1="754zzjea0m029ngjmjhk3c3uq9eo3af" xml:space="preserve">{{#arraymap: 01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+| , 
+| {{{일}}} 
+| &lt;h3&gt;{{#time: j | 2025-10-{{{일}}} }}일&lt;/h3&gt; &lt;div style="
+margin-block: var(--space-md);
+border-radius: var(--border-radius-medium);
+box-shadow: var(--box-shadow-border);
+"&gt;{{최초공개 릴레이|날짜=2025-10-{{{일}}} }}&lt;/div&gt;
+|
+}}
+
+[[분류:최초공개 릴레이 아카이브]]</text>
+      <sha1>754zzjea0m029ngjmjhk3c3uq9eo3af</sha1>
     </revision>
   </page>
 </mediawiki>
