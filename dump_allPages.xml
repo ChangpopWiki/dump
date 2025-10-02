@@ -28314,17 +28314,17 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
     <ns>10</ns>
     <id>564</id>
     <revision>
-      <id>994</id>
-      <parentid>853</parentid>
-      <timestamp>2025-09-30T12:32:56Z</timestamp>
+      <id>1000</id>
+      <parentid>994</parentid>
+      <timestamp>2025-10-02T10:42:23Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>994</origin>
+      <origin>1000</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2646" sha1="rbrqrz1d1kqzskjr6elyhyyp8tojnxb" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="2656" sha1="bxmi85ii6k232l7g4l7558jexd0iizj" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;{{#if: &lt;!-- 
 아래 변수 중 하나라도 있어야 항목을 표시하기 --&gt;
@@ -28354,7 +28354,7 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 	
 --&gt;}}&lt;!--
 --&gt;&lt;span&gt;{{#if: {{{영상시간|}}} | &lt;span class="ts--meta-delimiter"&gt;•&lt;/span&gt;{{{영상시간}}} }}&lt;/span&gt;&lt;!--
---&gt;&lt;span&gt;{{#if: {{{카운트다운|}}} | &lt;span class="ts--meta-delimiter"&gt;•&lt;/span&gt;{{{카운트다운}}} }}&lt;/span&gt;&lt;!--
+--&gt;&lt;span&gt;{{#if: {{{카운트다운|}}} | &lt;span class="ts--meta-delimiter"&gt;•&lt;/span&gt;대기 {{{카운트다운}}}분 }}&lt;/span&gt;&lt;!--
 --&gt;&lt;span&gt;{{#if: {{{기타표기사항|}}} | &lt;span class="ts--meta-delimiter"&gt;•&lt;/span&gt;{{{기타표기사항}}} }}&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -28380,7 +28380,7 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 --&gt;{{설명문서}}&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>rbrqrz1d1kqzskjr6elyhyyp8tojnxb</sha1>
+      <sha1>bxmi85ii6k232l7g4l7558jexd0iizj</sha1>
     </revision>
   </page>
   <page>
@@ -28723,23 +28723,26 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>571</id>
     <revision>
-      <id>857</id>
-      <timestamp>2025-09-04T11:36:37Z</timestamp>
+      <id>1001</id>
+      <parentid>857</parentid>
+      <timestamp>2025-10-02T10:44:14Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: https://changpop.wiki/premiere-relay-archive/  * [[/2025년 8월]] * [[/2025년 9월]]  [[분류:최초공개 릴레이 아카이브]]</comment>
-      <origin>857</origin>
+      <origin>1001</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="134" sha1="4o0g6r601dpszq5j5hfxx5d1dxn3l4h" xml:space="preserve">https://changpop.wiki/premiere-relay-archive/
+      <text bytes="197" sha1="1kopsw74amu8dw2xmmlwgy1e004pz80" xml:space="preserve">https://changpop.wiki/premiere-relay-archive/
 
 * [[/2025년 8월]]
 * [[/2025년 9월]]
+* [[/2025년 10월]]
+* [[/2025년 11월]]
+* [[/2025년 12월]]
 
 [[분류:최초공개 릴레이 아카이브]]</text>
-      <sha1>4o0g6r601dpszq5j5hfxx5d1dxn3l4h</sha1>
+      <sha1>1kopsw74amu8dw2xmmlwgy1e004pz80</sha1>
     </revision>
   </page>
   <page>
