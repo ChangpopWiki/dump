@@ -28314,17 +28314,17 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
     <ns>10</ns>
     <id>564</id>
     <revision>
-      <id>1000</id>
-      <parentid>994</parentid>
-      <timestamp>2025-10-02T10:42:23Z</timestamp>
+      <id>1002</id>
+      <parentid>1000</parentid>
+      <timestamp>2025-10-03T13:16:37Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1000</origin>
+      <origin>1002</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2656" sha1="bxmi85ii6k232l7g4l7558jexd0iizj" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="2849" sha1="hpzh17nv664l2rqoxktazi9rrd63z34" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;{{#if: &lt;!-- 
 아래 변수 중 하나라도 있어야 항목을 표시하기 --&gt;
@@ -28361,13 +28361,17 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 &lt;/div&gt;
 |
 &lt;div class="ts--item-container"&gt;&lt;div class="ts--meta" style="font-size: var(--font-size-small); color: var(--color-subtle); align-content: center;"&gt;''시트에서 유튜브 ID가 분석되지 않았습니다.''&lt;br&gt;&lt;!-- 
---&gt;{{{시간슬롯}}}&lt;!-- 
+--&gt;{{{시간슬롯|}}}&lt;!-- 
 --&gt;&lt;span class="ts--meta-delimiter"&gt;&lt;nowiki&gt;|&lt;/nowiki&gt;&lt;/span&gt;&lt;!--
---&gt;{{{예약자}}}&lt;!-- 
+--&gt;{{{예약자|}}}&lt;!-- 
 --&gt;&lt;span class="ts--meta-delimiter"&gt;&lt;nowiki&gt;|&lt;/nowiki&gt;&lt;/span&gt;&lt;!--
---&gt;{{{링크}}}&lt;!--
+--&gt;{{{링크|}}}&lt;!--
 --&gt;&lt;span class="ts--meta-delimiter"&gt;&lt;nowiki&gt;|&lt;/nowiki&gt;&lt;/span&gt;&lt;!--
---&gt;{{{기타표기사항}}} 
+--&gt;{{{영상시간|}}}&lt;!--
+--&gt;&lt;span class="ts--meta-delimiter"&gt;&lt;nowiki&gt;|&lt;/nowiki&gt;&lt;/span&gt;&lt;!--
+--&gt;{{{카운트다운|}}}&lt;!--
+--&gt;&lt;span class="ts--meta-delimiter"&gt;&lt;nowiki&gt;|&lt;/nowiki&gt;&lt;/span&gt;&lt;!--
+--&gt;{{{기타표기사항|}}} 
 &lt;/div&gt;&lt;/div&gt;
 }}
 &lt;templatestyles src="틀:최초공개 릴레이/항목/스타일.css" /&gt;
@@ -28380,7 +28384,7 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 --&gt;{{설명문서}}&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>bxmi85ii6k232l7g4l7558jexd0iizj</sha1>
+      <sha1>hpzh17nv664l2rqoxktazi9rrd63z34</sha1>
     </revision>
   </page>
   <page>
