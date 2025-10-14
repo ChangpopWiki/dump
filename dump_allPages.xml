@@ -1148,20 +1148,25 @@ __새문단쓰기__
     <ns>10</ns>
     <id>17</id>
     <revision>
-      <id>17</id>
-      <timestamp>2025-06-10T08:11:32Z</timestamp>
+      <id>1006</id>
+      <parentid>17</parentid>
+      <timestamp>2025-10-14T08:45:17Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>17</origin>
+      <comment>변수로 직접 삽입할 문서 설정 가능하도록 변경</comment>
+      <origin>1006</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1080" sha1="jf58a2zoie8k5cntuow05g7q884qonr" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="1180" sha1="a4h3ptmeac7nb5cd3ovu699bi15jcd6" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;
 {{#vardefine: 가사문서이름
-| 가사:{{전체문서이름}}
+| {{#if: {{#or: {{{1|}}} | {{{문서|}}} }} 
+  | 가사:{{#or: {{{1|}}} | {{{문서|}}} }} 
+  | 가사:{{전체문서이름}} 
+  }}
 }}
 &lt;templatestyles src="틀:가사/스타일.css" /&gt;&lt;!-- 
 
@@ -1197,7 +1202,7 @@ __새문단쓰기__
 &lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------</text>
-      <sha1>jf58a2zoie8k5cntuow05g7q884qonr</sha1>
+      <sha1>a4h3ptmeac7nb5cd3ovu699bi15jcd6</sha1>
     </revision>
   </page>
   <page>
@@ -3806,20 +3811,54 @@ html.skin-theme-clientpref-night .ts-doc-footer {
     <ns>10</ns>
     <id>97</id>
     <revision>
-      <id>97</id>
-      <timestamp>2025-06-05T11:27:00Z</timestamp>
+      <id>1011</id>
+      <parentid>97</parentid>
+      <timestamp>2025-10-14T08:53:20Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <minor/>
-      <comment>관리자님이 [[틀:고지상자]] 문서를 넘겨주기를 만들지 않고 [[틀:고지문]] 문서로 이동했습니다</comment>
-      <origin>97</origin>
+      <origin>1011</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="455" sha1="gczbgyvblza1ront41bte7nrzmctlth" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
-임시 스타일
---&gt;&lt;div style="border: 1px solid black; width: 100%"&gt; {{{1}}} &lt;/div&gt;&lt;!--
+      <text bytes="1923" sha1="hyhdsumnsuf7bcm70evupsrbq61ghch" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
+
+--&gt;&lt;templatestyles src="틀:고지문/스타일.css" /&gt;
+{{#vardefine: 내용 |
+{{#or: {{{2|}}} | {{{내용|}}} }}
+}}
+&lt;div 
+class="
+	ts--notice 
+	{{#if: {{#var: 내용}} | ts--notice-textexist }}
+" 
+style="
+	margin-block: var(--space-md);
+	font-size: var(--font-size-small);
+	line-height: var(--line-height-xx-small);
+	background-color: {{#switch: {{{종류|}}}
+	| 정보 = var(--color-surface-1, --background-color-notice-subtle)
+	| 주의 = var(--background-color-warning-subtle)
+	| 경고 = var(--background-color-error-subtle)
+	| {{사이트이름}} = var(--color-surface-3, --background-color-progressive-subtle)
+	}}
+"&gt;&lt;span class="ts--notice-title" style="padding: var(--space-sm) var(--space-md);"&gt;&lt;!-- 
+--&gt;&lt;span class="ts--notice-icon" style="filter: var(--filter-invert);"&gt;&lt;!-- 
+--&gt;{{#switch: {{{종류|}}}
+| 정보 = https://upload.wikimedia.org/wikipedia/commons/d/de/Codex_icon_infoFilled.svg
+| 주의 = https://upload.wikimedia.org/wikipedia/commons/7/78/Codex_icon_notice.svg
+| 경고 = https://upload.wikimedia.org/wikipedia/commons/9/95/Codex_icon_error.svg
+| {{사이트이름}} = https://upload.wikimedia.org/wikipedia/commons/d/de/Codex_icon_infoFilled.svg
+| = https://upload.wikimedia.org/wikipedia/commons/d/de/Codex_icon_infoFilled.svg
+}}&lt;/span&gt;&lt;!-- 
+--&gt;&lt;span class="ts--notice-title-span"&gt;{{#or: {{{1|}}} | {{{제목|}}} }}&lt;/span&gt;&lt;/span&gt;&lt;!-- 
+--&gt;{{#if: {{#var: 내용}} |
+&lt;div class="ts--notice-text" style="
+padding: var(--space-sm) var(--space-md);
+box-shadow: var(--box-shadow-drop-xx-large);
+"&gt;{{#var: 내용}}&lt;/div&gt;
+}}
+&lt;/div&gt;&lt;!--
 
 --------------------------------&gt;&lt;/onlyinclude&gt;&lt;!-------------------------------
 
@@ -3828,7 +3867,7 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 --&gt;{{설명문서}}[[분류:틀]]&lt;!--
 
 --------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------&gt;</text>
-      <sha1>gczbgyvblza1ront41bte7nrzmctlth</sha1>
+      <sha1>hyhdsumnsuf7bcm70evupsrbq61ghch</sha1>
     </revision>
   </page>
   <page>
@@ -3836,23 +3875,67 @@ html.skin-theme-clientpref-night .ts-doc-footer {
     <ns>3010</ns>
     <id>98</id>
     <revision>
-      <id>98</id>
-      <timestamp>2025-06-10T08:39:34Z</timestamp>
+      <id>1012</id>
+      <parentid>98</parentid>
+      <timestamp>2025-10-14T08:54:02Z</timestamp>
       <contributor>
-        <username>imported&gt;테스트 계정</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>98</origin>
+      <origin>1012</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="465" sha1="7wzxi3xbk0hpxhy5iw5yykey1cozn4x" xml:space="preserve">고지문을 표시하는 상자. 현재는 임시 스타일로 대충 테두리만 있음.
+      <text bytes="1091" sha1="5vpxpf0ktqr52zqzd0hd3ja0ayfh8q9" xml:space="preserve">&lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt;
+고지문을 표시하는 상자.
+
+{{고지문
+|제목=제목 영역 (마우스 올리거나 터치 시 내용 표시)
+|내용=내용 영역
+}}
+{{고지문
+|제목=&lt;code&gt;종류=주의&lt;/code&gt;인 경우
+|종류=주의
+}}
+{{고지문
+|제목=&lt;code&gt;종류=경고&lt;/code&gt;인 경우
+|종류=경고
+}}
+{{고지문
+|제목=&lt;code&gt;종류=&lt;nowiki&gt;{{사이트이름}}&lt;/nowiki&gt;&lt;/code&gt;인 경우
+|종류={{사이트이름}}
+}}
 
 ; 참고용, 다른 위키의 유사한 틀
 * [https://ko.wikipedia.org/wiki/%ED%8B%80:Ambox 위키백과 - 틀:Ambox]
 * [https://librewiki.net/wiki/%ED%8B%80:%EA%B3%A0%EC%A7%80_%EC%83%81%EC%9E%90 리브레 위키 - 틀:고지 상자]
 * [https://namu.wiki/w/%ED%85%9C%ED%94%8C%EB%A6%BF:%ED%8B%80 나무위키 - 템플릿:틀]
-&lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt;</text>
-      <sha1>7wzxi3xbk0hpxhy5iw5yykey1cozn4x</sha1>
+&lt;templatedata&gt;
+{
+	"params": {
+		"내용": {
+			"aliases": [
+				"2"
+			],
+			"type": "content"
+		},
+		"종류": {
+			"suggestedvalues": [
+				"정보",
+				"주의",
+				"경고",
+				"{{사이트이름}}"
+			]
+		},
+		"제목": {
+			"aliases": [
+				"1"
+			],
+			"type": "content"
+		}
+	}
+}
+&lt;/templatedata&gt;</text>
+      <sha1>5vpxpf0ktqr52zqzd0hd3ja0ayfh8q9</sha1>
     </revision>
   </page>
   <page>
@@ -5499,19 +5582,18 @@ piku\.co.kr
     <ns>8</ns>
     <id>134</id>
     <revision>
-      <id>134</id>
-      <timestamp>2025-06-10T07:00:37Z</timestamp>
+      <id>1013</id>
+      <parentid>134</parentid>
+      <timestamp>2025-10-14T08:55:06Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>134</origin>
+      <origin>1013</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="240" sha1="cd4p7rcuf2isj2w035wv6dpjdtz655t" xml:space="preserve">{{고지문|
-;가사 편집 공지
-:여기에는 순수 가사만 입력해주세요! 송폼, 메타태그, 보컬 구분, 가사 내용 설명과 같은 정보는 본 문서에서 별도의 가사 문단을 만들어 입력해주세요. }}</text>
-      <sha1>cd4p7rcuf2isj2w035wv6dpjdtz655t</sha1>
+      <text bytes="252" sha1="rfg49r3w3f8182aippgoe6t99m91ei2" xml:space="preserve">&lt;div class="mw-parser-output"&gt;{{고지문|여기에는 순수 가사만 입력해주세요! 송폼, 메타태그, 보컬 구분, 가사 내용 설명과 같은 정보는 본 문서에서 별도의 가사 문단을 만들어 입력해주세요. }}&lt;/div&gt;</text>
+      <sha1>rfg49r3w3f8182aippgoe6t99m91ei2</sha1>
     </revision>
   </page>
   <page>
@@ -32396,6 +32478,558 @@ box-shadow: var(--box-shadow-border);
 
 [[분류:최초공개 릴레이 아카이브]]</text>
       <sha1>754zzjea0m029ngjmjhk3c3uq9eo3af</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>모듈:원본보여주기</title>
+    <ns>828</ns>
+    <id>655</id>
+    <revision>
+      <id>1003</id>
+      <timestamp>2025-10-14T08:39:53Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: local p = {}  function p.main(frame) 	 	-- 인자 받기 	local args = { 		pageName = frame.args["문서이름"] or frame.args[1] 	} 	 	-- 인자로 빈 문자열이 전달되었다면 nil로 처리 	if args.pageName == "" then  		args.pageName = nil  	end 	 	-- pageName 인자가 없다면 현재 페이지의 이름을 사용  	local pageName = args.pageName or mw.title.getCurrentTitle().fullText 	     local title = mw.title.new(pageName, 'Template')     local content = title:g...</comment>
+      <origin>1003</origin>
+      <model>Scribunto</model>
+      <format>text/plain</format>
+      <text bytes="706" sha1="fvq6zgbchzz6tqupnpeemud47rvha10" xml:space="preserve">local p = {}
+
+function p.main(frame)
+	
+	-- 인자 받기
+	local args = {
+		pageName = frame.args["문서이름"] or frame.args[1]
+	}
+	
+	-- 인자로 빈 문자열이 전달되었다면 nil로 처리
+	if args.pageName == "" then 
+		args.pageName = nil 
+	end
+	
+	-- pageName 인자가 없다면 현재 페이지의 이름을 사용 
+	local pageName = args.pageName or mw.title.getCurrentTitle().fullText
+	
+    local title = mw.title.new(pageName, 'Template')
+    local content = title:getContent()
+
+    if not content then
+        return "''내용 없음''"
+    end
+
+    return frame:extensionTag{
+		name = 'syntaxhighlight',
+        content = content,
+        args = { lang = 'wikitext' }
+    }
+end
+
+return p</text>
+      <sha1>fvq6zgbchzz6tqupnpeemud47rvha10</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:원본보여주기</title>
+    <ns>10</ns>
+    <id>656</id>
+    <revision>
+      <id>1007</id>
+      <parentid>1004</parentid>
+      <timestamp>2025-10-14T08:49:29Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <origin>1007</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="607" sha1="hol3dtpyu27hai0cv36qe3tl92g6c6z" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+--&gt;&lt;templatestyles src="틀:원본보여주기/스타일.css" /&gt;&lt;!-- 
+--&gt;&lt;div class="ts--sourceview"&gt;&lt;!-- 
+	--&gt;	{{#invoke: 원본보여주기 | main
+		| 문서이름 = {{#or: {{{문서이름|}}} | {{문서이름}} }}
+		}}&lt;!-- 
+--&gt;&lt;/div&gt;&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;[[분류:틀]]{{설명문서}}&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>hol3dtpyu27hai0cv36qe3tl92g6c6z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:원본보여주기/스타일.css</title>
+    <ns>10</ns>
+    <id>657</id>
+    <revision>
+      <id>1005</id>
+      <timestamp>2025-10-14T08:41:13Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: .ts--sourceview .mw-highlight pre { 	white-space: pre-wrap; }</comment>
+      <origin>1005</origin>
+      <model>sanitized-css</model>
+      <format>text/css</format>
+      <text bytes="61" sha1="jv6mt9zb6lfr2zfayr0i02w03e6w99o" xml:space="preserve">.ts--sourceview .mw-highlight pre {
+	white-space: pre-wrap;
+}</text>
+      <sha1>jv6mt9zb6lfr2zfayr0i02w03e6w99o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>설명문서:틀:원본보여주기</title>
+    <ns>3010</ns>
+    <id>658</id>
+    <revision>
+      <id>1008</id>
+      <timestamp>2025-10-14T08:49:44Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt; {{원본보여주기}} 이 틀은 [[모듈:원본보여주기]]를 사용합니다.  {{틀데이터| &lt;templatedata&gt; { 	"params": { 		"문서이름": { 			"label": "문서 이름", 			"description": "가져올 문서의 이름입니다.", 			"type": "wiki-page-name", 			"default": "현재 문서의 이름" 		} 	}, 	"description": "해당 문서의 해석되지 않은 원본 위키텍스트를 보여줍니다." } &lt;/templatedata&gt; }}</comment>
+      <origin>1008</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="480" sha1="rw609uzch7cnds5tutw13afk82frrge" xml:space="preserve">&lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt;
+{{원본보여주기}}
+이 틀은 [[모듈:원본보여주기]]를 사용합니다.
+
+{{틀데이터|
+&lt;templatedata&gt;
+{
+	"params": {
+		"문서이름": {
+			"label": "문서 이름",
+			"description": "가져올 문서의 이름입니다.",
+			"type": "wiki-page-name",
+			"default": "현재 문서의 이름"
+		}
+	},
+	"description": "해당 문서의 해석되지 않은 원본 위키텍스트를 보여줍니다."
+}
+&lt;/templatedata&gt;
+}}</text>
+      <sha1>rw609uzch7cnds5tutw13afk82frrge</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>설명문서:틀:가사</title>
+    <ns>3010</ns>
+    <id>659</id>
+    <revision>
+      <id>1009</id>
+      <timestamp>2025-10-14T08:50:32Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt; {{원본보여주기}} {{틀데이터| &lt;templatedata&gt; { 	"params": { 		"문서": { 			"aliases": [ 				"1" 			], 			"description": "삽입할 가사 문서 이름", 			"type": "wiki-page-name", 			"default": "{{전체문서이름}}" 		} 	}, 	"description": "가사 문서에서 가사를 가져와 삽입합니다." } &lt;/templatedata&gt; }}</comment>
+      <origin>1009</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="383" sha1="fta4jbjf0hs797yzsaqxt7tyerm7g1j" xml:space="preserve">&lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt;
+{{원본보여주기}}
+{{틀데이터|
+&lt;templatedata&gt;
+{
+	"params": {
+		"문서": {
+			"aliases": [
+				"1"
+			],
+			"description": "삽입할 가사 문서 이름",
+			"type": "wiki-page-name",
+			"default": "{{전체문서이름}}"
+		}
+	},
+	"description": "가사 문서에서 가사를 가져와 삽입합니다."
+}
+&lt;/templatedata&gt;
+}}</text>
+      <sha1>fta4jbjf0hs797yzsaqxt7tyerm7g1j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:고지문/스타일.css</title>
+    <ns>10</ns>
+    <id>660</id>
+    <revision>
+      <id>1010</id>
+      <timestamp>2025-10-14T08:52:37Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: /*  https://starcitizen.tools/Module:Mbox/styles.css 에서 가져옴. 일부 수정됨. */  .ts--notice { 	position: relative; 	display: flex; 	flex-direction: column; 	background-color: var(--color-surface-1); 	border: var(--border-base); 	border-radius: 8px; }  .ts--notice-title { 	display: flex; 	align-items: center; }  .ts--notice-icon img { 	display: block; 	width: 1rem; 	height: auto; 	opacity: 0.6; 	margin-right: 0.5rem; }  .ts--notice-text { 	position: absolute; 	top: 1...</comment>
+      <origin>1010</origin>
+      <model>sanitized-css</model>
+      <format>text/css</format>
+      <text bytes="1259" sha1="b99vddoombuwwu2jtzl1hwojbmlo1q7" xml:space="preserve">/*
+ https://starcitizen.tools/Module:Mbox/styles.css 에서 가져옴. 일부 수정됨.
+*/
+
+.ts--notice {
+	position: relative;
+	display: flex;
+	flex-direction: column;
+	background-color: var(--color-surface-1);
+	border: var(--border-base);
+	border-radius: 8px;
+}
+
+.ts--notice-title {
+	display: flex;
+	align-items: center;
+}
+
+.ts--notice-icon img {
+	display: block;
+	width: 1rem;
+	height: auto;
+	opacity: 0.6;
+	margin-right: 0.5rem;
+}
+
+.ts--notice-text {
+	position: absolute;
+	top: 100%;
+	left: 0;
+	right: 0;
+	z-index: 10;
+	margin-inline: -1px;
+	box-sizing: border-box;
+	background-color: var(--color-surface-1);
+	border-inline: var(--border-base);
+	border-bottom: var(--border-base);
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	opacity: 0;
+	visibility: hidden;
+}
+
+.ts--notice-text::before {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 1rem;
+	right: 1rem;
+	height: 1px;
+	background: var(--border-color-subtle);
+}
+
+
+.ts--notice.ts--notice-textexist {
+	border-bottom-style: double;
+	border-bottom-width: 4px;
+}
+
+.ts--notice.ts--notice-textexist:hover {
+	border-bottom-left-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+.ts--notice.ts--notice-textexist:hover .ts--notice-text {
+	opacity: 1;
+	visibility: visible;
+}</text>
+      <sha1>b99vddoombuwwu2jtzl1hwojbmlo1q7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:문서:창드컵 수록곡 가사 모음</title>
+    <ns>10</ns>
+    <id>661</id>
+    <revision>
+      <id>1014</id>
+      <timestamp>2025-10-14T08:56:59Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------  문서가 대상으로 하는 창드컵 변수 --&gt;	{{#vardefine: 창드컵 | 		{{#or: {{{1|}}} | {{{창드컵|}}} | {{상위문서이름}} }} 	}}&lt;!--   짧은설명 지정 --&gt;	{{SHORTDESC: {{#var: 창드컵}} 수록곡들의 가사를 모은 문서}}&lt;!--  --&gt;	{{#vardefine: 강수 | 		{{#cargo_query: tables = 창드컵 		| fields = 강 		| where = _pageName = "{{#var: 창드컵}}" 		| no html 		}}...</comment>
+      <origin>1014</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2176" sha1="4qt9qmvhluikf4enb4pjbs9z6qdqxdu" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+문서가 대상으로 하는 창드컵 변수
+--&gt;	{{#vardefine: 창드컵 |
+		{{#or: {{{1|}}} | {{{창드컵|}}} | {{상위문서이름}} }}
+	}}&lt;!-- 
+
+짧은설명 지정
+--&gt;	{{SHORTDESC: {{#var: 창드컵}} 수록곡들의 가사를 모은 문서}}&lt;!--
+
+--&gt;	{{#vardefine: 강수 |
+		{{#cargo_query: tables = 창드컵
+		| fields = 강
+		| where = _pageName = "{{#var: 창드컵}}"
+		| no html
+		}}
+	}}&lt;!-- 
+
+--&gt;	{{#vardefine: 수록곡문서수 |
+		{{#cargo_query: tables = 수록창드컵
+		| fields = COUNT(*)
+		| where = 수록창드컵.창드컵 = "{{#var: 창드컵}}"
+		| no html
+		}}
+	}}&lt;!-- 
+
+불완전한 목록 주의 고지문 표시
+--&gt;	{{#ifeq: {{#var: 강수}} | {{#var: 수록곡문서수}}
+	| &lt;!-- 강수와 수록곡문서수가 같다면 고지문을 표시하지 않음 --&gt;
+	|
+		{{고지문
+		| 제목 = 완전하지 않은 목록
+		| 내용 = 아래 목록은 각 문서의 수록곡 정보에 따라 자동으로 취합됩니다. 현재 [[{{#var: 창드컵}}]]에 등록된 강 수 정보(&lt;code&gt;{{#var: 강수}}&lt;/code&gt;)와 [[{{#var: 창드컵}}]] 수록 정보를 가진 문서의 개수(&lt;code&gt;{{#var: 수록곡문서수}}&lt;/code&gt;)가 일치하지 않습니다. 해당 수록곡에 대한 문서가 없거나 문서에 수록곡 정보가 없을 수 있습니다. 창팝위키는 [[창팝위키:기여하기|기여]]를 환영합니다!
+		| 종류 = 주의
+		}}
+	}}&lt;!-- 
+
+모든 수록곡에서 가사를 취합해서 문단별로 나눠서 표시
+--&gt;	{{#arraymap: 
+		{{#cargo_query: tables = 수록창드컵
+		| fields = 수록창드컵._pageTitle
+		| where = 수록창드컵.창드컵 = "{{#var: 창드컵}}"
+		| no html
+		| delimiter = ;;
+		}}
+	| ;;
+	| {{{이름}}}
+	| &lt;h3&gt;[[{{{이름}}}]]&lt;/h3&gt;{{ 가사 | {{{이름}}} }}
+	|
+	}}
+[[분류:창드컵 수록곡 가사 모음]]&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;{{문서:문서 틀}}{{설명문서}}&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>4qt9qmvhluikf4enb4pjbs9z6qdqxdu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>설명문서:틀:문서:창드컵 수록곡 가사 모음</title>
+    <ns>3010</ns>
+    <id>662</id>
+    <revision>
+      <id>1015</id>
+      <timestamp>2025-10-14T08:57:21Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{원본보여주기}}</comment>
+      <origin>1015</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" sha1="gd7wnhyrhq12d5n30q73m4wx6tn3kel" xml:space="preserve">{{원본보여주기}}</text>
+      <sha1>gd7wnhyrhq12d5n30q73m4wx6tn3kel</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2025년 3편/수록곡 가사 모음</title>
+    <ns>0</ns>
+    <id>663</id>
+    <revision>
+      <id>1016</id>
+      <timestamp>2025-10-14T08:58:08Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 수록곡 가사 모음}}</comment>
+      <origin>1016</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="2aonutm7mc0tkry0fkaod5p5secrri1" xml:space="preserve">{{문서:창드컵 수록곡 가사 모음}}</text>
+      <sha1>2aonutm7mc0tkry0fkaod5p5secrri1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>분류:창드컵 수록곡 가사 모음</title>
+    <ns>14</ns>
+    <id>664</id>
+    <revision>
+      <id>1017</id>
+      <timestamp>2025-10-14T08:58:41Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: [[분류:주제 분류]]</comment>
+      <origin>1017</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="31i55jvmy93cxzmwv77e3uv13h9l92v" xml:space="preserve">[[분류:주제 분류]]</text>
+      <sha1>31i55jvmy93cxzmwv77e3uv13h9l92v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2024년 1편/수록곡 가사 모음</title>
+    <ns>0</ns>
+    <id>665</id>
+    <revision>
+      <id>1018</id>
+      <timestamp>2025-10-14T08:59:10Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 수록곡 가사 모음}}</comment>
+      <origin>1018</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="2aonutm7mc0tkry0fkaod5p5secrri1" xml:space="preserve">{{문서:창드컵 수록곡 가사 모음}}</text>
+      <sha1>2aonutm7mc0tkry0fkaod5p5secrri1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2025년 1편/수록곡 가사 모음</title>
+    <ns>0</ns>
+    <id>666</id>
+    <revision>
+      <id>1019</id>
+      <timestamp>2025-10-14T08:59:34Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 수록곡 가사 모음}}</comment>
+      <origin>1019</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="2aonutm7mc0tkry0fkaod5p5secrri1" xml:space="preserve">{{문서:창드컵 수록곡 가사 모음}}</text>
+      <sha1>2aonutm7mc0tkry0fkaod5p5secrri1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2024년 2편/수록곡 가사 모음</title>
+    <ns>0</ns>
+    <id>667</id>
+    <revision>
+      <id>1020</id>
+      <timestamp>2025-10-14T09:00:56Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 수록곡 가사 모음}}</comment>
+      <origin>1020</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="2aonutm7mc0tkry0fkaod5p5secrri1" xml:space="preserve">{{문서:창드컵 수록곡 가사 모음}}</text>
+      <sha1>2aonutm7mc0tkry0fkaod5p5secrri1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2024년 3편/수록곡 가사 모음</title>
+    <ns>0</ns>
+    <id>668</id>
+    <revision>
+      <id>1021</id>
+      <timestamp>2025-10-14T09:01:20Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 수록곡 가사 모음}}</comment>
+      <origin>1021</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="2aonutm7mc0tkry0fkaod5p5secrri1" xml:space="preserve">{{문서:창드컵 수록곡 가사 모음}}</text>
+      <sha1>2aonutm7mc0tkry0fkaod5p5secrri1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2024년 4편/수록곡 가사 모음</title>
+    <ns>0</ns>
+    <id>669</id>
+    <revision>
+      <id>1022</id>
+      <timestamp>2025-10-14T09:01:33Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 수록곡 가사 모음}}</comment>
+      <origin>1022</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="2aonutm7mc0tkry0fkaod5p5secrri1" xml:space="preserve">{{문서:창드컵 수록곡 가사 모음}}</text>
+      <sha1>2aonutm7mc0tkry0fkaod5p5secrri1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2024년 5편/수록곡 가사 모음</title>
+    <ns>0</ns>
+    <id>670</id>
+    <revision>
+      <id>1023</id>
+      <timestamp>2025-10-14T09:01:53Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 수록곡 가사 모음}}</comment>
+      <origin>1023</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="2aonutm7mc0tkry0fkaod5p5secrri1" xml:space="preserve">{{문서:창드컵 수록곡 가사 모음}}</text>
+      <sha1>2aonutm7mc0tkry0fkaod5p5secrri1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2025년 2편/수록곡 가사 모음</title>
+    <ns>0</ns>
+    <id>671</id>
+    <revision>
+      <id>1024</id>
+      <timestamp>2025-10-14T09:02:07Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 수록곡 가사 모음}}</comment>
+      <origin>1024</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="2aonutm7mc0tkry0fkaod5p5secrri1" xml:space="preserve">{{문서:창드컵 수록곡 가사 모음}}</text>
+      <sha1>2aonutm7mc0tkry0fkaod5p5secrri1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2025년 4편/수록곡 가사 모음</title>
+    <ns>0</ns>
+    <id>672</id>
+    <revision>
+      <id>1025</id>
+      <timestamp>2025-10-14T09:02:24Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 수록곡 가사 모음}}</comment>
+      <origin>1025</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="2aonutm7mc0tkry0fkaod5p5secrri1" xml:space="preserve">{{문서:창드컵 수록곡 가사 모음}}</text>
+      <sha1>2aonutm7mc0tkry0fkaod5p5secrri1</sha1>
     </revision>
   </page>
 </mediawiki>
