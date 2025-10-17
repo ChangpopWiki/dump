@@ -32535,22 +32535,22 @@ return p</text>
     <ns>10</ns>
     <id>656</id>
     <revision>
-      <id>1007</id>
-      <parentid>1004</parentid>
-      <timestamp>2025-10-14T08:49:29Z</timestamp>
+      <id>1026</id>
+      <parentid>1007</parentid>
+      <timestamp>2025-10-17T03:35:03Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1007</origin>
+      <origin>1026</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="607" sha1="hol3dtpyu27hai0cv36qe3tl92g6c6z" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="613" sha1="avhuce4v3ctzdjevjjcwr1v3mjv75yt" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;&lt;templatestyles src="틀:원본보여주기/스타일.css" /&gt;&lt;!-- 
 --&gt;&lt;div class="ts--sourceview"&gt;&lt;!-- 
 	--&gt;	{{#invoke: 원본보여주기 | main
-		| 문서이름 = {{#or: {{{문서이름|}}} | {{문서이름}} }}
+		| 문서이름 = {{#or: {{{문서이름|}}} | {{전체문서이름}} }}
 		}}&lt;!-- 
 --&gt;&lt;/div&gt;&lt;!--
 
@@ -32561,7 +32561,7 @@ return p</text>
 --&gt;[[분류:틀]]{{설명문서}}&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>hol3dtpyu27hai0cv36qe3tl92g6c6z</sha1>
+      <sha1>avhuce4v3ctzdjevjjcwr1v3mjv75yt</sha1>
     </revision>
   </page>
   <page>
