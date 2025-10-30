@@ -700,18 +700,18 @@ a {
     <ns>4</ns>
     <id>12</id>
     <revision>
-      <id>846</id>
-      <parentid>745</parentid>
-      <timestamp>2025-08-31T09:14:09Z</timestamp>
+      <id>1068</id>
+      <parentid>1067</parentid>
+      <timestamp>2025-10-30T12:57:14Z</timestamp>
       <contributor>
-        <username>창팝위키</username>
-        <id>2</id>
+        <username>ㅇㅇ1</username>
+        <id>19</id>
       </contributor>
       <comment>/* 창팝위키 베타 오픈 */ 답변</comment>
-      <origin>846</origin>
+      <origin>1068</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="3571" sha1="0eavofyb8lfii2sknn6ybz4ljjjddn6" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
+      <text bytes="4041" sha1="8n1evrblz9yn76qm26sxe4j4314srut" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
 __새문단쓰기__
 [[분류:창팝위키]]
 {{창팝위키 둘러보기}}
@@ -733,6 +733,9 @@ __새문단쓰기__
 :양식으로 편집할 때 더 이상 문서별 편집지침을 왔다갔다 하지 않아도 되도록 편집 창에 필드 설명이 나타납니다. 문서별 편집지침은 곧 폐지할 예정입니다.&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 8월 6일 (수) 21:17 (KST)
 :업데이트:
 :개별 문서 편집지침 삭제 및 간소화, 대문에 업그레이드된 최공릴레이 정보 삽입&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 8월 31일 (일) 18:14 (KST)
+:업데이트:
+:임시 계정이 활성화되었습니다. 비로그인 편집 시 IP 표시 대신 임시 계정으로 기록됩니다.&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 10월 30일 (목) 21:56 (KST)
+::테스트&lt;br&gt;&lt;span class="signature-message"&gt;— [[특수:기여/ㅇㅇ1|ㅇㅇ1]] ([[사용자토론:ㅇㅇ1|토론]])&lt;/span&gt; 2025년 10월 30일 (목) 21:57 (KST)
 
 == 건?의?사항 ==
 
@@ -747,7 +750,7 @@ __새문단쓰기__
 
 :지금은 선착장이 통합 창구 맞아요. 잘 찾아오셨습니다.
 :단독 가사 문서를 직접 볼 경우는 따로 생각하지 않았는데 일단 바꿀 수 있게 소도구에 추가했습니다. ('환경 설정 → 소도구'에서 활성화 가능)&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 6월 20일 (금) 01:27 (KST)</text>
-      <sha1>0eavofyb8lfii2sknn6ybz4ljjjddn6</sha1>
+      <sha1>8n1evrblz9yn76qm26sxe4j4314srut</sha1>
     </revision>
   </page>
   <page>
