@@ -34537,4 +34537,34 @@ Sorry 미안해
       <sha1>fvjqfxnrzlycn7id8p8o2isj237knws</sha1>
     </revision>
   </page>
+  <page>
+    <title>최초공개 릴레이/아카이브/2025년 11월</title>
+    <ns>0</ns>
+    <id>711</id>
+    <revision>
+      <id>1079</id>
+      <timestamp>2025-11-02T14:57:57Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{#arraymap: 01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30 | ,  | {{{일}}}  | &lt;h3&gt;{{#time: j | 2025-11-{{{일}}} }}일&lt;/h3&gt; &lt;div style=" margin-block: var(--space-md); border-radius: var(--border-radius-medium); box-shadow: var(--box-shadow-border); "&gt;{{최초공개 릴레이|날짜=2025-11-{{{일}}} }}&lt;/div&gt; | }}  [[분류:최초공개 릴레이 아카이브]]</comment>
+      <origin>1079</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="408" sha1="o1f9jv4rb1h0kcdxe5eja4860lcbcdy" xml:space="preserve">{{#arraymap: 01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+| , 
+| {{{일}}} 
+| &lt;h3&gt;{{#time: j | 2025-11-{{{일}}} }}일&lt;/h3&gt; &lt;div style="
+margin-block: var(--space-md);
+border-radius: var(--border-radius-medium);
+box-shadow: var(--box-shadow-border);
+"&gt;{{최초공개 릴레이|날짜=2025-11-{{{일}}} }}&lt;/div&gt;
+|
+}}
+
+[[분류:최초공개 릴레이 아카이브]]</text>
+      <sha1>o1f9jv4rb1h0kcdxe5eja4860lcbcdy</sha1>
+    </revision>
+  </page>
 </mediawiki>
