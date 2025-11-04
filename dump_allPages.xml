@@ -434,17 +434,17 @@ useve=true
     <ns>8</ns>
     <id>8</id>
     <revision>
-      <id>951</id>
-      <parentid>685</parentid>
-      <timestamp>2025-09-24T13:31:15Z</timestamp>
+      <id>1080</id>
+      <parentid>951</parentid>
+      <timestamp>2025-11-04T16:18:36Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>951</origin>
+      <origin>1080</origin>
       <model>css</model>
       <format>text/css</format>
-      <text bytes="8195" sha1="nnqtekk7tku6ughqfv7b9cb61z8nekl" xml:space="preserve">/* 여기의 모든 CSS는 시티즌 스킨을 사용하는 사용자에게 로드됩니다 */
+      <text bytes="8426" sha1="coyc90slml7t6f923wwlrkypbvhrom6" xml:space="preserve">/* 여기의 모든 CSS는 시티즌 스킨을 사용하는 사용자에게 로드됩니다 */
 
 :root {
 	/* 메인 색상 */
@@ -606,9 +606,17 @@ a {
 	font-size: var(--font-size-medium);
 }
 
-/* 문서 제목 이름공간 부분 투명도 약간 연하게 조절 */
+/* 문서 제목 이름공간 부분 구분감 주기*/
 .mw-page-title-namespace {
-  opacity: 0.8;
+  text-decoration-line: underline;
+  font-weight: 500;
+  text-decoration-color: var(--color-surface-4);
+  text-decoration-thickness: 3px;
+  text-underline-offset: 1.5px;
+}
+
+.mw-page-title-separator {
+  color: var(--color-surface-4);
 }
 
 /* syntaxhighlight 조정 */
@@ -628,7 +636,9 @@ a {
 
 /* 특수 이름공간에서 자동으로 확장 너비로 넓히기 억제 */
 @media screen and (min-width: 1680px) {
-  .citizen-feature-custom-width-clientpref-standard .ns--1:not(.mw-special-CargoQuery) {
+  .citizen-feature-custom-width-clientpref-standard .ns--1:not(
+    .mw-special-CargoQuery,
+    .mw-special-Drilldown) {
     --width-layout--extended: 1080px;
   }
 }
@@ -692,7 +702,7 @@ a {
 		display: none;
 	}
 }</text>
-      <sha1>nnqtekk7tku6ughqfv7b9cb61z8nekl</sha1>
+      <sha1>coyc90slml7t6f923wwlrkypbvhrom6</sha1>
     </revision>
   </page>
   <page>
@@ -1925,31 +1935,26 @@ return p</text>
     <ns>10</ns>
     <id>47</id>
     <revision>
-      <id>47</id>
-      <timestamp>2025-05-22T08:47:26Z</timestamp>
+      <id>1090</id>
+      <parentid>47</parentid>
+      <timestamp>2025-11-04T16:27:52Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {| class="wikitable" |+ [정보] 추가 공간용 변수 |- |  이 틀에는 정보상자의 본 내용 옆에 내용을 추가할 수 있는 추가 공간용 변수가 있습니다. 추가 공간용 변수는 원래 변수 이름 뒤에 '_'이 붙습니다.  예:(&lt;code&gt;변수&lt;/code&gt;의 옆에 &lt;code&gt;변수_&lt;/code&gt;가 있습니다.) 추가 공간은 일반적으로 각주로 출처 및 부연설명을 추가하는 데 사용됩니다. |}&lt;!-- ---------------------------------&gt;&lt;noi...</comment>
-      <origin>47</origin>
+      <origin>1090</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="638" sha1="c0164iltxdmbyf5y08tb1lhozr10j8c" xml:space="preserve">{| class="wikitable"
-|+ [정보] 추가 공간용 변수
-|-
-| 
-이 틀에는 정보상자의 본 내용 옆에 내용을 추가할 수 있는 추가 공간용 변수가 있습니다. 추가 공간용 변수는 원래 변수 이름 뒤에 '_'이 붙습니다. 
-예:(&lt;code&gt;변수&lt;/code&gt;의 옆에 &lt;code&gt;변수_&lt;/code&gt;가 있습니다.)
-추가 공간은 일반적으로 각주로 출처 및 부연설명을 추가하는 데 사용됩니다.
-|}&lt;!--
+      <text bytes="663" sha1="a70zifqq7csseigr3h8e2hhsoh7lgo1" xml:space="preserve">{{고지문
+|제목 = 추가 공간용 변수가 있는 틀
+|내용 = 이 틀에는 정보상자의 본 내용 옆에 내용을 추가할 수 있도록 하는 추가 공간용 변수가 있습니다. 추가 공간용 변수는 각 변수의 원래 이름 뒤에 '_'이 붙습니다. 예:(&lt;code&gt;변수&lt;/code&gt;의 옆에 &lt;code&gt;변수_&lt;/code&gt;가 있습니다.) 추가 공간은 일반적으로 각주로 출처 및 부연설명을 추가하는 데 사용됩니다.
+}}&lt;!--
 ---------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------
 
---&gt;[[분류:틀]]&lt;!--
+--&gt;[[분류:고지문 틀]]&lt;!--
 
---------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------
---&gt;&lt;!--</text>
-      <sha1>c0164iltxdmbyf5y08tb1lhozr10j8c</sha1>
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>a70zifqq7csseigr3h8e2hhsoh7lgo1</sha1>
     </revision>
   </page>
   <page>
@@ -3753,16 +3758,17 @@ html.skin-theme-clientpref-night .ts-doc-footer {
     <ns>10</ns>
     <id>95</id>
     <revision>
-      <id>95</id>
-      <timestamp>2025-06-08T07:51:01Z</timestamp>
+      <id>1091</id>
+      <parentid>95</parentid>
+      <timestamp>2025-11-04T16:30:30Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>95</origin>
+      <origin>1091</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="813" sha1="2obaxvq6146wfrrx5mh86nldcep9wpd" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="830" sha1="j671i5i9wg050yfe9705uyuldun0p8u" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 가드: 틀 이름공간에서만 적용
 --&gt;{{#만약일치: {{이름공간}} | 틀 | &lt;!--
@@ -3775,9 +3781,9 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 
 --&gt;
 |}}
-{{고지문|
-; 문서 틀 
-: 이 틀은 해당 문서 유형인 문서마다 끼워넣는 [[:분류:문서 틀|문서 틀]]입니다. 일반적으로 문서 틀 안에서 분류와 짧은 설명 지정이 수행됩니다.}}&lt;!--
+{{고지문
+| 제목 = 문서 틀 
+| 내용 = 이 틀은 해당 문서 유형인 문서마다 끼워넣는 [[:분류:문서 틀|문서 틀]]입니다. 일반적으로 문서 틀 안에서 분류와 짧은 설명 지정이 수행됩니다.}}&lt;!--
 
 --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
 
@@ -3786,7 +3792,7 @@ html.skin-theme-clientpref-night .ts-doc-footer {
 --&gt;{{문서:문서 틀}}{{설명문서}}&lt;!--
 
 --------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------&gt;</text>
-      <sha1>2obaxvq6146wfrrx5mh86nldcep9wpd</sha1>
+      <sha1>j671i5i9wg050yfe9705uyuldun0p8u</sha1>
     </revision>
   </page>
   <page>
@@ -4484,25 +4490,20 @@ box-shadow: var(--box-shadow-drop-xx-large);
     <ns>10</ns>
     <id>111</id>
     <revision>
-      <id>111</id>
-      <timestamp>2025-06-08T07:47:23Z</timestamp>
+      <id>1088</id>
+      <parentid>111</parentid>
+      <timestamp>2025-11-04T16:26:52Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <minor/>
-      <comment>관리자님이 [[틀:설명문서 문서]] 문서를 넘겨주기를 만들지 않고 [[틀:문서:설명문서]] 문서로 이동했습니다</comment>
-      <origin>111</origin>
+      <origin>1088</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="576" sha1="1zcj5om9mrg1miab2wmv2pvpk5u0lcq" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
-
---&gt;{{고지문|
-; 설명문서
-: 이 문서는 [[{{문서이름}}]]에 대한 설명문서입니다.
-}}&lt;!--
+      <text bytes="594" sha1="istodk9vvzjo554kuj1k91p2ra2d3ok" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+--&gt;&lt;indicator name="doc"&gt;&lt;templatestyles src="틀스타일:인디케이터" /&gt;&lt;span class="ts--link-icon"&gt;[[{{문서이름}}|↖]]&lt;/span&gt;&lt;/indicator&gt;&lt;!--
 --&gt;[[분류:설명문서]]&lt;!--
---&gt;{{SHORTDESC: '{{문서이름}}'의 설명문서}}&lt;!--
+--&gt;{{SHORTDESC: 설명문서}}&lt;!--
 
 --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
 
@@ -4512,10 +4513,8 @@ box-shadow: var(--box-shadow-drop-xx-large);
 {{문서:문서 틀}}
 {{설명문서}}
 &lt;!--
---------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------
-
---&gt;</text>
-      <sha1>1zcj5om9mrg1miab2wmv2pvpk5u0lcq</sha1>
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>istodk9vvzjo554kuj1k91p2ra2d3ok</sha1>
     </revision>
   </page>
   <page>
@@ -4523,22 +4522,23 @@ box-shadow: var(--box-shadow-drop-xx-large);
     <ns>3010</ns>
     <id>112</id>
     <revision>
-      <id>112</id>
-      <timestamp>2025-06-08T08:06:19Z</timestamp>
+      <id>1089</id>
+      <parentid>112</parentid>
+      <timestamp>2025-11-04T16:27:10Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <minor/>
-      <comment>관리자님이 [[설명문서:틀:설명문서 문서]] 문서를 넘겨주기를 만들지 않고 [[설명문서:틀:문서:설명문서]] 문서로 이동했습니다</comment>
-      <origin>112</origin>
+      <origin>1089</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="352" sha1="h6r57n3cd1cl50hqi26209wqamq79nj" xml:space="preserve">&lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt;
-'''설명문서'''인 문서마다 끼워넣어 [[:분류:설명문서]]로 분류하고 짧은 설명을 &lt;code&gt;'&lt;nowiki&gt;{{문서이름}}&lt;/nowiki&gt;'의 설명문서&lt;/code&gt;로 지정하는 틀입니다.
+      <text bytes="349" sha1="o87wglqc8ixemzocvefz6rbjxcvqdzc" xml:space="preserve">'''설명문서'''인 문서마다 끼워넣어 [[:분류:설명문서]]로 분류하고 짧은 설명을 &lt;code&gt;설명문서&lt;/code&gt;로 지정하는 틀입니다.
 
-문서에 설명문서를 삽입하기 위해 쓰이는 틀인 [[틀:설명문서]]와는 다릅니다.</text>
-      <sha1>h6r57n3cd1cl50hqi26209wqamq79nj</sha1>
+문서에 설명문서를 삽입하기 위해 쓰이는 틀인 [[틀:설명문서]]와는 다릅니다.
+== 원본 ==
+{{원본보여주기}}
+&lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt;</text>
+      <sha1>o87wglqc8ixemzocvefz6rbjxcvqdzc</sha1>
     </revision>
   </page>
   <page>
@@ -23525,46 +23525,49 @@ I didn't even have time to think about it, 역돌격</text>
     <ns>10</ns>
     <id>492</id>
     <revision>
-      <id>874</id>
-      <parentid>730</parentid>
-      <timestamp>2025-09-17T12:43:14Z</timestamp>
+      <id>1081</id>
+      <parentid>874</parentid>
+      <timestamp>2025-11-04T16:21:46Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <origin>874</origin>
+      <origin>1081</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="920" sha1="jwvpjcjsb8d1tlyiwi1cqjv3kashhxz" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="1053" sha1="borvmkvsl8xj0sfb0v539qg0n6tbgb1" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
---&gt;{{#external_value: 
+ --&gt;{{#external_value: $.pages.*.&lt;!--
+ 
+	 --&gt;{{#if: {{ 부울변환 | {{{틀설명|}}} }}  
+	 
+		| description
+		
+		| params['{{{변수이름}}}'].&lt;!--
+		 --&gt;{{#스위치: {{{속성}}}
+			| 레이블 = label
+			| 설명 = description
+			| 예시 = example
+			| 종류 = type
+			| 기본값 = default
+			| 자동값 = autovalue
+			| 필수 = required
+			| 권장 = suggested
+			| 사용되지않음 = deprecated
+			}}
+		}}
+		
+	| source = {{서버}}{{스크립트경로}}&lt;!-- 
+	--&gt;/api.php?&lt;!-- 
+	--&gt;action=templatedata&lt;!-- 
+	--&gt;&amp;lang=ko&lt;!-- 
+	--&gt;&amp;format=json&lt;!-- 
+	--&gt;&amp;titles={{주소인코딩: {{{틀이름}}} }}
 
-$.pages.*.params['{{{변수이름}}}'].&lt;!--
---&gt;{{#스위치: {{{속성}}}
-| 레이블 = label
-| 설명 = description
-| 예시 = example
-| 종류 = type
-| 기본값 = default
-| 자동값 = autovalue
-| 필수 = required
-| 권장 = suggested
-| 사용되지않음 = deprecated
-}}
-
-| source = 
-{{서버}}{{스크립트경로}}&lt;!-- 
---&gt;/api.php?&lt;!-- 
---&gt;action=templatedata&lt;!-- 
---&gt;&amp;lang=ko&lt;!-- 
---&gt;&amp;format=json&lt;!-- 
---&gt;&amp;titles={{주소인코딩: {{{틀이름}}} }}
-
-| use jsonpath = true
-| cache seconds = 86400
-| max tries = 1
-}}&lt;!--
+	| use jsonpath = true
+	| cache seconds = 86400
+	| max tries = 1
+	}}&lt;!--
 
 --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
 
@@ -23573,7 +23576,7 @@ $.pages.*.params['{{{변수이름}}}'].&lt;!--
 --&gt;{{설명문서}}[[분류:틀]]&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>jwvpjcjsb8d1tlyiwi1cqjv3kashhxz</sha1>
+      <sha1>borvmkvsl8xj0sfb0v539qg0n6tbgb1</sha1>
     </revision>
   </page>
   <page>
@@ -23581,17 +23584,19 @@ $.pages.*.params['{{{변수이름}}}'].&lt;!--
     <ns>3010</ns>
     <id>493</id>
     <revision>
-      <id>732</id>
-      <parentid>731</parentid>
-      <timestamp>2025-08-06T11:46:38Z</timestamp>
+      <id>1082</id>
+      <parentid>732</parentid>
+      <timestamp>2025-11-04T16:22:48Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>732</origin>
+      <origin>1082</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1312" sha1="syk6k8xcmh75d6jph34mjx754zixhlb" xml:space="preserve">틀데이터에 저장된 값을 본문에서 사용할 수 있도록 가져오는 틀입니다.
+      <text bytes="1445" sha1="mjc3m3pmlgy3i4lfnct1ip93nfah2up" xml:space="preserve">{{틀 설명 가져오기}}
+== 원본 ==
+{{원본보여주기}}
 
 == 예시 ==
 
@@ -23644,10 +23649,16 @@ $.pages.*.params['{{{변수이름}}}'].&lt;!--
 			"description": "틀 문서의 이름",
 			"type": "wiki-page-name",
 			"required": true
+		},
+		"틀설명": {
+			"label": "틀 설명",
+			"description": "개별 변수가 아닌 틀 자체의 설명을 가져오기",
+			"type": "boolean"
 		}
 	},
 	"paramOrder": [
 		"틀이름",
+		"틀설명",
 		"변수이름",
 		"속성"
 	],
@@ -23656,7 +23667,7 @@ $.pages.*.params['{{{변수이름}}}'].&lt;!--
 &lt;/templatedata&gt;
 }}
 &lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt;</text>
-      <sha1>syk6k8xcmh75d6jph34mjx754zixhlb</sha1>
+      <sha1>mjc3m3pmlgy3i4lfnct1ip93nfah2up</sha1>
     </revision>
   </page>
   <page>
@@ -32526,22 +32537,27 @@ return p</text>
     <ns>10</ns>
     <id>656</id>
     <revision>
-      <id>1026</id>
-      <parentid>1007</parentid>
-      <timestamp>2025-10-17T03:35:03Z</timestamp>
+      <id>1085</id>
+      <parentid>1026</parentid>
+      <timestamp>2025-11-04T16:24:35Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1026</origin>
+      <origin>1085</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="613" sha1="avhuce4v3ctzdjevjjcwr1v3mjv75yt" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="711" sha1="fgmf83ififidvilukgp04dqb8c74sto" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;&lt;templatestyles src="틀:원본보여주기/스타일.css" /&gt;&lt;!-- 
 --&gt;&lt;div class="ts--sourceview"&gt;&lt;!-- 
 	--&gt;	{{#invoke: 원본보여주기 | main
-		| 문서이름 = {{#or: {{{문서이름|}}} | {{전체문서이름}} }}
+		| 문서이름 = 	{{#or: {{{문서이름|}}} 
+					| {{#ifeq: {{이름공간}} | 설명문서
+					  | {{문서이름}}
+					  | {{전체문서이름}}
+					  }}
+					}}
 		}}&lt;!-- 
 --&gt;&lt;/div&gt;&lt;!--
 
@@ -32552,7 +32568,7 @@ return p</text>
 --&gt;[[분류:틀]]{{설명문서}}&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>avhuce4v3ctzdjevjjcwr1v3mjv75yt</sha1>
+      <sha1>fgmf83ififidvilukgp04dqb8c74sto</sha1>
     </revision>
   </page>
   <page>
@@ -32581,20 +32597,21 @@ return p</text>
     <ns>3010</ns>
     <id>658</id>
     <revision>
-      <id>1008</id>
-      <timestamp>2025-10-14T08:49:44Z</timestamp>
+      <id>1086</id>
+      <parentid>1008</parentid>
+      <timestamp>2025-11-04T16:25:44Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: &lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt; {{원본보여주기}} 이 틀은 [[모듈:원본보여주기]]를 사용합니다.  {{틀데이터| &lt;templatedata&gt; { 	"params": { 		"문서이름": { 			"label": "문서 이름", 			"description": "가져올 문서의 이름입니다.", 			"type": "wiki-page-name", 			"default": "현재 문서의 이름" 		} 	}, 	"description": "해당 문서의 해석되지 않은 원본 위키텍스트를 보여줍니다." } &lt;/templatedata&gt; }}</comment>
-      <origin>1008</origin>
+      <origin>1086</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="480" sha1="rw609uzch7cnds5tutw13afk82frrge" xml:space="preserve">&lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt;
+      <text bytes="559" sha1="a4fzxg9qrefmvska7p2pfja5mecoedu" xml:space="preserve">{{고지문|제목=이 틀은 [[모듈:원본보여주기]]를 사용합니다.}}
+{{틀 설명 가져오기}} 
+==원본==
 {{원본보여주기}}
-이 틀은 [[모듈:원본보여주기]]를 사용합니다.
-
+== 틀데이터 ==
 {{틀데이터|
 &lt;templatedata&gt;
 {
@@ -32609,8 +32626,9 @@ return p</text>
 	"description": "해당 문서의 해석되지 않은 원본 위키텍스트를 보여줍니다."
 }
 &lt;/templatedata&gt;
-}}</text>
-      <sha1>rw609uzch7cnds5tutw13afk82frrge</sha1>
+}}
+&lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt;</text>
+      <sha1>a4fzxg9qrefmvska7p2pfja5mecoedu</sha1>
     </revision>
   </page>
   <page>
@@ -34565,6 +34583,106 @@ box-shadow: var(--box-shadow-border);
 
 [[분류:최초공개 릴레이 아카이브]]</text>
       <sha1>o1f9jv4rb1h0kcdxe5eja4860lcbcdy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:틀 설명 가져오기</title>
+    <ns>10</ns>
+    <id>712</id>
+    <revision>
+      <id>1083</id>
+      <timestamp>2025-11-04T16:23:18Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------   --&gt;{{틀데이터 가져오기 	| 틀이름 = 	{{#ifeq: {{이름공간}} | 설명문서 			 	| {{문서이름}} 			 	| {{ns:10}}:{{문서이름}} 				}} 	| 틀설명 = 예 	}}&lt;!--  --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------  --------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------  --&gt;{{설명문서}}[[분류:틀]]&lt;!--  ----------------...</comment>
+      <origin>1083</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="547" sha1="1ylnh3efewvrcvq5ur4oi37rsnzcdp2" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+ --&gt;{{틀데이터 가져오기
+	| 틀이름 = 	{{#ifeq: {{이름공간}} | 설명문서
+			 	| {{문서이름}}
+			 	| {{ns:10}}:{{문서이름}}
+				}}
+	| 틀설명 = 예
+	}}&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;{{설명문서}}[[분류:틀]]&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>1ylnh3efewvrcvq5ur4oi37rsnzcdp2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>설명문서:틀:틀 설명 가져오기</title>
+    <ns>3010</ns>
+    <id>713</id>
+    <revision>
+      <id>1084</id>
+      <timestamp>2025-11-04T16:23:53Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt; {{틀 설명 가져오기}} {{원본보여주기}} {{틀데이터| &lt;templatedata&gt; { 	"params": {}, 	"description": "설명문서의 상단에서 틀데이터에서 가져온 틀 설명 문장을 표시하기 위해 사용됩니다. 이 틀이 사용되는 문서의 이름에 따라 틀데이터 가져오기 틀의 틀이름 변수를 자동으로 매핑합니다." } &lt;/templatedata&gt; }}</comment>
+      <origin>1084</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="434" sha1="mtgnloxkez5f1gwjvwvtabatsogyb01" xml:space="preserve">&lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt;
+{{틀 설명 가져오기}}
+{{원본보여주기}}
+{{틀데이터|
+&lt;templatedata&gt;
+{
+	"params": {},
+	"description": "설명문서의 상단에서 틀데이터에서 가져온 틀 설명 문장을 표시하기 위해 사용됩니다. 이 틀이 사용되는 문서의 이름에 따라 틀데이터 가져오기 틀의 틀이름 변수를 자동으로 매핑합니다."
+}
+&lt;/templatedata&gt;
+}}</text>
+      <sha1>mtgnloxkez5f1gwjvwvtabatsogyb01</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀스타일:인디케이터</title>
+    <ns>3810</ns>
+    <id>714</id>
+    <revision>
+      <id>1087</id>
+      <timestamp>2025-11-04T16:26:30Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: .ts--link-icon &gt; a { 	background-color: var(--background-color-interactive-subtle, #f8f9fa); 	border-radius: 1em; 	font-weight: bold; 	display: flex; 	width: 1.5em; 	height: 1.5em; 	justify-content: center; 	align-items: center; }  .ts--link-icon &gt; a:hover { 	background-color: var(--background-color-interactive-subtle--hover, #eaecf0); }  .ts--link-icon &gt; a:active { 	background-color: var(--background-color-interactive-subtle--active, #dadde3); }</comment>
+      <origin>1087</origin>
+      <model>sanitized-css</model>
+      <format>text/css</format>
+      <text bytes="450" sha1="j62l8njvraomjrg668txd9drf4j52zf" xml:space="preserve">.ts--link-icon &gt; a {
+	background-color: var(--background-color-interactive-subtle, #f8f9fa);
+	border-radius: 1em;
+	font-weight: bold;
+	display: flex;
+	width: 1.5em;
+	height: 1.5em;
+	justify-content: center;
+	align-items: center;
+}
+
+.ts--link-icon &gt; a:hover {
+	background-color: var(--background-color-interactive-subtle--hover, #eaecf0);
+}
+
+.ts--link-icon &gt; a:active {
+	background-color: var(--background-color-interactive-subtle--active, #dadde3);
+}</text>
+      <sha1>j62l8njvraomjrg668txd9drf4j52zf</sha1>
     </revision>
   </page>
 </mediawiki>
