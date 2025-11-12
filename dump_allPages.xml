@@ -118,20 +118,17 @@ break=no
     <ns>10</ns>
     <id>4</id>
     <revision>
-      <id>834</id>
-      <parentid>734</parentid>
-      <timestamp>2025-08-30T05:50:40Z</timestamp>
+      <id>1098</id>
+      <parentid>834</parentid>
+      <timestamp>2025-11-12T12:03:09Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>{{카고 쿼리 이스케이프}} 틀 적용 - 유튜브 Id에 '--'가 포함된 경우 Cargo 쿼리 문제 해결을 위하여</comment>
-      <origin>834</origin>
+      <origin>1098</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="4635" sha1="0a24w1ifs1hwkw1zelnz9wbijwmeiup" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
-
---&gt;&lt;templatestyles src="정보상자" /&gt;&lt;!--
+      <text bytes="4684" sha1="s9x0gxt5709lcyxa59u01mvifnb28kk" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 일반 문서 이름공간(ns:0)에서만 적용
 --&gt;{{#만약일치: {{이름공간수}} | 0 | &lt;!-- 
@@ -165,7 +162,7 @@ break=no
 }}
 {{#if: {{{제작자|}}} |
 ! 제작자
-{{!}} {{{제작자}}}{{{제작자_|}}}
+{{!}} {{#formredlink: target = {{{제작자|}}} | form = 제작자 }}{{{제작자_|}}}
 {{!}}-
 }}
 {{#if: {{{화자|}}} |
@@ -245,6 +242,11 @@ break=no
 {{!}} {{{BPM}}}{{{BPM_|}}}
 {{!}}-
 }}
+{{#if: {{{링크|}}} |
+! 링크
+{{!}} {{#arraymap: {{{링크}}} | {{구분자}} | x | x | &lt;br&gt;}}
+{{!}}-
+}}
 {{#if: {{{기타|}}} |
 ! 기타
 {{!}} {{{기타}}}
@@ -291,7 +293,7 @@ break=no
 	| {{{BPM|}}}
 	}}
 |
-	{{#cargo_store: _table = 창팝추가정보
+	{{테이블:창팝추가정보
 	| 다른언어제목	= {{{다른언어제목|}}}
 	| 별명		= {{{별명|}}}
 	| 화자		= {{{화자|}}}
@@ -309,13 +311,12 @@ break=no
 
 --&gt;
 {{#cargo_attach: _table = 창팝}}
-{{#cargo_attach: _table = 창팝추가정보}}
 {{문서:문서 틀}}
 {{설명문서}}
 &lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>0a24w1ifs1hwkw1zelnz9wbijwmeiup</sha1>
+      <sha1>s9x0gxt5709lcyxa59u01mvifnb28kk</sha1>
     </revision>
   </page>
   <page>
@@ -710,18 +711,18 @@ a {
     <ns>4</ns>
     <id>12</id>
     <revision>
-      <id>1068</id>
-      <parentid>1067</parentid>
-      <timestamp>2025-10-30T12:57:14Z</timestamp>
+      <id>1117</id>
+      <parentid>1068</parentid>
+      <timestamp>2025-11-12T12:30:55Z</timestamp>
       <contributor>
-        <username>ㅇㅇ1</username>
-        <id>19</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
       <comment>/* 창팝위키 베타 오픈 */ 답변</comment>
-      <origin>1068</origin>
+      <origin>1117</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="4041" sha1="8n1evrblz9yn76qm26sxe4j4314srut" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
+      <text bytes="4546" sha1="kzu2cictpuspvz6a744ba5v7pyh9ixm" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
 __새문단쓰기__
 [[분류:창팝위키]]
 {{창팝위키 둘러보기}}
@@ -746,6 +747,10 @@ __새문단쓰기__
 :업데이트:
 :임시 계정이 활성화되었습니다. 비로그인 편집 시 IP 표시 대신 임시 계정으로 기록됩니다.&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 10월 30일 (목) 21:56 (KST)
 ::테스트&lt;br&gt;&lt;span class="signature-message"&gt;— [[특수:기여/ㅇㅇ1|ㅇㅇ1]] ([[사용자토론:ㅇㅇ1|토론]])&lt;/span&gt; 2025년 10월 30일 (목) 21:57 (KST)
+:업데이트:
+:* 제작자 문서가 양식으로 지원됩니다. [[창팝위키:기여하기|기여하기]]에서 제작자 문서를 만드실 수 있습니다.
+:* 제작자 문서와 더불어 창팝 문서 정보상자에 링크 칸이 추가되었습니다. 곡과 관련된 여러 링크를 추가하는데 쓸 수 있습니다.
+:&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 11월 12일 (수) 21:30 (KST)
 
 == 건?의?사항 ==
 
@@ -760,7 +765,7 @@ __새문단쓰기__
 
 :지금은 선착장이 통합 창구 맞아요. 잘 찾아오셨습니다.
 :단독 가사 문서를 직접 볼 경우는 따로 생각하지 않았는데 일단 바꿀 수 있게 소도구에 추가했습니다. ('환경 설정 → 소도구'에서 활성화 가능)&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 6월 20일 (금) 01:27 (KST)</text>
-      <sha1>8n1evrblz9yn76qm26sxe4j4314srut</sha1>
+      <sha1>kzu2cictpuspvz6a744ba5v7pyh9ixm</sha1>
     </revision>
   </page>
   <page>
@@ -1426,23 +1431,51 @@ __새문단쓰기__
     <ns>8</ns>
     <id>27</id>
     <revision>
-      <id>27</id>
-      <timestamp>2025-06-12T07:36:40Z</timestamp>
+      <id>1097</id>
+      <parentid>27</parentid>
+      <timestamp>2025-11-12T12:02:03Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>27</origin>
+      <origin>1097</origin>
       <model>css</model>
       <format>text/css</format>
-      <text bytes="181" sha1="6xnb7q9xkrmcxbfj0cvicdug5wmla7f" xml:space="preserve">/* 이 CSS 설정은 모든 스킨에 적용됩니다 */
+      <text bytes="560" sha1="d9dis7qeyn7qzm4jpl0a1x47qh0qgg6" xml:space="preserve">/* 이 CSS 설정은 모든 스킨에 적용됩니다 */
 
 #toc-mw-specialpagesgroup-pf_group,
 #mw-specialpagesgroup-pf_group,
 #mw-specialpagesgroup-pf_group + * {
   display: none;
+}
+
+/* 정보상자 스타일 */
+.infobox {
+	width: 360px;
+	float: right;
+	margin-left: 1rem;
+}
+
+.citizen-overflow-wrapper:has(.citizen-overflow-content &gt; .wikitable.infobox) {
+	margin-left: 1rem;
+}
+  
+.citizen-overflow-wrapper .infobox {
+	margin-left: 0;
+}
+
+.infobox th {
+  word-break: keep-all;
+}
+
+.infobox-image &gt; td {
+	padding: 0;
+}
+
+.infobox-image &gt; td &gt; img {
+	width: 100%;
 }</text>
-      <sha1>6xnb7q9xkrmcxbfj0cvicdug5wmla7f</sha1>
+      <sha1>d9dis7qeyn7qzm4jpl0a1x47qh0qgg6</sha1>
     </revision>
   </page>
   <page>
@@ -1892,17 +1925,17 @@ return p</text>
     <ns>3810</ns>
     <id>46</id>
     <revision>
-      <id>742</id>
-      <parentid>46</parentid>
-      <timestamp>2025-08-06T12:11:02Z</timestamp>
+      <id>1095</id>
+      <parentid>742</parentid>
+      <timestamp>2025-11-12T12:01:18Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>742</origin>
+      <origin>1095</origin>
       <model>sanitized-css</model>
       <format>text/css</format>
-      <text bytes="365" sha1="a4o4xelvrjx3z0e221a1mq6kz9iimts" xml:space="preserve">/* 양식([[:분류:양식]]) 문서에 적용할 스타일 */
+      <text bytes="439" sha1="io2tpfynblkdccldbkc6kwai7acqniu" xml:space="preserve">/* 양식([[:분류:양식]]) 문서에 적용할 스타일 */
 
 .toc {
 	display: none;	
@@ -1926,8 +1959,13 @@ return p</text>
 
 .extra-space-container .mw-collapsible-toggle-default::before {
   content: '추가 공간 [';
+}
+
+.formbox span.inputSpan.URLInput {
+	max-width: 720px;
+	display: block;
 }</text>
-      <sha1>a4o4xelvrjx3z0e221a1mq6kz9iimts</sha1>
+      <sha1>io2tpfynblkdccldbkc6kwai7acqniu</sha1>
     </revision>
   </page>
   <page>
@@ -2383,19 +2421,18 @@ break = no
     <ns>8</ns>
     <id>64</id>
     <revision>
-      <id>724</id>
-      <parentid>723</parentid>
-      <timestamp>2025-07-29T06:48:46Z</timestamp>
+      <id>1118</id>
+      <parentid>724</parentid>
+      <timestamp>2025-11-12T12:34:29Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>[[Special:Contributions/창팝위키|창팝위키]] ([[User talk:창팝위키|토론]])의 [[Special:Diff/723|723]] 판 편집을 되돌림</comment>
-      <origin>724</origin>
+      <origin>1118</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="144" sha1="s4ds2p7ikew13392m6qniskqudnocco" xml:space="preserve">현재 창팝위키는 베타 오픈입니다. [[창팝위키:선착장#c-창팝위키-20250615134700-창팝위키_베타_오픈|공지 보기]]</text>
-      <sha1>s4ds2p7ikew13392m6qniskqudnocco</sha1>
+      <text bytes="174" sha1="hk6798jwtptv9a3x3uq8arjkj09cd4y" xml:space="preserve">(2025. 11. 12.) 제작자 문서에 대한 양식이 추가되었습니다. [[창팝위키:선착장#c-창팝위키-20251112123000-창팝위키-20250615134700|공지 보기]]</text>
+      <sha1>hk6798jwtptv9a3x3uq8arjkj09cd4y</sha1>
     </revision>
   </page>
   <page>
@@ -2549,17 +2586,18 @@ break = no
     <ns>4</ns>
     <id>70</id>
     <revision>
-      <id>703</id>
-      <parentid>70</parentid>
-      <timestamp>2025-07-16T04:27:52Z</timestamp>
+      <id>1111</id>
+      <parentid>703</parentid>
+      <timestamp>2025-11-12T12:12:56Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>703</origin>
+      <comment>제작자 문서 지원 추가</comment>
+      <origin>1111</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2655" sha1="ort2vwwabks3lpp6ikbojwnbh6bnh73" xml:space="preserve">{{창팝위키 둘러보기}}
+      <text bytes="2911" sha1="qtqcv7stfn3m6a2n8da2wzdgzig808d" xml:space="preserve">{{창팝위키 둘러보기}}
 창팝위키의 기여 포털입니다. 기여하기 전에 [[창팝위키:편집지침|편집지침]]을 읽어주세요. 편집 연습은 사용자 문서 또는 [[창팝위키:연습장|연습장]]에서 하실 수 있습니다.
 
 == 가사만 등록하기 ==
@@ -2589,7 +2627,6 @@ break=no
 | autocomplete on category = 창팝
 | placeholder = 창팝 문서 제목 입력...
 }}
-* [[창팝위키:편집지침/창팝]]
 * [[특수:쿼리실행/창팝|창팝 양식 미리보기]]
 * [[본보기:창팝|창팝 문서 본보기]]
 
@@ -2598,12 +2635,17 @@ break=no
 | autocomplete on category = 창드컵
 | placeholder = 창드컵 문서 제목 입력...
 }}
-* [[창팝위키:편집지침/창드컵]]
 * [[특수:쿼리실행/창드컵|창드컵 양식 미리보기]]
 * [[본보기:창드컵|창드컵 문서 본보기]]
 
 === 제작자 문서 ===
-''양식 추가 예정'' (현재는 직접 만들 수 있습니다)
+{{#forminput: form = 제작자
+| autocomplete on category = 제작자
+| placeholder = 제작자 문서 제목 입력...
+}}
+* [[특수:쿼리실행/제작자|제작자 양식 미리보기]]
+* [[본보기:제작자|제작자 문서 본보기]]
+* [[창팝위키:데이터 저장용 임시 문서/제작자]] - 개별 문서화되기 전의 제작자 정보를 한 문서에 몰아넣기 위한 임시 문서
 
 == 기타 문서 ==
 일반 개념과 같이 양식이 없는 문서의 경우, 문서 이름을 검색하고 빨간 링크를 클릭해 직접 만들 수 있습니다.
@@ -2612,7 +2654,7 @@ break=no
 일반 문서 뿐만 아니라 틀, 도움말 등 관리 관련 문서 또한 기여를 환영합니다. 문서 이동, 삭제 등 권한 문제로 불가능한 작업이 있다면 [[창팝위키:선착장|선착장]]에 문의를 남겨 주세요.
 
 [[분류:창팝위키]]</text>
-      <sha1>ort2vwwabks3lpp6ikbojwnbh6bnh73</sha1>
+      <sha1>qtqcv7stfn3m6a2n8da2wzdgzig808d</sha1>
     </revision>
   </page>
   <page>
@@ -2916,40 +2958,6 @@ _table=유튜브영상
 }}
 [[분류:카고 테이블]]</text>
       <sha1>0m0gti0jwvz7z0p4140t1bx94bk9o0f</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>틀스타일:정보상자</title>
-    <ns>3810</ns>
-    <id>78</id>
-    <revision>
-      <id>432</id>
-      <parentid>78</parentid>
-      <timestamp>2025-06-28T07:07:43Z</timestamp>
-      <contributor>
-        <username>창팝위키</username>
-        <id>2</id>
-      </contributor>
-      <origin>432</origin>
-      <model>sanitized-css</model>
-      <format>text/css</format>
-      <text bytes="166" sha1="idzf9phuz7mu445ucn6wdn5kqkvppin" xml:space="preserve">.infobox {
-	width: 360px;
-	float: right;
-}
-
-.infobox th {
-  word-break: keep-all;
-}
-
-.infobox-image &gt; td {
-	padding: 0;
-}
-
-.infobox-image &gt; td &gt; img {
-	width: 100%;
-}</text>
-      <sha1>idzf9phuz7mu445ucn6wdn5kqkvppin</sha1>
     </revision>
   </page>
   <page>
@@ -4054,22 +4062,17 @@ box-shadow: var(--box-shadow-drop-xx-large);
     <ns>10</ns>
     <id>102</id>
     <revision>
-      <id>102</id>
-      <timestamp>2025-06-10T08:13:28Z</timestamp>
+      <id>1122</id>
+      <parentid>102</parentid>
+      <timestamp>2025-11-12T12:55:00Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>102</origin>
+      <origin>1122</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="978" sha1="mtpguiu0bejgbv1usp6zkr1jk4mwrlm" xml:space="preserve">&lt;!-------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------
-
---&gt;{{문서:문서 틀}}&lt;!--
-
---------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------
-
---------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="1016" sha1="l1mwxqqy3iil00hx6qqitlnwj8x02zw" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
 
 가드: 양식 이름공간에서만 적용
 --&gt;{{#만약일치: {{이름공간}} | 양식 | &lt;!--
@@ -4084,9 +4087,8 @@ box-shadow: var(--box-shadow-drop-xx-large);
 |}} &lt;!-- 
 
 --&gt;
-{{고지문|
-; 양식
-: 이 문서에는 {{문서이름}} 문서에 대한 양식이 정의되어 있습니다.
+{{고지문
+| 제목 = '''양식''' - 이 문서에는 [[:분류:{{문서이름}}|{{문서이름}}]] 문서에 대한 양식이 정의되어 있습니다.
 }}
 {{#양식입력: form = {{문서이름}}
 | autocomplete on category = {{문서이름}}
@@ -4096,8 +4098,14 @@ box-shadow: var(--box-shadow-drop-xx-large);
 * [[본보기:{{문서이름}}|본보기 문서]]
 &lt;!--
 
---------------------------------&gt;&lt;/includeonly&gt;&lt;!------------------------------&gt;</text>
-      <sha1>mtpguiu0bejgbv1usp6zkr1jk4mwrlm</sha1>
+--------------------------------&gt;&lt;/onlyinclude&gt;&lt;!-------------------------------
+
+---------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------
+
+--&gt;{{설명문서}}&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------</text>
+      <sha1>l1mwxqqy3iil00hx6qqitlnwj8x02zw</sha1>
     </revision>
   </page>
   <page>
@@ -4635,27 +4643,28 @@ box-shadow: var(--box-shadow-drop-xx-large);
     <ns>3010</ns>
     <id>117</id>
     <revision>
-      <id>735</id>
-      <parentid>466</parentid>
-      <timestamp>2025-08-06T12:00:02Z</timestamp>
+      <id>1099</id>
+      <parentid>735</parentid>
+      <timestamp>2025-11-12T12:03:46Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>설명 수정</comment>
-      <origin>735</origin>
+      <origin>1099</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="5449" sha1="kt67iy9pgtsb35zgllnpw6hfh6uifwz" xml:space="preserve">&lt;noinclude&gt;
-{{문서:설명문서}}
-&lt;/noinclude&gt;
-개별 창팝 문서에 사용되는 틀입니다.
+      <text bytes="5801" sha1="4gpnwt3076kl8bm8mbavmx3zhpa1qq0" xml:space="preserve">{{틀 설명 가져오기}}
 
 == 사용법 ==
-
+{{고지문
+|제목 = 이 틀은 [[양식:창팝]]과 연결됩니다.
+}}
 {{추가공간설명}}
 
 &lt;code&gt;수록컵&lt;/code&gt;과 &lt;code&gt;이전수록컵&lt;/code&gt;은 틀 안의 틀을 받는 변수로, 각각 [[틀:수록 창드컵]], [[틀:이전 수록 창드컵]] 을 사용합니다.
+
+== 원본 ==
+{{원본보여주기}}
 
 == 예시 ==
 
@@ -4678,6 +4687,7 @@ box-shadow: var(--box-shadow-drop-xx-large);
 | 제작방법 = ⧼제작방법⧽
 | 프롬프트 = ⧼프롬프트⧽
 | BPM = ⧼BPM⧽
+| 링크 = ⧼링크⧽
 | 기타 = ⧼기타⧽
 }}
 &lt;/pre&gt;
@@ -4697,6 +4707,7 @@ box-shadow: var(--box-shadow-drop-xx-large);
 | 제작방법 = ⧼제작방법⧽
 | 프롬프트 = ⧼프롬프트⧽
 | BPM = ⧼BPM⧽
+| 링크 = ⧼링크⧽
 | 기타 = ⧼기타⧽
 }}
 }}
@@ -4793,6 +4804,10 @@ box-shadow: var(--box-shadow-drop-xx-large);
 			"label": "고화질 썸네일 없음",
 			"description": "유튜브 영상에 고화질 썸네일이 없어 회색 썸네일로 표시되는 경우 체크하세요. 대신 일반 화질 썸네일을 사용합니다.",
 			"type": "boolean"
+		},
+		"링크": {
+			"description": "곡과 관련된 링크를 추가해 주세요. 다른 버전의 영상 링크나 Suno 링크 등 무엇이든 될 수 있습니다.",
+			"type": "wiki-template-name"
 		}
 	},
 	"description": "개별 창팝 문서에 사용되는 틀입니다.",
@@ -4813,12 +4828,16 @@ box-shadow: var(--box-shadow-drop-xx-large);
 		"프롬프트",
 		"BPM",
 		"고화질썸네일없음",
+		"링크",
 		"기타"
 	]
 }
 &lt;/templatedata&gt;
-}}</text>
-      <sha1>kt67iy9pgtsb35zgllnpw6hfh6uifwz</sha1>
+}}
+&lt;noinclude&gt;
+{{문서:설명문서}}
+&lt;/noinclude&gt;</text>
+      <sha1>4gpnwt3076kl8bm8mbavmx3zhpa1qq0</sha1>
     </revision>
   </page>
   <page>
@@ -4873,18 +4892,17 @@ box-shadow: var(--box-shadow-drop-xx-large);
     <ns>106</ns>
     <id>120</id>
     <revision>
-      <id>837</id>
-      <parentid>741</parentid>
-      <timestamp>2025-08-31T08:58:58Z</timestamp>
+      <id>1100</id>
+      <parentid>837</parentid>
+      <timestamp>2025-11-12T12:04:18Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>문서별 편집지침으로 안내하는 문구 삭제(편집지침 통합)</comment>
-      <origin>837</origin>
+      <origin>1100</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="6116" sha1="ph3qm5za9rz5pb18yt62h47jf4pri3g" xml:space="preserve">&lt;!-------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------
+      <text bytes="6880" sha1="bvpwt3xxh7l4kui9g7z9ey71zgcwi3q" xml:space="preserve">&lt;!-------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------
 
 --&gt;
 {{문서:양식}}
@@ -4915,7 +4933,7 @@ box-shadow: var(--box-shadow-drop-xx-large);
 |
 {{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 제작자}}
 {{ 양식 추가 공간 필드
-| 필드 = {{{ field | 제작자 }}}
+| 필드 = {{{ field | 제작자 | input type = combobox | values from category = 제작자 }}}
 | 추가공간필드 = {{{ field | 제작자_ | input type=textarea }}}
 }}
 |-
@@ -5018,6 +5036,10 @@ box-shadow: var(--box-shadow-drop-xx-large);
 {| class="wikitable wikitable--fluid formbox"
 |-
 |
+{{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 링크}}
+{{{ field | 링크 | holds template }}}
+|-
+|
 {{양식 필드 레이블 | 틀이름 = 틀:문서:창팝 | 변수이름 = 기타}}
 {{{ field | 기타 | input type=textarea }}}
 |-
@@ -5026,7 +5048,11 @@ box-shadow: var(--box-shadow-drop-xx-large);
 {{{ field | 고화질썸네일없음 | input type=checkbox }}}
 |}
 {{{end template}}}
+&lt;!-- 
 
+아래부터 틀 안의 틀 정의
+
+--&gt;
 {{{ for template | 수록 창드컵 | multiple | embed in field = 문서:창팝[수록컵] }}}
 {| class="wikitable wikitable--fluid formbox"
 |-
@@ -5065,12 +5091,29 @@ box-shadow: var(--box-shadow-drop-xx-large);
 |}
 {{{end template}}}
 
+{{{ for template | 링크 | multiple | embed in field = 문서:창팝[링크] }}}
+{| class="wikitable wikitable--fluid formbox"
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:링크 | 변수이름 = 링크}}
+{{{ field | 링크 }}}
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:링크 | 변수이름 = 레이블}}
+{{{ field | 레이블 }}}
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:링크 | 변수이름 = 추가공간}}
+{{{ field | 추가공간 | input type = textarea | autogrow | rows = 1 }}}
+|}
+{{{end template}}}
+
 {{{standard input|free text| hidden | preload = 양식:창팝/미리싣기 }}}
 &lt;!--
 
 --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
 --&gt;</text>
-      <sha1>ph3qm5za9rz5pb18yt62h47jf4pri3g</sha1>
+      <sha1>bvpwt3xxh7l4kui9g7z9ey71zgcwi3q</sha1>
     </revision>
   </page>
   <page>
@@ -5663,25 +5706,20 @@ piku\.co.kr
     <ns>3106</ns>
     <id>137</id>
     <revision>
-      <id>474</id>
-      <parentid>473</parentid>
-      <timestamp>2025-07-06T11:25:00Z</timestamp>
+      <id>1101</id>
+      <parentid>474</parentid>
+      <timestamp>2025-11-12T12:04:55Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>474</origin>
+      <origin>1101</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="941" sha1="s4b4pcr8m7zcxzp1werz3pl7uy5p9o7" xml:space="preserve">{{문서:창팝
-|곡명=공사 표지판
-|다른언어제목=Ching-pip
-|별명=건드림
+      <text bytes="1143" sha1="scv3g3lq5x2bbrq8gmuhfcicwx6q84y" xml:space="preserve">{{문서:창팝
 |유튜브Id=EslXg6BaUnc
 |제작자=신칭섭
 |개사여부=아니오
-|화자=김창섭
-|공개일=1333-01-01
 |수록컵={{수록 창드컵
 |창드컵=본보기:창드컵
 |수록날짜=2025-06-10
@@ -5696,11 +5734,24 @@ piku\.co.kr
 }}{{이전 수록 창드컵
 |창드컵=2024년 1편
 }}
-|제작방법=Suno
-|기타=기타 정보 상자에 추가할 만한 내용
+|공개일=1333-01-01
+|곡명=공사 표지판
+|다른언어제목=Ching-pip
+|링크={{링크
+|링크=https://youtu.be/4fERZJEsOXY
+|레이블=재획비 버전
+|추가공간=&lt;ref&gt;2시간이다.&lt;/ref&gt;
+}}{{링크
+|링크=https://youtu.be/bdKLTEtmNA4
+|레이블=댄스커버
 }}
+|기타=기타 정보 상자에 추가할 만한 내용
+|고화질썸네일없음=아니오
+}}
+
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+⧼...추가 개요⧽
 
 == 가사 ==
 {{가사}}
@@ -5709,7 +5760,7 @@ piku\.co.kr
 --&gt;{{문서:본보기}}&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>s4b4pcr8m7zcxzp1werz3pl7uy5p9o7</sha1>
+      <sha1>scv3g3lq5x2bbrq8gmuhfcicwx6q84y</sha1>
     </revision>
   </page>
   <page>
@@ -20013,27 +20064,49 @@ Cultual, 어차피 언젠가
     <ns>10</ns>
     <id>406</id>
     <revision>
-      <id>464</id>
-      <timestamp>2025-07-06T08:59:16Z</timestamp>
+      <id>1096</id>
+      <parentid>464</parentid>
+      <timestamp>2025-11-12T12:01:43Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: {{#cargo_declare: _table = 창팝추가정보 | 다른언어제목 = String | 별명 = List (,) of String | 화자 = String | 제작방법 = List (,) of String (allowed values = Suno, Udio, Rifussion, YuE, 음성 합성 엔진, 직작) | 프롬프트 = Text | BPM = Int | _parentTables = 창팝 }} [[분류:카고 테이블]]</comment>
-      <origin>464</origin>
+      <origin>1096</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="325" sha1="8fvwoc621da6qs8c1nfy4xrcm7202fe" xml:space="preserve">{{#cargo_declare: _table = 창팝추가정보
-| 다른언어제목 = String
-| 별명 = List (,) of String
-| 화자 = String
-| 제작방법 = List (,) of String (allowed values = Suno, Udio, Rifussion, YuE, 음성 합성 엔진, 직작)
-| 프롬프트 = Text
-| BPM = Int
+      <text bytes="960" sha1="41l37quiw9z179tsu5ffxjlls265m5w" xml:space="preserve">&lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;
+{{#cargo_declare: _table = 창팝추가정보
+| 다른언어제목	= String (hidden)
+| 별명		= List (,) of String (hidden)
+| 화자		= String
+| 제작방법	= List (,) of String (allowed values = Suno, Udio, Rifussion, YuE, 음성 합성 엔진, 직작)
+| 프롬프트	= Text
+| BPM 		= Int
+
 | _parentTables = 창팝
 }}
-[[분류:카고 테이블]]</text>
-      <sha1>8fvwoc621da6qs8c1nfy4xrcm7202fe</sha1>
+
+{{원본보여주기}}
+[[분류:카고 테이블]]
+&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------
+
+--------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+--&gt;{{#cargo_store: _table = 창팝추가정보
+| 다른언어제목	= {{{다른언어제목|}}}
+| 별명		= {{{별명|}}}
+| 화자		= {{{화자|}}}
+| 제작방법	= {{{제작방법|}}}
+| 프롬프트	= {{{프롬프트|}}}
+| BPM		= {{{BPM|}}}
+}}&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------&gt;</text>
+      <sha1>41l37quiw9z179tsu5ffxjlls265m5w</sha1>
     </revision>
   </page>
   <page>
@@ -22928,18 +23001,19 @@ Cultual, 어차피 언젠가
     <ns>14</ns>
     <id>482</id>
     <revision>
-      <id>690</id>
-      <timestamp>2025-07-09T16:30:29Z</timestamp>
+      <id>1107</id>
+      <parentid>690</parentid>
+      <timestamp>2025-11-12T12:08:20Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: [[분류:주제 분류]]</comment>
-      <origin>690</origin>
+      <origin>1107</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="24" sha1="31i55jvmy93cxzmwv77e3uv13h9l92v" xml:space="preserve">[[분류:주제 분류]]</text>
-      <sha1>31i55jvmy93cxzmwv77e3uv13h9l92v</sha1>
+      <text bytes="53" sha1="i24oiy6buv8syvy9fxey6n0wszwd665" xml:space="preserve">{{#default_form: 제작자}}
+[[분류:주제 분류]]</text>
+      <sha1>i24oiy6buv8syvy9fxey6n0wszwd665</sha1>
     </revision>
   </page>
   <page>
@@ -23525,17 +23599,17 @@ I didn't even have time to think about it, 역돌격</text>
     <ns>10</ns>
     <id>492</id>
     <revision>
-      <id>1081</id>
-      <parentid>874</parentid>
-      <timestamp>2025-11-04T16:21:46Z</timestamp>
+      <id>1112</id>
+      <parentid>1081</parentid>
+      <timestamp>2025-11-12T12:17:10Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1081</origin>
+      <origin>1112</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1053" sha1="borvmkvsl8xj0sfb0v539qg0n6tbgb1" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="917" sha1="0uve2ggq695z1yoks5wxrbktu6fqt1c" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
  --&gt;{{#external_value: $.pages.*.&lt;!--
  
@@ -23557,15 +23631,9 @@ I didn't even have time to think about it, 역돌격</text>
 			}}
 		}}
 		
-	| source = {{서버}}{{스크립트경로}}&lt;!-- 
-	--&gt;/api.php?&lt;!-- 
-	--&gt;action=templatedata&lt;!-- 
-	--&gt;&amp;lang=ko&lt;!-- 
-	--&gt;&amp;format=json&lt;!-- 
-	--&gt;&amp;titles={{주소인코딩: {{{틀이름}}} }}
-
+	| source = 틀데이터
+	| 틀이름 = {{주소인코딩: {{{틀이름}}} }}
 	| use jsonpath = true
-	| cache seconds = 86400
 	| max tries = 1
 	}}&lt;!--
 
@@ -23576,7 +23644,7 @@ I didn't even have time to think about it, 역돌격</text>
 --&gt;{{설명문서}}[[분류:틀]]&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>borvmkvsl8xj0sfb0v539qg0n6tbgb1</sha1>
+      <sha1>0uve2ggq695z1yoks5wxrbktu6fqt1c</sha1>
     </revision>
   </page>
   <page>
@@ -34683,6 +34751,1173 @@ box-shadow: var(--box-shadow-border);
 	background-color: var(--background-color-interactive-subtle--active, #dadde3);
 }</text>
       <sha1>j62l8njvraomjrg668txd9drf4j52zf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:테이블:링크</title>
+    <ns>10</ns>
+    <id>715</id>
+    <revision>
+      <id>1092</id>
+      <timestamp>2025-11-12T11:59:41Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------  --&gt; {{#cargo_declare: _table = 링크 | 링크 = URL (hidden) | 레이블 = String (hidden) | 추가공간 = Wikitext (hidden) }} {{원본보여주기}} [[분류:카고 테이블]] &lt;!--  --------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------  --------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------  --&gt;{{#cargo_store: _table = 링크 | 링크 = {{{...</comment>
+      <origin>1092</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="650" sha1="5is57l7f9np7nlznop2o1zbx7ir0cis" xml:space="preserve">&lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;
+{{#cargo_declare: _table = 링크
+| 링크 = URL (hidden)
+| 레이블 = String (hidden)
+| 추가공간 = Wikitext (hidden)
+}}
+{{원본보여주기}}
+[[분류:카고 테이블]]
+&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------
+
+--------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+--&gt;{{#cargo_store: _table = 링크
+| 링크 = {{{링크|}}}
+| 레이블 = {{{레이블|}}}
+| 추가공간 = {{{추가공간|}}}
+}}&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------&gt;</text>
+      <sha1>5is57l7f9np7nlznop2o1zbx7ir0cis</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:링크</title>
+    <ns>10</ns>
+    <id>716</id>
+    <revision>
+      <id>1093</id>
+      <timestamp>2025-11-12T12:00:32Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------  실제 표시 영역 --&gt;[{{{링크|}}} {{#tag: nowiki |{{{레이블|}}}}}]&lt;!--  --&gt;{{{추가공간|}}}&lt;!-- --&gt;{{구분자}}&lt;!--  카고 테이블 저장   --&gt;{{테이블:링크 	| 링크 = {{{링크|}}} 	| 레이블 = {{{레이블|}}} 	| 추가공간 = {{{추가공간|}}} 	}}&lt;!--  --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------  --------------------------------&gt;&lt;noi...</comment>
+      <origin>1093</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="685" sha1="cfr4g6xri3wwoedj8f2923oun5i5npw" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+실제 표시 영역
+--&gt;[{{{링크|}}} {{#tag: nowiki |{{{레이블|}}}}}]&lt;!-- 
+--&gt;{{{추가공간|}}}&lt;!--
+--&gt;{{구분자}}&lt;!--
+
+카고 테이블 저장 
+ --&gt;{{테이블:링크
+	| 링크 = {{{링크|}}}
+	| 레이블 = {{{레이블|}}}
+	| 추가공간 = {{{추가공간|}}}
+	}}&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;
+[[분류:틀]]
+{{#cargo_attach: _table = 링크}}
+{{설명문서}}
+&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>cfr4g6xri3wwoedj8f2923oun5i5npw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>설명문서:틀:링크</title>
+    <ns>3010</ns>
+    <id>717</id>
+    <revision>
+      <id>1094</id>
+      <timestamp>2025-11-12T12:00:51Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{틀 설명 가져오기}} == 원본 == {{원본보여주기}} == 틀데이터 == {{틀데이터| &lt;templatedata&gt; { 	"params": { 		"링크": { 			"example": "https://changpop.wiki", 			"type": "url", 			"required": true, 			"description": "걸 링크를 입력해 주세요." 		}, 		"레이블": { 			"description": "링크에 대한 설명을 적어주세요. 링크 텍스트로서 보여집니다.", 			"example": "유튜브 채널, 스포티파이, Suno 프로필, MR", 			"type"...</comment>
+      <origin>1094</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="957" sha1="rvlr3a7u9ablxh833sfhclqsn0baj2a" xml:space="preserve">{{틀 설명 가져오기}}
+== 원본 ==
+{{원본보여주기}}
+== 틀데이터 ==
+{{틀데이터|
+&lt;templatedata&gt;
+{
+	"params": {
+		"링크": {
+			"example": "https://changpop.wiki",
+			"type": "url",
+			"required": true,
+			"description": "걸 링크를 입력해 주세요."
+		},
+		"레이블": {
+			"description": "링크에 대한 설명을 적어주세요. 링크 텍스트로서 보여집니다.",
+			"example": "유튜브 채널, 스포티파이, Suno 프로필, MR",
+			"type": "line",
+			"suggested": true
+		},
+		"추가공간": {
+			"label": "추가 공간",
+			"description": "각주 등을 입력할 수 있는 추가 공간",
+			"example": "&lt;ref&gt;각주로 부연설명...&lt;/ref&gt;",
+			"type": "content"
+		}
+	},
+	"description": "문서와 연관된 링크를 삽입할 수 있는 틀입니다. 주로 정보상자를 사용하는 틀에서 틀 안의 틀로서 사용합니다."
+}
+&lt;/templatedata&gt;
+}}
+&lt;noinclude&gt;
+{{문서:설명문서}}
+&lt;/noinclude&gt;</text>
+      <sha1>rvlr3a7u9ablxh833sfhclqsn0baj2a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:테이블:제작자</title>
+    <ns>10</ns>
+    <id>718</id>
+    <revision>
+      <id>1102</id>
+      <timestamp>2025-11-12T12:05:26Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------  --&gt; {{#cargo_declare: _table = 제작자 | 이름				= String (hidden) | 별명				= List (,) of String (hidden) | 데뷔일				= Date | 대표유튜브채널Id		= String (hidden)  | _parentTables		= 유튜브채널(_localField = 대표유튜브채널Id, _remoteField = Id); }} {{원본보여주기}} [[분류:카고 테이블]] &lt;!--  --------------------------------&gt;&lt;/noinclude&gt;&lt;!-------------------...</comment>
+      <origin>1102</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="853" sha1="pblsv05ew8tmbwnas89hf7f8abvmig9" xml:space="preserve">&lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;
+{{#cargo_declare: _table = 제작자
+| 이름				= String (hidden)
+| 별명				= List (,) of String (hidden)
+| 데뷔일				= Date
+| 대표유튜브채널Id		= String (hidden)
+
+| _parentTables		= 유튜브채널(_localField = 대표유튜브채널Id, _remoteField = Id);
+}}
+{{원본보여주기}}
+[[분류:카고 테이블]]
+&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------
+
+--------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+--&gt;{{#cargo_store: _table = 제작자
+| 이름			= {{{이름|}}}
+| 별명			= {{{별명|}}}
+| 데뷔일			= {{{데뷔일|}}}
+| 대표유튜브채널Id	= {{{대표유튜브채널Id|}}}
+}}&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!------------------------------&gt;</text>
+      <sha1>pblsv05ew8tmbwnas89hf7f8abvmig9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:테이블:유튜브채널</title>
+    <ns>10</ns>
+    <id>719</id>
+    <revision>
+      <id>1103</id>
+      <timestamp>2025-11-12T12:06:05Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------  --&gt; {{#cargo_declare: _table = 유튜브채널 | Id 			= String  | 이름			= String (hidden) | 핸들			= String (hidden) | 설명			= Text (hidden) | 구독자수		= Int | 총조회수		= Int  | 프로필사진Url	= URL (hidden) }}  {{원본보여주기}} [[분류:카고 테이블]] &lt;!--  --------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------  ---------------------------...</comment>
+      <origin>1103</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="904" sha1="mhwbi1s4shhsx7p1vasr0nwet1vhc95" xml:space="preserve">&lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;
+{{#cargo_declare: _table = 유튜브채널
+| Id 			= String 
+| 이름			= String (hidden)
+| 핸들			= String (hidden)
+| 설명			= Text (hidden)
+| 구독자수		= Int
+| 총조회수		= Int 
+| 프로필사진Url	= URL (hidden)
+}}
+
+{{원본보여주기}}
+[[분류:카고 테이블]]
+&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------
+
+--------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+--&gt;{{#cargo_store: _table = 유튜브채널
+| 아이디 			= {{{Id|}}}
+| 이름			= {{{이름|}}}
+| 핸들			= {{{핸들|}}}
+| 설명			= {{{설명|}}}
+| 구독자수		= {{{구독자수|}}}
+| 총조회수		= {{{총조회수|}}}
+| 프로필사진Url	= {{{프로필사진Url|}}}
+}}&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------&gt;</text>
+      <sha1>mhwbi1s4shhsx7p1vasr0nwet1vhc95</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:문서:제작자/정보상자</title>
+    <ns>10</ns>
+    <id>720</id>
+    <revision>
+      <id>1104</id>
+      <timestamp>2025-11-12T12:06:45Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {| class="wikitable infobox floatright" |- ! colspan="2" style="font-size: large" | {{{이름}}}{{{이름_|}}} |- class="infobox-image" | colspan=2 | {{#if: {{{유튜브프로필사진Url|}}} | {{{유튜브프로필사진Url}}}?.jpg }} |- {{#if: {{{별명|}}} | ! 별명 {{!}} {{{별명}}}{{{별명_|}}} {{!}}- }} {{#if: {{{데뷔일|}}} | ! 데뷔일 {{!}} {{#시간: Y년 n월 j일 | {{{데뷔일}}} }}{{{데뷔일_|}}} {{!}}- }} {{#if: {{{유튜브프로필사진Url|}}} | ! 채...</comment>
+      <origin>1104</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="989" sha1="1zuqwvkkcigfccybsf69lcctxkn7unm" xml:space="preserve">{| class="wikitable infobox floatright"
+|-
+! colspan="2" style="font-size: large" | {{{이름}}}{{{이름_|}}}
+|- class="infobox-image"
+| colspan=2 | {{#if: {{{유튜브프로필사진Url|}}} | {{{유튜브프로필사진Url}}}?.jpg }}
+|-
+{{#if: {{{별명|}}} |
+! 별명
+{{!}} {{{별명}}}{{{별명_|}}}
+{{!}}-
+}}
+{{#if: {{{데뷔일|}}} |
+! 데뷔일
+{{!}} {{#시간: Y년 n월 j일 | {{{데뷔일}}} }}{{{데뷔일_|}}}
+{{!}}-
+}}
+{{#if: {{{유튜브프로필사진Url|}}} |
+! 채널 이름
+{{!}} {{{채널이름}}}
+{{!}}-
+! 채널 핸들
+{{!}} {{{채널핸들}}}
+{{!}}-
+! 채널 설명
+{{!}} &lt;span style="white-space: pre-line"&gt;{{#tag: nowiki | {{{채널설명}}} }}&lt;/span&gt;
+{{!}}-
+! 구독자수
+{{!}} {{수형식: {{{구독자수}}} }}명
+{{!}}-
+! 총 조회수
+{{!}} {{수형식: {{{총조회수}}} }}회
+{{!}}-
+}}
+{{#if: {{{링크|}}} |
+! 링크
+{{!}} {{#arraymap: {{{링크}}} | {{구분자}} | x | x | &lt;br&gt;}}
+{{!}}-
+}}
+{{#if: {{{기타|}}} |
+! 기타
+{{!}} {{{기타}}}
+{{!}}-
+}}
+|}</text>
+      <sha1>1zuqwvkkcigfccybsf69lcctxkn7unm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:문서:제작자</title>
+    <ns>10</ns>
+    <id>721</id>
+    <revision>
+      <id>1105</id>
+      <timestamp>2025-11-12T12:07:06Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------  일반 문서 이름공간(ns:0)에서만 적용 --&gt;{{#만약일치: {{이름공간수}} | 0 | &lt;!--   -- 짧은설명 지정 --&gt;  {{SHORTDESC: 제작자}} &lt;!--   -- 분류 지정 --&gt; [[분류:제작자]] &lt;!--   메인 이름공간이 아니라면, 분류가 삽입되지 않으므로 '양식으로 편집' 표시를 위해 직접 지정 --&gt; | {{#default_form:제작자}}  }} &lt;!--  --&gt;{{#if: {{{대표...</comment>
+      <origin>1105</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3914" sha1="gzu1ywufdmb0o4dx3uo7tcf8chb3h7k" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+일반 문서 이름공간(ns:0)에서만 적용
+--&gt;{{#만약일치: {{이름공간수}} | 0 | &lt;!-- 
+
+-- 짧은설명 지정 --&gt; 
+{{SHORTDESC: 제작자}} &lt;!-- 
+
+-- 분류 지정 --&gt;
+[[분류:제작자]] &lt;!-- 
+
+메인 이름공간이 아니라면, 분류가 삽입되지 않으므로 '양식으로 편집' 표시를 위해 직접 지정 --&gt;
+| {{#default_form:제작자}} 
+}} &lt;!--
+
+--&gt;{{#if: {{{대표유튜브채널Id|}}} |
+{{#vardefine: 채널이름
+|	{{#external_value: $.items[0].snippet.title | source = 유튜브채널 | id = {{{대표유튜브채널Id}}} }}
+}}
+{{#vardefine: 채널핸들 
+|	{{#external_value: $.items[0].snippet.customUrl | source = 유튜브채널 | id = {{{대표유튜브채널Id}}} }}
+}}
+{{#vardefine: 채널설명
+| 	{{#external_value: $.items[0].snippet.description | source = 유튜브채널 | id = {{{대표유튜브채널Id}}} }}
+}}
+{{#vardefine: 총조회수
+|	{{#external_value: $.items[0].statistics.viewCount | source = 유튜브채널 | id = {{{대표유튜브채널Id}}} }}
+}}
+{{#vardefine: 구독자수
+|	{{#external_value: $.items[0].statistics.subscriberCount | source = 유튜브채널 | id = {{{대표유튜브채널Id}}} }}
+}}
+{{#vardefine: 유튜브프로필사진Url처리전
+|	{{#external_value: $.items[0].snippet.thumbnails.default.url | source = 유튜브채널 | id = {{{대표유튜브채널Id}}} }}
+}}
+{{#vardefine: 유튜브프로필사진Url |
+	{{#invoke: String | sub
+	| s = {{#var: 유튜브프로필사진Url처리전}}
+	| i = 1
+	| j = 
+		{{#expr:
+			{{#invoke: String | find
+			| source = {{#var: 유튜브프로필사진Url처리전}}
+			| target = =
+			}}
+			- 1
+		}}
+	}}
+}}
+{{#vardefine: 대표유튜브채널링크 |
+	{{링크
+	| 링크 = https://youtube.com/channel/{{{대표유튜브채널Id}}}
+	| 레이블 = 유튜브 채널
+	| 추가공간 = {{{대표유튜브채널Id_|}}}
+	}}
+}}
+}}&lt;!--  
+
+실제로 보이는 영역 (정보상자 부분)
+--&gt;{{#ifeq: {{상위문서이름}} | 데이터 저장용 임시 문서 
+| &lt;!-- 데이터 저장용 임시 문서에서는 정보상자 표시하지 않음 --&gt; 
+| 
+	{{문서:제작자/정보상자
+	| 이름 = {{#or: {{{이름|}}} | {{문서이름}} }}
+	| 이름_ = {{{이름_|}}}
+	| 별명 = {{{별명|}}}
+	| 별명_ = {{{별명_|}}}
+	| 유튜브프로필사진Url = {{#var: 유튜브프로필사진Url}}
+	| 데뷔일 = {{{데뷔일|}}}
+	| 데뷔일_ = {{{데뷔일_|}}}
+	| 채널이름 = {{#var: 채널이름}}
+	| 채널핸들 = {{#var: 채널핸들}}
+	| 채널설명 = {{#var: 채널설명}}
+	| 구독자수 = {{#var: 구독자수}}
+	| 총조회수 = {{#var: 총조회수}}
+	| 링크 = {{#var: 대표유튜브채널링크}}{{{링크|}}}
+	| 기타 = {{{기타|}}}
+	}}
+}}&lt;!-- 
+
+일반 문서 이름공간(ns:0)이거나, 데이터 저장용 임시 문서인 경우 저장
+ --&gt;{{#if: 	
+		{{#or: 
+			{{#만약일치: {{이름공간수}} | 0 | true | }} | 
+			{{#만약일치: {{상위문서이름}} | 데이터 저장용 임시 문서 | true | }}
+		}}
+	|	
+		{{테이블:제작자
+		| 이름			= {{{이름|}}}
+		| 별명			= {{{별명|}}}
+		| 데뷔일			= {{{데뷔일|}}} 
+		| 대표유튜브채널Id	= {{{대표유튜브채널Id|}}}
+		}}
+		
+	 	{{테이블:유튜브채널
+		| Id 			= {{{대표유튜브채널Id|}}}
+		| 이름			= {{#var: 채널이름}}
+		| 핸들			= {{#var: 채널핸들}}
+		| 설명			= {{#var: 채널설명}}
+		| 구독자수		= {{#var: 구독자수}}
+		| 총조회수		= {{#var: 총조회수}}
+		| 프로필사진Url	= {{#var: 유튜브프로필사진Url}}
+		}} 
+	}}&lt;!-- 
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;
+{{#cargo_attach: _table = 제작자}}
+{{문서:문서 틀}}
+{{설명문서}}
+&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>gzu1ywufdmb0o4dx3uo7tcf8chb3h7k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>설명문서:틀:문서:제작자</title>
+    <ns>3010</ns>
+    <id>722</id>
+    <revision>
+      <id>1106</id>
+      <timestamp>2025-11-12T12:07:24Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{틀 설명 가져오기}}  '''하위 틀''' * [[틀:문서:제작자/정보상자]] == 사용법 == {{추가공간설명}} {{고지문 |제목 = 이 틀은 [[양식:제작자]]와 연결됩니다. }} == 원본 == {{원본보여주기 | 문서이름 = {{문서이름}} }}  == 예시 == {{문서:제작자/정보상자 | 이름 = 메이플스토리 | 이름_ =  | 별명 = 메 | 별명_ =  | 유튜브프로필사진Url = https://yt3.ggpht.com/5Ft_OkHKiP9mz83nczLPgSnGdULpgqVOV1v2Tg7...</comment>
+      <origin>1106</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2451" sha1="cy17vn99ex7m8h6wfnrfns5n6ddi16d" xml:space="preserve">{{틀 설명 가져오기}}
+
+'''하위 틀'''
+* [[틀:문서:제작자/정보상자]]
+== 사용법 ==
+{{추가공간설명}}
+{{고지문
+|제목 = 이 틀은 [[양식:제작자]]와 연결됩니다.
+}}
+== 원본 ==
+{{원본보여주기
+| 문서이름 = {{문서이름}}
+}}
+
+== 예시 ==
+{{문서:제작자/정보상자
+| 이름 = 메이플스토리
+| 이름_ = 
+| 별명 = 메
+| 별명_ = 
+| 유튜브프로필사진Url = https://yt3.ggpht.com/5Ft_OkHKiP9mz83nczLPgSnGdULpgqVOV1v2Tg7MVMtNd9eCifcdr_MftRf0M1xdOCAjmPNDVW8=s800-c-k-c0x00ffffff-no-rj
+| 데뷔일 = 2003-04-29
+| 데뷔일_ = 
+| 채널이름 = 메이플스토리
+| 채널핸들 = @MapleStoryKR
+| 채널설명 = 설명
+| 구독자수 = 1333
+| 총조회수 = 1333
+| 링크 = {{링크|링크=https://youtube.com/@maplestorykr|레이블=유튜브 채널}}
+| 기타 = {{{기타|}}}
+}}
+&lt;div style="clear: both"&gt;&lt;/div&gt;
+== 틀데이터 ==
+{{틀데이터|
+&lt;templatedata&gt;
+{
+	"params": {
+		"대표유튜브채널Id": {
+			"label": "대표 유튜브 채널 ID",
+			"type": "string",
+			"suggested": true,
+			"description": "대표 유튜브 채널의 채널ID를 입력해 주세요. \"채널 정보 더보기 &gt; 채널 공유 &gt; 채널 ID 복사\" 에서 채널ID를 받아올 수 있습니다."
+		},
+		"이름": {
+			"description": "제작자의 이름을 입력해 주세요. 비워두면 기본값으로 {{문서이름}}이 사용됩니다",
+			"type": "string",
+			"default": "{{문서이름}}"
+		},
+		"데뷔일": {
+			"suggested": true,
+			"description": "제작자의 데뷔 날짜를 입력해 주세요.",
+			"type": "date"
+		},
+		"기타": {
+			"description": "정보상자에 추가할 만한 기타 내용이 있는 경우 입력해 주세요.",
+			"type": "content"
+		},
+		"별명": {
+			"description": "제작자의 별명이나 줄임말을 입력해 주세요. 여러 개인 경우 쉼표로 구분합니다.",
+			"type": "string"
+		},
+		"링크": {
+			"description": "제작자와 관련된 링크를 입력해 주세요. 대표 유튜브 채널은 자동으로 포함되며 그 외 서브 채널, Suno 프로필, 기타 음원 서비스 프로필 등 무엇이든 추가할 수 있습니다.",
+			"type": "wiki-template-name"
+		}
+	},
+	"description": "개별 제작자 문서에 사용되는 틀입니다.",
+	"paramOrder": [
+		"대표유튜브채널Id",
+		"이름",
+		"별명",
+		"데뷔일",
+		"링크",
+		"기타"
+	]
+}
+&lt;/templatedata&gt;
+}}
+&lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt;</text>
+      <sha1>cy17vn99ex7m8h6wfnrfns5n6ddi16d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>양식:제작자</title>
+    <ns>106</ns>
+    <id>723</id>
+    <revision>
+      <id>1121</id>
+      <parentid>1120</parentid>
+      <timestamp>2025-11-12T12:37:55Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <origin>1121</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2347" sha1="l87afq510bfomv09mbq3zhl9kvlu73x" xml:space="preserve">&lt;!-------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------
+
+--&gt;
+{{문서:양식}}
+&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------
+
+--------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+--&gt; __문단편집숨김__ &lt;!--
+--&gt; &lt;div style="clear: both"&gt;&lt;/div&gt;
+&lt;templatestyles src="양식" /&gt;
+{{{ info | add title = 양식으로 문서 생성 | edit title = 양식으로 편집 }}}
+{{{ for template| 문서:제작자 }}}
+
+{| class="wikitable wikitable--fluid formbox"
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:제작자 | 변수이름 = 대표유튜브채널Id}}
+{{{ field | 대표유튜브채널Id }}}
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:제작자 | 변수이름 = 이름}}
+{{양식 추가 공간 필드
+| 필드 = {{{ field | 이름 }}}
+| 추가공간필드 = {{{ field | 이름_ | input type=textarea }}}
+}}
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:제작자 | 변수이름 = 별명}}
+{{양식 추가 공간 필드
+| 필드 = {{{ field | 별명 | input type=text }}}
+| 추가공간필드 = {{{ field | 별명_ | input type=textarea }}}
+}}
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:제작자 | 변수이름 = 데뷔일}}
+{{양식 추가 공간 필드
+| 필드 = {{{ field | 데뷔일 | input type=datepicker }}}
+| 추가공간필드 = {{{ field | 데뷔일_ | input type=textarea }}}
+}}
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:제작자 | 변수이름 = 링크}}
+{{{ field | 링크 | holds template }}}
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:문서:제작자 | 변수이름 = 기타}}
+{{{ field | 기타 | input type=textarea }}}
+|}
+{{{end template}}}
+
+{{{ for template | 링크 | multiple | embed in field = 문서:제작자[링크] }}}
+{| class="wikitable wikitable--fluid formbox"
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:링크 | 변수이름 = 링크}}
+{{{ field | 링크 }}}
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:링크 | 변수이름 = 레이블}}
+{{{ field | 레이블 }}}
+|-
+|
+{{양식 필드 레이블 | 틀이름 = 틀:링크 | 변수이름 = 추가공간}}
+{{{ field | 추가공간 | input type = textarea | autogrow | rows = 1 }}}
+|}
+{{{end template}}}
+&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
+--&gt;</text>
+      <sha1>l87afq510bfomv09mbq3zhl9kvlu73x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>본보기:제작자</title>
+    <ns>3106</ns>
+    <id>724</id>
+    <revision>
+      <id>1109</id>
+      <timestamp>2025-11-12T12:09:24Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:제작자 |대표유튜브채널Id=UCU_hKD03cUTCvnOJpEmKvCg |이름=메이플스토리 |별명=메, 대출해서 돈 버는 게임 |데뷔일=2003-04-29 |링크={{링크 |링크=https://www.youtube.com/live/_UcLW8UTUjI?t=485s |레이블=빵 }} }}  ⧼여기에 개요 추가⧽   == 곡 목록 ==  &lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------  --&gt;{{문서:본보기}}&lt;!--  --------------------------------&gt;&lt;/noinclude&gt;&lt;!------------------...</comment>
+      <origin>1109</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="498" sha1="35zh5nhkn97vb5kxx8vs6t24ao5iihi" xml:space="preserve">{{문서:제작자
+|대표유튜브채널Id=UCU_hKD03cUTCvnOJpEmKvCg
+|이름=메이플스토리
+|별명=메, 대출해서 돈 버는 게임
+|데뷔일=2003-04-29
+|링크={{링크
+|링크=https://www.youtube.com/live/_UcLW8UTUjI?t=485s
+|레이블=빵
+}}
+}}
+
+⧼여기에 개요 추가⧽ 
+
+== 곡 목록 ==
+
+&lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;{{문서:본보기}}&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>35zh5nhkn97vb5kxx8vs6t24ao5iihi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>창팝위키:데이터 저장용 임시 문서/제작자</title>
+    <ns>4</ns>
+    <id>725</id>
+    <revision>
+      <id>1110</id>
+      <timestamp>2025-11-12T12:12:26Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: [[분류:데이터 저장용 임시 문서]] {{고지문 |제목 = 임시 문서 |종류 = 창팝위키 }}  이 문서는 모든 제작자의 개별 문서를 한번에 완성할 수 없기에, 한 곳에 임시로 몰아놓은 저장용 문서입니다. 가능하다면 언제든지 이 문서에 있는 제작자 정보를 [[창팝위키:기여하기|기여하기]]에서 개별 문서화해주시면 좋습니다! 문서를 만든 뒤 이 문서에 있는 정보는 지워 주세...</comment>
+      <origin>1110</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9758" sha1="lkerf0744b8sav7y4sgf43tkzoa0qy6" xml:space="preserve">[[분류:데이터 저장용 임시 문서]]
+{{고지문
+|제목 = 임시 문서
+|종류 = 창팝위키
+}}
+
+이 문서는 모든 제작자의 개별 문서를 한번에 완성할 수 없기에, 한 곳에 임시로 몰아놓은 저장용 문서입니다. 가능하다면 언제든지 이 문서에 있는 제작자 정보를 [[창팝위키:기여하기|기여하기]]에서 개별 문서화해주시면 좋습니다! 문서를 만든 뒤 이 문서에 있는 정보는 지워 주세요.
+
+2025-11-12 유튜브 가나다순으로 한글 채널명 이전인 분까지 추가해뒀습니다.
+
+{{원본보여주기}}
+
+&lt;!-- 아래 틀 삽입 부분을 복사해서 추가  
+
+{{문서:제작자
+| 이름 = 
+| 데뷔일 = 
+| 대표유튜브채널Id = 
+}}
+
+--&gt;
+{{ 공백제거 |
+
+&lt;!-- 이 아래부터 실제로 추가해주세요 --&gt;
+
+{{문서:제작자
+| 이름 = 4lt3r
+| 데뷔일 = 2024-08-14
+| 대표유튜브채널Id = UC8cI3OGG585QFj7WfcRwWsg
+}}
+{{문서:제작자
+| 이름 = 7r2
+| 데뷔일 = 2025-01-06
+| 대표유튜브채널Id = UCDx2-a2fNi-ossvH0cFvdAQ
+}}
+{{문서:제작자
+| 이름 = 슈니
+| 데뷔일 =
+| 대표유튜브채널Id = UCQL3IyW5fygzxacKrB5nmDg
+}}
+{{문서:제작자
+| 이름 = 9999OV0
+| 데뷔일 = 2024-09-08
+| 대표유튜브채널Id = UC-kz8w5WlPtjf_DMbB4KOJQ
+}}
+{{문서:제작자
+| 이름 = AA A
+| 데뷔일 = 2024-08-02
+| 대표유튜브채널Id = UCeGqCNAj_YVbsybak2YOrQg
+}}
+{{문서:제작자
+| 이름 = aaa
+| 데뷔일 = 
+| 대표유튜브채널Id = UC_NpzWKTLodYu5vsrOlSLOQ
+}}
+{{문서:제작자
+| 이름 = AI 신창섭
+| 데뷔일 = 2024-07-28
+| 대표유튜브채널Id = UCMOjUfWw2AkXMNmDWZo011g
+}}
+{{문서:제작자
+| 이름 = AI곡업로드용일회용계정
+| 데뷔일 = 2024-08-23
+| 대표유튜브채널Id = UCH7t8fmPl6noN2T9LF6mWUw
+}}
+{{문서:제작자
+| 이름 = AlphaGo
+| 데뷔일 = 2024-11-13
+| 대표유튜브채널Id = UC_9gqm7fBpWyozpAfmRSINA
+}}
+{{문서:제작자
+| 이름 = Annuro
+| 데뷔일 = 2024-09-30
+| 대표유튜브채널Id = UCwuwEOs08xt622ZmLdbM8yg
+}}
+{{문서:제작자
+| 이름 = asdf
+| 데뷔일 = 2025-01-01
+| 대표유튜브채널Id = UC55Cx98FcBrE--up_atT5Cg
+}}
+{{문서:제작자
+| 이름 = Axion
+| 데뷔일 = 2024-10-05
+| 대표유튜브채널Id = UC57Xp6dcphmG34E9qsvkfKA
+}}
+{{문서:제작자
+| 이름 = 보리ball
+| 데뷔일 = 2025-08-30
+| 대표유튜브채널Id = UCzbx0JrNNjRS3We7OnvaTow
+}}
+{{문서:제작자
+| 이름 = blackstar97
+| 데뷔일 = 2024-07-30
+| 대표유튜브채널Id = UCTfhp2ZLA-vTYzxf2wUFscQ
+}}
+{{문서:제작자
+| 이름 = ByteBeats
+| 데뷔일 = 2024-09-26
+| 대표유튜브채널Id = UCGG5R2luADLWgmloZs6mEwQ
+}}
+{{문서:제작자
+| 이름 = 리듬항구
+| 데뷔일 = 
+| 대표유튜브채널Id = UCDJUpRUjXYu8PJP2EEJWcPg
+}}
+{{문서:제작자
+| 이름 = Celltrion
+| 데뷔일 = 2024-12-14
+| 대표유튜브채널Id = UCSXUwqrsaXe6qZhmlt7iXSw
+}}
+{{문서:제작자
+| 이름 = Changseob The Magician
+| 데뷔일 = 2024-09-13
+| 대표유튜브채널Id = UCbdA40UBpVxYBLzkM974Cyg
+}}
+{{문서:제작자
+| 이름 = CoD
+| 데뷔일 = 2024-09-24
+| 대표유튜브채널Id = UCFh-1dFF2GqaJ0MXO6a1Svg
+}}
+{{문서:제작자
+| 이름 = Colrma
+| 데뷔일 = 2024-09-18
+| 대표유튜브채널Id = UCqVYolUNbhGVgnZhb1ZVXGg
+}}
+{{문서:제작자
+| 이름 = CURRY BRAZA
+| 데뷔일 = 2024-09-19
+| 대표유튜브채널Id = UCyqnm42yl8kFo8pifOErqLw
+}}
+{{문서:제작자
+| 이름 = DALE
+| 데뷔일 = 2024-12-30
+| 대표유튜브채널Id = UCEDXmzLdo2JUmr7Em0C3_mg
+}}
+{{문서:제작자
+| 이름 = Dd Sdd
+| 데뷔일 = 2024-07-20
+| 대표유튜브채널Id = UCf6cld_IbSv5oWtvZP60SYw
+}}
+{{문서:제작자
+| 이름 = DJ Chang
+| 데뷔일 = 2024-09-13
+| 대표유튜브채널Id = UCZaipJb0utC_2uV_JBLBjag
+}}
+{{문서:제작자
+| 이름 = duRE
+| 데뷔일 = 2024-10-13
+| 대표유튜브채널Id = UCBwzlC5kpqxfCstwgm-04KA
+}}
+{{문서:제작자
+| 이름 = 됐
+| 데뷔일 = 2025-04-29
+| 대표유튜브채널Id = UC7GvbrpAQuBOsJMhJggto8Q
+}}
+{{문서:제작자
+| 이름 = dyna j
+| 데뷔일 = 2024-10-22
+| 대표유튜브채널Id = UCKyaQC0m1VyVT_vby-3jkiQ
+}}
+{{문서:제작자
+| 이름 = 이러그
+| 데뷔일 = 2024-10-06
+| 대표유튜브채널Id = UCh1r-cxKRdiD1smduxj-zog
+}}
+{{문서:제작자
+| 이름 = e3z
+| 데뷔일 = 2025-07-02
+| 대표유튜브채널Id = UCZaVG53g9DvvzjNLp2qfHQQ
+}}
+{{문서:제작자
+| 이름 = euuhhd
+| 데뷔일 = 2024-08-23
+| 대표유튜브채널Id = UCtGwcf6yscy1wUzIiYwjdJw
+}}
+{{문서:제작자
+| 이름 = 프라이드튜나
+| 데뷔일 = 
+| 대표유튜브채널Id = UCLo9oJ7FFf0t3qXLJHGEftA
+}}
+{{문서:제작자
+| 이름 = Glow Young
+| 데뷔일 = 2025-06-07
+| 대표유튜브채널Id = UCwlRSdOPh576RUavbQuaRUA
+}}
+{{문서:제작자
+| 이름 = Growallow
+| 데뷔일 = 2024-03-21
+| 대표유튜브채널Id = UCCpZ64XJba1r1AvbWxcFXYg
+}}
+{{문서:제작자
+| 이름 = 하아
+| 데뷔일 = 2024-08-01
+| 대표유튜브채널Id = UC3QTlHQywAd9neY2d45tiow
+}}
+{{문서:제작자
+| 이름 = I. C. Weiner
+| 데뷔일 = 2025-03-04
+| 대표유튜브채널Id = UCxbiFMJymyRCtMEn26RT_oQ
+}}
+{{문서:제작자
+| 이름 = iji
+| 데뷔일 = 2025-01-09
+| 대표유튜브채널Id = UCqHGNe-Q53LhOeVuohmvUTg
+}}
+{{문서:제작자
+| 이름 = ITX마음
+| 데뷔일 = 2024-08-24
+| 대표유튜브채널Id = UCNxeQhY2L0L9GW2ZzPzA41w
+}}
+{{문서:제작자
+| 이름 = 제트스파우스
+| 데뷔일 = 2025-01-20
+| 대표유튜브채널Id = UCavDRvDgkRxZGRcinTAx_FQ
+}}
+{{문서:제작자
+| 이름 = JOOGLE
+| 데뷔일 = 2025-06-28
+| 대표유튜브채널Id = UCZoCcTVnjccX9Oy9KtcWPlQ
+}}
+{{문서:제작자
+| 이름 = Junk
+| 데뷔일 = 2025-04-06
+| 대표유튜브채널Id = UCBzmr26tjplpjZJss61Gdyw
+}}
+{{문서:제작자
+| 이름 = Kai
+| 데뷔일 = 2025-01-12
+| 대표유튜브채널Id = UCGjwU9b_Ekrmdo7kUmNxi1A
+}}
+{{문서:제작자
+| 이름 = Lee
+| 데뷔일 = 2024-10-07
+| 대표유튜브채널Id = UCMVxJ3j6sV5tQpHiEOUzQ-g
+}}
+{{문서:제작자
+| 이름 = Lith Harbor
+| 데뷔일 = 2024-06-23
+| 대표유튜브채널Id = UCCYKklCRVrYaAaXiSyI8WTQ
+}}
+{{문서:제작자
+| 이름 = LPK
+| 데뷔일 = 2024-10-26
+| 대표유튜브채널Id = UC0HNiI-CAgfEvypHgT9Ctcw
+}}
+{{문서:제작자
+| 이름 = Luisa
+| 데뷔일 = 2025-01-10
+| 대표유튜브채널Id = UC5FDZNJfUcB11p2aJog2DJQ
+}}
+{{문서:제작자
+| 이름 = Luxury Disease
+| 데뷔일 = 2024-12-19
+| 대표유튜브채널Id = UCYtvXqgkXF_tzfvgWieDNZQ
+}}
+{{문서:제작자
+| 이름 = Mc마이크
+| 데뷔일 = 2024-07-28
+| 대표유튜브채널Id = UCnVHTgseQtuHROCNeiMFTgA
+}}
+{{문서:제작자
+| 이름 = MLR_d
+| 데뷔일 = 2024-10-30
+| 대표유튜브채널Id = UC7J1sYgfnFhAhyRwodtWDzg
+}}
+{{문서:제작자
+| 이름 = Monta
+| 데뷔일 = 2025-03-09
+| 대표유튜브채널Id = UCP-O6xtP2AbrEP1BTUkNkvA
+}}
+{{문서:제작자
+| 이름 = Mre
+| 데뷔일 = 2024-12-30
+| 대표유튜브채널Id = UCayXFq4DCQB7N4CeAw_JOSQ
+}}
+{{문서:제작자
+| 이름 = nion Ferme
+| 데뷔일 = 2024-07-20
+| 대표유튜브채널Id = UCDNPwO_fJy1oRGrrKjIty6Q
+}}
+{{문서:제작자
+| 이름 = Normalization
+| 데뷔일 = 2024-08-09
+| 대표유튜브채널Id = UC_PhdKuT0NA3n7C6PWJbV-A
+}}
+{{문서:제작자
+| 이름 = Novelist
+| 데뷔일 = 2025-01-07
+| 대표유튜브채널Id = UCeTZtXLv9pTW33asyuSa5Ug
+}}
+{{문서:제작자
+| 이름 = Play Music
+| 데뷔일 = 2025-01-14
+| 대표유튜브채널Id = UCMG7I4TJm3CRKcvQ0tnwUWg
+}}
+{{문서:제작자
+| 이름 = pop5432
+| 데뷔일 = 2025-07-09
+| 대표유튜브채널Id = UC_BuUzA2_C1MfM8rkO26orA
+}}
+{{문서:제작자
+| 이름 = pretty_
+| 데뷔일 = 2025-07-09
+| 대표유튜브채널Id = UCTHm_CK_o2ucUYQ38e7i3Ig
+}}
+{{문서:제작자
+| 이름 = QSTUR
+| 데뷔일 = 2024-09-11
+| 대표유튜브채널Id = UCYLQXorxepm30388T-8LT-g
+}}
+{{문서:제작자
+| 이름 = Re-Fairy
+| 데뷔일 = 2024-11-11
+| 대표유튜브채널Id = UCezgH11KqD5_mKMBMXORorw
+}}
+{{문서:제작자
+| 이름 = Santos Dos
+| 데뷔일 = 2024-10-23
+| 대표유튜브채널Id = UC7w2AUqwni74nwvI6nMtcig
+}}
+{{문서:제작자
+| 이름 = Selmia
+| 데뷔일 = 2024-05-15
+| 대표유튜브채널Id = UCECSUa_GaPYQi7CXOAHG5cA
+}}
+{{문서:제작자
+| 이름 = Sonette
+| 데뷔일 = 2024-11-05
+| 대표유튜브채널Id = UCtQbO9hhbGLCM7CqEBLocEg
+}}
+{{문서:제작자
+| 이름 = Soreu
+| 데뷔일 = 2024-09-19
+| 대표유튜브채널Id = UCn4gqfjn17sVZif134HTc-g
+}}
+{{문서:제작자
+| 이름 = SSAL LABEL
+| 데뷔일 = 2025-08-23
+| 대표유튜브채널Id = UCUsvpAZAf5DRNYmgW1h2Z0w
+}}
+{{문서:제작자
+| 이름 = SSL
+| 데뷔일 = 
+| 대표유튜브채널Id = UC30LcJMWHdpdZX6Y0PcWEFA
+}}
+{{문서:제작자
+| 이름 = suci
+| 데뷔일 = 2024-08-05
+| 대표유튜브채널Id = UCOFGjF7EBLxsfeCfs_cuEzA
+}}
+{{문서:제작자
+| 이름 = TailloW
+| 데뷔일 = 
+| 대표유튜브채널Id = UCVo_xwgWdHgCtdYIycCqy-g
+}}
+{{문서:제작자
+| 이름 = terminal
+| 데뷔일 = 2024-11-06
+| 대표유튜브채널Id = UCCTonichyYoBUHhfoD20Bbw
+}}
+{{문서:제작자
+| 이름 = Trance
+| 데뷔일 = 2024-09-18
+| 대표유튜브채널Id = UCE5OTwFV451egeoVHAOwORg
+}}
+{{문서:제작자
+| 이름 = VGR Server
+| 데뷔일 = 2024-07-24
+| 대표유튜브채널Id = UCXRo-gMwNIIDCvTGmWOntSg
+}}
+{{문서:제작자
+| 이름 = X급뮤직
+| 데뷔일 = 2025-09-10
+| 대표유튜브채널Id = UC2VYOSZfJgPi3IC1RSFjOEw
+}}
+{{문서:제작자
+| 이름 = X슝좍
+| 데뷔일 = 2024-11-22
+| 대표유튜브채널Id = UCwdDV9XK5gFeycIhQZEaKhQ
+}}
+{{문서:제작자
+| 이름 = yuna
+| 데뷔일 = 2024-11-03
+| 대표유튜브채널Id = UCHHqqooYKKGnHrrqYJMkt9A
+}}
+{{문서:제작자
+| 이름 = π
+| 데뷔일 = 2025-01-05
+| 대표유튜브채널Id = UC746JBWOkITyP1daLaTPnxw
+}}
+{{문서:제작자
+| 이름 = Бусалбаниг
+| 데뷔일 = 2024-08-13
+| 대표유튜브채널Id = UCr_VsJN1AlRnwPMI3RXmxkA
+}}
+{{문서:제작자
+| 이름 = 슝좍TV
+| 데뷔일 = 2024-07-10
+| 대표유튜브채널Id = UCIb27GfbVrUYP1iVKA6Q86A
+}}
+
+}}</text>
+      <sha1>lkerf0744b8sav7y4sgf43tkzoa0qy6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>더문잘</title>
+    <ns>0</ns>
+    <id>726</id>
+    <revision>
+      <id>1116</id>
+      <parentid>1113</parentid>
+      <timestamp>2025-11-12T12:27:33Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <origin>1116</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="93" sha1="73oiem7cfy5j1xzea4e32waign8cuc6" xml:space="preserve">{{문서:제작자
+|대표유튜브채널Id=UCe4YbVFbspYrJ-NeYpnvjWw
+|데뷔일=2024-03-28
+}}</text>
+      <sha1>73oiem7cfy5j1xzea4e32waign8cuc6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>인포딕</title>
+    <ns>0</ns>
+    <id>727</id>
+    <revision>
+      <id>1114</id>
+      <timestamp>2025-11-12T12:25:58Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:제작자 |대표유튜브채널Id=UC03mOZ0V3aB1CnUDgSmmO2A |데뷔일=2024-06-18 |링크={{링크 |링크=https://www.youtube.com/@into_dick |레이블=부 채널 }} }}</comment>
+      <origin>1114</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="178" sha1="mf97o628euf7ghvc1sajcnj9hya8mdz" xml:space="preserve">{{문서:제작자
+|대표유튜브채널Id=UC03mOZ0V3aB1CnUDgSmmO2A
+|데뷔일=2024-06-18
+|링크={{링크
+|링크=https://www.youtube.com/@into_dick
+|레이블=부 채널
+}}
+}}</text>
+      <sha1>mf97o628euf7ghvc1sajcnj9hya8mdz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>슝좍TV</title>
+    <ns>0</ns>
+    <id>728</id>
+    <revision>
+      <id>1115</id>
+      <timestamp>2025-11-12T12:27:09Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:제작자 |대표유튜브채널Id=UCIb27GfbVrUYP1iVKA6Q86A |데뷔일=2024-07-10 }}</comment>
+      <origin>1115</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="93" sha1="h5ctyq4euiep9ngdb88urcc6lgntiap" xml:space="preserve">{{문서:제작자
+|대표유튜브채널Id=UCIb27GfbVrUYP1iVKA6Q86A
+|데뷔일=2024-07-10
+}}</text>
+      <sha1>h5ctyq4euiep9ngdb88urcc6lgntiap</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>설명문서:틀:문서:양식</title>
+    <ns>3010</ns>
+    <id>729</id>
+    <revision>
+      <id>1123</id>
+      <timestamp>2025-11-12T12:55:45Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:문서 틀}} 양식 문서에 대한 문서 틀입니다. == 원본 == {{원본보여주기 | 문서이름 = {{문서이름}} }} &lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt;</comment>
+      <origin>1123</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="184" sha1="jrlvb5c0gvt317bxacx2gnmzlzvsamt" xml:space="preserve">{{문서:문서 틀}}
+양식 문서에 대한 문서 틀입니다.
+== 원본 ==
+{{원본보여주기
+| 문서이름 = {{문서이름}}
+}}
+&lt;noinclude&gt;{{문서:설명문서}}&lt;/noinclude&gt;</text>
+      <sha1>jrlvb5c0gvt317bxacx2gnmzlzvsamt</sha1>
     </revision>
   </page>
 </mediawiki>
