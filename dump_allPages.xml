@@ -4892,17 +4892,17 @@ box-shadow: var(--box-shadow-drop-xx-large);
     <ns>106</ns>
     <id>120</id>
     <revision>
-      <id>1100</id>
-      <parentid>837</parentid>
-      <timestamp>2025-11-12T12:04:18Z</timestamp>
+      <id>1159</id>
+      <parentid>1100</parentid>
+      <timestamp>2025-11-15T17:07:52Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1100</origin>
+      <origin>1159</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="6880" sha1="bvpwt3xxh7l4kui9g7z9ey71zgcwi3q" xml:space="preserve">&lt;!-------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------
+      <text bytes="6902" sha1="1aio03hqdcqxpwmdnovae3fpx8p2dxq" xml:space="preserve">&lt;!-------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------
 
 --&gt;
 {{문서:양식}}
@@ -5066,7 +5066,7 @@ box-shadow: var(--box-shadow-drop-xx-large);
 |-
 |
 {{양식 필드 레이블 | 틀이름 = 틀:수록 창드컵 | 변수이름 = 추가공간}}
-{{{ field | _ | input type = textarea }}}
+{{{ field | 추가공간 | input type = textarea }}}
 |}
 {{{end template}}}
 
@@ -5087,7 +5087,7 @@ box-shadow: var(--box-shadow-drop-xx-large);
 |-
 |
 {{양식 필드 레이블 | 틀이름 = 틀:이전 수록 창드컵 | 변수이름 = 추가공간}}
-{{{ field | _ | input type = textarea }}}
+{{{ field | 추가공간 | input type = textarea }}}
 |}
 {{{end template}}}
 
@@ -5113,7 +5113,7 @@ box-shadow: var(--box-shadow-drop-xx-large);
 
 --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
 --&gt;</text>
-      <sha1>bvpwt3xxh7l4kui9g7z9ey71zgcwi3q</sha1>
+      <sha1>1aio03hqdcqxpwmdnovae3fpx8p2dxq</sha1>
     </revision>
   </page>
   <page>
@@ -9092,31 +9092,35 @@ Oh 빨간약! Oh 빨간약!
     <ns>0</ns>
     <id>217</id>
     <revision>
-      <id>521</id>
-      <parentid>238</parentid>
-      <timestamp>2025-07-06T11:36:18Z</timestamp>
+      <id>1158</id>
+      <parentid>1157</parentid>
+      <timestamp>2025-11-15T13:58:44Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>521</origin>
+      <comment>고화질 썸네일 없음</comment>
+      <origin>1158</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="265" sha1="3hdqog8x903yvdjpidrmqhli9rzyh1i" xml:space="preserve">{{문서:창팝
-|곡명=MIC DROP
+      <text bytes="352" sha1="0l36a4rlbs3czg5pb8xeconfkfj8dy1" xml:space="preserve">{{문서:창팝
 |유튜브Id=yVpBwIqmKRw
 |제작자=그냥기가창섭
 |개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2024년 3편
+}}
 |공개일=2024-09-15
+|곡명=MIC DROP
+|고화질썸네일없음=예
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>3hdqog8x903yvdjpidrmqhli9rzyh1i</sha1>
+      <sha1>0l36a4rlbs3czg5pb8xeconfkfj8dy1</sha1>
     </revision>
   </page>
   <page>
@@ -9798,31 +9802,31 @@ but 좋은 케이스는 없지
     <ns>0</ns>
     <id>229</id>
     <revision>
-      <id>568</id>
-      <parentid>250</parentid>
-      <timestamp>2025-07-06T11:54:10Z</timestamp>
+      <id>1156</id>
+      <parentid>1153</parentid>
+      <timestamp>2025-11-15T13:58:08Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>568</origin>
+      <comment>수록 창드컵 틀을 사용해야 기록이 됩니다</comment>
+      <origin>1156</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="260" sha1="0sadb1vg3w18abv5x5uu1zkegx9btde" xml:space="preserve">{{문서:창팝
-|곡명=질러줄게
-|유튜브Id=oSccHr4JUTc
-|제작자=더문잘
-|개사여부=아니오
-|공개일=2024-09-06
+      <text bytes="333" sha1="qa5uggk3lrnbij9eycdl83xftnri1ei" xml:space="preserve">{{문서:창팝
+| 곡명 = 질러줄게
+| 유튜브Id = oSccHr4JUTc
+| 제작자 = 더문잘
+| 개사여부 = 아니오
+| 공개일 = 2024-09-06
+| 수록컵 = {{수록 창드컵|창드컵=2024년 3편}}
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>0sadb1vg3w18abv5x5uu1zkegx9btde</sha1>
+      <sha1>qa5uggk3lrnbij9eycdl83xftnri1ei</sha1>
     </revision>
   </page>
   <page>
@@ -10079,31 +10083,30 @@ but 좋은 케이스는 없지
     <ns>0</ns>
     <id>234</id>
     <revision>
-      <id>535</id>
-      <parentid>255</parentid>
-      <timestamp>2025-07-06T11:50:23Z</timestamp>
+      <id>1149</id>
+      <parentid>1148</parentid>
+      <timestamp>2025-11-15T05:38:23Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>535</origin>
+      <origin>1149</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="251" sha1="5oe17tkj225c63q0wapt6iqf38hhvii" xml:space="preserve">{{문서:창팝
-|곡명=낄낄
-|유튜브Id=y8Gy4ooUF-k
-|제작자=방자
-|개사여부=아니오
-|공개일=2024-09-18
+      <text bytes="324" sha1="75s92pv65u517kzxnkeea71otn8j06y" xml:space="preserve">{{문서:창팝
+| 곡명 = 낄낄
+| 유튜브Id = y8Gy4ooUF-k
+| 제작자 = 방자
+| 개사여부 = 아니오
+| 공개일 = 2024-09-18
+| 수록컵 = {{수록 창드컵|창드컵=2024년 3편}}
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>5oe17tkj225c63q0wapt6iqf38hhvii</sha1>
+      <sha1>75s92pv65u517kzxnkeea71otn8j06y</sha1>
     </revision>
   </page>
   <page>
@@ -10662,23 +10665,41 @@ Six Seven Eight Night
     <ns>0</ns>
     <id>243</id>
     <revision>
-      <id>264</id>
-      <timestamp>2025-06-21T10:03:49Z</timestamp>
+      <id>1143</id>
+      <parentid>1142</parentid>
+      <timestamp>2025-11-15T03:02:00Z</timestamp>
       <contributor>
-        <username>이거는진짜인가가짜인가</username>
-        <id>6</id>
+        <username>브론넷 박사</username>
+        <id>10</id>
       </contributor>
-      <comment>새 문서: {{문서:창드컵 |명칭=엄선작 2024년 3편 |PikuId=7WAT6S |강=32 |유형=엄선작 2024 }}</comment>
-      <origin>264</origin>
+      <comment>/* 수록곡 */</comment>
+      <origin>1143</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="98" sha1="mp3zg037vjomyh06nabhazbtx10uz4b" xml:space="preserve">{{문서:창드컵
+      <text bytes="275" sha1="98yku0vikcfnm1knodc25cuxzwa15t8" xml:space="preserve">{{문서:창드컵
 |명칭=엄선작 2024년 3편
 |PikuId=7WAT6S
 |강=32
 |유형=엄선작 2024
-}}</text>
-      <sha1>mp3zg037vjomyh06nabhazbtx10uz4b</sha1>
+}}
+
+
+
+
+
+
+
+
+== 수록곡 ==
+{{창드컵 수록곡 둘러보기
+| 창드컵 = {{문서이름}}
+| 펼치기 = 예 
+}}
+{{수록곡 표}}
+
+== 둘러보기 ==
+{{창드컵 둘러보기}}</text>
+      <sha1>98yku0vikcfnm1knodc25cuxzwa15t8</sha1>
     </revision>
   </page>
   <page>
@@ -12339,22 +12360,22 @@ Nutzern ist kein Echtgeldkauf
     <ns>0</ns>
     <id>272</id>
     <revision>
-      <id>536</id>
-      <parentid>297</parentid>
-      <timestamp>2025-07-06T11:50:40Z</timestamp>
+      <id>1150</id>
+      <parentid>1147</parentid>
+      <timestamp>2025-11-15T05:39:53Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>536</origin>
+      <origin>1150</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="592" sha1="2utyotd66ae3rls7o4ue14bo1hk0rbo" xml:space="preserve">{{문서:창팝
-|유튜브Id=7B3XsrAFCJg
-|제작자=브론넷 박사
-|개사여부=아니오
+      <text bytes="667" sha1="psjn3ac9f9lwuj2ufpj2vs9005cnsue" xml:space="preserve">{{문서:창팝
+| 유튜브Id = 7B3XsrAFCJg
+| 제작자 = 브론넷 박사
+| 개사여부 = 아니오
+| 수록컵 = {{수록 창드컵|창드컵=재즈컵}}
+| BPM = 91
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -12370,7 +12391,7 @@ Nutzern ist kein Echtgeldkauf
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>2utyotd66ae3rls7o4ue14bo1hk0rbo</sha1>
+      <sha1>psjn3ac9f9lwuj2ufpj2vs9005cnsue</sha1>
     </revision>
   </page>
   <page>
@@ -23036,114 +23057,25 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>483</id>
     <revision>
-      <id>691</id>
-      <timestamp>2025-07-10T14:47:29Z</timestamp>
+      <id>1155</id>
+      <parentid>1154</parentid>
+      <timestamp>2025-11-15T12:20:55Z</timestamp>
       <contributor>
-        <username>Jejakjadamdang</username>
-        <id>11</id>
+        <username>ㅇㅇ2</username>
+        <id>20</id>
       </contributor>
-      <comment>새 문서: [Include(틀:다른 뜻1, other1= 해당 인물이 닉네임을 따온 캐릭터 러브 라이브! 선샤인!!의 메인 스쿨 아이돌 그룹 Aqours의 멤버, rd1=츠시마 요시코)]  ||&lt;-2&gt;&lt;table align=right&gt;&lt;table width=400&gt;&lt;tablebordercolor=#000&gt;&lt;colbgcolor=#191919&gt;&lt;tablebgcolor=#fff,#1f2023&gt;&lt;colcolor=#fff&gt; '''{{{+3 기랑}}}[br]Giran''' || ||&lt;-2&gt;&lt;bgcolor=#fff,#191919&gt; {{{#!wiki style="margin:-6px -10px" 파일:진짜진짜진짜최종의기랑프로필.jpg|width=100%...</comment>
-      <origin>691</origin>
+      <origin>1155</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="8482" sha1="qahs9d5v3kqvxpeakehqtf5imtnzwi1" xml:space="preserve">[Include(틀:다른 뜻1, other1= 해당 인물이 닉네임을 따온 캐릭터 러브 라이브! 선샤인!!의 메인 스쿨 아이돌 그룹 Aqours의 멤버, rd1=츠시마 요시코)]
+      <text bytes="528" sha1="28soov41294u8vcpbabuayde3yk9h0m" xml:space="preserve">&lt;table align=right&gt;&lt;table width="400"&gt;   {{문서:제작자|대표유튜브채널Id=UC2RNv0F5PgAXldjNwU3eTaA|데뷔일=2024-08-07|링크={{링크
+|링크=https://chzzk.naver.com/10896860a85c180bff0720cd59a7b33f
+|레이블=치지직
+}}}}
+'''기랑'''은 대한민국의 창팝 제작자이자 치지직 스트리머이다.
 
-||&lt;-2&gt;&lt;table align=right&gt;&lt;table width=400&gt;&lt;tablebordercolor=#000&gt;&lt;colbgcolor=#191919&gt;&lt;tablebgcolor=#fff,#1f2023&gt;&lt;colcolor=#fff&gt; '''{{{+3 기랑}}}[br]Giran''' ||
-||&lt;-2&gt;&lt;bgcolor=#fff,#191919&gt; {{{#!wiki style="margin:-6px -10px"
-[[파일:진짜진짜진짜최종의기랑프로필.jpg|width=100%]]}}} ||
-||&lt;-2&gt;&lt;bgcolor=#191919&gt; '''프로필''' ||
-||&lt;width=110&gt; '''활동 시작일''' ||&lt;bgcolor=#fff,#1f2023&gt;[[2013년]] [[5월 4일]][br]'''[age(2013-05-04)]주년'''  ||
-|| '''데뷔''' ||[[2024년]] {{{-4 {{{#!wiki style="background-color: #ffffff,#1f2023; display: inline-block; margin: 5px 0px; padding: 1px 2px; border-radius: 4px; border-style: solid; border-width: 1px; border-color: #0C597C;"
-{{{#000,#fff 싱글 1집}}}}}}}}} {{{-4 {{{#!wiki style="background-color: #ffffff,#1f2023; display: inline-block; margin: 5px 0px; padding: 1px 2px; border-radius: 4px; border-style: solid; border-width: 1px; border-color: #0C597C;"
-{{{#000,#fff 장미상자}}}}}}}}}[br]{{{-2 (데뷔일로부터 '''[dday(2024-10-09)]일, [age(2024-10-09)]주년''')}}} ||
-|| '''게임 닉네임''' ||{{{#!wiki style="margin:0 -10px -5px; min-height:calc(1.5em + 5px)"
-{{{#!folding ⠀[ 펼치기 · 접기 ]
-{{{#!wiki style="margin:-5px -1px -11px"
-||&lt;tablewidth=100%&gt;&lt;tablebgcolor=#fff,#1f2023&gt; [[메이플스토리]] || [[https://maple.gg/u/%EB%B0%94%EB%93%9C%EC%97%AC%EC%9A%B0|바드여우]][*리부트][* [[비숍(메이플스토리)|비숍]]] ||}}}}}}}}} ||
-|| '''플랫폼 현황''' ||{{{#!wiki style="margin:0 -10px -5px; min-height:calc(1.5em + 5px)"
-{{{#!folding ⠀[ 펼치기 · 접기 ]
-{{{#!wiki style="margin:-5px -1px -11px"
-||&lt;-2&gt;&lt;tablewidth=100%&gt;&lt;tablebgcolor=#fff,#1c1d1f&gt;'''유튜브''' ||
-||구독자 ||802명 ||
-||&lt;-2&gt;'''치지직''' ||
-||팔로워 ||359명 ||
-||&lt;-2&gt; {{{-2 기준: 2024년 10월 23일}}} ||}}}}}}}}} ||
-||&lt;-2&gt; '''관련링크''' ||
-|| '''플랫폼''' ||[[https://www.youtube.com/@Giran_|[[파일:유튜브 아이콘.svg|width=20]]]] [[https://chzzk.naver.com/10896860a85c180bff0720cd59a7b33f|[[파일:치지직 아이콘.svg|width=20]]]] ||
-|| '''커뮤니티''' ||[[https://cafe.naver.com/giranhouse|[[파일:네이버 카페 아이콘.svg|width=20]]]] ||
-
-[목차]
-[clearfix]
-== 개요 ==
-||&lt;tablealign=center&gt;&lt;table bordercolor=#000&gt;&lt;table bgcolor=#191919&gt;{{{#!wiki style="margin: -5px -10px"
-[youtube(o8EilfiQtWk)]}}}||
-|| [[이해가쏙쏙되잖아리슝좍아|{{{#fff '''이해가쏙쏙되잖아리슝좍아'''}}}]] ||
-기랑은 [[유튜브]]에 [[창팝]]을 투고하는 [[창팝]] [[프로듀서]]이자 [[버츄얼 유튜버]]이다.
-
-== 투고 목록 ==
-=== 오리지널 곡 ===
-||&lt;tablewidth=500&gt;&lt;tablealign=center&gt;&lt;tablebgcolor=#fff,#1f2023&gt;&lt;tablebordercolor=#000&gt;&lt;rowbgcolor=#191919&gt;&lt;rowcolor=#fff&gt; '''제목''' || '''링크''' || '''비고''' ||
-|| 신창섭 - 쇼미더메소 지원 음원 || [[https://youtu.be/NYW0WYP-ws8|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 신창섭 - 신 창 섭 || [[https://youtu.be/NbegamKwoU4|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 쌀숭이 - 좋아하지마 (Feat.신창섭) || [[https://youtu.be/mX_tdD2e6gs|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 신창섭 - 미안해 || [[https://youtu.be/j4cb7o3HasA|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| [[이해가쏙쏙되잖아리슝좍아]] || [[https://youtu.be/o8EilfiQtWk|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 신창섭 - PUSH! || [[https://youtu.be/PVrdws30ahU|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 리스항구 서버 OP - 겜한분 || [[https://youtu.be/R2pNzqKW16M|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 둠창섭 - 사탄숭배 || [[https://youtu.be/2Rf4cbC41mo|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 신창섭 - 회색 인간 || [[https://youtu.be/KbQyysr4xoA|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 신창섭 - 쌀군가 || [[https://youtu.be/mIj9rZQNrOA|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 둠창섭 - 테라포밍 || [[https://youtu.be/c2BHB9Xfx5M|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 신창섭 - 창드컵 || [[https://youtu.be/G9zTlK7CoCk|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 1 || [[https://youtu.be/j9w_ueLNLoU|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 2 || [[https://youtu.be/T2bB4PZb9TY|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 신창섭 - 정상화로 || [[https://youtu.be/gsj4UkoVJIM|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 롤링페이퍼 || [[https://youtu.be/cLJcBt8hI-g|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 둠창섭 - 공생관계 || [[https://youtu.be/2ZEp5xFO5bE|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 장미상자 || [[https://youtu.be/TKE9mfjs2AQ|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 쌀먹.com || [[https://youtu.be/oCvK68yWFuI|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-|| 눈물 || [[https://youtu.be/jsghg5HcKOc|[[파일:유튜브 아이콘.svg|width=22]]]] || ||
-
-=== 커버 곡 ===
-||&lt;tablewidth=500&gt;&lt;tablealign=center&gt;&lt;tablebgcolor=#fff,#1f2023&gt;&lt;tablebordercolor=#000&gt;&lt;rowbgcolor=#191919&gt;&lt;rowcolor=#fff&gt; '''제목''' || '''링크''' || '''비고''' ||
-|| [[https://youtu.be/doSX17b59cc|가을이야기]] || [[https://youtu.be/PHltjaqGSBU|[[파일:유튜브 아이콘.svg|width=22]]]] || [* [[보노보노]] AI 보이스 커버] ||
-|| [[https://youtu.be/2Rf4cbC41mo|사탄숭배]] || [[https://youtu.be/qKTg6pfMK78|[[파일:유튜브 아이콘.svg|width=22]]]] || [* 무반주 커버] ||
-
-== 디스코그래피 ==
-=== 싱글 ===
-||&lt;tablewidth=500&gt;&lt;tablealign=center&gt;&lt;tablebgcolor=#fff,#1f2023&gt;&lt;tablebordercolor=#000&gt;&lt;rowbgcolor=#191919&gt;&lt;rowcolor=#fff&gt; '''제목''' || '''링크''' || '''비고''' ||
-|| 회색 인간 || [[https://youtu.be/KbQyysr4xoA|[[파일:유튜브 아이콘.svg|width=22]]]] ||  ||
-|| 장미상자 || [[https://youtu.be/TKE9mfjs2AQ|[[파일:유튜브 아이콘.svg|width=22]]]] ||  ||
-|| 黒い部屋 || [[https://www.youtube.com/watch?v=iUJ_JA0fVwo|[[파일:유튜브 아이콘.svg|width=22]]]] ||  ||
-|| XXX스토리 || [[https://www.youtube.com/watch?v=U9PxxhxGyIU|[[파일:유튜브 아이콘.svg|width=22]]]] ||  ||
-=== EP ===
-==== 1st EP 《둠창섭》 ====
-||&lt;-5&gt;&lt;tablealign=center&gt;&lt;tablebgcolor=#fff,#1f2023&gt;&lt;tablebordercolor=#000&gt;&lt;bgcolor=#191919&gt;&lt;tablewidth=500&gt; {{{#fff {{{-2 1st EP}}}[br]{{{+2 '''둠창섭'''}}}[br]Doom Chang Seop}}} ||
-||&lt;-5&gt;{{{#!wiki style="margin: -5px -10px"
-[[파일:기랑.jpg|width=100%]]}}}||
-||&lt;-4&gt;&lt;bgcolor=#191919&gt; {{{#fff 2024. 10. 09.}}} ||&lt;-1&gt;&lt;bgcolor=#191919&gt; [[https://youtu.be/hMybeRBwUpg&amp;list=OLAK5uy_lilrYEY8MRLchjwYM2a5fr8Laz4JV1wKs&amp;index=1|XFD]] ||
-||&lt;bgcolor=#191919&gt; {{{#fff '''트랙'''}}} ||&lt;bgcolor=#191919&gt; {{{#fff '''곡명'''}}} ||&lt;bgcolor=#191919&gt; {{{#fff '''작사'''}}} ||&lt;bgcolor=#191919&gt; {{{#fff '''작곡'''}}} ||&lt;bgcolor=#191919&gt; {{{#fff '''링크'''}}} ||
-|| '''1''' || 사탄숭배 ||&lt;|3&gt; [[기랑]] ||&lt;|3&gt; [[Suno]] || [[https://youtu.be/2Rf4cbC41mo|[[파일:유튜브 아이콘.svg|width=22]]]] ||
-|| '''2''' || 테라포밍 || [[https://youtu.be/c2BHB9Xfx5M|[[파일:유튜브 아이콘.svg|width=22]]]] ||
-|| '''3''' || 공생관계 || [[https://youtu.be/2ZEp5xFO5bE|[[파일:유튜브 아이콘.svg|width=22]]]] ||
-
-== 여담 ==
- * 닉네임은 [[러브 라이브! 선샤인!!]]의 메인 스쿨 아이돌 그룹 [[Aqours]]의 멤버 [[츠시마 요시코]]의 유행어인 ギラン에서 따왔다.
-
- * 7살 때부터 [[메이플스토리]]를 플레이해왔다고 한다.
-
- * [[김창섭 네가 만든 Worlds]]를 보고 [[창팝]]을 만들게 되었다고 한다.
-
- * 주로 [[J-POP]][* 특히 애니메이션 삽입곡] 위주로 듣는다고 한다.
-
- * 대부분의 게임에 [[3D 멀미]]가 있다.
-
- * 게임 중 [[명일방주]]를 제일 좋아한다고 한다.
-
- * 10월 초 [[스포티파이]], [[유튜브 뮤직]]에 자신의 음원 7곡을 업로드했다. 그 덕분에 구독자가 매우 적은데도 유튜버가 아닌 '''음악가'''로써 나무위키에 등재될 수 있었다.
-
-[[분류:대한민국의 음악가]][[분류:대한민국의 유튜버]][[분류:음성 합성 엔진/프로듀서]][[분류:대한민국의 음악 프로듀서]][[분류:대한민국의 작사가]][[분류:디시인사이드의 고정닉]]</text>
-      <sha1>qahs9d5v3kqvxpeakehqtf5imtnzwi1</sha1>
+== 곡 목록 ==
+&lt;!------------------------------&gt;&lt;!------------------------------------&gt;{{문서:본보기}}&lt;!----------------------------------&gt;&lt;!--------------------------------&gt;&lt;table bordercolor=#000&gt;</text>
+      <sha1>28soov41294u8vcpbabuayde3yk9h0m</sha1>
     </revision>
   </page>
   <page>
@@ -30777,19 +30709,19 @@ Hey Crowd 더
     <ns>10</ns>
     <id>603</id>
     <revision>
-      <id>985</id>
-      <parentid>907</parentid>
-      <timestamp>2025-09-28T07:44:22Z</timestamp>
+      <id>1151</id>
+      <parentid>985</parentid>
+      <timestamp>2025-11-15T05:54:33Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>985</origin>
+      <origin>1151</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1695" sha1="0xbfstcy4qacf4qfrke82h9q6adcrcr" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
+      <text bytes="1727" sha1="8u543wocrlg4166or05p4b7h2lk63ty" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
 
---&gt;&lt;templatestyles src="둘러보기"/&gt;&lt;usescript src="Collapsible-animation.js" /&gt;
+--&gt;&lt;templatestyles src="둘러보기"/&gt;&lt;usescript src="Collapsible-animation.js" /&gt;&lt;div style="clear: both;"&gt;&lt;/div&gt;
 &lt;div class="ts--navbox mw-collapsible {{#if: {{부울변환| {{{펼치기|}}} }} | | mw-collapsed }}" style="
 border-radius: var(--border-radius-medium);
 box-shadow: var(--box-shadow-border);
@@ -30832,7 +30764,7 @@ tables=수록창드컵, 창팝
 --&gt;{{설명문서}}[[분류:둘러보기 틀]]&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>0xbfstcy4qacf4qfrke82h9q6adcrcr</sha1>
+      <sha1>8u543wocrlg4166or05p4b7h2lk63ty</sha1>
     </revision>
   </page>
   <page>
@@ -36116,6 +36048,108 @@ box-shadow: var(--box-shadow-border);
       <format>text/x-wiki</format>
       <text bytes="30" sha1="e91tat9u9j0da7cxize18ajqlvr741l" xml:space="preserve">#넘겨주기 [[2024년 2편]]</text>
       <sha1>e91tat9u9j0da7cxize18ajqlvr741l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:우산 접어</title>
+    <ns>3200</ns>
+    <id>735</id>
+    <revision>
+      <id>1146</id>
+      <timestamp>2025-11-15T03:24:42Z</timestamp>
+      <contributor>
+        <username>브론넷 박사</username>
+        <id>10</id>
+      </contributor>
+      <comment>새 문서: 난 이 우산을 들고 집 밖을 나올 때부터 비가 올 거라 생각했어 알고는 있었지만  역시나 하늘이 뚫린 듯 미친 듯이 비가 내렸고 피할 곳 없이 우산 하나로 악착같이 버텼어  와 나 이거 돌겠네 정말 언제쯤 그치려나 이 비는 작은 우산이 가리지 못한 몸은 축축해지고  와 나 이거 미치겠네 정말 난 잘못한게 없는데 비가 내리는 건 내 잘못이 아닌데  피할 걸 그랬어...</comment>
+      <origin>1146</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1857" sha1="2j6fjus8gnl9j9ewbbciabgaxc1365z" xml:space="preserve">난 이 우산을 들고
+집 밖을 나올 때부터
+비가 올 거라 생각했어
+알고는 있었지만
+
+역시나 하늘이 뚫린 듯
+미친 듯이 비가 내렸고
+피할 곳 없이 우산 하나로
+악착같이 버텼어
+
+와 나 이거 돌겠네 정말
+언제쯤 그치려나 이 비는
+작은 우산이 가리지 못한
+몸은 축축해지고
+
+와 나 이거 미치겠네 정말
+난 잘못한게 없는데
+비가 내리는 건
+내 잘못이 아닌데
+
+피할 걸 그랬어
+나오지 말걸 오늘은
+다 알면서도 왜
+그러게 나도 모르겠어
+
+두고 나올 걸 그랬어
+그냥 맞을 걸
+젖든 말든 신경 쓰지말고
+뛰어갈 걸 그랬어
+
+우산을 폈다 접었다
+우산을 폈다 접었다
+우산을 폈다 접었다
+그쳤다 접었다 접었다
+
+언제 내렸냐는 듯이
+비가 뚝 그치더라고
+습한 공기랑 비 냄새만 남아
+끈끈한 기분
+
+여우비라도 오려나
+혹시나 들고 다녔어
+근데 접고 나니
+이거 영 쓸데가 없어
+
+와 나 이거 돌겠네 정말
+왜 들고 나왔을까 우산을
+어디 넣어두지도 못한 채
+신발은 축축해지고
+
+와 나 이거 미치겠네 정말
+난 잘못한 게 없는데
+가지고 나온 건
+내 잘못이 아닌데
+
+피할 걸 그랬어
+나오지 말걸 오늘은
+다 알면서도 왜
+그러게 나도 모르겠어
+
+두고 나올걸 그랬어
+그냥 맞을 걸
+젖든 말든 신경 쓰지말고
+뛰어갈 걸 그랬어
+
+우산을 폈다 접었다
+우산을 폈다 접었다
+우산을 폈다 접었다
+그쳤다 접었다 접었다
+
+피할 걸 그랬어
+나오지 말걸 오늘은
+다 알면서도 왜
+그러게 나도 모르겠어
+
+두고 나올걸 그랬어
+그냥 맞을 걸
+젖든 말든 신경 쓰지말고
+뛰어갈 걸 그랬어
+
+우산을 폈다 접었다
+우산을 폈다 접었다
+우산을 폈다 접었다
+그쳤다 접었다 접었다</text>
+      <sha1>2j6fjus8gnl9j9ewbbciabgaxc1365z</sha1>
     </revision>
   </page>
 </mediawiki>
