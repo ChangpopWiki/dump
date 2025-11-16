@@ -2586,18 +2586,18 @@ break = no
     <ns>4</ns>
     <id>70</id>
     <revision>
-      <id>1111</id>
-      <parentid>703</parentid>
-      <timestamp>2025-11-12T12:12:56Z</timestamp>
+      <id>1173</id>
+      <parentid>1111</parentid>
+      <timestamp>2025-11-16T09:30:18Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>제작자 문서 지원 추가</comment>
-      <origin>1111</origin>
+      <comment>일괄 추가 요청 문단</comment>
+      <origin>1173</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2911" sha1="qtqcv7stfn3m6a2n8da2wzdgzig808d" xml:space="preserve">{{창팝위키 둘러보기}}
+      <text bytes="3156" sha1="0o9yxu0k3ghs3v56ejur37kwfnkagoo" xml:space="preserve">{{창팝위키 둘러보기}}
 창팝위키의 기여 포털입니다. 기여하기 전에 [[창팝위키:편집지침|편집지침]]을 읽어주세요. 편집 연습은 사용자 문서 또는 [[창팝위키:연습장|연습장]]에서 하실 수 있습니다.
 
 == 가사만 등록하기 ==
@@ -2630,6 +2630,10 @@ break=no
 * [[특수:쿼리실행/창팝|창팝 양식 미리보기]]
 * [[본보기:창팝|창팝 문서 본보기]]
 
+==== 일괄 추가 요청 ====
+
+[https://docs.google.com/spreadsheets/d/1HGzFRieT_q6yDHoEuHLuGsBwGTObsfp0qDhr66gmgJU 시트]로 일괄 추가 요청을 받고 있습니다. 여러 창팝 문서를 만들어야 하는 경우 이용해주세요.
+
 === 창드컵 문서 ===
 {{#forminput: form = 창드컵
 | autocomplete on category = 창드컵
@@ -2654,7 +2658,7 @@ break=no
 일반 문서 뿐만 아니라 틀, 도움말 등 관리 관련 문서 또한 기여를 환영합니다. 문서 이동, 삭제 등 권한 문제로 불가능한 작업이 있다면 [[창팝위키:선착장|선착장]]에 문의를 남겨 주세요.
 
 [[분류:창팝위키]]</text>
-      <sha1>qtqcv7stfn3m6a2n8da2wzdgzig808d</sha1>
+      <sha1>0o9yxu0k3ghs3v56ejur37kwfnkagoo</sha1>
     </revision>
   </page>
   <page>
@@ -21110,19 +21114,27 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>432</id>
     <revision>
-      <id>628</id>
-      <timestamp>2025-07-06T17:11:51Z</timestamp>
+      <id>1174</id>
+      <parentid>628</parentid>
+      <timestamp>2025-11-16T09:43:28Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=oM8RyjqJ_5E |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=19 |참가닉네임=해적선옆에띄운통통배 |제목=계속 이대로 놀겠습니다-! |키워드=리북공정 |각오=뒤집어지게 해드리겠습니다 |한마디= }}  == 가사 == {{가사}}</comment>
-      <origin>628</origin>
+      <comment>단품으로 정상화, 정보 추가</comment>
+      <origin>1174</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="438" sha1="9ksjuxxor5x3bhcszi9lp7v8q0nxm7x" xml:space="preserve">{{문서:창팝
-|유튜브Id=oM8RyjqJ_5E
+      <text bytes="652" sha1="eajyr8n7qwnqww7h1ochupt45wdvfb0" xml:space="preserve">{{문서:창팝
+|유튜브Id=J-zCcKFBJmE
+|제작자=슝버좍
 |개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 4편
+}}
+|제작방법=음성 합성 엔진
+|기타=보컬: 카사네 테토, 도호쿠 키리탄, 즌다몬
+|고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -21139,27 +21151,36 @@ Cultual, 어차피 언젠가
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>9ksjuxxor5x3bhcszi9lp7v8q0nxm7x</sha1>
+      <sha1>eajyr8n7qwnqww7h1ochupt45wdvfb0</sha1>
     </revision>
   </page>
   <page>
-    <title>Silhouettes</title>
+    <title>SILHOUETTES</title>
     <ns>0</ns>
     <id>433</id>
     <revision>
-      <id>629</id>
-      <timestamp>2025-07-06T17:12:06Z</timestamp>
+      <id>1177</id>
+      <parentid>1176</parentid>
+      <timestamp>2025-11-16T09:45:52Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=yrlxe65vN-I |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=20 |참가닉네임=사탄의혈육리슝은내가이러길원하지않을거야 |제목=Silhouettes |키워드=마왕 |각오=님들창팝드시지마세요체질이라는게바뀝니다예를들어초식공룡과육 |한마디= }}  == 가사 == {...</comment>
-      <origin>629</origin>
+      <minor/>
+      <origin>1177</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="492" sha1="2jvo94s4rsfrfe9kj447hj7ble83whl" xml:space="preserve">{{문서:창팝
-|유튜브Id=yrlxe65vN-I
+      <text bytes="686" sha1="kmrh5fiogtjvlabuj4s9m5cdj5rq6rx" xml:space="preserve">{{문서:창팝
+|유튜브Id=7GRymHqha1g
+|제작자=애플우유
 |개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 4편
+}}
+|다른언어제목=실루엣츠
+|화자=사탄의 혈육
+|제작방법=Suno
+|고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -21176,7 +21197,7 @@ Cultual, 어차피 언젠가
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>2jvo94s4rsfrfe9kj447hj7ble83whl</sha1>
+      <sha1>kmrh5fiogtjvlabuj4s9m5cdj5rq6rx</sha1>
     </revision>
   </page>
   <page>
@@ -22268,21 +22289,28 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>462</id>
     <revision>
-      <id>659</id>
-      <timestamp>2025-07-06T17:19:03Z</timestamp>
+      <id>1178</id>
+      <parentid>659</parentid>
+      <timestamp>2025-11-16T09:50:10Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |곡명=嘘偽る |다른언어제목=거짓말 속이기 |유튜브Id=banWaI5Y8E8 |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=50 |참가닉네임=메벤스라움 최고지도자 신창섭 |제목=嘘偽る(거짓말 속이기) |키워드=ガシャドクロ |각오=이번에도 쓰고 싶은거 쓰겠습니다. |한...</comment>
-      <origin>659</origin>
+      <comment>단품 정상화, 정보 추가</comment>
+      <origin>1178</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="662" sha1="qf6lu9ffxl0hkz2597ik8bdbudjcwdx" xml:space="preserve">{{문서:창팝
-|곡명=嘘偽る
-|다른언어제목=거짓말 속이기
-|유튜브Id=banWaI5Y8E8
+      <text bytes="798" sha1="8aunpz8pzynrtv0glbu06gbqh0tizyc" xml:space="preserve">{{문서:창팝
+|유튜브Id=Ef3gvSuH9FQ
+|제작자=Celltrion
 |개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 4편
+}}
+|곡명=偽り偽る
+|다른언어제목=거짓말 속이기
+|제작방법=Suno
+|고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -22299,7 +22327,7 @@ Cultual, 어차피 언젠가
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>qf6lu9ffxl0hkz2597ik8bdbudjcwdx</sha1>
+      <sha1>8aunpz8pzynrtv0glbu06gbqh0tizyc</sha1>
     </revision>
   </page>
   <page>
@@ -22307,20 +22335,25 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>463</id>
     <revision>
-      <id>708</id>
-      <parentid>660</parentid>
-      <timestamp>2025-07-17T05:05:28Z</timestamp>
+      <id>1179</id>
+      <parentid>708</parentid>
+      <timestamp>2025-11-16T09:54:28Z</timestamp>
       <contributor>
-        <ip>58.227.90.221</ip>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>영상 정상화</comment>
-      <origin>708</origin>
+      <comment>창드컵 수록 정보 추가</comment>
+      <origin>1179</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="548" sha1="2eg08t6zxs3dljgas95j3jtnysrkatt" xml:space="preserve">{{문서:창팝
-| 유튜브Id = 5oZJ1vAMrok
-| 제작자 = 체포낙
-| 개사여부 = 아니오
+      <text bytes="632" sha1="28ixgnjhzqt3a9bbjm172f9s1ybgwkq" xml:space="preserve">{{문서:창팝
+|유튜브Id=5oZJ1vAMrok
+|제작자=체포낙
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2025년 4편
+}}
+|고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -22337,7 +22370,7 @@ Cultual, 어차피 언젠가
 
 == 가사 ==
 {{가사}}</text>
-      <sha1>2eg08t6zxs3dljgas95j3jtnysrkatt</sha1>
+      <sha1>28ixgnjhzqt3a9bbjm172f9s1ybgwkq</sha1>
     </revision>
   </page>
   <page>
@@ -36150,6 +36183,372 @@ box-shadow: var(--box-shadow-border);
 우산을 폈다 접었다
 그쳤다 접었다 접었다</text>
       <sha1>2j6fjus8gnl9j9ewbbciabgaxc1365z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>전직 메챈남.</title>
+    <ns>0</ns>
+    <id>736</id>
+    <revision>
+      <id>1160</id>
+      <timestamp>2025-11-16T09:24:42Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄추가 시트 요청</comment>
+      <origin>1160</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="288" sha1="r8j47gspa09faxeuej5lf9fwjbwpf6v" xml:space="preserve">{{문서:창팝
+|유튜브Id=8DaRFGNzK3M
+|제작자=브론넷 박사
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2025년 감성컵}}
+|BPM=150
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>r8j47gspa09faxeuej5lf9fwjbwpf6v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>전직 메벤남의 후회</title>
+    <ns>0</ns>
+    <id>737</id>
+    <revision>
+      <id>1161</id>
+      <timestamp>2025-11-16T09:24:49Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄추가 시트 요청</comment>
+      <origin>1161</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="300" sha1="631mqzmneccvmqz7il9aq1x1gw7wzta" xml:space="preserve">{{문서:창팝
+|유튜브Id=c9GiDVafOVY
+|제작자=브론넷 박사
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|별명=전메후
+|BPM=94
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>631mqzmneccvmqz7il9aq1x1gw7wzta</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>환영받지 못할 복귀</title>
+    <ns>0</ns>
+    <id>738</id>
+    <revision>
+      <id>1162</id>
+      <timestamp>2025-11-16T09:24:50Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄추가 시트 요청</comment>
+      <origin>1162</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="321" sha1="n8gcbqp67h2w4kyy83wsa6j6f4u4pkb" xml:space="preserve">{{문서:창팝
+|유튜브Id=bD4yucvPmQ0
+|제작자=브론넷 박사
+|화자=언니네 -리-발관
+|제작방법=Suno, Udio
+|수록컵={{수록 창드컵|창드컵=락드컵 1편}}
+|BPM=125
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>n8gcbqp67h2w4kyy83wsa6j6f4u4pkb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>떠나버린 세상에게</title>
+    <ns>0</ns>
+    <id>739</id>
+    <revision>
+      <id>1163</id>
+      <timestamp>2025-11-16T09:25:10Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄추가 시트 요청</comment>
+      <origin>1163</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="289" sha1="rtxls7gk7gvl2ka6jhia87jcvmgkq4p" xml:space="preserve">{{문서:창팝
+|유튜브Id=uGmDBnH-jZ4
+|제작자=브론넷 박사
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=리부트 추모관}}
+|BPM=73
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>rtxls7gk7gvl2ka6jhia87jcvmgkq4p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>돌아가봐요</title>
+    <ns>0</ns>
+    <id>740</id>
+    <revision>
+      <id>1164</id>
+      <timestamp>2025-11-16T09:25:18Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄추가 시트 요청</comment>
+      <origin>1164</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="351" sha1="rj2gtnfazrwon6akzwu74lq9dxq690s" xml:space="preserve">{{문서:창팝
+|유튜브Id=__lxNh7Ltzk
+|제작자=브론넷 박사
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2025년 감성컵}}
+|이전수록컵={{이전 수록 창드컵|창드컵=KPOP컵}}
+|BPM=136
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>rj2gtnfazrwon6akzwu74lq9dxq690s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blue de Mer</title>
+    <ns>0</ns>
+    <id>741</id>
+    <revision>
+      <id>1165</id>
+      <timestamp>2025-11-16T09:25:34Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄추가 시트 요청</comment>
+      <origin>1165</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="331" sha1="qsfe467iguot46vsjof240hbr5bvfwm" xml:space="preserve">{{문서:창팝
+|유튜브Id=nmrzdX7HDXI
+|제작자=창팝용
+|화자=$$al, Angelic Buster
+|제작방법=Suno
+|프롬프트=summer vibe, hip-hop
+|수록컵={{수록 창드컵|창드컵=바캉스컵}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>qsfe467iguot46vsjof240hbr5bvfwm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>정상화의 마술사, 신창섭</title>
+    <ns>0</ns>
+    <id>742</id>
+    <revision>
+      <id>1168</id>
+      <parentid>1166</parentid>
+      <timestamp>2025-11-16T09:28:23Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>유튜브ID 수정</comment>
+      <origin>1168</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="285" sha1="bxj8im1bxfgdrndowsvhhq7cbp53nw6" xml:space="preserve">{{문서:창팝
+|유튜브Id=8xtFp5YmOYU
+|제작자=브론넷 박사
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=메탈컵 1편}}
+|BPM=158
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>bxj8im1bxfgdrndowsvhhq7cbp53nw6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>언제는 안 그랬니</title>
+    <ns>0</ns>
+    <id>743</id>
+    <revision>
+      <id>1167</id>
+      <timestamp>2025-11-16T09:28:02Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄추가 시트 요청</comment>
+      <origin>1167</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="285" sha1="r7lbuyweaaykqozahcoq6olw5ur6n7d" xml:space="preserve">{{문서:창팝
+|유튜브Id=ukftil09fn4
+|제작자=브론넷 박사
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=락드컵 1편}}
+|BPM=167
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>r7lbuyweaaykqozahcoq6olw5ur6n7d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>바보같은 이야기</title>
+    <ns>0</ns>
+    <id>744</id>
+    <revision>
+      <id>1169</id>
+      <timestamp>2025-11-16T09:28:24Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄추가 시트 요청</comment>
+      <origin>1169</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="283" sha1="4au1ad7gaqr6dhkmxrgo6bnjg228sd0" xml:space="preserve">{{문서:창팝
+|유튜브Id=VxUGjCTYKss
+|제작자=브론넷 박사
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=스토리컵}}
+|BPM=167
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>4au1ad7gaqr6dhkmxrgo6bnjg228sd0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>그렇지 않다</title>
+    <ns>0</ns>
+    <id>745</id>
+    <revision>
+      <id>1170</id>
+      <timestamp>2025-11-16T09:28:24Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄추가 시트 요청</comment>
+      <origin>1170</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="286" sha1="eup7j2p4tvt8lfeu24fnkl8mw8m38aa" xml:space="preserve">{{문서:창팝
+|유튜브Id=2KWonMepcbE
+|제작자=브론넷 박사
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=추수감사컵}}
+|BPM=150
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>eup7j2p4tvt8lfeu24fnkl8mw8m38aa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>양심</title>
+    <ns>0</ns>
+    <id>746</id>
+    <revision>
+      <id>1171</id>
+      <timestamp>2025-11-16T09:28:26Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄추가 시트 요청</comment>
+      <origin>1171</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="301" sha1="c6otb4su2g4d4fdz0tqr0wzy47usxvt" xml:space="preserve">{{문서:창팝
+|유튜브Id=MWKajOVq7d8
+|제작자=브론넷 박사
+|제작방법=Suno
+|프롬프트=없음
+|수록컵={{수록 창드컵|창드컵=재즈컵}}
+|BPM=125
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>c6otb4su2g4d4fdz0tqr0wzy47usxvt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>떠나버린 세상에게(Remake)</title>
+    <ns>0</ns>
+    <id>747</id>
+    <revision>
+      <id>1172</id>
+      <timestamp>2025-11-16T09:28:35Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄추가 시트 요청</comment>
+      <origin>1172</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="35i2fo43f69l62bycncoud26xsxw4ii" xml:space="preserve">{{문서:창팝
+|유튜브Id=I7fZBMAynqQ
+|제작자=브론넷 박사
+|제작방법=Suno
+|BPM=73
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>35i2fo43f69l62bycncoud26xsxw4ii</sha1>
     </revision>
   </page>
 </mediawiki>
