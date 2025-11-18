@@ -3394,17 +3394,17 @@ console.log('EditTools 스크립트 시작');
     <ns>10</ns>
     <id>88</id>
     <revision>
-      <id>151</id>
-      <parentid>150</parentid>
-      <timestamp>2025-06-14T13:32:34Z</timestamp>
+      <id>1184</id>
+      <parentid>151</parentid>
+      <timestamp>2025-11-18T13:03:22Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>151</origin>
+      <origin>1184</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2039" sha1="jwymq48eg9mikz1r7si8amf31o4t0ez" xml:space="preserve">&lt;!--
+      <text bytes="2050" sha1="epinsa13qp6b4cbfubf4l0vdfp14m12" xml:space="preserve">&lt;!--
 --------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
 
 --&gt; &lt;templatestyles src="틀:설명문서/styles.css" /&gt; &lt;!--
@@ -3448,7 +3448,7 @@ console.log('EditTools 스크립트 시작');
 --&gt; 	&lt;br&gt;
 		{{#if: {{{1|}}} 
 		| &lt;!-- (설명문서를 직접 지정한 경우) 하위 문서를 표시하지 않음 --&gt; 	
-        | 이 문서의 [{{fullurl: 특수:접두어찾기|prefix={{전체문서이름E}}/}} 하위 문서 찾기]
+        | 이 문서의 하위 문서: {{특수:접두어찾기/{{전체문서이름}}/|hideredirects=true|stripprefix=true}}
 		}} &lt;!--
 --&gt; &lt;/div&gt; &lt;!--
 --------------------------------&gt;&lt;/onlyinclude&gt;&lt;!-------------------------------
@@ -3463,7 +3463,7 @@ console.log('EditTools 스크립트 시작');
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------
 
 --&gt;</text>
-      <sha1>jwymq48eg9mikz1r7si8amf31o4t0ez</sha1>
+      <sha1>epinsa13qp6b4cbfubf4l0vdfp14m12</sha1>
     </revision>
   </page>
   <page>
@@ -4502,20 +4502,32 @@ box-shadow: var(--box-shadow-drop-xx-large);
     <ns>10</ns>
     <id>111</id>
     <revision>
-      <id>1088</id>
-      <parentid>111</parentid>
-      <timestamp>2025-11-04T16:26:52Z</timestamp>
+      <id>1183</id>
+      <parentid>1088</parentid>
+      <timestamp>2025-11-18T13:01:53Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1088</origin>
+      <origin>1183</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="594" sha1="istodk9vvzjo554kuj1k91p2ra2d3ok" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
---&gt;&lt;indicator name="doc"&gt;&lt;templatestyles src="틀스타일:인디케이터" /&gt;&lt;span class="ts--link-icon"&gt;[[{{문서이름}}|↖]]&lt;/span&gt;&lt;/indicator&gt;&lt;!--
---&gt;[[분류:설명문서]]&lt;!--
---&gt;{{SHORTDESC: 설명문서}}&lt;!--
+      <text bytes="904" sha1="cns6x29tq98ig1szhltr86yni04hw95" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+	포함된 문서에서는 적용되지 않고, 설명문서 자체에만 적용되어야 할 것들
+ --&gt;{{#ifeq: {{이름공간수}} | 3010
+	|
+		&lt;!-- 인디케이터에 본 문서로 가는 링크 표시 --&gt;
+		&lt;indicator name="doc"&gt;&lt;templatestyles src="틀스타일:인디케이터" /&gt;&lt;span class="ts--link-icon"&gt;[[{{문서이름}}|↖]]&lt;/span&gt;&lt;/indicator&gt;
+		
+		&lt;!-- 분류 적용 --&gt;
+		[[분류:설명문서]]
+
+		&lt;!-- 짧은설명 적용 --&gt;
+		{{SHORTDESC: 설명문서}}
+	}}&lt;!--
+	
+--&gt;&lt;templatestyles src="틀데이터" /&gt;&lt;!--
 
 --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
 
@@ -4526,7 +4538,7 @@ box-shadow: var(--box-shadow-drop-xx-large);
 {{설명문서}}
 &lt;!--
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>istodk9vvzjo554kuj1k91p2ra2d3ok</sha1>
+      <sha1>cns6x29tq98ig1szhltr86yni04hw95</sha1>
     </revision>
   </page>
   <page>
@@ -10711,23 +10723,34 @@ Six Seven Eight Night
     <ns>0</ns>
     <id>244</id>
     <revision>
-      <id>265</id>
-      <timestamp>2025-06-21T10:04:33Z</timestamp>
+      <id>1193</id>
+      <parentid>265</parentid>
+      <timestamp>2025-11-18T13:10:13Z</timestamp>
       <contributor>
-        <username>이거는진짜인가가짜인가</username>
-        <id>6</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창드컵 |명칭=엄선작 2024년 4편 |PikuId=7QKFbB |강=32 |유형=엄선작 2024 }}</comment>
-      <origin>265</origin>
+      <origin>1193</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="98" sha1="587kc5ylmo9nkvjlg7v7hktjv1bnqgv" xml:space="preserve">{{문서:창드컵
+      <text bytes="334" sha1="ml6z1gwbwz7j3hz4ethf9nruxga548u" xml:space="preserve">{{문서:창드컵
 |명칭=엄선작 2024년 4편
 |PikuId=7QKFbB
 |강=32
 |유형=엄선작 2024
-}}</text>
-      <sha1>587kc5ylmo9nkvjlg7v7hktjv1bnqgv</sha1>
+}}
+'''2024년 4편'''은 2024년 엄선작 [[창드컵]]이다.
+
+== 수록곡 ==
+{{창드컵 수록곡 둘러보기
+| 창드컵 = {{문서이름}}
+| 펼치기 = 예 
+}}
+{{수록곡 표}}
+
+=== 가사 모음 ===
+[[/수록곡 가사 모음]]</text>
+      <sha1>ml6z1gwbwz7j3hz4ethf9nruxga548u</sha1>
     </revision>
   </page>
   <page>
@@ -12919,23 +12942,35 @@ Yes i'm Plastic Star</text>
     <ns>0</ns>
     <id>283</id>
     <revision>
-      <id>315</id>
-      <timestamp>2025-06-23T08:38:13Z</timestamp>
+      <id>1190</id>
+      <parentid>315</parentid>
+      <timestamp>2025-11-18T13:08:43Z</timestamp>
       <contributor>
-        <username>이거는진짜인가가짜인가</username>
-        <id>6</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창드컵 |명칭=엄선작 2025년 2편 |PikuId=1lZX0K |강=32 |유형=엄선작 2025 }}</comment>
-      <origin>315</origin>
+      <origin>1190</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="98" sha1="gn2cgdeanryo2d6fvy33bo2no9knub7" xml:space="preserve">{{문서:창드컵
+      <text bytes="335" sha1="8upx30tfand2hqim4ybh95u2jxignqi" xml:space="preserve">{{문서:창드컵
 |명칭=엄선작 2025년 2편
 |PikuId=1lZX0K
 |강=32
 |유형=엄선작 2025
-}}</text>
-      <sha1>gn2cgdeanryo2d6fvy33bo2no9knub7</sha1>
+}}
+
+'''2025년 2편'''은 2025년 엄선작 [[창드컵]]이다.
+
+== 수록곡 ==
+{{창드컵 수록곡 둘러보기
+| 창드컵 = {{문서이름}}
+| 펼치기 = 예 
+}}
+{{수록곡 표}}
+
+=== 가사 모음 ===
+[[/수록곡 가사 모음]]</text>
+      <sha1>8upx30tfand2hqim4ybh95u2jxignqi</sha1>
     </revision>
   </page>
   <page>
@@ -30098,24 +30133,35 @@ Not knowing that it was the corpse of a whale they revered</text>
     <ns>0</ns>
     <id>592</id>
     <revision>
-      <id>889</id>
-      <timestamp>2025-09-21T17:45:31Z</timestamp>
+      <id>1191</id>
+      <parentid>889</parentid>
+      <timestamp>2025-11-18T13:09:08Z</timestamp>
       <contributor>
-        <username>구경꾼</username>
-        <id>18</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창드컵 |명칭=엄선작 2025년 4편 |PikuId=9TW47d |강=32 |유형=엄선작 2025 |오픈날짜=2025-09-16 }}</comment>
-      <origin>889</origin>
+      <origin>1191</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="123" sha1="rxy8sz3h864hc9kxhxyhl4vrdbbejfn" xml:space="preserve">{{문서:창드컵
+      <text bytes="359" sha1="848sl8d24emfadggrkpllsfp4dq6z35" xml:space="preserve">{{문서:창드컵
 |명칭=엄선작 2025년 4편
 |PikuId=9TW47d
 |강=32
 |유형=엄선작 2025
 |오픈날짜=2025-09-16
-}}</text>
-      <sha1>rxy8sz3h864hc9kxhxyhl4vrdbbejfn</sha1>
+}}
+'''2025년 4편'''은 2025년 엄선작 [[창드컵]]이다.
+
+== 수록곡 ==
+{{창드컵 수록곡 둘러보기
+| 창드컵 = {{문서이름}}
+| 펼치기 = 예 
+}}
+{{수록곡 표}}
+
+=== 가사 모음 ===
+[[/수록곡 가사 모음]]</text>
+      <sha1>848sl8d24emfadggrkpllsfp4dq6z35</sha1>
     </revision>
   </page>
   <page>
@@ -30742,17 +30788,17 @@ Hey Crowd 더
     <ns>10</ns>
     <id>603</id>
     <revision>
-      <id>1151</id>
-      <parentid>985</parentid>
-      <timestamp>2025-11-15T05:54:33Z</timestamp>
+      <id>1189</id>
+      <parentid>1151</parentid>
+      <timestamp>2025-11-18T13:06:27Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1151</origin>
+      <origin>1189</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1727" sha1="8u543wocrlg4166or05p4b7h2lk63ty" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
+      <text bytes="1830" sha1="360r933yqnorgrxh6djrl3qnrfncvnk" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
 
 --&gt;&lt;templatestyles src="둘러보기"/&gt;&lt;usescript src="Collapsible-animation.js" /&gt;&lt;div style="clear: both;"&gt;&lt;/div&gt;
 &lt;div class="ts--navbox mw-collapsible {{#if: {{부울변환| {{{펼치기|}}} }} | | mw-collapsed }}" style="
@@ -30770,6 +30816,7 @@ margin-block: var(--space-md);
 &lt;div class="citizen-ui-icon mw-ui-icon-wikimedia-collapse"&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="mw-collapsible-content" style="border-top: var(--border-base);"&gt;
+&lt;div style="padding: 0 var(--space-md)"&gt;{{완전하지 않은 목록|창드컵={{{창드컵}}}}}&lt;/div&gt;
 &lt;div style="
 display: grid;
 grid-template-columns: repeat(auto-fit, minmax(max(120px, calc((100% - (7 * 2px)) / 8)), 1fr));
@@ -30797,7 +30844,7 @@ tables=수록창드컵, 창팝
 --&gt;{{설명문서}}[[분류:둘러보기 틀]]&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>8u543wocrlg4166or05p4b7h2lk63ty</sha1>
+      <sha1>360r933yqnorgrxh6djrl3qnrfncvnk</sha1>
     </revision>
   </page>
   <page>
@@ -32457,23 +32504,34 @@ table.dataTable tbody td:has(.mw-Cargoquery--thumbnail) {
     <ns>0</ns>
     <id>651</id>
     <revision>
-      <id>986</id>
-      <timestamp>2025-09-28T07:54:26Z</timestamp>
+      <id>1194</id>
+      <parentid>986</parentid>
+      <timestamp>2025-11-18T13:10:39Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창드컵 |명칭=엄선작 2024년 5편 |PikuId=56AV2m |강=32 |유형=엄선작 2024 }}</comment>
-      <origin>986</origin>
+      <origin>1194</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="98" sha1="85lzwz8ot1cqru0w4labbzw1ybculq9" xml:space="preserve">{{문서:창드컵
+      <text bytes="334" sha1="7wc97kzbg4ssznxizf6vm0zer14mpw0" xml:space="preserve">{{문서:창드컵
 |명칭=엄선작 2024년 5편
 |PikuId=56AV2m
 |강=32
 |유형=엄선작 2024
-}}</text>
-      <sha1>85lzwz8ot1cqru0w4labbzw1ybculq9</sha1>
+}}
+'''2024년 5편'''은 2024년 엄선작 [[창드컵]]이다.
+
+== 수록곡 ==
+{{창드컵 수록곡 둘러보기
+| 창드컵 = {{문서이름}}
+| 펼치기 = 예 
+}}
+{{수록곡 표}}
+
+=== 가사 모음 ===
+[[/수록곡 가사 모음]]</text>
+      <sha1>7wc97kzbg4ssznxizf6vm0zer14mpw0</sha1>
     </revision>
   </page>
   <page>
@@ -32827,52 +32885,23 @@ return p</text>
     <ns>10</ns>
     <id>661</id>
     <revision>
-      <id>1014</id>
-      <timestamp>2025-10-14T08:56:59Z</timestamp>
+      <id>1188</id>
+      <parentid>1014</parentid>
+      <timestamp>2025-11-18T13:05:39Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: &lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------  문서가 대상으로 하는 창드컵 변수 --&gt;	{{#vardefine: 창드컵 | 		{{#or: {{{1|}}} | {{{창드컵|}}} | {{상위문서이름}} }} 	}}&lt;!--   짧은설명 지정 --&gt;	{{SHORTDESC: {{#var: 창드컵}} 수록곡들의 가사를 모은 문서}}&lt;!--  --&gt;	{{#vardefine: 강수 | 		{{#cargo_query: tables = 창드컵 		| fields = 강 		| where = _pageName = "{{#var: 창드컵}}" 		| no html 		}}...</comment>
-      <origin>1014</origin>
+      <origin>1188</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2176" sha1="4qt9qmvhluikf4enb4pjbs9z6qdqxdu" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
-
-문서가 대상으로 하는 창드컵 변수
---&gt;	{{#vardefine: 창드컵 |
-		{{#or: {{{1|}}} | {{{창드컵|}}} | {{상위문서이름}} }}
-	}}&lt;!-- 
+      <text bytes="974" sha1="7l225r2bklumxsslsnp6l49uh1ibnwn" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 짧은설명 지정
 --&gt;	{{SHORTDESC: {{#var: 창드컵}} 수록곡들의 가사를 모은 문서}}&lt;!--
 
---&gt;	{{#vardefine: 강수 |
-		{{#cargo_query: tables = 창드컵
-		| fields = 강
-		| where = _pageName = "{{#var: 창드컵}}"
-		| no html
-		}}
-	}}&lt;!-- 
-
---&gt;	{{#vardefine: 수록곡문서수 |
-		{{#cargo_query: tables = 수록창드컵
-		| fields = COUNT(*)
-		| where = 수록창드컵.창드컵 = "{{#var: 창드컵}}"
-		| no html
-		}}
-	}}&lt;!-- 
-
-불완전한 목록 주의 고지문 표시
---&gt;	{{#ifeq: {{#var: 강수}} | {{#var: 수록곡문서수}}
-	| &lt;!-- 강수와 수록곡문서수가 같다면 고지문을 표시하지 않음 --&gt;
-	|
-		{{고지문
-		| 제목 = 완전하지 않은 목록
-		| 내용 = 아래 목록은 각 문서의 수록곡 정보에 따라 자동으로 취합됩니다. 현재 [[{{#var: 창드컵}}]]에 등록된 강 수 정보(&lt;code&gt;{{#var: 강수}}&lt;/code&gt;)와 [[{{#var: 창드컵}}]] 수록 정보를 가진 문서의 개수(&lt;code&gt;{{#var: 수록곡문서수}}&lt;/code&gt;)가 일치하지 않습니다. 해당 수록곡에 대한 문서가 없거나 문서에 수록곡 정보가 없을 수 있습니다. 창팝위키는 [[창팝위키:기여하기|기여]]를 환영합니다!
-		| 종류 = 주의
-		}}
-	}}&lt;!-- 
+완전하지 않다면 주의 고지문 표시
+--&gt;	{{완전하지 않은 목록}}&lt;!-- 
 
 모든 수록곡에서 가사를 취합해서 문단별로 나눠서 표시
 --&gt;	{{#arraymap: 
@@ -32896,7 +32925,7 @@ return p</text>
 --&gt;{{문서:문서 틀}}{{설명문서}}&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>4qt9qmvhluikf4enb4pjbs9z6qdqxdu</sha1>
+      <sha1>7l225r2bklumxsslsnp6l49uh1ibnwn</sha1>
     </revision>
   </page>
   <page>
@@ -36549,6 +36578,259 @@ box-shadow: var(--box-shadow-border);
 == 가사 ==
 {{가사}}</text>
       <sha1>35i2fo43f69l62bycncoud26xsxw4ii</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:설명하는문서전체이름</title>
+    <ns>10</ns>
+    <id>748</id>
+    <revision>
+      <id>1180</id>
+      <timestamp>2025-11-18T13:00:36Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------   --&gt;{{#ifeq: {{이름공간수}} | 3010     | {{문서이름}} 	| {{전체문서이름}} 	}}&lt;!--  --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------  --------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------  --&gt;{{설명문서}}[[분류:변수 틀]]&lt;!--  --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</comment>
+      <origin>1180</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="470" sha1="ld6757mty0u7lgi6lxsc3myjg3rv25p" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+ --&gt;{{#ifeq: {{이름공간수}} | 3010
+    | {{문서이름}}
+	| {{전체문서이름}}
+	}}&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;{{설명문서}}[[분류:변수 틀]]&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>ld6757mty0u7lgi6lxsc3myjg3rv25p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>설명문서:틀:설명하는문서전체이름</title>
+    <ns>3010</ns>
+    <id>749</id>
+    <revision>
+      <id>1181</id>
+      <timestamp>2025-11-18T13:00:50Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{틀 설명 가져오기}} == 원본 == {{원본보여주기}}  == 틀데이터 == &lt;templatedata&gt; { 	"params": {}, 	"description": "설명문서에서 사용하기 편하도록 설명문서에서 볼 때는 이름공간을 뺀 문서 이름을, 다른 이름공간에서는 이름공간을 포함한 전체 이름을 출력하는 변수 틀입니다.", 	"paramOrder": [] } &lt;/templatedata&gt;  {{문서:설명문서}}</comment>
+      <origin>1181</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="414" sha1="a40bt2gps44rld4gn8w00a9qqvcu64d" xml:space="preserve">{{틀 설명 가져오기}}
+== 원본 ==
+{{원본보여주기}}
+
+== 틀데이터 ==
+&lt;templatedata&gt;
+{
+	"params": {},
+	"description": "설명문서에서 사용하기 편하도록 설명문서에서 볼 때는 이름공간을 뺀 문서 이름을, 다른 이름공간에서는 이름공간을 포함한 전체 이름을 출력하는 변수 틀입니다.",
+	"paramOrder": []
+}
+&lt;/templatedata&gt;
+
+{{문서:설명문서}}</text>
+      <sha1>a40bt2gps44rld4gn8w00a9qqvcu64d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀스타일:틀데이터</title>
+    <ns>3810</ns>
+    <id>750</id>
+    <revision>
+      <id>1182</id>
+      <timestamp>2025-11-18T13:01:36Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: /* * 틀데이터로 자동생성되는 표 스타일 조정 */  .mw-templatedata-doc-wrap .citizen-overflow-wrapper { 	max-width: none; }  .mw-templatedata-doc-wrap .mw-templatedata-doc-params { 	width: 100%; }  .mw-templatedata-doc-wrap .citizen-overflow-wrapper .mw-templatedata-caption .mw-editsection-bracket { 	display: none; }  .mw-templatedata-doc-wrap .mw-templatedata-doc-params thead { 	word-break: keep-all; }</comment>
+      <origin>1182</origin>
+      <model>sanitized-css</model>
+      <format>text/css</format>
+      <text bytes="421" sha1="fj8pencidtbo8ya1cir6xc21l5aj9k5" xml:space="preserve">/*
+* 틀데이터로 자동생성되는 표 스타일 조정
+*/
+
+.mw-templatedata-doc-wrap .citizen-overflow-wrapper {
+	max-width: none;
+}
+
+.mw-templatedata-doc-wrap .mw-templatedata-doc-params {
+	width: 100%;
+}
+
+.mw-templatedata-doc-wrap .citizen-overflow-wrapper .mw-templatedata-caption .mw-editsection-bracket {
+	display: none;
+}
+
+.mw-templatedata-doc-wrap .mw-templatedata-doc-params thead {
+	word-break: keep-all;
+}</text>
+      <sha1>fj8pencidtbo8ya1cir6xc21l5aj9k5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:완전하지 않은 목록/내용</title>
+    <ns>10</ns>
+    <id>751</id>
+    <revision>
+      <id>1185</id>
+      <timestamp>2025-11-18T13:03:59Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{고지문 | 제목 = 완전하지 않은 목록 | 내용 = 아래 목록은 각 문서의 수록곡 정보에 따라 자동으로 취합됩니다. 현재 {{{창드컵}}}에 등록된 강 수 정보(&lt;code&gt;{{{강수}}}&lt;/code&gt;)와 [[{{{창드컵}}}]] 수록 정보를 가진 문서의 개수(&lt;code&gt;{{{수록곡문서수}}}&lt;/code&gt;)가 일치하지 않습니다. 해당 수록곡에 대한 문서가 없거나 문서에 수록곡 정보가 없을 수 있습니다. 창팝위키는 창...</comment>
+      <origin>1185</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="555" sha1="fhjztn9js94lary05gw2th5rncwl88g" xml:space="preserve">{{고지문
+| 제목 = 완전하지 않은 목록
+| 내용 = 아래 목록은 각 문서의 수록곡 정보에 따라 자동으로 취합됩니다. 현재 {{{창드컵}}}에 등록된 강 수 정보(&lt;code&gt;{{{강수}}}&lt;/code&gt;)와 [[{{{창드컵}}}]] 수록 정보를 가진 문서의 개수(&lt;code&gt;{{{수록곡문서수}}}&lt;/code&gt;)가 일치하지 않습니다. 해당 수록곡에 대한 문서가 없거나 문서에 수록곡 정보가 없을 수 있습니다. 창팝위키는 [[창팝위키:기여하기|기여]]를 환영합니다!
+| 종류 = 주의
+}}</text>
+      <sha1>fhjztn9js94lary05gw2th5rncwl88g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:완전하지 않은 목록</title>
+    <ns>10</ns>
+    <id>752</id>
+    <revision>
+      <id>1186</id>
+      <timestamp>2025-11-18T13:04:19Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------  문서가 대상으로 하는 창드컵 변수 --&gt;	{{#vardefine: 창드컵 | 		{{#or: {{{1|}}} | {{{창드컵|}}} | {{상위문서이름}} }} 	}}&lt;!--   --&gt;	{{#vardefine: 강수 | 		{{#cargo_query: tables = 창드컵 		| fields = 강 		| where = _pageName = "{{#var: 창드컵}}" 		| no html 		}} 	}}&lt;!--   --&gt;	{{#vardefine: 수록곡문서수 | 		{{#cargo_query: tables = 수록창드컵 		| fields =...</comment>
+      <origin>1186</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1220" sha1="j5863tma36j7wj1f42i080kdqcrmsg1" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+문서가 대상으로 하는 창드컵 변수
+--&gt;	{{#vardefine: 창드컵 |
+		{{#or: {{{1|}}} | {{{창드컵|}}} | {{상위문서이름}} }}
+	}}&lt;!-- 
+
+--&gt;	{{#vardefine: 강수 |
+		{{#cargo_query: tables = 창드컵
+		| fields = 강
+		| where = _pageName = "{{#var: 창드컵}}"
+		| no html
+		}}
+	}}&lt;!-- 
+
+--&gt;	{{#vardefine: 수록곡문서수 |
+		{{#cargo_query: tables = 수록창드컵
+		| fields = COUNT(*)
+		| where = 수록창드컵.창드컵 = "{{#var: 창드컵}}"
+		| no html
+		}}
+	}}&lt;!-- 
+
+
+--&gt;	{{#ifeq: {{#var: 강수}} | {{#var: 수록곡문서수}}
+&lt;!-- 강수와 수록곡문서수가 같다면 고지문을 표시하지 않음 --&gt;
+	|
+&lt;!-- 다르다면 표시 --&gt;
+	| {{완전하지 않은 목록/내용
+	  | 창드컵 = {{#var: 창드컵}}
+	  | 강수 = {{#var: 강수}}
+	  | 수록곡문서수 = {{#var: 수록곡문서수}}
+	  }}
+	}}&lt;!-- 
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;[[분류:틀]]{{설명문서}}&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>j5863tma36j7wj1f42i080kdqcrmsg1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>설명문서:틀:완전하지 않은 목록</title>
+    <ns>3010</ns>
+    <id>753</id>
+    <revision>
+      <id>1187</id>
+      <timestamp>2025-11-18T13:04:39Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{틀 설명 가져오기}}  조건에 맞는 경우만 아래 내용이 표시됩니다. 내용은 하위 문서에 있습니다.: [[{{설명하는문서전체이름}}/내용]]  {{{{설명하는문서전체이름}}/내용}}  == 원본 == {{원본보여주기}}  == 틀데이터 == &lt;templatedata&gt; { 	"params": { 		"창드컵": { 			"aliases": [ 				"1" 			], 			"required": true, 			"default": "{{상위문서이름}}", 			"description": "창드컵의 이름을 입력해 주세요."...</comment>
+      <origin>1187</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="773" sha1="73deo0bk34gj7q4o067hd1p2rl36h5j" xml:space="preserve">{{틀 설명 가져오기}}
+
+조건에 맞는 경우만 아래 내용이 표시됩니다. 내용은 하위 문서에 있습니다.: [[{{설명하는문서전체이름}}/내용]]
+
+{{{{설명하는문서전체이름}}/내용}}
+
+== 원본 ==
+{{원본보여주기}}
+
+== 틀데이터 ==
+&lt;templatedata&gt;
+{
+	"params": {
+		"창드컵": {
+			"aliases": [
+				"1"
+			],
+			"required": true,
+			"default": "{{상위문서이름}}",
+			"description": "창드컵의 이름을 입력해 주세요.",
+			"type": "string"
+		}
+	},
+	"description": "창드컵 수록곡에 해당하는 문서가 수록곡 수(강)만큼 없는 경우에 경고문을 표시합니다. 창드컵 관련 내용에서 사용합니다.",
+	"paramOrder": [
+		"창드컵"
+	]
+}
+&lt;/templatedata&gt;
+
+{{문서:설명문서}}</text>
+      <sha1>73deo0bk34gj7q4o067hd1p2rl36h5j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>24-4</title>
+    <ns>0</ns>
+    <id>754</id>
+    <redirect title="2024년 4편" />
+    <revision>
+      <id>1192</id>
+      <timestamp>2025-11-18T13:09:55Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>[[2024년 4편]] 문서로 넘겨주기</comment>
+      <origin>1192</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30" sha1="qdv85rb9zsuhcq7s6fgz91elcgy12j4" xml:space="preserve">#넘겨주기 [[2024년 4편]]</text>
+      <sha1>qdv85rb9zsuhcq7s6fgz91elcgy12j4</sha1>
     </revision>
   </page>
 </mediawiki>
