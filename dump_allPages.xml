@@ -23125,25 +23125,24 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>483</id>
     <revision>
-      <id>1155</id>
-      <parentid>1154</parentid>
-      <timestamp>2025-11-15T12:20:55Z</timestamp>
+      <id>1225</id>
+      <parentid>1155</parentid>
+      <timestamp>2025-11-25T10:03:37Z</timestamp>
       <contributor>
-        <username>ㅇㅇ2</username>
-        <id>20</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>1155</origin>
+      <minor/>
+      <comment>분류 안되는 문제 정상화</comment>
+      <origin>1225</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="528" sha1="28soov41294u8vcpbabuayde3yk9h0m" xml:space="preserve">&lt;table align=right&gt;&lt;table width="400"&gt;   {{문서:제작자|대표유튜브채널Id=UC2RNv0F5PgAXldjNwU3eTaA|데뷔일=2024-08-07|링크={{링크
+      <text bytes="321" sha1="65v2phefd234mjr0a2ezzmr9vm7lerb" xml:space="preserve">&lt;table align=right&gt;&lt;table width="400"&gt;   {{문서:제작자|대표유튜브채널Id=UC2RNv0F5PgAXldjNwU3eTaA|데뷔일=2024-08-07|링크={{링크
 |링크=https://chzzk.naver.com/10896860a85c180bff0720cd59a7b33f
 |레이블=치지직
 }}}}
-'''기랑'''은 대한민국의 창팝 제작자이자 치지직 스트리머이다.
-
-== 곡 목록 ==
-&lt;!------------------------------&gt;&lt;!------------------------------------&gt;{{문서:본보기}}&lt;!----------------------------------&gt;&lt;!--------------------------------&gt;&lt;table bordercolor=#000&gt;</text>
-      <sha1>28soov41294u8vcpbabuayde3yk9h0m</sha1>
+'''기랑'''은 대한민국의 창팝 제작자이자 치지직 스트리머이다.</text>
+      <sha1>65v2phefd234mjr0a2ezzmr9vm7lerb</sha1>
     </revision>
   </page>
   <page>
@@ -36831,6 +36830,1012 @@ box-shadow: var(--box-shadow-border);
       <format>text/x-wiki</format>
       <text bytes="30" sha1="qdv85rb9zsuhcq7s6fgz91elcgy12j4" xml:space="preserve">#넘겨주기 [[2024년 4편]]</text>
       <sha1>qdv85rb9zsuhcq7s6fgz91elcgy12j4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>굿바이 선원들</title>
+    <ns>0</ns>
+    <id>755</id>
+    <revision>
+      <id>1195</id>
+      <timestamp>2025-11-25T09:54:52Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1195</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="329" sha1="pkqoejlgh8ct7dgd3tc37ljrq0xbdgi" xml:space="preserve">{{문서:창팝
+|유튜브Id=0ADgFdRzyH8
+|제작자=신창섭으로극심한자기개발
+|화자=Someone
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|다른언어제목=Goodbye, Someones
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>pkqoejlgh8ct7dgd3tc37ljrq0xbdgi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>신도 속일 거짓말</title>
+    <ns>0</ns>
+    <id>756</id>
+    <revision>
+      <id>1196</id>
+      <timestamp>2025-11-25T09:55:01Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1196</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="285" sha1="r9sgm5sxra5d2cr17yp339tvxwi9694" xml:space="preserve">{{문서:창팝
+|유튜브Id=ORXCqUoXcEk
+|제작자=독슝좍
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|별명=신속거
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>r9sgm5sxra5d2cr17yp339tvxwi9694</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>리부트의 밤</title>
+    <ns>0</ns>
+    <id>757</id>
+    <revision>
+      <id>1197</id>
+      <timestamp>2025-11-25T09:55:16Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1197</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="277" sha1="6h30w2hpkzd0hv2q86jqjrw45t25vy3" xml:space="preserve">{{문서:창팝
+|유튜브Id=JxRHeQNi7t0
+|제작자=신창섭 추종자
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>6h30w2hpkzd0hv2q86jqjrw45t25vy3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fool's Gold</title>
+    <ns>0</ns>
+    <id>758</id>
+    <revision>
+      <id>1223</id>
+      <parentid>1198</parentid>
+      <timestamp>2025-11-25T09:57:00Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <origin>1223</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="370" sha1="dla9kn78tc9tper3o1vmxsw7i28vef4" xml:space="preserve">{{문서:창팝
+|유튜브Id=_s-gxaaCSvQ
+|제작자=일쩜비포
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2024년 4편
+}}
+|곡명=Fool's Gold
+|화자=신창섭
+|제작방법=Suno
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>dla9kn78tc9tper3o1vmxsw7i28vef4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>동화</title>
+    <ns>0</ns>
+    <id>759</id>
+    <revision>
+      <id>1199</id>
+      <timestamp>2025-11-25T09:55:26Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1199</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="342" sha1="1avxfkrdyxanocp9irg9172fvf916yu" xml:space="preserve">{{문서:창팝
+|유튜브Id=zWwzOyN4Xec
+|제작자=릴창섭
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|링크={{링크|링크=https://www.youtube.com/watch?v=kZ66sov3duo|레이블=Instrumental}}
+
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>1avxfkrdyxanocp9irg9172fvf916yu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>별빛 속의 춤</title>
+    <ns>0</ns>
+    <id>760</id>
+    <revision>
+      <id>1200</id>
+      <timestamp>2025-11-25T09:55:27Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1200</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="254" sha1="jyb8mgqwk0ir4upudrbirvu5xzwsdlj" xml:space="preserve">{{문서:창팝
+|유튜브Id=F5RYPnM5ih0
+|제작자=라이프라인
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>jyb8mgqwk0ir4upudrbirvu5xzwsdlj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>짱룡들의 노래를 들어주세요</title>
+    <ns>0</ns>
+    <id>761</id>
+    <revision>
+      <id>1201</id>
+      <timestamp>2025-11-25T09:55:28Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1201</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="440" sha1="obczwb50r96ry905xk4zt4fgbhyeljk" xml:space="preserve">{{문서:창팝
+|유튜브Id=khg7KZo5q50
+|제작자=이우
+|화자=백악기 합창대
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|공개일=2024-10-08
+|링크={{링크|링크=https://www.youtube.com/watch?v=cG1_WzntQbg
+|레이블=리릭 버전}}
+
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>obczwb50r96ry905xk4zt4fgbhyeljk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>1333</title>
+    <ns>0</ns>
+    <id>762</id>
+    <revision>
+      <id>1202</id>
+      <timestamp>2025-11-25T09:55:30Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1202</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="jf4jl74hauj7gif63rkfculh8xrb3u1" xml:space="preserve">{{문서:창팝
+|유튜브Id=812fx-85apo
+|제작자=창드컵 (제작자)
+|화자=신창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>jf4jl74hauj7gif63rkfculh8xrb3u1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>페르제</title>
+    <ns>0</ns>
+    <id>763</id>
+    <revision>
+      <id>1203</id>
+      <timestamp>2025-11-25T09:55:34Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1203</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="309" sha1="3wliijdb9d49mvolp2l3d9wmofnvpzz" xml:space="preserve">{{문서:창팝
+|유튜브Id=M0QIjo8eotI
+|제작자=쌀파라
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|별명=역
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>3wliijdb9d49mvolp2l3d9wmofnvpzz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>감사해</title>
+    <ns>0</ns>
+    <id>764</id>
+    <revision>
+      <id>1204</id>
+      <timestamp>2025-11-25T09:55:35Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1204</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="285" sha1="inywpji7z4kwv1bzuq9dh40tpmbq9du" xml:space="preserve">{{문서:창팝
+|유튜브Id=JgFtnQzr2eU
+|제작자=주차장
+|화자=신창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>inywpji7z4kwv1bzuq9dh40tpmbq9du</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>나를 위하여</title>
+    <ns>0</ns>
+    <id>765</id>
+    <revision>
+      <id>1228</id>
+      <parentid>1205</parentid>
+      <timestamp>2025-11-25T10:19:14Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <origin>1228</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="414" sha1="b42v3uhicsib0ec0bt2yd6ye0b4hx6t" xml:space="preserve">{{문서:창팝
+|유튜브Id=NXoAWVX3di4
+|제작자=리듬항구
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2024년 4편
+}}
+|별명=_ND
+|링크={{링크
+|링크=https://youtu.be/nRuZYiS_iB8
+|레이블=백업 계정 영상
+}}
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>b42v3uhicsib0ec0bt2yd6ye0b4hx6t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>아침부터 밤까지</title>
+    <ns>0</ns>
+    <id>766</id>
+    <revision>
+      <id>1206</id>
+      <timestamp>2025-11-25T09:55:39Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1206</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="279" sha1="1ppkss27ajazh1hri6wwuxlh9srlh75" xml:space="preserve">{{문서:창팝
+|유튜브Id=uqCWJzB_8L4
+|제작자=Changseob The Magician
+|화자=신창섭
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>1ppkss27ajazh1hri6wwuxlh9srlh75</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>좋아? 싫어!</title>
+    <ns>0</ns>
+    <id>767</id>
+    <revision>
+      <id>1207</id>
+      <timestamp>2025-11-25T09:55:43Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1207</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="387" sha1="b4ywpw7z7qoa0zz6y04elhjmg3q5x0k" xml:space="preserve">{{문서:창팝
+|유튜브Id=lDXnDBSBbvE
+|제작자=방자
+|화자=신창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|링크={{링크|링크=https://www.youtube.com/watch?v=bGLkrannmkM|레이블=화질 젓가락 소독}}
+
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>b4ywpw7z7qoa0zz6y04elhjmg3q5x0k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lith Harbor COMPLEX</title>
+    <ns>0</ns>
+    <id>768</id>
+    <revision>
+      <id>1208</id>
+      <timestamp>2025-11-25T09:55:45Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1208</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="292" sha1="6njh7ntaeapfzvla29tqsu92n4cg2ua" xml:space="preserve">{{문서:창팝
+|유튜브Id=xt8MtNdGVI0
+|제작자=pretty_
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|다른언어제목=리스항구 콤플렉스
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>6njh7ntaeapfzvla29tqsu92n4cg2ua</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>최대 피해자</title>
+    <ns>0</ns>
+    <id>769</id>
+    <revision>
+      <id>1209</id>
+      <timestamp>2025-11-25T09:55:48Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1209</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="308" sha1="jz081hthiaaqqas4v2j4esb3t3yk6ro" xml:space="preserve">{{문서:창팝
+|유튜브Id=dIJkalsARwM
+|제작자=슝버좍
+|화자=AI
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>jz081hthiaaqqas4v2j4esb3t3yk6ro</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>내 식당에서 꺼져</title>
+    <ns>0</ns>
+    <id>770</id>
+    <revision>
+      <id>1210</id>
+      <timestamp>2025-11-25T09:55:49Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1210</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="303" sha1="9vwcjj19fomnq7vscxcgxj362xea2c7" xml:space="preserve">{{문서:창팝
+|유튜브Id=SEK6qoBaNw4
+|제작자=페이드
+|화자=신창섭 (feat. 리선족)
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>9vwcjj19fomnq7vscxcgxj362xea2c7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>크레이지 리선족</title>
+    <ns>0</ns>
+    <id>771</id>
+    <revision>
+      <id>1211</id>
+      <timestamp>2025-11-25T09:55:52Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1211</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="375" sha1="ftic3yrbdcw48jlbndnut3sphdymunq" xml:space="preserve">{{문서:창팝
+|유튜브Id=CMBg5kcU0PA
+|제작자=아연실색
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|링크={{링크|링크=https://www.youtube.com/watch?v=QXqzwgo_Wy0|레이블=월드컵 수록 버전}}
+
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>ftic3yrbdcw48jlbndnut3sphdymunq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>잘나가</title>
+    <ns>0</ns>
+    <id>772</id>
+    <revision>
+      <id>1212</id>
+      <timestamp>2025-11-25T09:55:52Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1212</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="404" sha1="76dqj6caakbjubafrap20onjd1d2ah9" xml:space="preserve">{{문서:창팝
+|유튜브Id=IRFc_BfUAWw
+|제작자=그냥기가창섭
+|화자=신창섭 (feat. 투허닛)
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|링크={{링크|링크=https://www.youtube.com/watch?v=I8POLEaz-_g|레이블=복면창팝 참가용 단품}}
+
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>76dqj6caakbjubafrap20onjd1d2ah9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>골든 타임</title>
+    <ns>0</ns>
+    <id>773</id>
+    <revision>
+      <id>1213</id>
+      <timestamp>2025-11-25T09:55:55Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1213</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="320" sha1="kb9yyn5m8kk7rmnulht855ca5coc97l" xml:space="preserve">{{문서:창팝
+|유튜브Id=pCSFLUyP868
+|제작자=습작노트
+|화자=신창섭
+|제작방법=Udio
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|다른언어제목=GOLDEN TIME
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>kb9yyn5m8kk7rmnulht855ca5coc97l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>결심</title>
+    <ns>0</ns>
+    <id>774</id>
+    <revision>
+      <id>1214</id>
+      <timestamp>2025-11-25T09:55:56Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1214</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="318" sha1="imp98e6knts4vtdzula7tzb6sqh2iim" xml:space="preserve">{{문서:창팝
+|유튜브Id=SJuvZGtm0h8
+|제작자=하얀까망
+|화자=오르카
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>imp98e6knts4vtdzula7tzb6sqh2iim</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>번지</title>
+    <ns>0</ns>
+    <id>775</id>
+    <revision>
+      <id>1215</id>
+      <timestamp>2025-11-25T09:56:00Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1215</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="319" sha1="8dbfc5nxm2y9m6ujlf7o6cnju3vpg1b" xml:space="preserve">{{문서:창팝
+|유튜브Id=A3IOFT0LrBQ
+|제작자=SSL
+|화자=신창섭 (feat.카링)
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|이전수록컵= 
+|다른언어제목=Bunzi
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>8dbfc5nxm2y9m6ujlf7o6cnju3vpg1b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>뭔지 알거같음</title>
+    <ns>0</ns>
+    <id>776</id>
+    <revision>
+      <id>1216</id>
+      <timestamp>2025-11-25T09:56:02Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1216</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="321" sha1="rxuixk7b1rqnimbyuj9m03mtomugj87" xml:space="preserve">{{문서:창팝
+|유튜브Id=LE0W4RvDP8w
+|제작자=곰탕
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|별명=뭔지알것같음
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>rxuixk7b1rqnimbyuj9m03mtomugj87</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>리노키오</title>
+    <ns>0</ns>
+    <id>777</id>
+    <revision>
+      <id>1217</id>
+      <timestamp>2025-11-25T09:56:04Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1217</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="283" sha1="d3s25h8whxg63pzuek7tjdpghoonkig" xml:space="preserve">{{문서:창팝
+|유튜브Id=C_bpyuIf2TQ
+|제작자=슝좍1
+|화자=리슝좍
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>d3s25h8whxg63pzuek7tjdpghoonkig</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>우리는 춤을 추네요</title>
+    <ns>0</ns>
+    <id>778</id>
+    <revision>
+      <id>1218</id>
+      <timestamp>2025-11-25T09:56:05Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1218</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="324" sha1="b8b7gd5schaqvqz87s3t1shjultvo54" xml:space="preserve">{{문서:창팝
+|유튜브Id=aNCgDeSqaWA
+|제작자=윾동
+|화자=신창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|별명=그래도 우린 춤을 추네요
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>b8b7gd5schaqvqz87s3t1shjultvo54</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>어느 해적의 노래</title>
+    <ns>0</ns>
+    <id>779</id>
+    <revision>
+      <id>1219</id>
+      <timestamp>2025-11-25T09:56:06Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1219</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="347" sha1="73csxxhbzlijdlusmkuuqosp2aajd2w" xml:space="preserve">{{문서:창팝
+|유튜브Id=2iBdkbSc8vc
+|제작자=도사의 길
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|다른언어제목=A Pirate's Reminiscence
+|별명=어해노
+|기타=리선족 해적단 No.3
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>73csxxhbzlijdlusmkuuqosp2aajd2w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>아즈모스가 뭔데</title>
+    <ns>0</ns>
+    <id>780</id>
+    <revision>
+      <id>1220</id>
+      <timestamp>2025-11-25T09:56:09Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1220</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="273" sha1="azhy28em4cygdzgif60wm5zq89ih0e2" xml:space="preserve">{{문서:창팝
+|유튜브Id=1tGAiKMn8pE
+|제작자=메트로워크
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>azhy28em4cygdzgif60wm5zq89ih0e2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>망령가</title>
+    <ns>0</ns>
+    <id>781</id>
+    <revision>
+      <id>1221</id>
+      <timestamp>2025-11-25T09:56:11Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1221</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="doqbpll9hkqxftj6p3rig2v75geryjm" xml:space="preserve">{{문서:창팝
+|유튜브Id=bCX0W6wJD8I
+|제작자=망령가
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|다른언어제목=亡靈歌
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>doqbpll9hkqxftj6p3rig2v75geryjm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>10만을 죽인 신</title>
+    <ns>0</ns>
+    <id>782</id>
+    <revision>
+      <id>1222</id>
+      <timestamp>2025-11-25T09:56:13Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1222</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="279" sha1="glznq5swow3ulj2uzn4tn7imrv9xuhe" xml:space="preserve">{{문서:창팝
+|유튜브Id=iyxhRRMOsjk
+|제작자=이딴게
+|화자=신창섭 필하모닉
+|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>glznq5swow3ulj2uzn4tn7imrv9xuhe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ALWAYS SHINING</title>
+    <ns>0</ns>
+    <id>783</id>
+    <revision>
+      <id>1224</id>
+      <timestamp>2025-11-25T10:02:16Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=UBrAqaGbhI0 |제작자=_pretty |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2024년 4편 }} |공개일=2024-09-27 |링크={{링크 |링크=https://www.youtube.com/watch?v=XauSLlqSQHY |레이블=리마스터 이전 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
+      <origin>1224</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="433" sha1="73ntyh2n1tkf6we69b4h5k8qptsj4kj" xml:space="preserve">{{문서:창팝
+|유튜브Id=UBrAqaGbhI0
+|제작자=_pretty
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2024년 4편
+}}
+|공개일=2024-09-27
+|링크={{링크
+|링크=https://www.youtube.com/watch?v=XauSLlqSQHY
+|레이블=리마스터 이전
+}}
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}</text>
+      <sha1>73ntyh2n1tkf6we69b4h5k8qptsj4kj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>분류:2024년 4편 수록곡</title>
+    <ns>14</ns>
+    <id>784</id>
+    <revision>
+      <id>1226</id>
+      <timestamp>2025-11-25T10:04:18Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{창드컵 수록곡 둘러보기 |창드컵=2024년 4편 |펼치기=예 }} [[분류:창드컵 수록곡]]</comment>
+      <origin>1226</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="107" sha1="ki7ovcf5ezf8ma8coioxme7prxy3mj0" xml:space="preserve">{{창드컵 수록곡 둘러보기
+|창드컵=2024년 4편
+|펼치기=예
+}}
+[[분류:창드컵 수록곡]]</text>
+      <sha1>ki7ovcf5ezf8ma8coioxme7prxy3mj0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:잘나가</title>
+    <ns>3200</ns>
+    <id>785</id>
+    <revision>
+      <id>1227</id>
+      <timestamp>2025-11-25T10:08:07Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>유튜브 설명에서 복사</comment>
+      <origin>1227</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="3040" sha1="2gssqmfltn61gvdzc8kiktuvszvck5d" xml:space="preserve">It`s Show TIme!
+나는 잘나가!
+내 이름을 외쳐봐!
+나는 신창섭!
+
+내 인생은 미슐랭, 3성급 빛나는 life!
+좋은 대학 좋은 회사 내 인생은 high life! 
+oh! 검은머리선족? 너는 그냥 Fastfood!
+Oh come on 선족! 너는 나완 비교 안 돼, skrrrrr!
+
+여기저기 들려와, 나에 대한 이야기
+난 세상의 main dish, 유튜브의 main 화면
+내 성과는 well done, But 포장이 다라면? 응?
+내 인생 바꾼 최고의 결정 회색 리복 맨투맨 oh!
+이건 하나의 예술이야, 내가 만들어 가는 미래
+춤과 노래로 세상을 바꿔, 너희에게 감동을 주는 (난!)
+
+잘나가 잘나가, oh oh oh 자 자 잘 잘나가, 
+니 인생은 5천 플마? 난 데뷔 즉시 5천 album (나는 나는)
+잘나가 잘나가, oh oh oh 자 자 잘 잘나가, 
+국회에도 진출했잖아? 진짜 다할 수 있잖아! (나는 나는)
+잘나가 잘나가, oh oh oh 자 자 잘 잘나가, 
+실검 1위 찍었잖아, 난 문화가 되었잖아? (나는 나는)
+잘나가 잘나가, oh oh oh 자 자 잘 잘나가, 
+난 작은 일은 doesn`t matter! 앞을 보고 달려가!  (나는 나는)
+잘! 나! 가!
+
+내가 방송을 키면, 우르르 모여드는 시청자
+와우! 2만 명 시청 중! I`m 대기업 방송인! (real~)
+5분 limit 걸어도 끊이지 않는 chat! chat! chat! 
+식당으로 비유하자면 손님 넘치는 맛집! check!
+
+PC방 점유율? 아직 할만해 탑 텐!
+매출은 던파가 메꿔, 주가는 탄탄!
+개선은 unstoppable, 아 참, 정상화라 하지?
+콜라보까지 nonstop, 잘나가는 아이피 Power!
+6만 원 내고 상품 사줘 원작 게임은 2만원 이지만
+귀칼 콜라보도 기대해 (어디선 엉덩이 게임이래)
+
+잘나가 잘나가, oh oh oh 자 자 잘 잘나가, 
+트렌드 검색어 1위? 내가 대세, you’ll see (나는 나는)
+잘나가 잘나가, oh oh oh 자 자 잘 잘나가, 
+모두가 내 춤을 봐, I’m cool, 확, 씨!  (나는 나는)
+잘나가 잘나가, oh oh oh 자 자 잘 잘나가, 
+카르마는 짊어졌어 우린 공생관계잖아? (나는 나는)
+잘나가 잘나가, oh oh oh 자 자 잘 잘나가, 
+난 더 큰일에 focus and 앞만 보고 달려가!  (나는 나는)
+잘! 나! 가!
+
+잘 봐 it`s my showtime, 
+무대 위에 난 spotlight, 이건 전설의 starlight
+내 인생 like firework, 빛나는 불꽃의 light
+잘나가, 잘나가, 더는 멈출 수 없어
+잘나가, 잘나가, 너도 외치고 싶잖아
+잘나가, 잘나가, 내 이름을 외쳐봐!
+신! 창! 섭!
+
+잘나가 잘나가, oh oh oh 자 자 잘 잘나가, 
+니 수중에 5천 album? 실현 시켜 줄게 (너는 너는)
+잘나가 잘나가, oh oh oh 자 자 잘 잘나가, 
+국회에도 진출했잖아? 진짜 넌 최고잖아 (너는 너는)
+잘나가 잘나가, oh oh oh 자 자 잘 잘나가, 
+실검 1위 찍었잖아, 대세가 되었잖아? (너는 너는)
+잘나가 잘나가, oh oh oh 자 자 잘 잘나가, 
+우린 찬사를 보내잖아, 앞을 보고 계속 달려가!  (너는 너는)
+잘! 나! 가!</text>
+      <sha1>2gssqmfltn61gvdzc8kiktuvszvck5d</sha1>
     </revision>
   </page>
 </mediawiki>
