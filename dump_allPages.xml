@@ -89,16 +89,19 @@ break=no
     <ns>0</ns>
     <id>3</id>
     <revision>
-      <id>3</id>
-      <timestamp>2025-06-10T10:20:02Z</timestamp>
+      <id>1529</id>
+      <parentid>3</parentid>
+      <timestamp>2025-11-30T15:35:42Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>3</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1529</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="295" sha1="oh0vwu42sxik69gahpbj39czry6hhjt" xml:space="preserve">{{문서:창팝
+      <text bytes="320" sha1="n03vfpwtlz94kfn8qwxvsc91bkd813o" xml:space="preserve">{{문서:창팝
 |유튜브Id=PWOwNHOJHyA
 |제작자=더문잘
 |개사여부=아니오
@@ -109,8 +112,10 @@ break=no
 }}
 '''온 세상이 리선족'''은 더문잘의 창팝이다. 온세리, 온선족이라고도 불린다.
 == 가사 ==
-{{가사}}</text>
-      <sha1>oh0vwu42sxik69gahpbj39czry6hhjt</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>n03vfpwtlz94kfn8qwxvsc91bkd813o</sha1>
     </revision>
   </page>
   <page>
@@ -6592,19 +6597,19 @@ span.comment {
     <ns>0</ns>
     <id>161</id>
     <revision>
-      <id>574</id>
-      <parentid>168</parentid>
-      <timestamp>2025-07-06T11:55:14Z</timestamp>
+      <id>1579</id>
+      <parentid>574</parentid>
+      <timestamp>2025-11-30T16:59:21Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>574</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1579</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="321" sha1="7uwqqztuxnv3cwgysv5sejhx0r92xhr" xml:space="preserve">{{문서:창팝
+      <text bytes="346" sha1="p2emlvj9741pz82491sdup9canvd1a0" xml:space="preserve">{{문서:창팝
 |곡명=창팝 제작자들을 위한 노래
 |유튜브Id=TU2HoDdpYRg
 |제작자=AlphaGo
@@ -6616,8 +6621,10 @@ span.comment {
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>7uwqqztuxnv3cwgysv5sejhx0r92xhr</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>p2emlvj9741pz82491sdup9canvd1a0</sha1>
     </revision>
   </page>
   <page>
@@ -6950,19 +6957,19 @@ Big Brother의 창을 넘어, 너만의 길을 가
     <ns>0</ns>
     <id>169</id>
     <revision>
-      <id>543</id>
-      <parentid>177</parentid>
-      <timestamp>2025-07-06T11:50:56Z</timestamp>
+      <id>1534</id>
+      <parentid>543</parentid>
+      <timestamp>2025-11-30T15:35:49Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>543</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1534</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="267" sha1="2b5630zp7bn4c7r51xiczeq2zr9l9wb" xml:space="preserve">{{문서:창팝
+      <text bytes="292" sha1="djqxy0wf14yn4wsne2y7otu4si199rx" xml:space="preserve">{{문서:창팝
 |곡명=잠드는 별들에게
 |유튜브Id=rP2aJMnNZwA
 |제작자=Colrma
@@ -6973,8 +6980,10 @@ Big Brother의 창을 넘어, 너만의 길을 가
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>2b5630zp7bn4c7r51xiczeq2zr9l9wb</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>djqxy0wf14yn4wsne2y7otu4si199rx</sha1>
     </revision>
   </page>
   <page>
@@ -7025,17 +7034,19 @@ Big Brother의 창을 넘어, 너만의 길을 가
     <ns>0</ns>
     <id>171</id>
     <revision>
-      <id>938</id>
-      <parentid>507</parentid>
-      <timestamp>2025-09-24T10:28:02Z</timestamp>
+      <id>1533</id>
+      <parentid>938</parentid>
+      <timestamp>2025-11-30T15:35:47Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>938</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1533</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="381" sha1="gkk9f5xr8ft1qxiwx02r20uya8dacf1" xml:space="preserve">{{문서:창팝
+      <text bytes="406" sha1="t78vg7lb9qlbttcon1258dmrgifi78s" xml:space="preserve">{{문서:창팝
 |유튜브Id=IDfcqM19h8w
 |제작자=수학콜라_창팝
 |개사여부=아니오
@@ -7051,8 +7062,10 @@ Big Brother의 창을 넘어, 너만의 길을 가
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>gkk9f5xr8ft1qxiwx02r20uya8dacf1</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>t78vg7lb9qlbttcon1258dmrgifi78s</sha1>
     </revision>
   </page>
   <page>
@@ -7132,19 +7145,19 @@ Big Brother의 창을 넘어, 너만의 길을 가
     <ns>0</ns>
     <id>174</id>
     <revision>
-      <id>513</id>
-      <parentid>185</parentid>
-      <timestamp>2025-07-06T11:34:19Z</timestamp>
+      <id>1567</id>
+      <parentid>513</parentid>
+      <timestamp>2025-11-30T16:16:11Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>513</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1567</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="309" sha1="44zfensp4cow80ax9djbi4l5bbdewrt" xml:space="preserve">{{문서:창팝
+      <text bytes="334" sha1="91hi44vcjtcrnv8mhq7z115lw18xekz" xml:space="preserve">{{문서:창팝
 |곡명=템플런
 |유튜브Id=HeJiLvIdbq4
 |제작자=@쭉
@@ -7158,8 +7171,10 @@ Big Brother의 창을 넘어, 너만의 길을 가
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>44zfensp4cow80ax9djbi4l5bbdewrt</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>91hi44vcjtcrnv8mhq7z115lw18xekz</sha1>
     </revision>
   </page>
   <page>
@@ -7242,17 +7257,19 @@ Big Brother의 창을 넘어, 너만의 길을 가
     <ns>0</ns>
     <id>177</id>
     <revision>
-      <id>744</id>
-      <parentid>529</parentid>
-      <timestamp>2025-08-06T12:13:59Z</timestamp>
+      <id>1506</id>
+      <parentid>744</parentid>
+      <timestamp>2025-11-30T14:44:25Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>744</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1506</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="362" sha1="em74rs244glcqwxarndzsn5xhafwf79" xml:space="preserve">{{문서:창팝
+      <text bytes="387" sha1="76fbatsjcipvhbdnkk7vrr37rxvb9cm" xml:space="preserve">{{문서:창팝
 |유튜브Id=fbpdUmXVHHk
 |제작자=신도
 |개사여부=아니오
@@ -7267,8 +7284,10 @@ Big Brother의 창을 넘어, 너만의 길을 가
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>em74rs244glcqwxarndzsn5xhafwf79</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>76fbatsjcipvhbdnkk7vrr37rxvb9cm</sha1>
     </revision>
   </page>
   <page>
@@ -7350,19 +7369,19 @@ Big Brother의 창을 넘어, 너만의 길을 가
     <ns>0</ns>
     <id>180</id>
     <revision>
-      <id>531</id>
-      <parentid>192</parentid>
-      <timestamp>2025-07-06T11:40:27Z</timestamp>
+      <id>1557</id>
+      <parentid>531</parentid>
+      <timestamp>2025-11-30T15:47:20Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>531</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1557</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="259" sha1="oenq64xl3b5j8j1dtldv64bzps92qey" xml:space="preserve">{{문서:창팝
+      <text bytes="284" sha1="qgzxel5cox7wi861ny0w6a7d83nr6c1" xml:space="preserve">{{문서:창팝
 |곡명=어린 왕자
 |유튜브Id=o-vBFKUXPh4
 |제작자=AlphaGo
@@ -7373,8 +7392,10 @@ Big Brother의 창을 넘어, 너만의 길을 가
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>oenq64xl3b5j8j1dtldv64bzps92qey</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>qgzxel5cox7wi861ny0w6a7d83nr6c1</sha1>
     </revision>
   </page>
   <page>
@@ -7682,19 +7703,19 @@ mic! drop!
     <ns>0</ns>
     <id>186</id>
     <revision>
-      <id>576</id>
-      <parentid>198</parentid>
-      <timestamp>2025-07-06T11:55:23Z</timestamp>
+      <id>1580</id>
+      <parentid>576</parentid>
+      <timestamp>2025-11-30T16:59:24Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>576</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1580</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="259" sha1="mnqwkaxqjbrrvbijqv2xvfdbf3v5e8e" xml:space="preserve">{{문서:창팝
+      <text bytes="284" sha1="dgge3t6z0ezi833oulmc6g9ewrj0c84" xml:space="preserve">{{문서:창팝
 |곡명=태양과 달
 |유튜브Id=C2gXXlWvzXA
 |제작자=AlphaGo
@@ -7705,8 +7726,10 @@ mic! drop!
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>mnqwkaxqjbrrvbijqv2xvfdbf3v5e8e</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>dgge3t6z0ezi833oulmc6g9ewrj0c84</sha1>
     </revision>
   </page>
   <page>
@@ -8240,19 +8263,19 @@ But a different story it brings
     <ns>0</ns>
     <id>197</id>
     <revision>
-      <id>542</id>
-      <parentid>210</parentid>
-      <timestamp>2025-07-06T11:50:54Z</timestamp>
+      <id>1571</id>
+      <parentid>542</parentid>
+      <timestamp>2025-11-30T16:58:38Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>542</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1571</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="269" sha1="ocmbqtxoxwrm13cv74jcmo0jpqdtig8" xml:space="preserve">{{문서:창팝
+      <text bytes="294" sha1="8inkvmk8hn6f3zk1rxr6jq2x13csm3i" xml:space="preserve">{{문서:창팝
 |곡명=자라지 못한 아이
 |유튜브Id=D55vNbW12aU
 |제작자=AlphaGo
@@ -8263,8 +8286,10 @@ But a different story it brings
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>ocmbqtxoxwrm13cv74jcmo0jpqdtig8</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>8inkvmk8hn6f3zk1rxr6jq2x13csm3i</sha1>
     </revision>
   </page>
   <page>
@@ -8398,19 +8423,19 @@ But a different story it brings
     <ns>0</ns>
     <id>199</id>
     <revision>
-      <id>564</id>
-      <parentid>213</parentid>
-      <timestamp>2025-07-06T11:52:01Z</timestamp>
+      <id>1585</id>
+      <parentid>564</parentid>
+      <timestamp>2025-11-30T17:11:49Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>564</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1585</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="332" sha1="q83wehl89aedm89479i0vep4q5f4fo6" xml:space="preserve">{{문서:창팝
+      <text bytes="357" sha1="r7a63weigzyngstra7y7qwwamtj1pr5" xml:space="preserve">{{문서:창팝
 |곡명=오래된 배럭
 |유튜브Id=uTZEF4h0D4Y
 |제작자=슝버좍
@@ -8422,8 +8447,10 @@ But a different story it brings
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>q83wehl89aedm89479i0vep4q5f4fo6</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>r7a63weigzyngstra7y7qwwamtj1pr5</sha1>
     </revision>
   </page>
   <page>
@@ -8638,17 +8665,19 @@ AdGuard는 있어도
     <ns>0</ns>
     <id>203</id>
     <revision>
-      <id>983</id>
-      <parentid>486</parentid>
-      <timestamp>2025-09-28T07:17:50Z</timestamp>
+      <id>1543</id>
+      <parentid>983</parentid>
+      <timestamp>2025-11-30T15:36:05Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>983</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1543</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="419" sha1="lublw3goc0jedt7f8a9qw01x68zf7v4" xml:space="preserve">{{문서:창팝
+      <text bytes="444" sha1="k59vmbibrxhn0z0894jhz2ck55x500k" xml:space="preserve">{{문서:창팝
 |유튜브Id=poQ2miNlCc8
 |제작자=더문잘
 |개사여부=아니오
@@ -8665,8 +8694,10 @@ AdGuard는 있어도
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>lublw3goc0jedt7f8a9qw01x68zf7v4</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>k59vmbibrxhn0z0894jhz2ck55x500k</sha1>
     </revision>
   </page>
   <page>
@@ -8867,19 +8898,19 @@ AdGuard는 있어도
     <ns>0</ns>
     <id>208</id>
     <revision>
-      <id>586</id>
-      <parentid>229</parentid>
-      <timestamp>2025-07-06T11:57:31Z</timestamp>
+      <id>1558</id>
+      <parentid>586</parentid>
+      <timestamp>2025-11-30T15:47:19Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>586</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1558</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="327" sha1="qxa4gr9jo0dzlos2qwkj6vcn2lwg7bk" xml:space="preserve">{{문서:창팝
+      <text bytes="352" sha1="ijk719gqcthhsldm0huwqsuedqpx9yo" xml:space="preserve">{{문서:창팝
 |곡명=억울하다 억울해
 |유튜브Id=eaHRyR4v7uA
 |제작자=인포딕
@@ -8893,8 +8924,10 @@ AdGuard는 있어도
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>qxa4gr9jo0dzlos2qwkj6vcn2lwg7bk</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ijk719gqcthhsldm0huwqsuedqpx9yo</sha1>
     </revision>
   </page>
   <page>
@@ -9943,17 +9976,19 @@ but 좋은 케이스는 없지
     <ns>0</ns>
     <id>228</id>
     <revision>
-      <id>1059</id>
-      <parentid>541</parentid>
-      <timestamp>2025-10-21T13:36:37Z</timestamp>
+      <id>1537</id>
+      <parentid>1059</parentid>
+      <timestamp>2025-11-30T15:35:57Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>1059</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1537</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="369" sha1="1d91yjj5xcp19735rtcpi53swnyvt4m" xml:space="preserve">{{문서:창팝
+      <text bytes="394" sha1="ejfielmh8kvk1rmf1om6mz6zb6hzu16" xml:space="preserve">{{문서:창팝
 |유튜브Id=NVTpfSSIaAc
 |제작자=더문잘
 |개사여부=아니오
@@ -9969,8 +10004,10 @@ but 좋은 케이스는 없지
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>1d91yjj5xcp19735rtcpi53swnyvt4m</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ejfielmh8kvk1rmf1om6mz6zb6hzu16</sha1>
     </revision>
   </page>
   <page>
@@ -9978,18 +10015,19 @@ but 좋은 케이스는 없지
     <ns>0</ns>
     <id>229</id>
     <revision>
-      <id>1156</id>
-      <parentid>1153</parentid>
-      <timestamp>2025-11-15T13:58:08Z</timestamp>
+      <id>1518</id>
+      <parentid>1156</parentid>
+      <timestamp>2025-11-30T15:26:14Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>수록 창드컵 틀을 사용해야 기록이 됩니다</comment>
-      <origin>1156</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1518</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="333" sha1="qa5uggk3lrnbij9eycdl83xftnri1ei" xml:space="preserve">{{문서:창팝
+      <text bytes="358" sha1="3inynad5hshhgivqxztuymhs8pwl84m" xml:space="preserve">{{문서:창팝
 | 곡명 = 질러줄게
 | 유튜브Id = oSccHr4JUTc
 | 제작자 = 더문잘
@@ -10001,8 +10039,10 @@ but 좋은 케이스는 없지
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>qa5uggk3lrnbij9eycdl83xftnri1ei</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>3inynad5hshhgivqxztuymhs8pwl84m</sha1>
     </revision>
   </page>
   <page>
@@ -10143,18 +10183,19 @@ but 좋은 케이스는 없지
     <ns>0</ns>
     <id>232</id>
     <revision>
-      <id>1038</id>
-      <parentid>544</parentid>
-      <timestamp>2025-10-21T13:14:07Z</timestamp>
+      <id>1513</id>
+      <parentid>1038</parentid>
+      <timestamp>2025-11-30T15:10:22Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>수록곡 정보 추가</comment>
-      <origin>1038</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1513</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="377" sha1="nlj71wdt772xvbas0varb8kuqb8l7nz" xml:space="preserve">{{문서:창팝
+      <text bytes="402" sha1="2vspiyn4kaf0mo2523z57p9erkcpq59" xml:space="preserve">{{문서:창팝
 |유튜브Id=321H3vBDNDw
 |제작자=방자
 |개사여부=아니오
@@ -10170,8 +10211,10 @@ but 좋은 케이스는 없지
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>nlj71wdt772xvbas0varb8kuqb8l7nz</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>2vspiyn4kaf0mo2523z57p9erkcpq59</sha1>
     </revision>
   </page>
   <page>
@@ -10488,19 +10531,19 @@ BM구조의 정상화
     <ns>0</ns>
     <id>238</id>
     <revision>
-      <id>499</id>
-      <parentid>259</parentid>
-      <timestamp>2025-07-06T11:30:35Z</timestamp>
+      <id>1595</id>
+      <parentid>499</parentid>
+      <timestamp>2025-11-30T17:57:09Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>499</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1595</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="295" sha1="mww0m5yextqslx1dopwuwyjyj2bgslv" xml:space="preserve">{{문서:창팝
+      <text bytes="320" sha1="2yeic0nrz799dymalo95snjryh5l6f5" xml:space="preserve">{{문서:창팝
 |곡명=왜 또 리야
 |유튜브Id=8h6b6lmHkpM
 |제작자=이딴게
@@ -10512,8 +10555,10 @@ BM구조의 정상화
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>mww0m5yextqslx1dopwuwyjyj2bgslv</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>2yeic0nrz799dymalo95snjryh5l6f5</sha1>
     </revision>
   </page>
   <page>
@@ -10964,19 +11009,19 @@ Six Seven Eight Night
     <ns>0</ns>
     <id>246</id>
     <revision>
-      <id>547</id>
-      <parentid>267</parentid>
-      <timestamp>2025-07-06T11:51:13Z</timestamp>
+      <id>1508</id>
+      <parentid>547</parentid>
+      <timestamp>2025-11-30T14:44:34Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>547</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1508</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="310" sha1="qgmxpn7ln0gwwkyv8l9l8zne7fnhape" xml:space="preserve">{{문서:창팝
+      <text bytes="335" sha1="i5iohry1du4vart6kxpuraqk9737jcp" xml:space="preserve">{{문서:창팝
 |곡명=온 세상을 정상화 해
 |유튜브Id=VWDEn8K97DI
 |제작자=밀보리
@@ -10989,8 +11034,10 @@ Six Seven Eight Night
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>qgmxpn7ln0gwwkyv8l9l8zne7fnhape</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>i5iohry1du4vart6kxpuraqk9737jcp</sha1>
     </revision>
   </page>
   <page>
@@ -11127,19 +11174,19 @@ Six Seven Eight Night
     <ns>0</ns>
     <id>250</id>
     <revision>
-      <id>582</id>
-      <parentid>271</parentid>
-      <timestamp>2025-07-06T11:57:00Z</timestamp>
+      <id>1511</id>
+      <parentid>582</parentid>
+      <timestamp>2025-11-30T14:47:03Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>582</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1511</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="455" sha1="h0isrxzruna0d0q03vo1jobhxr2crfh" xml:space="preserve">{{문서:창팝
+      <text bytes="480" sha1="jv48m6sf81lc76yamwww0yek9wgjo6i" xml:space="preserve">{{문서:창팝
 |유튜브Id=X8HjxAuwOeA
 |제작자=새우
 |개사여부=아니오
@@ -11157,8 +11204,10 @@ Six Seven Eight Night
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>h0isrxzruna0d0q03vo1jobhxr2crfh</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>jv48m6sf81lc76yamwww0yek9wgjo6i</sha1>
     </revision>
   </page>
   <page>
@@ -11346,16 +11395,19 @@ Six Seven Eight Night
     <ns>0</ns>
     <id>254</id>
     <revision>
-      <id>692</id>
-      <parentid>598</parentid>
-      <timestamp>2025-07-11T15:23:43Z</timestamp>
+      <id>1587</id>
+      <parentid>692</parentid>
+      <timestamp>2025-11-30T17:19:02Z</timestamp>
       <contributor>
-        <ip>122.43.246.134</ip>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>692</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1587</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="795" sha1="adhxcmveeh7a2ktekp4uw32c1q22dd1" xml:space="preserve">{{문서:창팝
+      <text bytes="820" sha1="59a0tieijurvnfnirqfir4yl0tylccf" xml:space="preserve">{{문서:창팝
 |곡명=추억의 "정상화의 히어로 신창섭맨" 주제가 (FHD 고화질 복구버전)
 |유튜브Id=sC-2X_U68ug
 |제작자=뮤버
@@ -11377,8 +11429,10 @@ Six Seven Eight Night
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>adhxcmveeh7a2ktekp4uw32c1q22dd1</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>59a0tieijurvnfnirqfir4yl0tylccf</sha1>
     </revision>
   </page>
   <page>
@@ -11769,19 +11823,19 @@ so what? fxxx, deny
     <ns>0</ns>
     <id>260</id>
     <revision>
-      <id>478</id>
-      <parentid>283</parentid>
-      <timestamp>2025-07-06T11:26:55Z</timestamp>
+      <id>1536</id>
+      <parentid>478</parentid>
+      <timestamp>2025-11-30T15:35:52Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>478</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1536</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="607" sha1="dx4iuib4kao575b00nfjm9p1yk00mc1" xml:space="preserve">{{문서:창팝
+      <text bytes="632" sha1="k7l4a51ylayr50t5cr7rs390y0z5715" xml:space="preserve">{{문서:창팝
 |유튜브Id=qXBdu_dHmKQ
 |제작자=조류사냥꾼
 |개사여부=아니오
@@ -11801,8 +11855,10 @@ so what? fxxx, deny
 단품이 올라오지 않았다.
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>dx4iuib4kao575b00nfjm9p1yk00mc1</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>k7l4a51ylayr50t5cr7rs390y0z5715</sha1>
     </revision>
   </page>
   <page>
@@ -12126,19 +12182,19 @@ WWE에서
     <ns>0</ns>
     <id>266</id>
     <revision>
-      <id>593</id>
-      <parentid>289</parentid>
-      <timestamp>2025-07-06T11:59:13Z</timestamp>
+      <id>1575</id>
+      <parentid>593</parentid>
+      <timestamp>2025-11-30T16:59:16Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>593</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1575</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="410" sha1="gh0ircrpz8nlaw9t4619pjjmt7gg957" xml:space="preserve">{{문서:창팝
+      <text bytes="435" sha1="5d9eoinqd1w6d86ixzjec52lasmvxdu" xml:space="preserve">{{문서:창팝
 |유튜브Id=0pltR6hJ7Wc
 |제작자=풍선비
 |개사여부=아니오
@@ -12156,8 +12212,10 @@ WWE에서
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>gh0ircrpz8nlaw9t4619pjjmt7gg957</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>5d9eoinqd1w6d86ixzjec52lasmvxdu</sha1>
     </revision>
   </page>
   <page>
@@ -12347,19 +12405,19 @@ WWE에서
     <ns>0</ns>
     <id>268</id>
     <revision>
-      <id>524</id>
-      <parentid>294</parentid>
-      <timestamp>2025-07-06T11:36:42Z</timestamp>
+      <id>1512</id>
+      <parentid>524</parentid>
+      <timestamp>2025-11-30T15:09:08Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>524</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1512</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="606" sha1="quj0mzxnmn8r6d05qzjkf515xlcjeyh" xml:space="preserve">{{문서:창팝
+      <text bytes="631" sha1="p73okijbeyxwxtm5jlr2n345eh8dmna" xml:space="preserve">{{문서:창팝
 |유튜브Id=J5UppBSHEPA
 |제작자=발라리안한모금
 |개사여부=아니오
@@ -12378,8 +12436,10 @@ WWE에서
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>quj0mzxnmn8r6d05qzjkf515xlcjeyh</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>p73okijbeyxwxtm5jlr2n345eh8dmna</sha1>
     </revision>
   </page>
   <page>
@@ -13331,19 +13391,19 @@ Yes i'm Plastic Star</text>
     <ns>0</ns>
     <id>290</id>
     <revision>
-      <id>504</id>
-      <parentid>327</parentid>
-      <timestamp>2025-07-06T11:32:24Z</timestamp>
+      <id>1588</id>
+      <parentid>504</parentid>
+      <timestamp>2025-11-30T17:30:14Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>504</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1588</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="300" sha1="tp42eme6xsyndgw7uhrl8l8vqpjt6jb" xml:space="preserve">{{문서:창팝
+      <text bytes="325" sha1="fkxe11qxfcv3qmv7w8n9lb1jpquw9ba" xml:space="preserve">{{문서:창팝
 |곡명=파이널 리부트
 |다른언어제목=Final Reboot
 |유튜브Id=iDdwpZ_KCcc
@@ -13355,8 +13415,10 @@ Yes i'm Plastic Star</text>
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>tp42eme6xsyndgw7uhrl8l8vqpjt6jb</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>fkxe11qxfcv3qmv7w8n9lb1jpquw9ba</sha1>
     </revision>
   </page>
   <page>
@@ -13364,19 +13426,19 @@ Yes i'm Plastic Star</text>
     <ns>0</ns>
     <id>291</id>
     <revision>
-      <id>596</id>
-      <parentid>328</parentid>
-      <timestamp>2025-07-06T11:59:35Z</timestamp>
+      <id>1564</id>
+      <parentid>596</parentid>
+      <timestamp>2025-11-30T15:50:07Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>596</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1564</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="513" sha1="58ojo2gx9qkpw4gj5gn3mtf4pibbrga" xml:space="preserve">{{문서:창팝
+      <text bytes="538" sha1="a8x89653v0qnwclmfedspaoybt9xbyd" xml:space="preserve">{{문서:창팝
 |유튜브Id=lO1hPT4Amvo
 |제작자=황금새장 속 햄스터
 |개사여부=아니오
@@ -13394,8 +13456,10 @@ Yes i'm Plastic Star</text>
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>58ojo2gx9qkpw4gj5gn3mtf4pibbrga</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>a8x89653v0qnwclmfedspaoybt9xbyd</sha1>
     </revision>
   </page>
   <page>
@@ -13474,19 +13538,19 @@ Yes i'm Plastic Star</text>
     <ns>0</ns>
     <id>293</id>
     <revision>
-      <id>540</id>
-      <parentid>330</parentid>
-      <timestamp>2025-07-06T11:50:51Z</timestamp>
+      <id>1563</id>
+      <parentid>540</parentid>
+      <timestamp>2025-11-30T15:47:30Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>540</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1563</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="492" sha1="34y94un94hhutix8sldig0c53n2rm8q" xml:space="preserve">{{문서:창팝
+      <text bytes="517" sha1="bkpe6hvx0tv9b7ip788l424lar1zg8u" xml:space="preserve">{{문서:창팝
 |유튜브Id=JGVwV0MLtiw
 |제작자=SSL
 |개사여부=아니오
@@ -13504,8 +13568,10 @@ Yes i'm Plastic Star</text>
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>34y94un94hhutix8sldig0c53n2rm8q</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>bkpe6hvx0tv9b7ip788l424lar1zg8u</sha1>
     </revision>
   </page>
   <page>
@@ -13907,19 +13973,19 @@ Save me...
     <ns>0</ns>
     <id>299</id>
     <revision>
-      <id>500</id>
-      <parentid>339</parentid>
-      <timestamp>2025-07-06T11:31:17Z</timestamp>
+      <id>1566</id>
+      <parentid>500</parentid>
+      <timestamp>2025-11-30T16:00:17Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>500</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1566</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="689" sha1="21ym3gjbrxfliqdwx6j6mj2kwm250jm" xml:space="preserve">{{문서:창팝
+      <text bytes="714" sha1="loabcfxnm01rwurqactukxbeaep1jzs" xml:space="preserve">{{문서:창팝
 |유튜브Id=t-qIMTTOavU
 |제작자=하얀 설
 |개사여부=아니오
@@ -13937,8 +14003,10 @@ Save me...
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>21ym3gjbrxfliqdwx6j6mj2kwm250jm</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>loabcfxnm01rwurqactukxbeaep1jzs</sha1>
     </revision>
   </page>
   <page>
@@ -15171,19 +15239,19 @@ It's party time!
     <ns>0</ns>
     <id>315</id>
     <revision>
-      <id>601</id>
-      <parentid>357</parentid>
-      <timestamp>2025-07-06T12:01:45Z</timestamp>
+      <id>1545</id>
+      <parentid>601</parentid>
+      <timestamp>2025-11-30T15:36:09Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>601</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1545</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="553" sha1="7mcdwcv9i4fj2n7p49bpxhp5yr1v4gi" xml:space="preserve">{{문서:창팝
+      <text bytes="578" sha1="feq27t44fnp5glpn7e3da6xxht8wrzr" xml:space="preserve">{{문서:창팝
 |곡명=愛米歌 (쌀을 사랑하는 노래)
 |다른언어제목=애미가
 |유튜브Id=Jpo0rKwoepw
@@ -15203,8 +15271,10 @@ It's party time!
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>7mcdwcv9i4fj2n7p49bpxhp5yr1v4gi</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>feq27t44fnp5glpn7e3da6xxht8wrzr</sha1>
     </revision>
   </page>
   <page>
@@ -15613,19 +15683,19 @@ begins to fly
     <ns>0</ns>
     <id>322</id>
     <revision>
-      <id>512</id>
-      <parentid>364</parentid>
-      <timestamp>2025-07-06T11:33:52Z</timestamp>
+      <id>1548</id>
+      <parentid>512</parentid>
+      <timestamp>2025-11-30T15:36:15Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>512</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1548</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="660" sha1="chlwt7vzprnr3j9kbv6yrdiv7qgw0c1" xml:space="preserve">{{문서:창팝
+      <text bytes="685" sha1="nwlbbljfra0ko2q1jqb9rcv82gpismw" xml:space="preserve">{{문서:창팝
 |유튜브Id=Bv1v3S5dhwI
 |제작자=에르망
 |개사여부=아니오
@@ -15643,8 +15713,10 @@ begins to fly
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>chlwt7vzprnr3j9kbv6yrdiv7qgw0c1</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>nwlbbljfra0ko2q1jqb9rcv82gpismw</sha1>
     </revision>
   </page>
   <page>
@@ -16140,19 +16212,19 @@ RPG 게임의 노력이
     <ns>0</ns>
     <id>332</id>
     <revision>
-      <id>520</id>
-      <parentid>375</parentid>
-      <timestamp>2025-07-06T11:36:09Z</timestamp>
+      <id>1577</id>
+      <parentid>520</parentid>
+      <timestamp>2025-11-30T16:59:19Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>520</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1577</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="697" sha1="6ggqrrvbd8sf79pfu5pysyimvsidyrj" xml:space="preserve">{{문서:창팝
+      <text bytes="722" sha1="kc6t8m3mt5gw1wenui62gm22zj6rx1m" xml:space="preserve">{{문서:창팝
 |곡명=チャンソプ バブル
 |다른언어제목=찬소뿌 바부루
 |유튜브Id=YEua_lUOozI
@@ -16172,8 +16244,10 @@ RPG 게임의 노력이
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>6ggqrrvbd8sf79pfu5pysyimvsidyrj</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>kc6t8m3mt5gw1wenui62gm22zj6rx1m</sha1>
     </revision>
   </page>
   <page>
@@ -16313,19 +16387,19 @@ We'll continue to fight
     <ns>0</ns>
     <id>335</id>
     <revision>
-      <id>495</id>
-      <parentid>378</parentid>
-      <timestamp>2025-07-06T11:29:12Z</timestamp>
+      <id>1528</id>
+      <parentid>495</parentid>
+      <timestamp>2025-11-30T15:35:37Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>495</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1528</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="582" sha1="jkkc2eikqo53sqwsk2udua20zgq6zo4" xml:space="preserve">{{문서:창팝
+      <text bytes="607" sha1="klye7prg1hppko9xanfdxn7t2jsnrey" xml:space="preserve">{{문서:창팝
 |유튜브Id=kLcTAwZwB4E
 |제작자=편초자
 |개사여부=아니오
@@ -16343,8 +16417,10 @@ We'll continue to fight
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>jkkc2eikqo53sqwsk2udua20zgq6zo4</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>klye7prg1hppko9xanfdxn7t2jsnrey</sha1>
     </revision>
   </page>
   <page>
@@ -16435,19 +16511,19 @@ We'll continue to fight
     <ns>0</ns>
     <id>337</id>
     <revision>
-      <id>485</id>
-      <parentid>380</parentid>
-      <timestamp>2025-07-06T11:27:47Z</timestamp>
+      <id>1541</id>
+      <parentid>485</parentid>
+      <timestamp>2025-11-30T15:36:01Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>485</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1541</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1625" sha1="0n369iucbpj5h66om4n5s4ovsvshaye" xml:space="preserve">{{문서:창팝
+      <text bytes="1650" sha1="lfkcuzkeydknz82km9q60qpdud3i4d0" xml:space="preserve">{{문서:창팝
 |다른언어제목=Carmen Expiationis Orphanorum
 |유튜브Id=KT5JWp2dKBM
 |제작자=이단아
@@ -16466,8 +16542,10 @@ We'll continue to fight
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>0n369iucbpj5h66om4n5s4ovsvshaye</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>lfkcuzkeydknz82km9q60qpdud3i4d0</sha1>
     </revision>
   </page>
   <page>
@@ -16821,19 +16899,19 @@ SSal in Step 이제는 잊어버려라
     <ns>0</ns>
     <id>343</id>
     <revision>
-      <id>525</id>
-      <parentid>386</parentid>
-      <timestamp>2025-07-06T11:36:48Z</timestamp>
+      <id>1591</id>
+      <parentid>525</parentid>
+      <timestamp>2025-11-30T17:33:04Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>525</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1591</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="815" sha1="jeibf1iow8nlxiww928tiw92cmwyl06" xml:space="preserve">{{문서:창팝
+      <text bytes="840" sha1="p7jpd5mhb77rtfljxs46zm789dhaqeo" xml:space="preserve">{{문서:창팝
 |곡명=창팝다움
 |유튜브Id=_DKqW8ZZA9Q
 |제작자=리듬타는선율족
@@ -16852,8 +16930,10 @@ SSal in Step 이제는 잊어버려라
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>jeibf1iow8nlxiww928tiw92cmwyl06</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>p7jpd5mhb77rtfljxs46zm789dhaqeo</sha1>
     </revision>
   </page>
   <page>
@@ -17397,19 +17477,19 @@ Kill it! kill it! kill it!
     <ns>0</ns>
     <id>351</id>
     <revision>
-      <id>526</id>
-      <parentid>394</parentid>
-      <timestamp>2025-07-06T11:37:26Z</timestamp>
+      <id>1589</id>
+      <parentid>526</parentid>
+      <timestamp>2025-11-30T17:31:29Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>526</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1589</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="452" sha1="8mtfifghagg2jjh2wf44l8z9xl8ghw6" xml:space="preserve">{{문서:창팝
+      <text bytes="477" sha1="3vqq64r7gh5j99x88v2kfz76z75lo0l" xml:space="preserve">{{문서:창팝
 |유튜브Id=XVMV860pvRQ
 |제작자=CoD
 |개사여부=아니오
@@ -17427,8 +17507,10 @@ Kill it! kill it! kill it!
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>8mtfifghagg2jjh2wf44l8z9xl8ghw6</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>3vqq64r7gh5j99x88v2kfz76z75lo0l</sha1>
     </revision>
   </page>
   <page>
@@ -17778,19 +17860,19 @@ This game is orphan</text>
     <ns>0</ns>
     <id>357</id>
     <revision>
-      <id>595</id>
-      <parentid>400</parentid>
-      <timestamp>2025-07-06T11:59:25Z</timestamp>
+      <id>1582</id>
+      <parentid>595</parentid>
+      <timestamp>2025-11-30T16:59:33Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>595</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1582</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="530" sha1="d9nox7ic94bx9a4tgm1kyif8i6dhr4p" xml:space="preserve">{{문서:창팝
+      <text bytes="555" sha1="1n8k8exlckrgv78kdmax88ft3at4wjg" xml:space="preserve">{{문서:창팝
 |유튜브Id=p3SqPCCZppU
 |제작자=기랑
 |개사여부=아니오
@@ -17808,8 +17890,10 @@ This game is orphan</text>
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>d9nox7ic94bx9a4tgm1kyif8i6dhr4p</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>1n8k8exlckrgv78kdmax88ft3at4wjg</sha1>
     </revision>
   </page>
   <page>
@@ -17997,19 +18081,19 @@ We are not alone</text>
     <ns>0</ns>
     <id>361</id>
     <revision>
-      <id>585</id>
-      <parentid>404</parentid>
-      <timestamp>2025-07-06T11:57:24Z</timestamp>
+      <id>1592</id>
+      <parentid>585</parentid>
+      <timestamp>2025-11-30T17:39:29Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>585</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1592</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="585" sha1="2r5agagw91rcufqunaln1jzluanugbi" xml:space="preserve">{{문서:창팝
+      <text bytes="610" sha1="7jbtgo6556ovzlprxznlv1rst8sbouq" xml:space="preserve">{{문서:창팝
 |다른언어제목=La Campanella Della Verita
 |유튜브Id=6diFqJQn4Xo
 |제작자=초슝좍
@@ -18028,8 +18112,10 @@ We are not alone</text>
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>2r5agagw91rcufqunaln1jzluanugbi</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>7jbtgo6556ovzlprxznlv1rst8sbouq</sha1>
     </revision>
   </page>
   <page>
@@ -18340,19 +18426,19 @@ WWE 잘하잖아
     <ns>0</ns>
     <id>367</id>
     <revision>
-      <id>560</id>
-      <parentid>410</parentid>
-      <timestamp>2025-07-06T11:51:47Z</timestamp>
+      <id>1532</id>
+      <parentid>560</parentid>
+      <timestamp>2025-11-30T15:35:45Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>560</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1532</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="540" sha1="p229qc85v07mk4pyxso469q2kryke1d" xml:space="preserve">{{문서:창팝
+      <text bytes="565" sha1="4dpkofatc5kb5y8426ha9pgwz5en6on" xml:space="preserve">{{문서:창팝
 |곡명=[창니셜 D]-타
 |유튜브Id=FAdcyQTiQss
 |제작자=이터널 리슨족
@@ -18371,8 +18457,10 @@ WWE 잘하잖아
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>p229qc85v07mk4pyxso469q2kryke1d</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>4dpkofatc5kb5y8426ha9pgwz5en6on</sha1>
     </revision>
   </page>
   <page>
@@ -19274,19 +19362,19 @@ Adios, Amigo!</text>
     <ns>0</ns>
     <id>381</id>
     <revision>
-      <id>498</id>
-      <parentid>424</parentid>
-      <timestamp>2025-07-06T11:30:33Z</timestamp>
+      <id>1523</id>
+      <parentid>498</parentid>
+      <timestamp>2025-11-30T15:35:30Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>498</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1523</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="457" sha1="3rptdf0ocxfv2cvx6tou5jxmkm9s8jw" xml:space="preserve">{{문서:창팝
+      <text bytes="482" sha1="roxywpq9m9ahw9xhmmb4lefpl0goicm" xml:space="preserve">{{문서:창팝
 |다른언어제목=破鏡再不照
 |유튜브Id=Y07nC4t7VjM
 |제작자=아이
@@ -19306,8 +19394,10 @@ Adios, Amigo!</text>
 단품이 올라오지 않았다.
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>3rptdf0ocxfv2cvx6tou5jxmkm9s8jw</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>roxywpq9m9ahw9xhmmb4lefpl0goicm</sha1>
     </revision>
   </page>
   <page>
@@ -19662,19 +19752,19 @@ Let's create our story
     <ns>0</ns>
     <id>387</id>
     <revision>
-      <id>552</id>
-      <parentid>430</parentid>
-      <timestamp>2025-07-06T11:51:21Z</timestamp>
+      <id>1535</id>
+      <parentid>552</parentid>
+      <timestamp>2025-11-30T15:35:51Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>552</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1535</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="426" sha1="gdwps3kg49w7lr7qnc7vmcdu23g257g" xml:space="preserve">{{문서:창팝
+      <text bytes="451" sha1="mkgdmq56mwoo6dyuwu2m9irjujncy7a" xml:space="preserve">{{문서:창팝
 |곡명=이거 진짜에요?
 |유튜브Id=QPb-LisiPdw
 |제작자=창팝딸깍딸깍캬
@@ -19691,8 +19781,10 @@ Let's create our story
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>gdwps3kg49w7lr7qnc7vmcdu23g257g</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>mkgdmq56mwoo6dyuwu2m9irjujncy7a</sha1>
     </revision>
   </page>
   <page>
@@ -19874,19 +19966,19 @@ Let's create our story
     <ns>0</ns>
     <id>392</id>
     <revision>
-      <id>578</id>
-      <parentid>438</parentid>
-      <timestamp>2025-07-06T11:55:36Z</timestamp>
+      <id>1549</id>
+      <parentid>578</parentid>
+      <timestamp>2025-11-30T15:36:15Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>578</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1549</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="405" sha1="maiu9jzcwr68u9eg81e1znxq76gvijj" xml:space="preserve">{{문서:창팝
+      <text bytes="430" sha1="gnhjbh5yj2alclaj4r8pd0wmxwo7lsw" xml:space="preserve">{{문서:창팝
 | 곡명 = 쾌창
 | 다른언어제목 = 快唱
 | 유튜브Id = iliEVIUX6eg
@@ -19903,8 +19995,10 @@ Let's create our story
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>maiu9jzcwr68u9eg81e1znxq76gvijj</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>gnhjbh5yj2alclaj4r8pd0wmxwo7lsw</sha1>
     </revision>
   </page>
   <page>
@@ -19912,19 +20006,19 @@ Let's create our story
     <ns>0</ns>
     <id>393</id>
     <revision>
-      <id>510</id>
-      <parentid>439</parentid>
-      <timestamp>2025-07-06T11:33:42Z</timestamp>
+      <id>1524</id>
+      <parentid>510</parentid>
+      <timestamp>2025-11-30T15:35:31Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>510</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1524</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="260" sha1="fuomnsg9lhnnlllh5vq14f36mspa3k3" xml:space="preserve">{{문서:창팝
+      <text bytes="285" sha1="fl6tbcnqz7bi2e0amcfm0c0cg5xqvtz" xml:space="preserve">{{문서:창팝
 |곡명=하이퍼버닝 찍먹
 |유튜브Id=tPJxVNoh7bU
 |제작자=창팝딸깍딸딱캬
@@ -19934,8 +20028,10 @@ Let's create our story
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>fuomnsg9lhnnlllh5vq14f36mspa3k3</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>fl6tbcnqz7bi2e0amcfm0c0cg5xqvtz</sha1>
     </revision>
   </page>
   <page>
@@ -20108,19 +20204,19 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>398</id>
     <revision>
-      <id>571</id>
-      <parentid>447</parentid>
-      <timestamp>2025-07-06T11:54:55Z</timestamp>
+      <id>1598</id>
+      <parentid>571</parentid>
+      <timestamp>2025-11-30T18:03:22Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 기본 개요}} 틀 적용</comment>
-      <origin>571</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1598</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="240" sha1="cjabu63m6vp8rat01iaujo5mxs8qii4" xml:space="preserve">{{문서:창팝
+      <text bytes="265" sha1="7rwr43u76kdse068s8ck1luzya6379k" xml:space="preserve">{{문서:창팝
 |곡명=이제 그만
 |유튜브Id=_IDmJ_ygO4E
 |제작자=주차장P
@@ -20130,8 +20226,10 @@ Cultual, 어차피 언젠가
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>cjabu63m6vp8rat01iaujo5mxs8qii4</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>7rwr43u76kdse068s8ck1luzya6379k</sha1>
     </revision>
   </page>
   <page>
@@ -20802,17 +20900,19 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>415</id>
     <revision>
-      <id>610</id>
-      <timestamp>2025-07-06T17:07:29Z</timestamp>
+      <id>1583</id>
+      <parentid>610</parentid>
+      <timestamp>2025-11-30T17:09:25Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=aYEX_WHqWPc |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=2 |참가닉네임=Two-Face |제목=창엄경 |키워드=무구정광대다라니경 |각오=Time to show the real me. Isn't it? |한마디= }}  == 가사 == {{가사}}</comment>
-      <origin>610</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1583</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="403" sha1="llh6jf6a2dp7kms5n4wv9vllpuomr60" xml:space="preserve">{{문서:창팝
+      <text bytes="428" sha1="9e1qo4idai5lkbpxypm0r6n610475ch" xml:space="preserve">{{문서:창팝
 |유튜브Id=aYEX_WHqWPc
 |개사여부=아니오
 }}
@@ -20830,8 +20930,10 @@ Cultual, 어차피 언젠가
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>llh6jf6a2dp7kms5n4wv9vllpuomr60</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>9e1qo4idai5lkbpxypm0r6n610475ch</sha1>
     </revision>
   </page>
   <page>
@@ -21011,17 +21113,19 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>420</id>
     <revision>
-      <id>615</id>
-      <timestamp>2025-07-06T17:08:44Z</timestamp>
+      <id>1538</id>
+      <parentid>615</parentid>
+      <timestamp>2025-11-30T15:35:58Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=0WrcyLE9MQc |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=7 |참가닉네임=虎 |제목=여기 계셨군요, |키워드=기회비용 |각오=어흥 |한마디=어흥 }}  == 가사 == {{가사}}</comment>
-      <origin>615</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1538</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="371" sha1="5tf1nz4xwefzaeo76p0mhk2trbgpmek" xml:space="preserve">{{문서:창팝
+      <text bytes="396" sha1="5seah8nr9ad7og5ndgtos4dnx7i5ilc" xml:space="preserve">{{문서:창팝
 |유튜브Id=0WrcyLE9MQc
 |개사여부=아니오
 }}
@@ -21039,8 +21143,10 @@ Cultual, 어차피 언젠가
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>5tf1nz4xwefzaeo76p0mhk2trbgpmek</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>5seah8nr9ad7og5ndgtos4dnx7i5ilc</sha1>
     </revision>
   </page>
   <page>
@@ -21436,17 +21542,19 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>430</id>
     <revision>
-      <id>626</id>
-      <timestamp>2025-07-06T17:11:30Z</timestamp>
+      <id>1507</id>
+      <parentid>626</parentid>
+      <timestamp>2025-11-30T14:44:33Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=c4tnP20i064 |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=17 |참가닉네임=리슨족 |제목=참척 |키워드=참척 |각오=복면창팝 시즌4도 부탁해요~! |한마디=참척을 영상으로 표현했습니다 (이 주제 쓴 사람 누구시죠? ㅎㅎㅎㅎㅎ) }}  == 가사 == {{가사}}</comment>
-      <origin>626</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1507</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="479" sha1="o6ucoyt0ghlz1hjx3mztfrdlyfr41on" xml:space="preserve">{{문서:창팝
+      <text bytes="504" sha1="c2kavk6r7fan147d27cnz3p8jwgvrmj" xml:space="preserve">{{문서:창팝
 |유튜브Id=c4tnP20i064
 |개사여부=아니오
 }}
@@ -21464,8 +21572,10 @@ Cultual, 어차피 언젠가
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>o6ucoyt0ghlz1hjx3mztfrdlyfr41on</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>c2kavk6r7fan147d27cnz3p8jwgvrmj</sha1>
     </revision>
   </page>
   <page>
@@ -21829,18 +21939,19 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>439</id>
     <revision>
-      <id>888</id>
-      <parentid>635</parentid>
-      <timestamp>2025-09-21T17:41:58Z</timestamp>
+      <id>1581</id>
+      <parentid>888</parentid>
+      <timestamp>2025-11-30T16:59:33Z</timestamp>
       <contributor>
-        <username>구경꾼</username>
-        <id>18</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
       <minor/>
-      <origin>888</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1581</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="579" sha1="nxypcdvf96mfi10lx5sxul2m6u6ixw1" xml:space="preserve">{{문서:창팝
+      <text bytes="604" sha1="jthefy93kxmkwk3x9sqxe1yshx2jdt8" xml:space="preserve">{{문서:창팝
 |유튜브Id=Mw-JSGgO86g
 |제작자=새벽다섯시반
 |개사여부=아니오
@@ -21861,8 +21972,10 @@ Cultual, 어차피 언젠가
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>nxypcdvf96mfi10lx5sxul2m6u6ixw1</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>jthefy93kxmkwk3x9sqxe1yshx2jdt8</sha1>
     </revision>
   </page>
   <page>
@@ -22036,17 +22149,19 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>444</id>
     <revision>
-      <id>640</id>
-      <timestamp>2025-07-06T17:14:02Z</timestamp>
+      <id>1568</id>
+      <parentid>640</parentid>
+      <timestamp>2025-11-30T16:16:23Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=NkQYh0qg5a4 |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=31 |참가닉네임=리선족들이떠나가완식남이줄자항해가불만족 |제목=우리들의 점유율 |키워드=점유율 |각오=노래로 사람 홀리고 떠나지 좀 마 나쁜 놈들아 ㅠㅠ |한마디=이런 재미없는 키워...</comment>
-      <origin>640</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1568</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="586" sha1="a8aop667mxky2t7g3fhqfvwvzch2r9z" xml:space="preserve">{{문서:창팝
+      <text bytes="611" sha1="g6wwzyqgidzux7ymk4bb1lov46gnsl8" xml:space="preserve">{{문서:창팝
 |유튜브Id=NkQYh0qg5a4
 |개사여부=아니오
 }}
@@ -22064,8 +22179,10 @@ Cultual, 어차피 언젠가
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>a8aop667mxky2t7g3fhqfvwvzch2r9z</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>g6wwzyqgidzux7ymk4bb1lov46gnsl8</sha1>
     </revision>
   </page>
   <page>
@@ -22403,17 +22520,19 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>453</id>
     <revision>
-      <id>649</id>
-      <timestamp>2025-07-06T17:15:52Z</timestamp>
+      <id>1586</id>
+      <parentid>649</parentid>
+      <timestamp>2025-11-30T17:17:11Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=Kh5H5qrGwKc |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=41 |참가닉네임=엄거래와 무릎통증 |제목=왜 쌀 안 사 |키워드=점유율 |각오=복면창팝의 피날레 함께하겠습니다. |한마디= }}  == 가사 == {{가사}}</comment>
-      <origin>649</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1586</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="422" sha1="gu4cbuw3ydymj4hxo4mkyxny197aoqa" xml:space="preserve">{{문서:창팝
+      <text bytes="447" sha1="fzc2pqwnmgzz9o0oh59l1c62spb7se9" xml:space="preserve">{{문서:창팝
 |유튜브Id=Kh5H5qrGwKc
 |개사여부=아니오
 }}
@@ -22431,8 +22550,10 @@ Cultual, 어차피 언젠가
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>gu4cbuw3ydymj4hxo4mkyxny197aoqa</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>fzc2pqwnmgzz9o0oh59l1c62spb7se9</sha1>
     </revision>
   </page>
   <page>
@@ -23130,17 +23251,19 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>470</id>
     <revision>
-      <id>667</id>
-      <timestamp>2025-07-06T17:20:24Z</timestamp>
+      <id>1556</id>
+      <parentid>667</parentid>
+      <timestamp>2025-11-30T15:47:18Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=HRuPz40nRqw |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=59 |참가닉네임=아내가 집을 나갔습니다 |제목=엄마미안해 |키워드=음해 |각오=╰(´・ω・)つ───☆ 정상화의힘으로세상을밝혀줘 |한마디=소신발언한마디만함팩트는리부트가아직도사기...</comment>
-      <origin>667</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1556</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="525" sha1="1a2l9ipbvz7p8od0ez4o4ubf8psovmr" xml:space="preserve">{{문서:창팝
+      <text bytes="550" sha1="awzjcsp88v5m60vs0kwix7zbcv62vnc" xml:space="preserve">{{문서:창팝
 |유튜브Id=HRuPz40nRqw
 |개사여부=아니오
 }}
@@ -23158,8 +23281,10 @@ Cultual, 어차피 언젠가
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>1a2l9ipbvz7p8od0ez4o4ubf8psovmr</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>awzjcsp88v5m60vs0kwix7zbcv62vnc</sha1>
     </revision>
   </page>
   <page>
@@ -23250,17 +23375,19 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>473</id>
     <revision>
-      <id>670</id>
-      <timestamp>2025-07-06T17:20:51Z</timestamp>
+      <id>1519</id>
+      <parentid>670</parentid>
+      <timestamp>2025-11-30T15:35:24Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=-14FaWWINPs |개사여부=아니오 }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 복면창팝 3 == {{복면창팝 3 참가곡 |참가번호=62 |참가닉네임=오만과 방자 |제목=잘 지내니? |키워드=피카츄 |각오=각오 |한마디=복면창팝의 마지막 곡은 명곡이라는 징크스를 깨부수겠습니다 }}  == 가사 == {{가사}}</comment>
-      <origin>670</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1519</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="453" sha1="pe9ovdeqrbqrlhqui0lav9r0jyy72rm" xml:space="preserve">{{문서:창팝
+      <text bytes="478" sha1="67uj7whfetkte9mdal97cmvtpe6c5yw" xml:space="preserve">{{문서:창팝
 |유튜브Id=-14FaWWINPs
 |개사여부=아니오
 }}
@@ -23278,8 +23405,10 @@ Cultual, 어차피 언젠가
 }}
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>pe9ovdeqrbqrlhqui0lav9r0jyy72rm</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>67uj7whfetkte9mdal97cmvtpe6c5yw</sha1>
     </revision>
   </page>
   <page>
@@ -24642,17 +24771,19 @@ We're Trouble Makers</text>
     <ns>0</ns>
     <id>503</id>
     <revision>
-      <id>761</id>
-      <timestamp>2025-08-13T12:16:12Z</timestamp>
+      <id>1555</id>
+      <parentid>761</parentid>
+      <timestamp>2025-11-30T15:47:16Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=yQKYzUEeAug |제작자=폰서트 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |곡명=黄昏、向こうへ |다른언어제목=황혼, 저편으로 |제작방법=Suno |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>761</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1555</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="400" sha1="g2c0r35s0pzbor05z2emkg3mpqbil4u" xml:space="preserve">{{문서:창팝
+      <text bytes="425" sha1="44fknmt6ynm24vau69z3tjoifzsjjox" xml:space="preserve">{{문서:창팝
 |유튜브Id=yQKYzUEeAug
 |제작자=폰서트
 |개사여부=아니오
@@ -24668,8 +24799,10 @@ We're Trouble Makers</text>
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>g2c0r35s0pzbor05z2emkg3mpqbil4u</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>44fknmt6ynm24vau69z3tjoifzsjjox</sha1>
     </revision>
   </page>
   <page>
@@ -24751,18 +24884,19 @@ We're Trouble Makers</text>
     <ns>0</ns>
     <id>505</id>
     <revision>
-      <id>1125</id>
-      <parentid>763</parentid>
-      <timestamp>2025-11-13T14:48:21Z</timestamp>
+      <id>1584</id>
+      <parentid>1125</parentid>
+      <timestamp>2025-11-30T17:11:46Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>이전 영상 비공개로 인한 링크 정상화</comment>
-      <origin>1125</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1584</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="478" sha1="aud43j5uc0ar7zvh4cwozivxd9eerot" xml:space="preserve">{{문서:창팝
+      <text bytes="503" sha1="16krn8jrpz5nvw06zw0k17zurxcuz1n" xml:space="preserve">{{문서:창팝
 |유튜브Id=LwnjuxkikS0
 |제작자=롹슨족
 |개사여부=아니오
@@ -24777,8 +24911,10 @@ We're Trouble Makers</text>
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>aud43j5uc0ar7zvh4cwozivxd9eerot</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>16krn8jrpz5nvw06zw0k17zurxcuz1n</sha1>
     </revision>
   </page>
   <page>
@@ -25011,17 +25147,19 @@ We're Trouble Makers</text>
     <ns>0</ns>
     <id>510</id>
     <revision>
-      <id>768</id>
-      <timestamp>2025-08-13T12:43:36Z</timestamp>
+      <id>1530</id>
+      <parentid>768</parentid>
+      <timestamp>2025-11-30T15:35:42Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=om5RxVmWVFA |제작자=jetspous J |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |제작방법=Rifussion |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>768</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1530</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="335" sha1="hkh2eeqa37rdxs3tamfdshtmkpw8ro6" xml:space="preserve">{{문서:창팝
+      <text bytes="360" sha1="f667otk0tpabfjct717sq5r13zm8tlj" xml:space="preserve">{{문서:창팝
 |유튜브Id=om5RxVmWVFA
 |제작자=jetspous J
 |개사여부=아니오
@@ -25035,8 +25173,10 @@ We're Trouble Makers</text>
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>hkh2eeqa37rdxs3tamfdshtmkpw8ro6</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>f667otk0tpabfjct717sq5r13zm8tlj</sha1>
     </revision>
   </page>
   <page>
@@ -25651,17 +25791,19 @@ PC방 역대급 점유율 환호해!
     <ns>0</ns>
     <id>520</id>
     <revision>
-      <id>780</id>
-      <timestamp>2025-08-16T15:29:50Z</timestamp>
+      <id>1539</id>
+      <parentid>780</parentid>
+      <timestamp>2025-11-30T15:35:58Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=MukTb1SOMwM |제작자=낙서장 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |화자=신창섭 |제작방법=Suno |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>780</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1539</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="347" sha1="t4d3i4enrqzwanncwkeyt3f6tslvme0" xml:space="preserve">{{문서:창팝
+      <text bytes="372" sha1="jb86xtwblogelu1ezx7ct0uk06uyvc4" xml:space="preserve">{{문서:창팝
 |유튜브Id=MukTb1SOMwM
 |제작자=낙서장
 |개사여부=아니오
@@ -25676,8 +25818,10 @@ PC방 역대급 점유율 환호해!
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>t4d3i4enrqzwanncwkeyt3f6tslvme0</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>jb86xtwblogelu1ezx7ct0uk06uyvc4</sha1>
     </revision>
   </page>
   <page>
@@ -26498,17 +26642,19 @@ MR: https://youtu.be/vCDJ_dKCLsA
     <ns>0</ns>
     <id>532</id>
     <revision>
-      <id>795</id>
-      <timestamp>2025-08-18T01:32:49Z</timestamp>
+      <id>1597</id>
+      <parentid>795</parentid>
+      <timestamp>2025-11-30T18:03:21Z</timestamp>
       <contributor>
-        <username>독슝좍</username>
-        <id>13</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=I1JqAqRWKqg |제작자=독슝좍 |개사여부=아니오 |프롬프트=Sampling, Powerful, Trendy boombap, Unease vocalist, Scratch, Rapidfire rap, rap, rap, rap, Glitched |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>795</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1597</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="368" sha1="osdj01da4bkj5elm01uk279u2285b7l" xml:space="preserve">{{문서:창팝
+      <text bytes="393" sha1="f2pozil6ht3ldf6wbq7d1lag1ufupq2" xml:space="preserve">{{문서:창팝
 |유튜브Id=I1JqAqRWKqg
 |제작자=독슝좍
 |개사여부=아니오
@@ -26519,8 +26665,10 @@ MR: https://youtu.be/vCDJ_dKCLsA
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>osdj01da4bkj5elm01uk279u2285b7l</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>f2pozil6ht3ldf6wbq7d1lag1ufupq2</sha1>
     </revision>
   </page>
   <page>
@@ -26864,17 +27012,19 @@ MR: https://youtu.be/vCDJ_dKCLsA
     <ns>0</ns>
     <id>540</id>
     <revision>
-      <id>806</id>
-      <timestamp>2025-08-18T01:53:26Z</timestamp>
+      <id>1553</id>
+      <parentid>806</parentid>
+      <timestamp>2025-11-30T15:36:24Z</timestamp>
       <contributor>
-        <username>독슝좍</username>
-        <id>13</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=2LZCVGe3PDs |제작자=독슝좍 |개사여부=아니오 |제작방법=Suno |프롬프트=Loud, forceful dynamics, the pentatonic scale, syncopated rhythm and dissonant harmonies combine, an energetic, chaotic and experimental piece |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>806</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1553</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="429" sha1="9svt4y32fy50pnzjzj8gbwkebpp2vsq" xml:space="preserve">{{문서:창팝
+      <text bytes="454" sha1="k9yzu1th3rmws06ndnf754cnjh126df" xml:space="preserve">{{문서:창팝
 |유튜브Id=2LZCVGe3PDs
 |제작자=독슝좍
 |개사여부=아니오
@@ -26886,8 +27036,10 @@ MR: https://youtu.be/vCDJ_dKCLsA
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>9svt4y32fy50pnzjzj8gbwkebpp2vsq</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>k9yzu1th3rmws06ndnf754cnjh126df</sha1>
     </revision>
   </page>
   <page>
@@ -27176,17 +27328,19 @@ I want you, See you smile again rebound from despair
     <ns>0</ns>
     <id>545</id>
     <revision>
-      <id>814</id>
-      <timestamp>2025-08-19T13:29:22Z</timestamp>
+      <id>1540</id>
+      <parentid>814</parentid>
+      <timestamp>2025-11-30T15:35:59Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=rG20RCpkoY0 |제작자=습작노트 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |다른언어제목=FUNK MAPLE |화자=신창섭 |제작방법=Udio |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>814</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1540</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="381" sha1="2o6pbormr6vn5pe25u40ucdtslnw062" xml:space="preserve">{{문서:창팝
+      <text bytes="406" sha1="7kyb8t36jninyadeasi40w1llgrwvhi" xml:space="preserve">{{문서:창팝
 |유튜브Id=rG20RCpkoY0
 |제작자=습작노트
 |개사여부=아니오
@@ -27202,8 +27356,10 @@ I want you, See you smile again rebound from despair
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>2o6pbormr6vn5pe25u40ucdtslnw062</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>7kyb8t36jninyadeasi40w1llgrwvhi</sha1>
     </revision>
   </page>
   <page>
@@ -27359,17 +27515,19 @@ THERE'S NOTHING LEFT</text>
     <ns>0</ns>
     <id>547</id>
     <revision>
-      <id>816</id>
-      <timestamp>2025-08-19T13:45:50Z</timestamp>
+      <id>1509</id>
+      <parentid>816</parentid>
+      <timestamp>2025-11-30T14:46:49Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=c3DDnFhcEWo |제작자=체포낙 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>816</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1509</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="310" sha1="n71sjdcdtm5qgxrwivro3kv4mscp50q" xml:space="preserve">{{문서:창팝
+      <text bytes="335" sha1="ct4k5vzf69p1k1vbwh4vplqnxg8w7nf" xml:space="preserve">{{문서:창팝
 |유튜브Id=c3DDnFhcEWo
 |제작자=체포낙
 |개사여부=아니오
@@ -27382,8 +27540,10 @@ THERE'S NOTHING LEFT</text>
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>n71sjdcdtm5qgxrwivro3kv4mscp50q</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ct4k5vzf69p1k1vbwh4vplqnxg8w7nf</sha1>
     </revision>
   </page>
   <page>
@@ -30162,17 +30322,19 @@ Skrrrrrrrr!
     <ns>0</ns>
     <id>583</id>
     <revision>
-      <id>872</id>
-      <timestamp>2025-09-17T12:29:19Z</timestamp>
+      <id>1552</id>
+      <parentid>872</parentid>
+      <timestamp>2025-11-30T15:36:23Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=iFXL3RsyGXw |제작자=모슝좍 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |곡명=판교 never sleeps (until the dead end) |제작방법=Suno |프롬프트=eurobeat, super eurobeat, alternative rock, male vocal |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>872</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1552</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="447" sha1="8xm0lafaqltlzivqdeixyahjaqa1n6n" xml:space="preserve">{{문서:창팝
+      <text bytes="472" sha1="mk9rmgwepof02zm2c5kmq3uol730pxv" xml:space="preserve">{{문서:창팝
 |유튜브Id=iFXL3RsyGXw
 |제작자=모슝좍
 |개사여부=아니오
@@ -30188,8 +30350,10 @@ Skrrrrrrrr!
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>8xm0lafaqltlzivqdeixyahjaqa1n6n</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>mk9rmgwepof02zm2c5kmq3uol730pxv</sha1>
     </revision>
   </page>
   <page>
@@ -30258,17 +30422,19 @@ Unitl the dead end
     <ns>0</ns>
     <id>585</id>
     <revision>
-      <id>875</id>
-      <timestamp>2025-09-18T15:23:38Z</timestamp>
+      <id>1526</id>
+      <parentid>875</parentid>
+      <timestamp>2025-11-30T15:35:32Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=XJ4BSuXaYO0 |제작자=이딴게 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |화자=신창섭 |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>875</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1526</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="328" sha1="ljj0s9zc5uldxdec39ojefob2e1bgv5" xml:space="preserve">{{문서:창팝
+      <text bytes="353" sha1="oiuy3sgl9vuxveot482o50yuecd4kfi" xml:space="preserve">{{문서:창팝
 |유튜브Id=XJ4BSuXaYO0
 |제작자=이딴게
 |개사여부=아니오
@@ -30282,8 +30448,10 @@ Unitl the dead end
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>ljj0s9zc5uldxdec39ojefob2e1bgv5</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>oiuy3sgl9vuxveot482o50yuecd4kfi</sha1>
     </revision>
   </page>
   <page>
@@ -30860,17 +31028,19 @@ AND I ALSO 단풍조아</text>
     <ns>0</ns>
     <id>595</id>
     <revision>
-      <id>895</id>
-      <timestamp>2025-09-22T12:18:45Z</timestamp>
+      <id>1578</id>
+      <parentid>895</parentid>
+      <timestamp>2025-11-30T16:59:19Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=DSLhZBab0Oc |제작자=폰서트 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 3편 }} |다른언어제목=逆剋 |화자=??? |제작방법=Suno |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>895</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1578</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="368" sha1="2ypiwmbuzjphgyvzou9qswzqdzrsvul" xml:space="preserve">{{문서:창팝
+      <text bytes="393" sha1="08xizzyfgfvdbkimn5f07o0conilzoq" xml:space="preserve">{{문서:창팝
 |유튜브Id=DSLhZBab0Oc
 |제작자=폰서트
 |개사여부=아니오
@@ -30886,8 +31056,10 @@ AND I ALSO 단풍조아</text>
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>2ypiwmbuzjphgyvzou9qswzqdzrsvul</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>08xizzyfgfvdbkimn5f07o0conilzoq</sha1>
     </revision>
   </page>
   <page>
@@ -31668,17 +31840,19 @@ tables=수록창드컵, 창팝
     <ns>0</ns>
     <id>609</id>
     <revision>
-      <id>915</id>
-      <timestamp>2025-09-24T10:00:50Z</timestamp>
+      <id>1554</id>
+      <parentid>915</parentid>
+      <timestamp>2025-11-30T15:36:25Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=mQaz0bjv-nY |제작자=방자 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 1편 }} |화자=기가창섭 |제작방법=Suno |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>915</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1554</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="347" sha1="lmwh05jbqetvt7j3l08vms454i39ms0" xml:space="preserve">{{문서:창팝
+      <text bytes="372" sha1="096rxclbcf8ivl7t7dqranquvuep6g3" xml:space="preserve">{{문서:창팝
 |유튜브Id=mQaz0bjv-nY
 |제작자=방자
 |개사여부=아니오
@@ -31693,8 +31867,10 @@ tables=수록창드컵, 창팝
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>lmwh05jbqetvt7j3l08vms454i39ms0</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>096rxclbcf8ivl7t7dqranquvuep6g3</sha1>
     </revision>
   </page>
   <page>
@@ -31702,17 +31878,19 @@ tables=수록창드컵, 창팝
     <ns>0</ns>
     <id>610</id>
     <revision>
-      <id>918</id>
-      <parentid>917</parentid>
-      <timestamp>2025-09-24T10:05:16Z</timestamp>
+      <id>1574</id>
+      <parentid>918</parentid>
+      <timestamp>2025-11-30T16:59:15Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>918</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1574</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="406" sha1="iu2pfnj2r5k0cxntlb6lwzgd4i3oln2" xml:space="preserve">{{문서:창팝
+      <text bytes="431" sha1="5fubqj984z4m0lstux5va9weo2t47zn" xml:space="preserve">{{문서:창팝
 |유튜브Id=GexYPCCEMwQ
 |제작자=낙서장
 |개사여부=예
@@ -31728,8 +31906,10 @@ tables=수록창드컵, 창팝
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>iu2pfnj2r5k0cxntlb6lwzgd4i3oln2</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>5fubqj984z4m0lstux5va9weo2t47zn</sha1>
     </revision>
   </page>
   <page>
@@ -32041,17 +32221,19 @@ tables=수록창드컵, 창팝
     <ns>0</ns>
     <id>619</id>
     <revision>
-      <id>928</id>
-      <timestamp>2025-09-24T10:17:53Z</timestamp>
+      <id>1520</id>
+      <parentid>928</parentid>
+      <timestamp>2025-11-30T15:35:24Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=fnv3_qzWB14 |제작자=이딴게 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 1편 }} |화자=신창섭 |제작방법=Suno |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>928</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1520</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="347" sha1="t5k3i7k834xm27xul8g9s79u4pzkg2c" xml:space="preserve">{{문서:창팝
+      <text bytes="372" sha1="mp3b00e7aqev7as37x0maie9grib4k1" xml:space="preserve">{{문서:창팝
 |유튜브Id=fnv3_qzWB14
 |제작자=이딴게
 |개사여부=아니오
@@ -32066,8 +32248,10 @@ tables=수록창드컵, 창팝
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>t5k3i7k834xm27xul8g9s79u4pzkg2c</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>mp3b00e7aqev7as37x0maie9grib4k1</sha1>
     </revision>
   </page>
   <page>
@@ -32075,17 +32259,19 @@ tables=수록창드컵, 창팝
     <ns>0</ns>
     <id>620</id>
     <revision>
-      <id>929</id>
-      <timestamp>2025-09-24T10:19:26Z</timestamp>
+      <id>1505</id>
+      <parentid>929</parentid>
+      <timestamp>2025-11-30T14:44:15Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=F5QJJ-0hocI |제작자=모슝좍 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 1편 }} |화자=신창섭 |프롬프트=experimental, minimal, techno, electro, bubblegum bass, monotone |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>929</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1505</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="407" sha1="bi9fu9d2ec9kkclz2p4a8qtuwmnub3e" xml:space="preserve">{{문서:창팝
+      <text bytes="432" sha1="ss4591mzm2yd6ls6l2y9cqji1hu6277" xml:space="preserve">{{문서:창팝
 |유튜브Id=F5QJJ-0hocI
 |제작자=모슝좍
 |개사여부=아니오
@@ -32100,8 +32286,10 @@ tables=수록창드컵, 창팝
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>bi9fu9d2ec9kkclz2p4a8qtuwmnub3e</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ss4591mzm2yd6ls6l2y9cqji1hu6277</sha1>
     </revision>
   </page>
   <page>
@@ -32490,17 +32678,19 @@ tables=수록창드컵, 창팝
     <ns>0</ns>
     <id>631</id>
     <revision>
-      <id>942</id>
-      <timestamp>2025-09-24T10:31:17Z</timestamp>
+      <id>1590</id>
+      <parentid>942</parentid>
+      <timestamp>2025-11-30T17:33:02Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=3RRFDkKzE9g |제작자=인포딕 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 1편 }} |다른언어제목=Normalization: The Day After |화자=신창섭 |제작방법=Suno |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>942</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1590</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="396" sha1="r9qn35nalghkyu8xufpmwz28idg2wru" xml:space="preserve">{{문서:창팝
+      <text bytes="421" sha1="sy2sysoo0oibcy8pzst8ewvwnj0m3zw" xml:space="preserve">{{문서:창팝
 |유튜브Id=3RRFDkKzE9g
 |제작자=인포딕
 |개사여부=아니오
@@ -32516,8 +32706,10 @@ tables=수록창드컵, 창팝
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>r9qn35nalghkyu8xufpmwz28idg2wru</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>sy2sysoo0oibcy8pzst8ewvwnj0m3zw</sha1>
     </revision>
   </page>
   <page>
@@ -33051,17 +33243,19 @@ table.dataTable tbody td:has(.mw-Cargoquery--thumbnail) {
     <ns>0</ns>
     <id>646</id>
     <revision>
-      <id>972</id>
-      <timestamp>2025-09-28T07:07:40Z</timestamp>
+      <id>1517</id>
+      <parentid>972</parentid>
+      <timestamp>2025-11-30T15:26:12Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=YwqKsXL5f9E |제작자=도사의 길 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2024년 1편 }} |화자=신창섭 (feat.전재학) |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>972</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1517</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="349" sha1="t9mjk0i66yougbjyqppgpf3y5uoc0qi" xml:space="preserve">{{문서:창팝
+      <text bytes="374" sha1="86t9t47wj8e9vjj1qx628leu0jt0dif" xml:space="preserve">{{문서:창팝
 |유튜브Id=YwqKsXL5f9E
 |제작자=도사의 길
 |개사여부=아니오
@@ -33075,8 +33269,10 @@ table.dataTable tbody td:has(.mw-Cargoquery--thumbnail) {
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>t9mjk0i66yougbjyqppgpf3y5uoc0qi</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>86t9t47wj8e9vjj1qx628leu0jt0dif</sha1>
     </revision>
   </page>
   <page>
@@ -33121,17 +33317,19 @@ table.dataTable tbody td:has(.mw-Cargoquery--thumbnail) {
     <ns>0</ns>
     <id>648</id>
     <revision>
-      <id>975</id>
-      <parentid>974</parentid>
-      <timestamp>2025-09-28T07:11:15Z</timestamp>
+      <id>1546</id>
+      <parentid>975</parentid>
+      <timestamp>2025-11-30T15:36:12Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>975</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1546</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="384" sha1="b63qtzmo5nslct0ku4y16n5g8accxnd" xml:space="preserve">{{문서:창팝
+      <text bytes="409" sha1="fjvzkn3keqrf25pdblshx4zud9ejxvw" xml:space="preserve">{{문서:창팝
 |유튜브Id=AVslXvCyiqc
 |별명=정응신
 |제작자=pretty_
@@ -33147,8 +33345,10 @@ table.dataTable tbody td:has(.mw-Cargoquery--thumbnail) {
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>b63qtzmo5nslct0ku4y16n5g8accxnd</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>fjvzkn3keqrf25pdblshx4zud9ejxvw</sha1>
     </revision>
   </page>
   <page>
@@ -33156,17 +33356,19 @@ table.dataTable tbody td:has(.mw-Cargoquery--thumbnail) {
     <ns>0</ns>
     <id>649</id>
     <revision>
-      <id>976</id>
-      <timestamp>2025-09-28T07:12:42Z</timestamp>
+      <id>1551</id>
+      <parentid>976</parentid>
+      <timestamp>2025-11-30T15:36:22Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=bTDcVyfrt-M |제작자=자기개발 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2024년 1편 }} |다른언어제목=Work Song |제작방법=Suno |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>976</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1551</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="362" sha1="o5bzk227xgz0ow1q8fiaysch1ldsnzm" xml:space="preserve">{{문서:창팝
+      <text bytes="387" sha1="a7sxnp68lrrwrutwngrfgstq7bqvbun" xml:space="preserve">{{문서:창팝
 |유튜브Id=bTDcVyfrt-M
 |제작자=자기개발
 |개사여부=아니오
@@ -33181,8 +33383,10 @@ table.dataTable tbody td:has(.mw-Cargoquery--thumbnail) {
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>o5bzk227xgz0ow1q8fiaysch1ldsnzm</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>a7sxnp68lrrwrutwngrfgstq7bqvbun</sha1>
     </revision>
   </page>
   <page>
@@ -33190,17 +33394,19 @@ table.dataTable tbody td:has(.mw-Cargoquery--thumbnail) {
     <ns>0</ns>
     <id>650</id>
     <revision>
-      <id>978</id>
-      <parentid>977</parentid>
-      <timestamp>2025-09-28T07:14:00Z</timestamp>
+      <id>1594</id>
+      <parentid>978</parentid>
+      <timestamp>2025-11-30T17:46:52Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>978</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1594</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="386" sha1="t48pgffcydgv98ls30q20i9bkqk865u" xml:space="preserve">{{문서:창팝
+      <text bytes="411" sha1="hyackpnipzej5uzr1ia7hxp8lbd2ph9" xml:space="preserve">{{문서:창팝
 |유튜브Id=6HCZNBEfnao
 |제작자=도사의 길
 |개사여부=아니오
@@ -33216,8 +33422,10 @@ table.dataTable tbody td:has(.mw-Cargoquery--thumbnail) {
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>t48pgffcydgv98ls30q20i9bkqk865u</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>hyackpnipzej5uzr1ia7hxp8lbd2ph9</sha1>
     </revision>
   </page>
   <page>
@@ -33958,18 +34166,19 @@ return p</text>
     <ns>0</ns>
     <id>676</id>
     <revision>
-      <id>1031</id>
-      <parentid>1030</parentid>
-      <timestamp>2025-10-21T13:07:03Z</timestamp>
+      <id>1544</id>
+      <parentid>1031</parentid>
+      <timestamp>2025-11-30T15:36:08Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
       <minor/>
-      <origin>1031</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1544</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="336" sha1="9tlxqfb59x319pis3kzcz0lj9ertanp" xml:space="preserve">{{문서:창팝
+      <text bytes="361" sha1="d7yvrnp6a3bou3grse7lrnpxfg8svoq" xml:space="preserve">{{문서:창팝
 |유튜브Id=VqfFdrYQJZg
 |제작자=쌀파라
 |개사여부=예
@@ -33984,8 +34193,10 @@ return p</text>
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>9tlxqfb59x319pis3kzcz0lj9ertanp</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>d7yvrnp6a3bou3grse7lrnpxfg8svoq</sha1>
     </revision>
   </page>
   <page>
@@ -34031,17 +34242,19 @@ return p</text>
     <ns>0</ns>
     <id>678</id>
     <revision>
-      <id>1034</id>
-      <timestamp>2025-10-21T13:09:37Z</timestamp>
+      <id>1569</id>
+      <parentid>1034</parentid>
+      <timestamp>2025-11-30T16:17:29Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=o8EilfiQtWk |제작자=기랑 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2024년 2편 }} |별명=이쏙리 |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>1034</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1569</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="325" sha1="qaziosaoq00bdt9kcu2ohdzmgzvwg6v" xml:space="preserve">{{문서:창팝
+      <text bytes="350" sha1="7ymce1k6yz332ybqkarf2nignokc1ev" xml:space="preserve">{{문서:창팝
 |유튜브Id=o8EilfiQtWk
 |제작자=기랑
 |개사여부=아니오
@@ -34055,8 +34268,10 @@ return p</text>
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>qaziosaoq00bdt9kcu2ohdzmgzvwg6v</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>7ymce1k6yz332ybqkarf2nignokc1ev</sha1>
     </revision>
   </page>
   <page>
@@ -34138,17 +34353,19 @@ return p</text>
     <ns>0</ns>
     <id>681</id>
     <revision>
-      <id>1037</id>
-      <timestamp>2025-10-21T13:13:11Z</timestamp>
+      <id>1527</id>
+      <parentid>1037</parentid>
+      <timestamp>2025-11-30T15:35:34Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=X-Umzp6OtBM |제작자=도사의 길 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2024년 2편 }} |화자=신창섭 |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>1037</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1527</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="332" sha1="fxfs10mcc12j3tc0pdsfcxau3c6rpiz" xml:space="preserve">{{문서:창팝
+      <text bytes="357" sha1="3zlqefqey2wd9ega9wuq1qqp6knz4i1" xml:space="preserve">{{문서:창팝
 |유튜브Id=X-Umzp6OtBM
 |제작자=도사의 길
 |개사여부=아니오
@@ -34162,8 +34379,10 @@ return p</text>
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>fxfs10mcc12j3tc0pdsfcxau3c6rpiz</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>3zlqefqey2wd9ega9wuq1qqp6knz4i1</sha1>
     </revision>
   </page>
   <page>
@@ -34517,17 +34736,19 @@ return p</text>
     <ns>0</ns>
     <id>691</id>
     <revision>
-      <id>1049</id>
-      <timestamp>2025-10-21T13:27:44Z</timestamp>
+      <id>1565</id>
+      <parentid>1049</parentid>
+      <timestamp>2025-11-30T15:59:24Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=YM-CI4XDYY0 |제작자=리슝좍교회 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2024년 2편 }} |화자=신창섭 |제작방법=Suno |고화질썸네일없음=예 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>1049</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1565</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="347" sha1="r6ugtwyevrw272hfx78xtwbn2wo32lf" xml:space="preserve">{{문서:창팝
+      <text bytes="372" sha1="ec36o2a9zc8xe5p5f705g4s3rqx33ni" xml:space="preserve">{{문서:창팝
 |유튜브Id=YM-CI4XDYY0
 |제작자=리슝좍교회
 |개사여부=아니오
@@ -34542,8 +34763,10 @@ return p</text>
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>r6ugtwyevrw272hfx78xtwbn2wo32lf</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ec36o2a9zc8xe5p5f705g4s3rqx33ni</sha1>
     </revision>
   </page>
   <page>
@@ -34551,17 +34774,19 @@ return p</text>
     <ns>0</ns>
     <id>692</id>
     <revision>
-      <id>1050</id>
-      <timestamp>2025-10-21T13:28:33Z</timestamp>
+      <id>1560</id>
+      <parentid>1050</parentid>
+      <timestamp>2025-11-30T15:47:24Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=G9Qn4iEjlYY |제작자=습작노트 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2024년 2편 }} |다른언어제목=Orphan |화자=신창섭 |제작방법=Suno |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>1050</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1560</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="377" sha1="i28tp9jx1cgdjotichanbhh0cnpvpig" xml:space="preserve">{{문서:창팝
+      <text bytes="402" sha1="ohv4cadxni19o1j8vbiv9i5ckubl2cg" xml:space="preserve">{{문서:창팝
 |유튜브Id=G9Qn4iEjlYY
 |제작자=습작노트
 |개사여부=아니오
@@ -34577,8 +34802,10 @@ return p</text>
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>i28tp9jx1cgdjotichanbhh0cnpvpig</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ohv4cadxni19o1j8vbiv9i5ckubl2cg</sha1>
     </revision>
   </page>
   <page>
@@ -34698,17 +34925,19 @@ return p</text>
     <ns>0</ns>
     <id>696</id>
     <revision>
-      <id>1054</id>
-      <timestamp>2025-10-21T13:32:30Z</timestamp>
+      <id>1531</id>
+      <parentid>1054</parentid>
+      <timestamp>2025-11-30T15:35:44Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=Z7a2qz1DaYI |제작자=이딴게 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2024년 2편 }} |화자=신창섭 |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>1054</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1531</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="328" sha1="d3il7fakqswx4uxzoex8m5f3d83wtru" xml:space="preserve">{{문서:창팝
+      <text bytes="353" sha1="0anxabb3q6xuh8cl8ia1zl3cx4bp0vp" xml:space="preserve">{{문서:창팝
 |유튜브Id=Z7a2qz1DaYI
 |제작자=이딴게
 |개사여부=아니오
@@ -34722,8 +34951,10 @@ return p</text>
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>d3il7fakqswx4uxzoex8m5f3d83wtru</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>0anxabb3q6xuh8cl8ia1zl3cx4bp0vp</sha1>
     </revision>
   </page>
   <page>
@@ -34843,17 +35074,19 @@ return p</text>
     <ns>0</ns>
     <id>700</id>
     <revision>
-      <id>1058</id>
-      <timestamp>2025-10-21T13:36:01Z</timestamp>
+      <id>1542</id>
+      <parentid>1058</parentid>
+      <timestamp>2025-11-30T15:36:05Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=fIixg7URHMA |제작자=습작노트 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2024년 2편 }} |다른언어제목=Cheers! |화자=신창섭 |제작방법=Suno |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>1058</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1542</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="378" sha1="185y3a7tflt2vfbtsaftbqu1f65kzuz" xml:space="preserve">{{문서:창팝
+      <text bytes="403" sha1="tgwq6bhj05tgkgufqi52cba181kjt19" xml:space="preserve">{{문서:창팝
 |유튜브Id=fIixg7URHMA
 |제작자=습작노트
 |개사여부=아니오
@@ -34869,8 +35102,10 @@ return p</text>
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>185y3a7tflt2vfbtsaftbqu1f65kzuz</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>tgwq6bhj05tgkgufqi52cba181kjt19</sha1>
     </revision>
   </page>
   <page>
@@ -34878,18 +35113,19 @@ return p</text>
     <ns>0</ns>
     <id>701</id>
     <revision>
-      <id>1061</id>
-      <parentid>1060</parentid>
-      <timestamp>2025-10-21T13:40:27Z</timestamp>
+      <id>1596</id>
+      <parentid>1061</parentid>
+      <timestamp>2025-11-30T17:59:41Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
       <minor/>
-      <origin>1061</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1596</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="600" sha1="q7bo6i1pi7jlnzz1kna1gioa8zxmws8" xml:space="preserve">{{문서:창팝
+      <text bytes="625" sha1="lt4e1m46llmukhg41qwgd7qqzzum91m" xml:space="preserve">{{문서:창팝
 |유튜브Id=JajrEEfyS7A
 |제작자=선족아또속냐
 |개사여부=아니오
@@ -34906,8 +35142,10 @@ return p</text>
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>q7bo6i1pi7jlnzz1kna1gioa8zxmws8</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>lt4e1m46llmukhg41qwgd7qqzzum91m</sha1>
     </revision>
   </page>
   <page>
@@ -35142,17 +35380,19 @@ MR: https://youtu.be/WSngfHwcfzE?si=q7HUXjL9F6UY_00U
     <ns>0</ns>
     <id>707</id>
     <revision>
-      <id>1074</id>
-      <timestamp>2025-11-01T16:56:52Z</timestamp>
+      <id>1562</id>
+      <parentid>1074</parentid>
+      <timestamp>2025-11-30T15:47:26Z</timestamp>
       <contributor>
-        <username>독슝좍</username>
-        <id>13</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=mmyRZ7AKSDo |제작자=독슝좍 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 4편 |수록날짜=2025-09-30 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>1074</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1562</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="335" sha1="9mjd16jb11o9pes8l0dg40c6a5lxswi" xml:space="preserve">{{문서:창팝
+      <text bytes="360" sha1="6le1m3gvhquojym678xjei7yg04f5p0" xml:space="preserve">{{문서:창팝
 |유튜브Id=mmyRZ7AKSDo
 |제작자=독슝좍
 |개사여부=아니오
@@ -35166,8 +35406,10 @@ MR: https://youtu.be/WSngfHwcfzE?si=q7HUXjL9F6UY_00U
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>9mjd16jb11o9pes8l0dg40c6a5lxswi</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>6le1m3gvhquojym678xjei7yg04f5p0</sha1>
     </revision>
   </page>
   <page>
@@ -36846,17 +37088,19 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>732</id>
     <revision>
-      <id>1136</id>
-      <timestamp>2025-11-13T15:02:03Z</timestamp>
+      <id>1559</id>
+      <parentid>1136</parentid>
+      <timestamp>2025-11-30T15:47:19Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=4ihT_8w2MSs |제작자=춤출까요 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=바캉스컵 2025 }}{{수록 창드컵 |창드컵=2025년 3편 |수록날짜=2025-11-02 }} |제작방법=Suno |링크={{링크 |링크=https://youtu.be/JPDqSBpbwFM |레이블=MR }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}</comment>
-      <origin>1136</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1559</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="478" sha1="55r465eflfx56hi1tv68zsi2lqgndxf" xml:space="preserve">{{문서:창팝
+      <text bytes="503" sha1="i1x1yedlhobij9bzznoce4dkql2hk2y" xml:space="preserve">{{문서:창팝
 |유튜브Id=4ihT_8w2MSs
 |제작자=춤출까요
 |개사여부=아니오
@@ -36877,8 +37121,10 @@ box-shadow: var(--box-shadow-border);
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>55r465eflfx56hi1tv68zsi2lqgndxf</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>i1x1yedlhobij9bzznoce4dkql2hk2y</sha1>
     </revision>
   </page>
   <page>
@@ -37046,17 +37292,19 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>736</id>
     <revision>
-      <id>1160</id>
-      <timestamp>2025-11-16T09:24:42Z</timestamp>
+      <id>1573</id>
+      <parentid>1160</parentid>
+      <timestamp>2025-11-30T16:59:13Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄추가 시트 요청</comment>
-      <origin>1160</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1573</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="288" sha1="r8j47gspa09faxeuej5lf9fwjbwpf6v" xml:space="preserve">{{문서:창팝
+      <text bytes="313" sha1="ff14izq81ngmn61nyfpczaqkufjcvbh" xml:space="preserve">{{문서:창팝
 |유튜브Id=8DaRFGNzK3M
 |제작자=브론넷 박사
 |제작방법=Suno
@@ -37067,8 +37315,10 @@ box-shadow: var(--box-shadow-border);
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>r8j47gspa09faxeuej5lf9fwjbwpf6v</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ff14izq81ngmn61nyfpczaqkufjcvbh</sha1>
     </revision>
   </page>
   <page>
@@ -37076,17 +37326,19 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>737</id>
     <revision>
-      <id>1161</id>
-      <timestamp>2025-11-16T09:24:49Z</timestamp>
+      <id>1576</id>
+      <parentid>1161</parentid>
+      <timestamp>2025-11-30T16:59:17Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄추가 시트 요청</comment>
-      <origin>1161</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1576</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="300" sha1="631mqzmneccvmqz7il9aq1x1gw7wzta" xml:space="preserve">{{문서:창팝
+      <text bytes="325" sha1="1etwc7sdvxcrkomvjogq7zbjfnoad2m" xml:space="preserve">{{문서:창팝
 |유튜브Id=c9GiDVafOVY
 |제작자=브론넷 박사
 |제작방법=Suno
@@ -37098,8 +37350,10 @@ box-shadow: var(--box-shadow-border);
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>631mqzmneccvmqz7il9aq1x1gw7wzta</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>1etwc7sdvxcrkomvjogq7zbjfnoad2m</sha1>
     </revision>
   </page>
   <page>
@@ -37107,17 +37361,19 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>738</id>
     <revision>
-      <id>1162</id>
-      <timestamp>2025-11-16T09:24:50Z</timestamp>
+      <id>1510</id>
+      <parentid>1162</parentid>
+      <timestamp>2025-11-30T14:46:52Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄추가 시트 요청</comment>
-      <origin>1162</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1510</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="321" sha1="n8gcbqp67h2w4kyy83wsa6j6f4u4pkb" xml:space="preserve">{{문서:창팝
+      <text bytes="346" sha1="2t9bjxq0hkm6edn6c8btg8im1409rwf" xml:space="preserve">{{문서:창팝
 |유튜브Id=bD4yucvPmQ0
 |제작자=브론넷 박사
 |화자=언니네 -리-발관
@@ -37129,8 +37385,10 @@ box-shadow: var(--box-shadow-border);
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>n8gcbqp67h2w4kyy83wsa6j6f4u4pkb</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>2t9bjxq0hkm6edn6c8btg8im1409rwf</sha1>
     </revision>
   </page>
   <page>
@@ -37242,19 +37500,19 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>742</id>
     <revision>
-      <id>1168</id>
-      <parentid>1166</parentid>
-      <timestamp>2025-11-16T09:28:23Z</timestamp>
+      <id>1515</id>
+      <parentid>1168</parentid>
+      <timestamp>2025-11-30T15:20:42Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>유튜브ID 수정</comment>
-      <origin>1168</origin>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1515</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="285" sha1="bxj8im1bxfgdrndowsvhhq7cbp53nw6" xml:space="preserve">{{문서:창팝
+      <text bytes="310" sha1="9yiiy2kn50d54rzcym67r3zil1owhot" xml:space="preserve">{{문서:창팝
 |유튜브Id=8xtFp5YmOYU
 |제작자=브론넷 박사
 |제작방법=Suno
@@ -37265,8 +37523,10 @@ box-shadow: var(--box-shadow-border);
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>bxj8im1bxfgdrndowsvhhq7cbp53nw6</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>9yiiy2kn50d54rzcym67r3zil1owhot</sha1>
     </revision>
   </page>
   <page>
@@ -37274,17 +37534,19 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>743</id>
     <revision>
-      <id>1167</id>
-      <timestamp>2025-11-16T09:28:02Z</timestamp>
+      <id>1570</id>
+      <parentid>1167</parentid>
+      <timestamp>2025-11-30T16:39:19Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄추가 시트 요청</comment>
-      <origin>1167</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1570</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="285" sha1="r7lbuyweaaykqozahcoq6olw5ur6n7d" xml:space="preserve">{{문서:창팝
+      <text bytes="310" sha1="hxi9v8bg52zywr9397c3yundox7idgi" xml:space="preserve">{{문서:창팝
 |유튜브Id=ukftil09fn4
 |제작자=브론넷 박사
 |제작방법=Suno
@@ -37295,8 +37557,10 @@ box-shadow: var(--box-shadow-border);
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>r7lbuyweaaykqozahcoq6olw5ur6n7d</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>hxi9v8bg52zywr9397c3yundox7idgi</sha1>
     </revision>
   </page>
   <page>
@@ -37372,17 +37636,19 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>746</id>
     <revision>
-      <id>1171</id>
-      <timestamp>2025-11-16T09:28:26Z</timestamp>
+      <id>1521</id>
+      <parentid>1171</parentid>
+      <timestamp>2025-11-30T15:35:24Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄추가 시트 요청</comment>
-      <origin>1171</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1521</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="301" sha1="c6otb4su2g4d4fdz0tqr0wzy47usxvt" xml:space="preserve">{{문서:창팝
+      <text bytes="326" sha1="1tcmr1fycf2zawfpf4sotv6gvloxkqq" xml:space="preserve">{{문서:창팝
 |유튜브Id=MWKajOVq7d8
 |제작자=브론넷 박사
 |제작방법=Suno
@@ -37394,8 +37660,10 @@ box-shadow: var(--box-shadow-border);
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>c6otb4su2g4d4fdz0tqr0wzy47usxvt</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>1tcmr1fycf2zawfpf4sotv6gvloxkqq</sha1>
     </revision>
   </page>
   <page>
@@ -37895,17 +38163,19 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>761</id>
     <revision>
-      <id>1201</id>
-      <timestamp>2025-11-25T09:55:28Z</timestamp>
+      <id>1522</id>
+      <parentid>1201</parentid>
+      <timestamp>2025-11-30T15:35:24Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기</comment>
-      <origin>1201</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1522</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="440" sha1="obczwb50r96ry905xk4zt4fgbhyeljk" xml:space="preserve">{{문서:창팝
+      <text bytes="465" sha1="n4fludzway3q3aobl0nv1puyf92z7a5" xml:space="preserve">{{문서:창팝
 |유튜브Id=khg7KZo5q50
 |제작자=이우
 |화자=백악기 합창대
@@ -37921,8 +38191,10 @@ box-shadow: var(--box-shadow-border);
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>obczwb50r96ry905xk4zt4fgbhyeljk</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>n4fludzway3q3aobl0nv1puyf92z7a5</sha1>
     </revision>
   </page>
   <page>
@@ -37964,17 +38236,19 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>763</id>
     <revision>
-      <id>1203</id>
-      <timestamp>2025-11-25T09:55:34Z</timestamp>
+      <id>1572</id>
+      <parentid>1203</parentid>
+      <timestamp>2025-11-30T16:59:10Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기</comment>
-      <origin>1203</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1572</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="309" sha1="3wliijdb9d49mvolp2l3d9wmofnvpzz" xml:space="preserve">{{문서:창팝
+      <text bytes="334" sha1="agp1l993kxrublj709pfug2gynsu374" xml:space="preserve">{{문서:창팝
 |유튜브Id=M0QIjo8eotI
 |제작자=쌀파라
 |제작방법=Suno
@@ -37986,8 +38260,10 @@ box-shadow: var(--box-shadow-border);
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>3wliijdb9d49mvolp2l3d9wmofnvpzz</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>agp1l993kxrublj709pfug2gynsu374</sha1>
     </revision>
   </page>
   <page>
@@ -38103,17 +38379,19 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>767</id>
     <revision>
-      <id>1207</id>
-      <timestamp>2025-11-25T09:55:43Z</timestamp>
+      <id>1547</id>
+      <parentid>1207</parentid>
+      <timestamp>2025-11-30T15:36:14Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기</comment>
-      <origin>1207</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1547</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="387" sha1="b4ywpw7z7qoa0zz6y04elhjmg3q5x0k" xml:space="preserve">{{문서:창팝
+      <text bytes="412" sha1="hxb9sh9b5zdfk7pj6xn2wqxpvyqxceg" xml:space="preserve">{{문서:창팝
 |유튜브Id=lDXnDBSBbvE
 |제작자=방자
 |화자=신창섭
@@ -38126,8 +38404,10 @@ box-shadow: var(--box-shadow-border);
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>b4ywpw7z7qoa0zz6y04elhjmg3q5x0k</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>hxb9sh9b5zdfk7pj6xn2wqxpvyqxceg</sha1>
     </revision>
   </page>
   <page>
@@ -38168,17 +38448,19 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>769</id>
     <revision>
-      <id>1209</id>
-      <timestamp>2025-11-25T09:55:48Z</timestamp>
+      <id>1514</id>
+      <parentid>1209</parentid>
+      <timestamp>2025-11-30T15:18:35Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기</comment>
-      <origin>1209</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1514</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="308" sha1="jz081hthiaaqqas4v2j4esb3t3yk6ro" xml:space="preserve">{{문서:창팝
+      <text bytes="333" sha1="0w1bdym7ac6hvb4du1ejdc6nte64lud" xml:space="preserve">{{문서:창팝
 |유튜브Id=dIJkalsARwM
 |제작자=슝버좍
 |화자=AI
@@ -38190,8 +38472,10 @@ box-shadow: var(--box-shadow-border);
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>jz081hthiaaqqas4v2j4esb3t3yk6ro</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>0w1bdym7ac6hvb4du1ejdc6nte64lud</sha1>
     </revision>
   </page>
   <page>
@@ -38233,17 +38517,19 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>771</id>
     <revision>
-      <id>1211</id>
-      <timestamp>2025-11-25T09:55:52Z</timestamp>
+      <id>1550</id>
+      <parentid>1211</parentid>
+      <timestamp>2025-11-30T15:36:20Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기</comment>
-      <origin>1211</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1550</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="375" sha1="ftic3yrbdcw48jlbndnut3sphdymunq" xml:space="preserve">{{문서:창팝
+      <text bytes="400" sha1="lavga7l5kvebt0o1xigefegvs2diry1" xml:space="preserve">{{문서:창팝
 |유튜브Id=CMBg5kcU0PA
 |제작자=아연실색
 |제작방법=Suno
@@ -38255,8 +38541,10 @@ box-shadow: var(--box-shadow-border);
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>ftic3yrbdcw48jlbndnut3sphdymunq</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>lavga7l5kvebt0o1xigefegvs2diry1</sha1>
     </revision>
   </page>
   <page>
@@ -38264,17 +38552,19 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>772</id>
     <revision>
-      <id>1212</id>
-      <timestamp>2025-11-25T09:55:52Z</timestamp>
+      <id>1561</id>
+      <parentid>1212</parentid>
+      <timestamp>2025-11-30T15:47:25Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기</comment>
-      <origin>1212</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1561</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="404" sha1="76dqj6caakbjubafrap20onjd1d2ah9" xml:space="preserve">{{문서:창팝
+      <text bytes="429" sha1="fk1c70aufvga0zx6zqk7vseyasvf7kp" xml:space="preserve">{{문서:창팝
 |유튜브Id=IRFc_BfUAWw
 |제작자=그냥기가창섭
 |화자=신창섭 (feat. 투허닛)
@@ -38286,8 +38576,10 @@ box-shadow: var(--box-shadow-border);
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>76dqj6caakbjubafrap20onjd1d2ah9</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>fk1c70aufvga0zx6zqk7vseyasvf7kp</sha1>
     </revision>
   </page>
   <page>
@@ -38469,17 +38761,19 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>778</id>
     <revision>
-      <id>1218</id>
-      <timestamp>2025-11-25T09:56:05Z</timestamp>
+      <id>1593</id>
+      <parentid>1218</parentid>
+      <timestamp>2025-11-30T17:40:58Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기</comment>
-      <origin>1218</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1593</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="324" sha1="b8b7gd5schaqvqz87s3t1shjultvo54" xml:space="preserve">{{문서:창팝
+      <text bytes="349" sha1="26ho8dm7z5huj1jx68sn1rknhvfhiat" xml:space="preserve">{{문서:창팝
 |유튜브Id=aNCgDeSqaWA
 |제작자=윾동
 |화자=신창섭
@@ -38491,8 +38785,10 @@ box-shadow: var(--box-shadow-border);
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>b8b7gd5schaqvqz87s3t1shjultvo54</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>26ho8dm7z5huj1jx68sn1rknhvfhiat</sha1>
     </revision>
   </page>
   <page>
@@ -38500,17 +38796,19 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>779</id>
     <revision>
-      <id>1219</id>
-      <timestamp>2025-11-25T09:56:06Z</timestamp>
+      <id>1525</id>
+      <parentid>1219</parentid>
+      <timestamp>2025-11-30T15:35:32Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기</comment>
-      <origin>1219</origin>
+      <minor/>
+      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
+      <origin>1525</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="347" sha1="73csxxhbzlijdlusmkuuqosp2aajd2w" xml:space="preserve">{{문서:창팝
+      <text bytes="372" sha1="h1r9ynm0po85jr29pcam1hohg14yh88" xml:space="preserve">{{문서:창팝
 |유튜브Id=2iBdkbSc8vc
 |제작자=도사의 길
 |수록컵={{수록 창드컵|창드컵=2024년 4편}}
@@ -38522,8 +38820,10 @@ box-shadow: var(--box-shadow-border);
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
 
 == 가사 ==
-{{가사}}</text>
-      <sha1>73csxxhbzlijdlusmkuuqosp2aajd2w</sha1>
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>h1r9ynm0po85jr29pcam1hohg14yh88</sha1>
     </revision>
   </page>
   <page>
@@ -39129,6 +39429,36 @@ And I says "paid fucking tax tax tax tax tax"</text>
 
 {{문서:설명문서}}</text>
       <sha1>j89s7iimefxvqg37ipvbw7wu920w0p0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>최초공개 릴레이/아카이브/2025년 12월</title>
+    <ns>0</ns>
+    <id>793</id>
+    <revision>
+      <id>1516</id>
+      <timestamp>2025-11-30T15:21:09Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{#arraymap: 01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31 | ,  | {{{일}}}  | &lt;h3&gt;{{#time: j | 2025-12-{{{일}}} }}일&lt;/h3&gt; &lt;div style=" margin-block: var(--space-md); border-radius: var(--border-radius-medium); box-shadow: var(--box-shadow-border); "&gt;{{최초공개 릴레이|날짜=2025-12-{{{일}}} }}&lt;/div&gt; | }}  [[분류:최초공개 릴레이 아카이브]]</comment>
+      <origin>1516</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="411" sha1="ecqk5q0x7z5f7k4eqnjijqjdmkrr34g" xml:space="preserve">{{#arraymap: 01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31
+| , 
+| {{{일}}} 
+| &lt;h3&gt;{{#time: j | 2025-12-{{{일}}} }}일&lt;/h3&gt; &lt;div style="
+margin-block: var(--space-md);
+border-radius: var(--border-radius-medium);
+box-shadow: var(--box-shadow-border);
+"&gt;{{최초공개 릴레이|날짜=2025-12-{{{일}}} }}&lt;/div&gt;
+|
+}}
+
+[[분류:최초공개 릴레이 아카이브]]</text>
+      <sha1>ecqk5q0x7z5f7k4eqnjijqjdmkrr34g</sha1>
     </revision>
   </page>
 </mediawiki>
