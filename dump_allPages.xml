@@ -11094,17 +11094,17 @@ Six Seven Eight Night
     <ns>10</ns>
     <id>249</id>
     <revision>
-      <id>1128</id>
-      <parentid>270</parentid>
-      <timestamp>2025-11-13T14:51:11Z</timestamp>
+      <id>1708</id>
+      <parentid>1128</parentid>
+      <timestamp>2025-12-11T16:16:52Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1128</origin>
+      <origin>1708</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1570" sha1="bi6lfnm5ljng9abvk67dv4e75k4qqde" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
+      <text bytes="1581" sha1="lbjobtovfkb40hi4abeue97zggj7npc" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
 
 일반 문서 이름공간(ns:0)에서만 적용
 --&gt;{{#만약일치: {{이름공간수}} | 0 | &lt;!-- 
@@ -11127,7 +11127,7 @@ Six Seven Eight Night
 --&gt;
 {| class="wikitable infobox floatright"
 |-
-! colspan="2" style="text-align: center" |&lt;span style="font-size: large"&gt;복면창팝 2 참가곡&lt;/span&gt;
+! colspan="2" style="text-align: center" |&lt;span style="font-size: large"&gt;[[복면창팝 시즌 2]] 참가곡&lt;/span&gt;
 |- class="infobox-image"
 | colspan=2 | {{#if: {{{복면그림|}}} | {{복면그림}} }}
 |-
@@ -11166,7 +11166,7 @@ Six Seven Eight Night
 {{#cargo_attach: _table = 복면창팝2참가곡 }}&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>bi6lfnm5ljng9abvk67dv4e75k4qqde</sha1>
+      <sha1>lbjobtovfkb40hi4abeue97zggj7npc</sha1>
     </revision>
   </page>
   <page>
@@ -19966,30 +19966,29 @@ Let's create our story
     <ns>0</ns>
     <id>392</id>
     <revision>
-      <id>1549</id>
-      <parentid>578</parentid>
-      <timestamp>2025-11-30T15:36:15Z</timestamp>
+      <id>1693</id>
+      <parentid>1549</parentid>
+      <timestamp>2025-12-11T15:01:41Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1549</origin>
+      <origin>1693</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="430" sha1="gnhjbh5yj2alclaj4r8pd0wmxwo7lsw" xml:space="preserve">{{문서:창팝
-| 곡명 = 쾌창
-| 다른언어제목 = 快唱
-| 유튜브Id = iliEVIUX6eg
-| 제작자 = 새우
-| 개사여부 = 예
-| 원곡명 = 快晴 (쾌청)
-| 공개일 = 2024-11-04
-| 수록컵 = {{수록 창드컵
-|창드컵=바캉스컵
+      <text bytes="447" sha1="n5lwmyzu6yaq8lcrytsjdypld0w9w7a" xml:space="preserve">{{문서:창팝
+|유튜브Id=iliEVIUX6eg
+|제작자=새우
+|개사여부=예
+|원곡명=快晴 (쾌청)
+|수록컵={{수록 창드컵
+|창드컵=바캉스컵 2025
 |수록날짜=2025-07-01
 }}
+|공개일=2024-11-04
+|곡명=쾌창
+|다른언어제목=快唱
+|고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -19998,7 +19997,7 @@ Let's create our story
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>gnhjbh5yj2alclaj4r8pd0wmxwo7lsw</sha1>
+      <sha1>n5lwmyzu6yaq8lcrytsjdypld0w9w7a</sha1>
     </revision>
   </page>
   <page>
@@ -20771,17 +20770,17 @@ Cultual, 어차피 언젠가
     <ns>10</ns>
     <id>413</id>
     <revision>
-      <id>1127</id>
-      <parentid>608</parentid>
-      <timestamp>2025-11-13T14:50:46Z</timestamp>
+      <id>1709</id>
+      <parentid>1127</parentid>
+      <timestamp>2025-12-11T16:17:11Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1127</origin>
+      <origin>1709</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1593" sha1="lh9r5qw6ehnejfb0ortyf03gecgklb7" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
+      <text bytes="1604" sha1="snksyc0jtk073wwpox5eudghqsnm61e" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
 
 일반 문서 이름공간(ns:0)에서만 적용
 --&gt;{{#만약일치: {{이름공간수}} | 0 | &lt;!-- 
@@ -20805,7 +20804,7 @@ Cultual, 어차피 언젠가
 --&gt;
 {| class="wikitable infobox floatright"
 |-
-! colspan="2" style="text-align: center" |&lt;span style="font-size: large"&gt;복면창팝 3 참가곡&lt;/span&gt;
+! colspan="2" style="text-align: center" |&lt;span style="font-size: large"&gt;[[복면창팝 시즌 3]] 참가곡&lt;/span&gt;
 |- class="infobox-image"
 | colspan=2 | {{#if: {{{복면그림|}}} | {{복면그림}} }}
 |-
@@ -20847,7 +20846,7 @@ Cultual, 어차피 언젠가
 {{#cargo_attach: _table = 복면창팝3참가곡 }}&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>lh9r5qw6ehnejfb0ortyf03gecgklb7</sha1>
+      <sha1>snksyc0jtk073wwpox5eudghqsnm61e</sha1>
     </revision>
   </page>
   <page>
@@ -20855,22 +20854,24 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>414</id>
     <revision>
-      <id>1472</id>
-      <parentid>802</parentid>
-      <timestamp>2025-11-29T20:03:39Z</timestamp>
+      <id>1687</id>
+      <parentid>1472</parentid>
+      <timestamp>2025-12-11T14:52:39Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1472</origin>
+      <comment>창드컵 수록 정보 추가</comment>
+      <origin>1687</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="623" sha1="1lpxa4o15idu53iifuh54i4owdf42bd" xml:space="preserve">{{문서:창팝
+      <text bytes="688" sha1="a2yuteak3xb0rnk5aehopr5qwdhuup9" xml:space="preserve">{{문서:창팝
 |유튜브Id=_wRpoUOyba8
 |제작자=독슝좍
 |개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=추수감사컵 2025
+}}
 |제작방법=Suno
 |프롬프트=00's Korean Neo soul R&amp;B, Groovy, Very hard Bassline
 |고화질썸네일없음=아니오
@@ -20892,7 +20893,7 @@ Cultual, 어차피 언젠가
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>1lpxa4o15idu53iifuh54i4owdf42bd</sha1>
+      <sha1>a2yuteak3xb0rnk5aehopr5qwdhuup9</sha1>
     </revision>
   </page>
   <page>
@@ -21898,22 +21899,27 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>438</id>
     <revision>
-      <id>1258</id>
-      <parentid>887</parentid>
-      <timestamp>2025-11-29T19:44:46Z</timestamp>
+      <id>1685</id>
+      <parentid>1258</parentid>
+      <timestamp>2025-12-11T14:50:01Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1258</origin>
+      <comment>창드컵 수록 정보 추가</comment>
+      <origin>1685</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="592" sha1="tpf8dzij66g807zmfo5uckk23bzd6eh" xml:space="preserve">{{문서:창팝
+      <text bytes="727" sha1="i2wuzddd08fc1mq451rat9dxs5bfzvv" xml:space="preserve">{{문서:창팝
 |유튜브Id=yaVwr0V5-J0
 |제작자=프라이드튜나
 |개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=추수감사컵 2025
+}}
+|이전수록컵={{이전 수록 창드컵
+|창드컵=2025년 4편
+}}
 |고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
@@ -21933,7 +21939,7 @@ Cultual, 어차피 언젠가
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>tpf8dzij66g807zmfo5uckk23bzd6eh</sha1>
+      <sha1>i2wuzddd08fc1mq451rat9dxs5bfzvv</sha1>
     </revision>
   </page>
   <page>
@@ -22159,21 +22165,25 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>444</id>
     <revision>
-      <id>1568</id>
-      <parentid>640</parentid>
-      <timestamp>2025-11-30T16:16:23Z</timestamp>
+      <id>1696</id>
+      <parentid>1568</parentid>
+      <timestamp>2025-12-11T15:05:54Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1568</origin>
+      <comment>단품 정상화</comment>
+      <origin>1696</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="611" sha1="g6wwzyqgidzux7ymk4bb1lov46gnsl8" xml:space="preserve">{{문서:창팝
-|유튜브Id=NkQYh0qg5a4
+      <text bytes="736" sha1="su70rdn39czzujw90de1t2bb5et5cxq" xml:space="preserve">{{문서:창팝
+|유튜브Id=48SQGsNeNWM
+|제작자=리슨온리족
 |개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=바캉스컵 2025
+}}
+|고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -22192,7 +22202,7 @@ Cultual, 어차피 언젠가
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>g6wwzyqgidzux7ymk4bb1lov46gnsl8</sha1>
+      <sha1>su70rdn39czzujw90de1t2bb5et5cxq</sha1>
     </revision>
   </page>
   <page>
@@ -22743,21 +22753,25 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>458</id>
     <revision>
-      <id>1415</id>
-      <parentid>654</parentid>
-      <timestamp>2025-11-29T20:00:28Z</timestamp>
+      <id>1686</id>
+      <parentid>1415</parentid>
+      <timestamp>2025-12-11T14:52:02Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1415</origin>
+      <comment>단품 정상화</comment>
+      <origin>1686</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="498" sha1="fbxu9i7xbxql6ze2b2t4qsl3luli0uc" xml:space="preserve">{{문서:창팝
-|유튜브Id=5vzWdzweGmI
+      <text bytes="659" sha1="65ysdwc8m0ohymm24zqei4ujrh9kwei" xml:space="preserve">{{문서:창팝
+|유튜브Id=lqHgwjnhdq0
+|제작자=아무생각없는거같기도하고아닌거같기도
 |개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=추수감사컵 2025
+}}
+|고화질썸네일없음=예
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -22776,7 +22790,7 @@ Cultual, 어차피 언젠가
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>fbxu9i7xbxql6ze2b2t4qsl3luli0uc</sha1>
+      <sha1>65ysdwc8m0ohymm24zqei4ujrh9kwei</sha1>
     </revision>
   </page>
   <page>
@@ -22784,21 +22798,26 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>459</id>
     <revision>
-      <id>1411</id>
-      <parentid>656</parentid>
-      <timestamp>2025-11-29T20:00:12Z</timestamp>
+      <id>1688</id>
+      <parentid>1411</parentid>
+      <timestamp>2025-12-11T14:54:02Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1411</origin>
+      <comment>단품 정상화</comment>
+      <origin>1688</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="406" sha1="mrri9lycpj64ju9zo8zrlc3ssng8m9s" xml:space="preserve">{{문서:창팝
-|유튜브Id=TeyDghjBY0E
+      <text bytes="550" sha1="dajmpzhorothqj7izw57pg60h9e4q3x" xml:space="preserve">{{문서:창팝
+|유튜브Id=4eOe0tnon8o
+|제작자=춤출까요
 |개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=추수감사컵 2025
+}}
+|제작방법=Suno
+|고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -22817,7 +22836,7 @@ Cultual, 어차피 언젠가
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>mrri9lycpj64ju9zo8zrlc3ssng8m9s</sha1>
+      <sha1>dajmpzhorothqj7izw57pg60h9e4q3x</sha1>
     </revision>
   </page>
   <page>
@@ -26720,23 +26739,23 @@ MR: https://youtu.be/vCDJ_dKCLsA
     <ns>0</ns>
     <id>534</id>
     <revision>
-      <id>1285</id>
-      <parentid>1078</parentid>
-      <timestamp>2025-11-29T19:52:46Z</timestamp>
+      <id>1689</id>
+      <parentid>1285</parentid>
+      <timestamp>2025-12-11T14:55:59Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1285</origin>
+      <origin>1689</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="721" sha1="8w0nvowu8fx37n6jteut7o148xmwpgr" xml:space="preserve">{{문서:창팝
+      <text bytes="747" sha1="lcy9t0s74ns7984fps3lw19rip634v4" xml:space="preserve">{{문서:창팝
 |유튜브Id=zzKI76ora3s
+|제작자=독슝좍
 |개사여부=아니오
 |수록컵={{수록 창드컵
-|창드컵=추수감사컵
+|창드컵=추수감사컵 2025
 }}
 |프롬프트=scratchy and gritty Vocalist, Strong vocal scratches, The Korean Ballad opens with delicate piano arpeggios and subtle string pads, establishing a sentimental atmosphere, Verses feature restrained vocals over minimal instrumentation; the chorus swells with lush strings, dynamic drums, and emotive melody lines, A soaring bridge with orchestral build adds drama before a soft, fading outro
 |고화질썸네일없음=아니오
@@ -26748,7 +26767,7 @@ MR: https://youtu.be/vCDJ_dKCLsA
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>8w0nvowu8fx37n6jteut7o148xmwpgr</sha1>
+      <sha1>lcy9t0s74ns7984fps3lw19rip634v4</sha1>
     </revision>
   </page>
   <page>
@@ -37038,27 +37057,26 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>732</id>
     <revision>
-      <id>1559</id>
-      <parentid>1136</parentid>
-      <timestamp>2025-11-30T15:47:19Z</timestamp>
+      <id>1695</id>
+      <parentid>1559</parentid>
+      <timestamp>2025-12-11T15:05:09Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1559</origin>
+      <origin>1695</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="503" sha1="i1x1yedlhobij9bzznoce4dkql2hk2y" xml:space="preserve">{{문서:창팝
+      <text bytes="528" sha1="o92w2wdoh1l3g8tx3cn7vuvlpjpkm3g" xml:space="preserve">{{문서:창팝
 |유튜브Id=4ihT_8w2MSs
 |제작자=춤출까요
 |개사여부=아니오
 |수록컵={{수록 창드컵
-|창드컵=바캉스컵 2025
-}}{{수록 창드컵
 |창드컵=2025년 3편
 |수록날짜=2025-11-02
+}}
+|이전수록컵={{이전 수록 창드컵
+|창드컵=바캉스컵 2025
 }}
 |제작방법=Suno
 |링크={{링크
@@ -37074,7 +37092,7 @@ box-shadow: var(--box-shadow-border);
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>i1x1yedlhobij9bzznoce4dkql2hk2y</sha1>
+      <sha1>o92w2wdoh1l3g8tx3cn7vuvlpjpkm3g</sha1>
     </revision>
   </page>
   <page>
@@ -37415,25 +37433,27 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>741</id>
     <revision>
-      <id>1424</id>
-      <parentid>1165</parentid>
-      <timestamp>2025-11-29T20:01:05Z</timestamp>
+      <id>1692</id>
+      <parentid>1424</parentid>
+      <timestamp>2025-12-11T15:01:16Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1424</origin>
+      <origin>1692</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="356" sha1="ombazqh7qpeulefhlnszhq34wyu1nzm" xml:space="preserve">{{문서:창팝
+      <text bytes="417" sha1="41wflx7quedlkxi9urcn22lwbnsmv9i" xml:space="preserve">{{문서:창팝
 |유튜브Id=nmrzdX7HDXI
 |제작자=창팝용
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=바캉스컵 2025
+}}
 |화자=$$al, Angelic Buster
 |제작방법=Suno
 |프롬프트=summer vibe, hip-hop
-|수록컵={{수록 창드컵|창드컵=바캉스컵}}
+|고화질썸네일없음=예
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -37442,7 +37462,7 @@ box-shadow: var(--box-shadow-border);
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>ombazqh7qpeulefhlnszhq34wyu1nzm</sha1>
+      <sha1>41wflx7quedlkxi9urcn22lwbnsmv9i</sha1>
     </revision>
   </page>
   <page>
@@ -37552,24 +37572,27 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>745</id>
     <revision>
-      <id>1304</id>
-      <parentid>1170</parentid>
-      <timestamp>2025-11-29T19:54:04Z</timestamp>
+      <id>1690</id>
+      <parentid>1304</parentid>
+      <timestamp>2025-12-11T14:56:42Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1304</origin>
+      <origin>1690</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="311" sha1="jb2xam7yffi4rwvq3kleiadoh9r1j71" xml:space="preserve">{{문서:창팝
+      <text bytes="378" sha1="9680q1sywv3t62xqqr15edizbb9hlgr" xml:space="preserve">{{문서:창팝
 |유튜브Id=2KWonMepcbE
 |제작자=브론넷 박사
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=추수감사컵 2025
+}}
 |제작방법=Suno
-|수록컵={{수록 창드컵|창드컵=추수감사컵}}
 |BPM=150
+|고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -37578,7 +37601,7 @@ box-shadow: var(--box-shadow-border);
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>jb2xam7yffi4rwvq3kleiadoh9r1j71</sha1>
+      <sha1>9680q1sywv3t62xqqr15edizbb9hlgr</sha1>
     </revision>
   </page>
   <page>
@@ -40207,6 +40230,1890 @@ box-shadow: var(--box-shadow-border);
 }}
 [[분류:창드컵 수록곡]]</text>
       <sha1>ca21rlfaal08bp0u68ugdpdwde0pap2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>글묘</title>
+    <ns>0</ns>
+    <id>819</id>
+    <revision>
+      <id>1631</id>
+      <timestamp>2025-12-11T14:44:49Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1631</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="315" sha1="456r21fbdlnp2rcsc0yvu4sn2ju1f8z" xml:space="preserve">{{문서:창팝
+|유튜브Id=We-uNsSQ5N0
+|제작자=습작노트
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+|다른언어제목=CEMETEXTRY
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>456r21fbdlnp2rcsc0yvu4sn2ju1f8z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>야경</title>
+    <ns>0</ns>
+    <id>820</id>
+    <revision>
+      <id>1632</id>
+      <timestamp>2025-12-11T14:44:57Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1632</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="281" sha1="93r1v0hh7hnaq9xe7nx10u8iob20irk" xml:space="preserve">{{문서:창팝
+|유튜브Id=IaEf89BJGAA
+|제작자=창섭이
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>93r1v0hh7hnaq9xe7nx10u8iob20irk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>자격지심</title>
+    <ns>0</ns>
+    <id>821</id>
+    <revision>
+      <id>1633</id>
+      <timestamp>2025-12-11T14:45:00Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1633</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="316" sha1="5a1yoqgqw35m0x4za5jw5r4pg6sls1j" xml:space="preserve">{{문서:창팝
+|유튜브Id=6a9UKas2iKU
+|제작자=AlphaGo
+|화자=신창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>5a1yoqgqw35m0x4za5jw5r4pg6sls1j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>페르소나</title>
+    <ns>0</ns>
+    <id>822</id>
+    <revision>
+      <id>1634</id>
+      <timestamp>2025-12-11T14:45:10Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1634</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="321" sha1="eagfepu4byovob7sp93jz5wioi1cfrx" xml:space="preserve">{{문서:창팝
+|유튜브Id=9obPzUu6eFU
+|제작자=음악으로세상을정상화
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>eagfepu4byovob7sp93jz5wioi1cfrx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>DJ콩 &amp; 빌리언창 EDM 페스티벌</title>
+    <ns>0</ns>
+    <id>823</id>
+    <revision>
+      <id>1635</id>
+      <timestamp>2025-12-11T14:45:12Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1635</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="369" sha1="1cthbksv68mpdjahezv54oxm2lsru7i" xml:space="preserve">{{문서:창팝
+|유튜브Id=nEGHHjvO7X8
+|제작자=리플족
+|화자=feat.붓다창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+|곡명=DJ콩 &amp; 빌리언창 EDM 페스티벌
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>1cthbksv68mpdjahezv54oxm2lsru7i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>여름이 온다</title>
+    <ns>0</ns>
+    <id>824</id>
+    <revision>
+      <id>1636</id>
+      <timestamp>2025-12-11T14:45:14Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1636</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="2l2g145dc709m46bq7uvxgoj8nz3l0n" xml:space="preserve">{{문서:창팝
+|유튜브Id=9SaYga3Ouc8
+|제작자=리데오
+|제작방법=Udio
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>2l2g145dc709m46bq7uvxgoj8nz3l0n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>쌀먹의 나라</title>
+    <ns>0</ns>
+    <id>825</id>
+    <revision>
+      <id>1637</id>
+      <timestamp>2025-12-11T14:45:23Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1637</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="406" sha1="ornbj16jhas48a5qsae6vmvhzo4yak6" xml:space="preserve">{{문서:창팝
+|유튜브Id=5YD7oz0JarE
+|제작자=슝기
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+|별명=빚이빚이빚이 OP 
+|개사여부=예
+|원곡명=피치피치핏치 OP - 태양의 나라
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ornbj16jhas48a5qsae6vmvhzo4yak6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>내일 또 보자</title>
+    <ns>0</ns>
+    <id>826</id>
+    <revision>
+      <id>1638</id>
+      <timestamp>2025-12-11T14:45:31Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1638</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="373" sha1="qenld20s417uvr9hk3zobgc2mgl7ize" xml:space="preserve">{{문서:창팝
+|유튜브Id=KJaTySWU1P0
+|제작자=새우
+|제작방법=음성 합성 엔진
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+|개사여부=예
+|원곡명=후와리P - 내일 또 보자
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>qenld20s417uvr9hk3zobgc2mgl7ize</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>벌써 가을이네요</title>
+    <ns>0</ns>
+    <id>827</id>
+    <revision>
+      <id>1639</id>
+      <timestamp>2025-12-11T14:45:33Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1639</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="315" sha1="brozcxb99y1r8dech270k0xz1x3goni" xml:space="preserve">{{문서:창팝
+|유튜브Id=0uMhxET0T5E
+|제작자=하마
+|화자=신창순
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>brozcxb99y1r8dech270k0xz1x3goni</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>만년필</title>
+    <ns>0</ns>
+    <id>828</id>
+    <revision>
+      <id>1640</id>
+      <timestamp>2025-12-11T14:45:37Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1640</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="298" sha1="nsrctm23oy1gnjuaokdwrcl2tgy3tdm" xml:space="preserve">{{문서:창팝
+|유튜브Id=xHnW0ah53HE
+|제작자=TailloW
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>nsrctm23oy1gnjuaokdwrcl2tgy3tdm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ugh Ooh Sin</title>
+    <ns>0</ns>
+    <id>829</id>
+    <revision>
+      <id>1641</id>
+      <timestamp>2025-12-11T14:45:39Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1641</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="385" sha1="3opz1zk8tsv3cbifgtfaobyf2qcjdxu" xml:space="preserve">{{문서:창팝
+|유튜브Id=G8z0NP73Qso
+|제작자=제트스파우스
+|화자=젠틀창섭 (Feat. 리선족)
+|제작방법=Riffusion
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+|다른언어제목=어 우 신
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>3opz1zk8tsv3cbifgtfaobyf2qcjdxu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>이 여름을 환영해</title>
+    <ns>0</ns>
+    <id>830</id>
+    <revision>
+      <id>1642</id>
+      <timestamp>2025-12-11T14:45:41Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1642</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="300" sha1="en0rkpkomd0uz3gik37akj3ljwfkqm3" xml:space="preserve">{{문서:창팝
+|유튜브Id=9_FsVUO8DpI
+|제작자=춤출까요
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>en0rkpkomd0uz3gik37akj3ljwfkqm3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Running</title>
+    <ns>0</ns>
+    <id>831</id>
+    <revision>
+      <id>1643</id>
+      <timestamp>2025-12-11T14:45:43Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1643</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="337" sha1="7blgkwzg3rlnoikkx53jywudd6gm5s7" xml:space="preserve">{{문서:창팝
+|유튜브Id=x7TZwMJxwjg
+|제작자=신창섭 팬계정
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+|곡명=running
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>7blgkwzg3rlnoikkx53jywudd6gm5s7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>파란</title>
+    <ns>0</ns>
+    <id>832</id>
+    <revision>
+      <id>1644</id>
+      <timestamp>2025-12-11T14:45:44Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1644</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="9qfwha9tkxt3v4gydibhzbgda3yhbdw" xml:space="preserve">{{문서:창팝
+|유튜브Id=71R3PC5DdHc
+|제작자=김낙
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>9qfwha9tkxt3v4gydibhzbgda3yhbdw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>비는 바다</title>
+    <ns>0</ns>
+    <id>833</id>
+    <revision>
+      <id>1645</id>
+      <timestamp>2025-12-11T14:45:46Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1645</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="278" sha1="56kd3l3ima5jdiv2fy2yza951564s4d" xml:space="preserve">{{문서:창팝
+|유튜브Id=GoCORFCA4no
+|제작자=리자예
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>56kd3l3ima5jdiv2fy2yza951564s4d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>서퍼</title>
+    <ns>0</ns>
+    <id>834</id>
+    <revision>
+      <id>1646</id>
+      <timestamp>2025-12-11T14:45:50Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1646</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="300" sha1="8if9uy8uf1m98wbilwwa83fu62hyliw" xml:space="preserve">{{문서:창팝
+|유튜브Id=UtA44Ig4s_w
+|제작자=춤출까요
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>8if9uy8uf1m98wbilwwa83fu62hyliw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ᄂᆞᆯ당 갑ᄉᆞ</title>
+    <ns>0</ns>
+    <id>835</id>
+    <revision>
+      <id>1647</id>
+      <timestamp>2025-12-11T14:45:53Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1647</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="348" sha1="kwl7t34vn7zfg2q53exx6iiq8k12olc" xml:space="preserve">{{문서:창팝
+|유튜브Id=7Wkk8flg9IQ
+|제작자=Lee
+|화자=감귤창섭
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+|별명=놀당 갑서
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>kwl7t34vn7zfg2q53exx6iiq8k12olc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fly high</title>
+    <ns>0</ns>
+    <id>836</id>
+    <revision>
+      <id>1648</id>
+      <timestamp>2025-12-11T14:45:55Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1648</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="305" sha1="7rfpkkbt8ts955y0pf3tqrr0jj4mphf" xml:space="preserve">{{문서:창팝
+|유튜브Id=ucPU58ZIFeI
+|제작자=신창섭 팬계정
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+|곡명=fly high
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>7rfpkkbt8ts955y0pf3tqrr0jj4mphf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>만들어진 신</title>
+    <ns>0</ns>
+    <id>837</id>
+    <revision>
+      <id>1649</id>
+      <timestamp>2025-12-11T14:45:58Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1649</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="320" sha1="8p4exuv4c3ofa43t2ov6ihrqx510lkw" xml:space="preserve">{{문서:창팝
+|유튜브Id=bvkpKZlaNk4
+|제작자=너구리돌격대장
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>8p4exuv4c3ofa43t2ov6ihrqx510lkw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>모래성과 낙엽</title>
+    <ns>0</ns>
+    <id>838</id>
+    <revision>
+      <id>1650</id>
+      <timestamp>2025-12-11T14:46:01Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1650</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="314" sha1="9injfjvxycssqr1iew8auws2sg43ku3" xml:space="preserve">{{문서:창팝
+|유튜브Id=Wz6M4Uy_h88
+|제작자=물통도정
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>9injfjvxycssqr1iew8auws2sg43ku3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>쌀 한 톨</title>
+    <ns>0</ns>
+    <id>839</id>
+    <revision>
+      <id>1651</id>
+      <timestamp>2025-12-11T14:46:03Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1651</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="308" sha1="k7mbzt896b9ui07f2k9jbsaps95p0gr" xml:space="preserve">{{문서:창팝
+|유튜브Id=L7yiv74xgf4
+|제작자=발라리안한모금
+|화자=쌀탁
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>k7mbzt896b9ui07f2k9jbsaps95p0gr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>웃는 가면</title>
+    <ns>0</ns>
+    <id>840</id>
+    <revision>
+      <id>1652</id>
+      <timestamp>2025-12-11T14:46:07Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1652</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="479" sha1="a25v77f19pxb6v30zihjx1kqtdbscj2" xml:space="preserve">{{문서:창팝
+|유튜브Id=YH7bwwMuGPc
+|제작자=삼딴게
+|화자=신창섭
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+|링크={{링크|링크=https://youtu.be/NUKIq8TVxGs
+|레이블=리마스터
+|추가공간=&lt;ref&gt;바캉스컵에 이것으로 수록되어있다.&lt;/ref&gt;}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>a25v77f19pxb6v30zihjx1kqtdbscj2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>종말의 해적</title>
+    <ns>0</ns>
+    <id>841</id>
+    <revision>
+      <id>1653</id>
+      <timestamp>2025-12-11T14:46:11Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1653</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="374" sha1="iqkfz87iwijh5xndul4az3f1dh8spqs" xml:space="preserve">{{문서:창팝
+|유튜브Id=ugI98egC0GY
+|제작자=방자 (취미)
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+|개사여부=예
+|원곡명=눈뜨고 코베인 - 종말의 연인
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>iqkfz87iwijh5xndul4az3f1dh8spqs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>수노 V4.5 실험-1</title>
+    <ns>0</ns>
+    <id>842</id>
+    <revision>
+      <id>1654</id>
+      <timestamp>2025-12-11T14:46:12Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1654</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="344" sha1="p2c259jf80ihg2ldajrm2gt4qg787ly" xml:space="preserve">{{문서:창팝
+|유튜브Id=yvHbLnUA4bM
+|제작자=π
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+|별명=Suno! 4.5 Test!
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>p2c259jf80ihg2ldajrm2gt4qg787ly</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ride Our Summer</title>
+    <ns>0</ns>
+    <id>843</id>
+    <revision>
+      <id>1655</id>
+      <timestamp>2025-12-11T14:46:14Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1655</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="278" sha1="mbzdzi2e912lpv2kyz55q3e614vbekw" xml:space="preserve">{{문서:창팝
+|유튜브Id=YrIDtSFL6Os
+|제작자=폰서트
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>mbzdzi2e912lpv2kyz55q3e614vbekw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>영원히 울리는 멜로디</title>
+    <ns>0</ns>
+    <id>844</id>
+    <revision>
+      <id>1656</id>
+      <timestamp>2025-12-11T14:46:24Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1656</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="323" sha1="8it0z2bkgtebcwtblzo6u3c66sgi80c" xml:space="preserve">{{문서:창팝
+|유튜브Id=8rJeYrnHu2U
+|제작자=아무생각없는거같기도하고아닌거같기도
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>8it0z2bkgtebcwtblzo6u3c66sgi80c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>기다려</title>
+    <ns>0</ns>
+    <id>845</id>
+    <revision>
+      <id>1657</id>
+      <timestamp>2025-12-11T14:46:28Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1657</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="318" sha1="6brgpeueb2ij1yzzzrhtj8iq2a3u9er" xml:space="preserve">{{문서:창팝
+|유튜브Id=H-oneTZGlQY
+|제작자=수학콜라
+|화자=신창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>6brgpeueb2ij1yzzzrhtj8iq2a3u9er</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>HAPPY 1ST DAY</title>
+    <ns>0</ns>
+    <id>846</id>
+    <revision>
+      <id>1658</id>
+      <timestamp>2025-12-11T14:46:29Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1658</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="90i23u2bl0eh14vovnhkjkqv89xc6pi" xml:space="preserve">{{문서:창팝
+|유튜브Id=BZoB-3BXubw
+|제작자=슝좍1
+|화자=리슝좍
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>90i23u2bl0eh14vovnhkjkqv89xc6pi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>바다 위의 마음</title>
+    <ns>0</ns>
+    <id>847</id>
+    <revision>
+      <id>1659</id>
+      <timestamp>2025-12-11T14:46:32Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1659</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="303" sha1="icp2yxah93y1u48vnbekmup7eqn9y3f" xml:space="preserve">{{문서:창팝
+|유튜브Id=8KeMGGwmQ0Q
+|제작자=리스항구NPC
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>icp2yxah93y1u48vnbekmup7eqn9y3f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>누군가에게</title>
+    <ns>0</ns>
+    <id>848</id>
+    <revision>
+      <id>1660</id>
+      <timestamp>2025-12-11T14:46:37Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1660</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="293" sha1="prfhq34by8m4fyzppjkbn6lmcbkqyqg" xml:space="preserve">{{문서:창팝
+|유튜브Id=5K6fbWODens
+|제작자=DWAET
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>prfhq34by8m4fyzppjkbn6lmcbkqyqg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>덥잖아</title>
+    <ns>0</ns>
+    <id>849</id>
+    <revision>
+      <id>1661</id>
+      <timestamp>2025-12-11T14:46:43Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1661</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="jsvywqporomsuv7770tpqqwa2t61dqd" xml:space="preserve">{{문서:창팝
+|유튜브Id=wO99Fu6bJIg
+|제작자=하마
+|화자=신창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>jsvywqporomsuv7770tpqqwa2t61dqd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>사탄 사탕 사랑</title>
+    <ns>0</ns>
+    <id>850</id>
+    <revision>
+      <id>1662</id>
+      <timestamp>2025-12-11T14:46:46Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1662</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="293" sha1="2e2pt0kp2lbgbmola80vpi6hmgztkq4" xml:space="preserve">{{문서:창팝
+|유튜브Id=QLmDxpl5ul0
+|제작자=너구리돌격대장
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>2e2pt0kp2lbgbmola80vpi6hmgztkq4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>모래성</title>
+    <ns>0</ns>
+    <id>851</id>
+    <revision>
+      <id>1663</id>
+      <timestamp>2025-12-11T14:46:49Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1663</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="mqne3s2hal0hvd33s1dac8h38fno8qm" xml:space="preserve">{{문서:창팝
+|유튜브Id=J-FQBDZ95Y4
+|제작자=김낙
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>mqne3s2hal0hvd33s1dac8h38fno8qm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>현질은 하지 말어</title>
+    <ns>0</ns>
+    <id>852</id>
+    <revision>
+      <id>1664</id>
+      <timestamp>2025-12-11T14:46:49Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1664</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="318" sha1="qlpjys5kfgx1vuhnre1vm09ta5tuwx7" xml:space="preserve">{{문서:창팝
+|유튜브Id=8U5gDqRREdA
+|제작자=편초자
+|화자=쌀숭이
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>qlpjys5kfgx1vuhnre1vm09ta5tuwx7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>매출과 하회</title>
+    <ns>0</ns>
+    <id>853</id>
+    <revision>
+      <id>1665</id>
+      <timestamp>2025-12-11T14:46:52Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1665</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="361" sha1="n2u13xkyoqawmebd9w1x4b8cz3wb9uh" xml:space="preserve">{{문서:창팝
+|유튜브Id=-Q_YO4xX3Vg
+|제작자=자성
+|화자=Mrs. PLATINUM APPLE
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+|개사여부=예
+|원곡명=Mrs. GREEN APPLE - 青と夏
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>n2u13xkyoqawmebd9w1x4b8cz3wb9uh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>좋음과 싫음 사이</title>
+    <ns>0</ns>
+    <id>854</id>
+    <revision>
+      <id>1666</id>
+      <timestamp>2025-12-11T14:46:54Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1666</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="566" sha1="6e1mp3dzw2mexnm50k4t1xa0y3iad6p" xml:space="preserve">{{문서:창팝
+|유튜브Id=Ij28JwiE6XE
+|제작자=창팝용
+|화자=쌀숭이
+|제작방법=Suno
+|프롬프트=yakousei, j-pop, distorted female vocal, lively, exciting, no repeat, live recording, clean production, archival grade, source audio, increase volume, ambient layering, compress, reduce noise
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+|다른언어제목=好きと嫌いの間
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>6e1mp3dzw2mexnm50k4t1xa0y3iad6p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>그래, 너가 있기 때문에</title>
+    <ns>0</ns>
+    <id>855</id>
+    <revision>
+      <id>1667</id>
+      <timestamp>2025-12-11T14:46:57Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1667</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="374" sha1="3hlk7mg1fwa6yhpwv5pz8trflncfnvw" xml:space="preserve">{{문서:창팝
+|유튜브Id=mYwRUYPJEJc
+|제작자=리스항구NPC
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+|별명=그너있
+|링크={{링크|링크=https://youtu.be/XbbQu1aEpsg
+|레이블=MR}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>3hlk7mg1fwa6yhpwv5pz8trflncfnvw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ad Astra</title>
+    <ns>0</ns>
+    <id>856</id>
+    <revision>
+      <id>1668</id>
+      <timestamp>2025-12-11T14:47:01Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1668</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="298" sha1="9m0el54w26q41jxeezxtw3x9vo1qsb0" xml:space="preserve">{{문서:창팝
+|유튜브Id=-RfMbikiV68
+|제작자=TailloW
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>9m0el54w26q41jxeezxtw3x9vo1qsb0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>To 돈키호테</title>
+    <ns>0</ns>
+    <id>857</id>
+    <revision>
+      <id>1669</id>
+      <timestamp>2025-12-11T14:47:04Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1669</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="300" sha1="4xauk9iicc4kx4hcup424yiha5uhgkl" xml:space="preserve">{{문서:창팝
+|유튜브Id=kXnPzFrQSa8
+|제작자=지평단
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>4xauk9iicc4kx4hcup424yiha5uhgkl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>오아시스</title>
+    <ns>0</ns>
+    <id>858</id>
+    <revision>
+      <id>1670</id>
+      <timestamp>2025-12-11T14:47:07Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1670</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="321" sha1="d5h1l9ar80hggd4muaru1v0t5w1pxr1" xml:space="preserve">{{문서:창팝
+|유튜브Id=t0X68LLo8MI
+|제작자=리슨퓨어족
+|화자=리슨족
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>d5h1l9ar80hggd4muaru1v0t5w1pxr1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>아틀란티스 (아이돌 버전)</title>
+    <ns>0</ns>
+    <id>859</id>
+    <revision>
+      <id>1671</id>
+      <timestamp>2025-12-11T14:47:09Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1671</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="303" sha1="m4u6912bliynr5zx2qtugzlkpn7x8hv" xml:space="preserve">{{문서:창팝
+|유튜브Id=9jYvXp_rpdU
+|제작자=리슨퓨어족
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>m4u6912bliynr5zx2qtugzlkpn7x8hv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>나는 쌀먹을 할 수 없어</title>
+    <ns>0</ns>
+    <id>860</id>
+    <revision>
+      <id>1672</id>
+      <timestamp>2025-12-11T14:47:11Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1672</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="4wjlnbbh18t9x1u71d58ltcagirxc5y" xml:space="preserve">{{문서:창팝
+|유튜브Id=kmeSlgrmjWc
+|제작자=JOOGLE
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>4wjlnbbh18t9x1u71d58ltcagirxc5y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>유령 기지국</title>
+    <ns>0</ns>
+    <id>861</id>
+    <revision>
+      <id>1673</id>
+      <timestamp>2025-12-11T14:47:14Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1673</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="rqgl6to0qit42wlzg4nwmjdjy5vcfq1" xml:space="preserve">{{문서:창팝
+|유튜브Id=RSbhYy7V6zM
+|제작자=리리컬
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>rqgl6to0qit42wlzg4nwmjdjy5vcfq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>모두의 꿈</title>
+    <ns>0</ns>
+    <id>862</id>
+    <revision>
+      <id>1674</id>
+      <timestamp>2025-12-11T14:47:21Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1674</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="314" sha1="25jlhs392q53wyvcafehl73k2fsyal8" xml:space="preserve">{{문서:창팝
+|유튜브Id=erI37fArbDM
+|제작자=황금새장 속 햄스터
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>25jlhs392q53wyvcafehl73k2fsyal8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>不命者</title>
+    <ns>0</ns>
+    <id>863</id>
+    <revision>
+      <id>1675</id>
+      <timestamp>2025-12-11T14:47:23Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1675</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="347" sha1="lnf15hczxswnhhftddfyjuieiavzuag" xml:space="preserve">{{문서:창팝
+|유튜브Id=LYl20Ep96gc
+|제작자=π
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+|다른언어제목=The Long Goodbye
+|별명=불명자
+|곡명=不命者
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>lnf15hczxswnhhftddfyjuieiavzuag</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>쉼,표 (Remix)</title>
+    <ns>0</ns>
+    <id>864</id>
+    <revision>
+      <id>1676</id>
+      <timestamp>2025-12-11T14:47:26Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1676</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="341" sha1="dyiv4ekaqnvtb9my3fd286sbrzk69vn" xml:space="preserve">{{문서:창팝
+|유튜브Id=pjdyXcdZUpw
+|제작자=리플족
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+|개사여부=예
+|원곡명=[[쉼,표]]
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>dyiv4ekaqnvtb9my3fd286sbrzk69vn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>A Good Day To Set It Free</title>
+    <ns>0</ns>
+    <id>865</id>
+    <revision>
+      <id>1677</id>
+      <timestamp>2025-12-11T14:47:39Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1677</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="273" sha1="dfsvwstpcpxx21f9w6zga9fk0p2w29b" xml:space="preserve">{{문서:창팝
+|유튜브Id=KJKgajtpmMo
+|제작자=duRE
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>dfsvwstpcpxx21f9w6zga9fk0p2w29b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bon Voyage (Sonette)</title>
+    <ns>0</ns>
+    <id>866</id>
+    <revision>
+      <id>1678</id>
+      <timestamp>2025-12-11T14:47:41Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1678</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="478" sha1="a17rbunc4ucmczg3y7lfhltjkuwlg3w" xml:space="preserve">{{문서:창팝
+|유튜브Id=WvN_v_uk2KQ
+|제작자=Sonette
+|제작방법=Suno
+|프롬프트=vocaloid, anime, sea shanty, medieval, violin, Harmonica, catchy rhythm, pirate, kawaii, kawaii future, folk, festive, chatchy hook, alternative rock
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+|곡명=Bon Voyage
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>a17rbunc4ucmczg3y7lfhltjkuwlg3w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Summer event</title>
+    <ns>0</ns>
+    <id>867</id>
+    <revision>
+      <id>1679</id>
+      <timestamp>2025-12-11T14:47:45Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1679</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="315" sha1="m5zxhyeezoj0q3l5nz8x89rh4c1yc0m" xml:space="preserve">{{문서:창팝
+|유튜브Id=AxhuI-taorA
+|제작자=창스풀
+|프롬프트=city pop, punk, female
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>m5zxhyeezoj0q3l5nz8x89rh4c1yc0m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>夏のピさ</title>
+    <ns>0</ns>
+    <id>868</id>
+    <revision>
+      <id>1680</id>
+      <timestamp>2025-12-11T14:47:49Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1680</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="aynpffdhe16hlmujttw8k2nt0qku3v2" xml:space="preserve">{{문서:창팝
+|유튜브Id=e3QTLZOe4wg
+|제작자=이우
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2025}}
+|별명=푸른 여름
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>aynpffdhe16hlmujttw8k2nt0qku3v2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>장미상자 Re.</title>
+    <ns>0</ns>
+    <id>869</id>
+    <revision>
+      <id>1681</id>
+      <timestamp>2025-12-11T14:47:51Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1681</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="06khx6od4l2ok6hxflwxhg47f62hx5w" xml:space="preserve">{{문서:창팝
+|유튜브Id=-LHdlbM8r1A
+|제작자=기랑
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>06khx6od4l2ok6hxflwxhg47f62hx5w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>어서 대답해줘</title>
+    <ns>0</ns>
+    <id>870</id>
+    <revision>
+      <id>1682</id>
+      <timestamp>2025-12-11T14:47:53Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1682</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="296" sha1="ti04gx3xqa0jwatz5i4fjs4o6qye1qr" xml:space="preserve">{{문서:창팝
+|유튜브Id=XpD7sJ-cBwo
+|제작자=리반
+|화자=쌀숭이
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ti04gx3xqa0jwatz5i4fjs4o6qye1qr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>밤, 바다</title>
+    <ns>0</ns>
+    <id>871</id>
+    <revision>
+      <id>1683</id>
+      <timestamp>2025-12-11T14:47:54Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1683</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="293" sha1="r1gflenk2lqcoviowmx8n8ukqwjb8i3" xml:space="preserve">{{문서:창팝
+|유튜브Id=lFtrL6Lj4wI
+|제작자=발라리안한모금
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>r1gflenk2lqcoviowmx8n8ukqwjb8i3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>어느 유령의 노래</title>
+    <ns>0</ns>
+    <id>872</id>
+    <revision>
+      <id>1684</id>
+      <timestamp>2025-12-11T14:48:00Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기</comment>
+      <origin>1684</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="298" sha1="opljshtsutttod4ze582inyjpre7o05" xml:space="preserve">{{문서:창팝
+|유튜브Id=H2nsBKPyEfA
+|제작자=TailloW
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>opljshtsutttod4ze582inyjpre7o05</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>불명자</title>
+    <ns>0</ns>
+    <id>873</id>
+    <revision>
+      <id>1699</id>
+      <parentid>1697</parentid>
+      <timestamp>2025-12-11T15:09:28Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <origin>1699</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="437" sha1="bjj5vlowc024pyr6x5cn052i3gtvis9" xml:space="preserve">{{문서:창팝
+|유튜브Id=LYl20Ep96gc
+|다른언어제목=The Long Goodbye
+|곡명=不命者
+|별명=불명자
+|제작자=π
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=추수감사컵 2025
+}}
+|제작방법=Suno
+|BPM=150
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>bjj5vlowc024pyr6x5cn052i3gtvis9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>유령선</title>
+    <ns>0</ns>
+    <id>874</id>
+    <revision>
+      <id>1694</id>
+      <timestamp>2025-12-11T15:04:20Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=2ovQpU07Fws |제작자=신창섭 팬 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=바캉스컵 2025 }} |제작방법=Suno |고화질썸네일없음=예 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
+      <origin>1694</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="357" sha1="67ckodv7jm75hwo2cq4lymueeev9oz9" xml:space="preserve">{{문서:창팝
+|유튜브Id=2ovQpU07Fws
+|제작자=신창섭 팬
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=바캉스컵 2025
+}}
+|제작방법=Suno
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>67ckodv7jm75hwo2cq4lymueeev9oz9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>바캉스컵 2025</title>
+    <ns>0</ns>
+    <id>876</id>
+    <revision>
+      <id>1701</id>
+      <parentid>1700</parentid>
+      <timestamp>2025-12-11T15:14:49Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <origin>1701</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="86q4pp8pu4njlkz2xwwjijbsyzhklet" xml:space="preserve">{{문서:창드컵
+|PikuId=agyjVC
+|강=32
+|유형=계절
+}}
+
+== 수록곡 ==
+{{창드컵 수록곡 둘러보기
+| 창드컵 = {{문서이름}}
+| 펼치기 = 예 
+}}
+{{수록곡 표}}
+
+=== 가사 모음 ===
+[[/수록곡 가사 모음]]</text>
+      <sha1>86q4pp8pu4njlkz2xwwjijbsyzhklet</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>바캉스컵 2025/수록곡 가사 모음</title>
+    <ns>0</ns>
+    <id>877</id>
+    <revision>
+      <id>1702</id>
+      <timestamp>2025-12-11T15:16:04Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 수록곡 가사 모음}}</comment>
+      <origin>1702</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="2aonutm7mc0tkry0fkaod5p5secrri1" xml:space="preserve">{{문서:창드컵 수록곡 가사 모음}}</text>
+      <sha1>2aonutm7mc0tkry0fkaod5p5secrri1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>추수감사컵 2025</title>
+    <ns>0</ns>
+    <id>878</id>
+    <revision>
+      <id>1704</id>
+      <parentid>1703</parentid>
+      <timestamp>2025-12-11T15:17:38Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <origin>1704</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="3dzmnzrhahv16q4vce2kr7inl7atvhb" xml:space="preserve">{{문서:창드컵
+|PikuId=8xBm3X
+|강=32
+|유형=계절
+}}
+
+== 수록곡 ==
+{{창드컵 수록곡 둘러보기
+| 창드컵 = {{문서이름}}
+| 펼치기 = 예 
+}}
+{{수록곡 표}}
+
+=== 가사 모음 ===
+[[/수록곡 가사 모음]]</text>
+      <sha1>3dzmnzrhahv16q4vce2kr7inl7atvhb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>추수감사컵 2025/수록곡 가사 모음</title>
+    <ns>0</ns>
+    <id>879</id>
+    <revision>
+      <id>1705</id>
+      <timestamp>2025-12-11T15:18:01Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 수록곡 가사 모음}}</comment>
+      <origin>1705</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="2aonutm7mc0tkry0fkaod5p5secrri1" xml:space="preserve">{{문서:창드컵 수록곡 가사 모음}}</text>
+      <sha1>2aonutm7mc0tkry0fkaod5p5secrri1</sha1>
     </revision>
   </page>
 </mediawiki>
