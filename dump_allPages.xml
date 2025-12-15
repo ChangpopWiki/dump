@@ -29192,17 +29192,17 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
     <ns>10</ns>
     <id>564</id>
     <revision>
-      <id>1002</id>
-      <parentid>1000</parentid>
-      <timestamp>2025-10-03T13:16:37Z</timestamp>
+      <id>1710</id>
+      <parentid>1002</parentid>
+      <timestamp>2025-12-14T23:52:27Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1002</origin>
+      <origin>1710</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2849" sha1="hpzh17nv664l2rqoxktazi9rrd63z34" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="2948" sha1="9mbhmrqrn864g409iz82o4hxqey3s6z" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;{{#if: &lt;!-- 
 아래 변수 중 하나라도 있어야 항목을 표시하기 --&gt;
@@ -29219,7 +29219,10 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 예약자와 채널이름 문자열이 일치하지 않는 경우에만 예약자를 별도로 표시
  --&gt;{{#ifeq: {{{채널이름|}}} | {{{예약자|}}} 
 	| &lt;!-- 동일하면 표시 안 함 --&gt;
-	| &lt;code style="font-size: var(--font-size-x-small);"&gt;{{{예약자|}}}&lt;/code&gt; 
+	| {{#if: {{{예약자|}}} 
+	  | &lt;code style="font-size: var(--font-size-x-small);"&gt;{{{예약자}}}&lt;/code&gt;  
+	  | &lt;!-- 예약자가 없는 경우에도 표시 안 함  --&gt;
+	  }}
 	}}&lt;!--
 
 --&gt;&lt;br&gt;&lt;!--
@@ -29262,7 +29265,7 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 --&gt;{{설명문서}}&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>hpzh17nv664l2rqoxktazi9rrd63z34</sha1>
+      <sha1>9mbhmrqrn864g409iz82o4hxqey3s6z</sha1>
     </revision>
   </page>
   <page>
