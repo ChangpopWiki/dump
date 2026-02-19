@@ -47313,4 +47313,79 @@ Makefume</text>
       <sha1>qtspamod5vtipfgrkno9c3afpg4c1it</sha1>
     </revision>
   </page>
+  <page>
+    <title>2025년 5편</title>
+    <ns>0</ns>
+    <id>1192</id>
+    <revision>
+      <id>1862</id>
+      <timestamp>2026-02-19T08:36:48Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 |PikuId=3KMD3u |강=32 |유형=엄선작 2025 |오픈날짜=2026-02-05 |오픈날짜_=&lt;ref&gt;https://gall.dcinside.com/mgallery/board/view/?id=maplereboot&amp;no=3717948&lt;/ref&gt; }} '''2025년 5편'''은 2025년 엄선작 [[창드컵]]이다.   == 수록곡 == {{창드컵 수록곡 둘러보기 | 창드컵 = {{문서이름}} | 펼치기 = 예  }} {{수록곡 표}}  === 가사 모음 === [[/수록곡 가사 모음]]</comment>
+      <origin>1862</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="428" sha1="45w1ni0rk891fcg1qyvw7lbvj3rep8x" xml:space="preserve">{{문서:창드컵
+|PikuId=3KMD3u
+|강=32
+|유형=엄선작 2025
+|오픈날짜=2026-02-05
+|오픈날짜_=&lt;ref&gt;https://gall.dcinside.com/mgallery/board/view/?id=maplereboot&amp;no=3717948&lt;/ref&gt;
+}}
+'''2025년 5편'''은 2025년 엄선작 [[창드컵]]이다. 
+
+== 수록곡 ==
+{{창드컵 수록곡 둘러보기
+| 창드컵 = {{문서이름}}
+| 펼치기 = 예 
+}}
+{{수록곡 표}}
+
+=== 가사 모음 ===
+[[/수록곡 가사 모음]]</text>
+      <sha1>45w1ni0rk891fcg1qyvw7lbvj3rep8x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2025년 5편/수록곡 가사 모음</title>
+    <ns>0</ns>
+    <id>1193</id>
+    <revision>
+      <id>1863</id>
+      <timestamp>2026-02-19T08:37:50Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 수록곡 가사 모음}}</comment>
+      <origin>1863</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="2aonutm7mc0tkry0fkaod5p5secrri1" xml:space="preserve">{{문서:창드컵 수록곡 가사 모음}}</text>
+      <sha1>2aonutm7mc0tkry0fkaod5p5secrri1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>25-5</title>
+    <ns>0</ns>
+    <id>1194</id>
+    <redirect title="2025년 5편" />
+    <revision>
+      <id>1864</id>
+      <timestamp>2026-02-19T08:38:13Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>[[2025년 5편]] 문서로 넘겨주기</comment>
+      <origin>1864</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30" sha1="ry4or2rewbxx6x5kcu19awbi3rx0guz" xml:space="preserve">#넘겨주기 [[2025년 5편]]</text>
+      <sha1>ry4or2rewbxx6x5kcu19awbi3rx0guz</sha1>
+    </revision>
+  </page>
 </mediawiki>
