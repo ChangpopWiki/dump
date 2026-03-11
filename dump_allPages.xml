@@ -48466,4 +48466,79 @@ Cherish the memories of now
       <sha1>2v7su502rmyosjvuaxcxleb1fwtbo0g</sha1>
     </revision>
   </page>
+  <page>
+    <title>사탕컵 (2024)</title>
+    <ns>0</ns>
+    <id>1227</id>
+    <revision>
+      <id>1901</id>
+      <parentid>1900</parentid>
+      <timestamp>2026-03-11T07:24:54Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <origin>1901</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="755" sha1="cy3cybt8zyc94ximfxtiikh3e2z9g07" xml:space="preserve">{{문서:창드컵
+|명칭=사탕컵 (2024)
+|PikuId=3z5CMq
+|강=32
+|유형=테마
+|오픈날짜=2024-11-25
+|오픈날짜_=&lt;ref&gt;https://gall.dcinside.com/mgallery/board/view/?id=maplereboot&amp;no=3359606&lt;/ref&gt;
+|폐지날짜=2025-10-24
+|폐지날짜_=&lt;ref&gt;https://gall.dcinside.com/mgallery/board/view/?id=maplereboot&amp;no=3679818&lt;/ref&gt;
+}}
+
+엔루팝과 같은 곡을 중심으로 하여 만들어진 최초의 사탕 테마 [[창드컵]]이다. 2025년 중반부터 관리되지 않았고 관리자가 은퇴한 뒤 사탕 테마 창드컵은 현재의 [[사탕컵]]으로 이어졌다.
+
+== 수록곡 ==
+{{창드컵 수록곡 둘러보기
+| 창드컵 = {{문서이름}}
+| 펼치기 = 예 
+}}
+{{수록곡 표}}
+
+=== 가사 모음 ===
+[[/수록곡 가사 모음]]</text>
+      <sha1>cy3cybt8zyc94ximfxtiikh3e2z9g07</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>사탕컵</title>
+    <ns>0</ns>
+    <id>1228</id>
+    <revision>
+      <id>1903</id>
+      <parentid>1902</parentid>
+      <timestamp>2026-03-11T07:27:47Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <origin>1903</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="375" sha1="7yogbs20yd0xcmvaoks18p9uii2ger6" xml:space="preserve">{{문서:창드컵
+|명칭=사탕컵
+|PikuId=8nVY6g
+|강=32
+|유형=테마
+|오픈날짜=2026-02-13
+|오픈날짜_=&lt;ref&gt;https://gall.dcinside.com/mgallery/board/view/?id=maplereboot&amp;no=3719136&lt;/ref&gt;
+}}
+== 수록곡 ==
+{{창드컵 수록곡 둘러보기
+| 창드컵 = {{문서이름}}
+| 펼치기 = 예 
+}}
+{{수록곡 표}}
+
+=== 가사 모음 ===
+[[/수록곡 가사 모음]]</text>
+      <sha1>7yogbs20yd0xcmvaoks18p9uii2ger6</sha1>
+    </revision>
+  </page>
 </mediawiki>
