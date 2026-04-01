@@ -53416,4 +53416,23 @@ Cheer up! Cheer up!
       <sha1>b7tr6le3ffidpb1mjyrtnwqzwjsrooa</sha1>
     </revision>
   </page>
+  <page>
+    <title>최초공개 릴레이/아카이브/2026년 4월</title>
+    <ns>0</ns>
+    <id>1329</id>
+    <revision>
+      <id>2027</id>
+      <timestamp>2026-04-01T08:06:50Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:월별 최초공개 릴레이 아카이브|월=2026-04}}</comment>
+      <origin>2027</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="65" sha1="h775os145yerzfj1d1o9oqlueo4c03r" xml:space="preserve">{{문서:월별 최초공개 릴레이 아카이브|월=2026-04}}</text>
+      <sha1>h775os145yerzfj1d1o9oqlueo4c03r</sha1>
+    </revision>
+  </page>
 </mediawiki>
