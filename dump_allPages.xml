@@ -53632,4 +53632,37 @@ All WORK AND NO PLAY</text>
       <sha1>s43um6yrziy2izor7lhnsf5nmwknefq</sha1>
     </revision>
   </page>
+  <page>
+    <title>일간 신창섭</title>
+    <ns>0</ns>
+    <id>1335</id>
+    <revision>
+      <id>2036</id>
+      <timestamp>2026-04-05T12:00:49Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: '''일간 신창섭'''은 각 날짜마다 올라온 모든 [[창팝]]과 [[신창섭]] 관련 영상이 모여 있는 재생목록이다.   ==== 채널 ====  * 1대 관리자 (2024.10.20.~2024.12.1.) [https://www.youtube.com/@%ED%81%B4%EB%A6%BD%EC%9A%A9-i3x 클립용] * 2대 관리자 (2024.12.2.~2025.9.15.) [https://www.youtube.com/@%EC%A0%80%EC%9E%A5%EC%9A%A9-d1x 저장용] * 3대 관리자 (2025.9.15.~) [https://www.youtube.com/@dailychangpop-3 일간 신창섭]  ==== 시트...</comment>
+      <origin>2036</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="817" sha1="15xgynfihvsnqdha392ky8xtf7mfcy0" xml:space="preserve">'''일간 신창섭'''은 각 날짜마다 올라온 모든 [[창팝]]과 [[신창섭]] 관련 영상이 모여 있는 재생목록이다. 
+
+==== 채널 ====
+
+* 1대 관리자 (2024.10.20.~2024.12.1.) [https://www.youtube.com/@%ED%81%B4%EB%A6%BD%EC%9A%A9-i3x 클립용]
+* 2대 관리자 (2024.12.2.~2025.9.15.) [https://www.youtube.com/@%EC%A0%80%EC%9E%A5%EC%9A%A9-d1x 저장용]
+* 3대 관리자 (2025.9.15.~) [https://www.youtube.com/@dailychangpop-3 일간 신창섭]
+
+==== 시트 ====
+
+* [https://docs.google.com/spreadsheets/d/1FzU4MhUe8Lg8c5NpvM3gNyn9-iz-sjvAmckcjgr2VH4 2024년 시트]
+* [https://docs.google.com/spreadsheets/d/1n21XSLAZhtkGSy0N1msFi7sddWMLF0KM24EqzLyt_Vc 2025년 시트]
+* [https://docs.google.com/spreadsheets/d/1nlLu6ZH5wrgv2mU3xJUkE1MI9R872AADrNV4Vd0giHY 2026년 시트]
+
+[[분류:개념]]</text>
+      <sha1>15xgynfihvsnqdha392ky8xtf7mfcy0</sha1>
+    </revision>
+  </page>
 </mediawiki>
