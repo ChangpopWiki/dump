@@ -49101,23 +49101,23 @@ P.S 낮에는 팬더... 밤에는 불곰??</text>
     <ns>3200</ns>
     <id>1237</id>
     <revision>
-      <id>1912</id>
-      <timestamp>2026-03-15T06:36:52Z</timestamp>
+      <id>2133</id>
+      <parentid>1912</parentid>
+      <timestamp>2026-04-12T13:42:17Z</timestamp>
       <contributor>
-        <username>리릭슝좍</username>
-        <id>23</id>
+        <username>Rgr</username>
+        <id>25</id>
       </contributor>
-      <comment>새 문서: 창팝이 나온지도 1년이 지났는데 아직도 이해 못한 바보가 남아 있네 이야기가 끝나지 않는다고 생각했더니 얘기는 시작조차 되지를 못했었구나  자기가 식당 문을 열어 놨으면서 왜 들어ㅗ았냐고 소리를 지르더라고 참 웃기는 일이야 그렇지 않아? 가만히 있었으면 진작 끝났을 일인데  창팝이 불편하니? 쌀숭아? That's right, 그래 그게 바로 정답이야 창팝이 재미없...</comment>
-      <origin>1912</origin>
+      <origin>2133</origin>
       <model>text</model>
       <format>text/plain</format>
-      <text bytes="1913" sha1="o8kvink8wlba78byjgs2y395g5dkhj1" xml:space="preserve">창팝이 나온지도 1년이 지났는데
+      <text bytes="1910" sha1="jiflpjv26i552omjz2xd5d5josmeran" xml:space="preserve">창팝이 나온지도 1년이 지났는데
 아직도 이해 못한 바보가 남아 있네
 이야기가 끝나지 않는다고 생각했더니
 얘기는 시작조차 되지를 못했었구나
 
 자기가 식당 문을 열어 놨으면서
-왜 들어ㅗ았냐고 소리를 지르더라고
+왜 들어왔냐고 소리를 지르더라고
 참 웃기는 일이야 그렇지 않아?
 가만히 있었으면 진작 끝났을 일인데
 
@@ -49162,7 +49162,7 @@ Perfect, 그게 바로 내가 원하던 거야
 Exactly, 근데 너도 잘만 듣고 있잖아
 창팝이 널 망쳤어? 쌀숭아?
 바보 같네, 남 탓 하지마 멍청아</text>
-      <sha1>o8kvink8wlba78byjgs2y395g5dkhj1</sha1>
+      <sha1>jiflpjv26i552omjz2xd5d5josmeran</sha1>
     </revision>
   </page>
   <page>
@@ -53764,17 +53764,17 @@ All WORK AND NO PLAY</text>
     <ns>3200</ns>
     <id>1337</id>
     <revision>
-      <id>2038</id>
-      <timestamp>2026-04-09T15:36:35Z</timestamp>
+      <id>2135</id>
+      <parentid>2038</parentid>
+      <timestamp>2026-04-12T13:46:23Z</timestamp>
       <contributor>
         <username>Rgr</username>
         <id>25</id>
       </contributor>
-      <comment>새 문서: OKKK  Ah  이제 나는 당당해 부모님께 자랑해 국가 공인 사기겜 우린 국가 공인 쌀팔이  이제 쌀먹 당장해 부모님과 함께해 국가 공인 직업해 이젠 쌀먹 당장 Hey  Umm 물통 팔아 Makin-Food Dude 이젠 달라 Attitude Umm 그래 맞아 Aptitude My Pride Fly High Altitude (Brrrrrrrrrrrr)  얻었잖아 직업코드 넘버링 AY 국가공인 산업역꾼 쌀러리맨 ㅈ까 날백수 취급은 넌더리 Yeah 놀리던 ㅆ새끼들...</comment>
-      <origin>2038</origin>
+      <origin>2135</origin>
       <model>text</model>
       <format>text/plain</format>
-      <text bytes="3398" sha1="kep99zvw5t4n6o8752erulsbh8d7lro" xml:space="preserve">OKKK
+      <text bytes="3395" sha1="ffko5f28c1rv8rdap4iuwb0v62vrqbw" xml:space="preserve">OKKK
 
 Ah
 
@@ -53865,7 +53865,7 @@ CROWN 유저들에게 씌우는 승리의 왕관
 이름처럼 수준은 XP 다음 놈도 비슷하지
 
 접슝좍들 탑슝좍과는 다른 척 하지만
-神앞에 같아 신창섭이 귀 속의 낙인[1]거니까
+神앞에 같아 신창섭이 귀 속의 낙인거니까
 
 이제 나는 당당해 부모님께 자랑해
 국가 공인 사기겜 우린 국가 공인 쌀팔이
@@ -53878,7 +53878,7 @@ CROWN 유저들에게 씌우는 승리의 왕관
 이제 사가라 내 템
 
 (제발 사가라 내 테ㅖㅣㅖㅣㅖㅣㅖㅣㅖㅣㅖㅣㅖㅁ)</text>
-      <sha1>kep99zvw5t4n6o8752erulsbh8d7lro</sha1>
+      <sha1>ffko5f28c1rv8rdap4iuwb0v62vrqbw</sha1>
     </revision>
   </page>
   <page>
@@ -55241,17 +55241,19 @@ A교실에서 시험 치기로 한 거임
     </revision>
   </page>
   <page>
-    <title>가사:신년 선물</title>
+    <title>가사:신년선물</title>
     <ns>3200</ns>
     <id>1356</id>
     <revision>
-      <id>2062</id>
-      <timestamp>2026-04-11T13:05:12Z</timestamp>
+      <id>2131</id>
+      <parentid>2062</parentid>
+      <timestamp>2026-04-12T06:58:26Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: 정상화 아저씨 찾아오는 날 한 자리에 모아 선물 주는 나 모인 꼬라지 보니 한숨 나와 자초한 일이라 할 말이 없나  안 씻는 쌀숭이도 순살만 먹는 놈도 휴일 때 쌀 캔 놈도 사기꾼도 모두 모여 하지만 쌀숭이들 내맘 모르고 날 욕 하고 음해하네  신 년 선 물 안 씻는 쌀숭이도 申 년 선 물 순살만 먹는 놈도 SIN 년 선 물 매일 때 쌀캐는 놈도 십 년 선 물 사기 친 사기꾼...</comment>
+      <minor/>
+      <comment>창팝위키님이 [[가사:신년 선물]] 문서를 넘겨주기를 만들지 않고 [[가사:신년선물]] 문서로 이동했습니다: 본 문서와 제목 맞추기</comment>
       <origin>2062</origin>
       <model>text</model>
       <format>text/plain</format>
@@ -55524,27 +55526,35 @@ NPC 취급한 세상에 욕은 을어
     </revision>
   </page>
   <page>
-    <title>유제 (有題)</title>
+    <title>Titled</title>
     <ns>0</ns>
     <id>1359</id>
     <revision>
-      <id>2069</id>
-      <timestamp>2026-04-11T14:22:46Z</timestamp>
+      <id>2111</id>
+      <parentid>2110</parentid>
+      <timestamp>2026-04-12T06:40:01Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=5OccpMXe8As |제작자=낙서장 |공동제작자=체포낙 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 5편 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
-      <origin>2069</origin>
+      <origin>2111</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="362" sha1="cm1e0a0xsw3bz36oeq35dqfu1w8x99z" xml:space="preserve">{{문서:창팝
+      <text bytes="545" sha1="r90z9aknt5fsi8u47oynx6k27nf9evl" xml:space="preserve">{{문서:창팝
 |유튜브Id=5OccpMXe8As
 |제작자=낙서장
 |공동제작자=체포낙
-|개사여부=아니오
+|개사여부=예
+|원곡명=[[Untitled]]
 |수록컵={{수록 창드컵
 |창드컵=2025년 5편
+}}
+|공개일=2025-12-25
+|다른언어제목=유제 {{!}} 有題
+|별명=유죄
+|링크={{링크
+|링크=https://youtu.be/2a95_Vwkt6E
+|레이블=창타포트 버전
 }}
 |고화질썸네일없음=아니오
 }}
@@ -55555,7 +55565,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>cm1e0a0xsw3bz36oeq35dqfu1w8x99z</sha1>
+      <sha1>r90z9aknt5fsi8u47oynx6k27nf9evl</sha1>
     </revision>
   </page>
   <page>
@@ -55597,23 +55607,25 @@ NPC 취급한 세상에 욕은 을어
     <ns>0</ns>
     <id>1361</id>
     <revision>
-      <id>2072</id>
-      <timestamp>2026-04-11T14:24:36Z</timestamp>
+      <id>2112</id>
+      <parentid>2072</parentid>
+      <timestamp>2026-04-12T06:41:10Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=YbW3fCyAOJQ |제작자=리플족 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 5편 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
-      <origin>2072</origin>
+      <minor/>
+      <origin>2112</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="335" sha1="mjmvf4n72awbf2zrps6lg5ehxkx95c1" xml:space="preserve">{{문서:창팝
+      <text bytes="359" sha1="gxu20s44940358pami88kbyc7f9u245" xml:space="preserve">{{문서:창팝
 |유튜브Id=YbW3fCyAOJQ
 |제작자=리플족
 |개사여부=아니오
 |수록컵={{수록 창드컵
 |창드컵=2025년 5편
 }}
+|곡명=Stars don't cry
 |고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
@@ -55623,7 +55635,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>mjmvf4n72awbf2zrps6lg5ehxkx95c1</sha1>
+      <sha1>gxu20s44940358pami88kbyc7f9u245</sha1>
     </revision>
   </page>
   <page>
@@ -55665,20 +55677,22 @@ NPC 취급한 세상에 욕은 을어
     <ns>0</ns>
     <id>1363</id>
     <revision>
-      <id>2074</id>
-      <timestamp>2026-04-11T14:26:05Z</timestamp>
+      <id>2113</id>
+      <parentid>2074</parentid>
+      <timestamp>2026-04-12T06:41:56Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=EYapufjfEOU |제작자=기랑 |공동제작자=슝좍1, 이단아, 주차장, 릴창섭 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 5편 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
-      <origin>2074</origin>
+      <minor/>
+      <comment>주차장 -&gt; 주차장P</comment>
+      <origin>2113</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="390" sha1="oibuz8iarulsowpqkt7zt0olufjzep4" xml:space="preserve">{{문서:창팝
+      <text bytes="391" sha1="b3e59bpeofcae4frfo47rhl1tj08qiw" xml:space="preserve">{{문서:창팝
 |유튜브Id=EYapufjfEOU
 |제작자=기랑
-|공동제작자=슝좍1, 이단아, 주차장, 릴창섭
+|공동제작자=슝좍1, 이단아, 주차장P, 릴창섭
 |개사여부=아니오
 |수록컵={{수록 창드컵
 |창드컵=2025년 5편
@@ -55692,32 +55706,32 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>oibuz8iarulsowpqkt7zt0olufjzep4</sha1>
+      <sha1>b3e59bpeofcae4frfo47rhl1tj08qiw</sha1>
     </revision>
   </page>
   <page>
-    <title>Hello, pirates/안녕해적</title>
+    <title>Hello, pirates</title>
     <ns>0</ns>
     <id>1364</id>
     <revision>
-      <id>2075</id>
-      <timestamp>2026-04-11T14:26:57Z</timestamp>
+      <id>2115</id>
+      <parentid>2114</parentid>
+      <timestamp>2026-04-12T06:43:09Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=ldRPOcPJZNo |제작자=상추토끼 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 5편 }} |곡명=안녕해적 |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
-      <origin>2075</origin>
+      <origin>2115</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="359" sha1="fj34x288yb71qpn2ovb4de7vbxqiww1" xml:space="preserve">{{문서:창팝
+      <text bytes="371" sha1="ay39tv3f0caljjolhx8w1vr25thfyus" xml:space="preserve">{{문서:창팝
 |유튜브Id=ldRPOcPJZNo
 |제작자=상추토끼
 |개사여부=아니오
 |수록컵={{수록 창드컵
 |창드컵=2025년 5편
 }}
-|곡명=안녕해적
+|다른언어제목=안녕해적
 |고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
@@ -55727,7 +55741,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>fj34x288yb71qpn2ovb4de7vbxqiww1</sha1>
+      <sha1>ay39tv3f0caljjolhx8w1vr25thfyus</sha1>
     </revision>
   </page>
   <page>
@@ -55834,27 +55848,28 @@ NPC 취급한 세상에 욕은 을어
     </revision>
   </page>
   <page>
-    <title>사계 2024</title>
+    <title>리선족의 사계</title>
     <ns>0</ns>
     <id>1368</id>
     <revision>
-      <id>2079</id>
-      <timestamp>2026-04-11T14:30:30Z</timestamp>
+      <id>2119</id>
+      <parentid>2118</parentid>
+      <timestamp>2026-04-12T06:45:56Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=qqqL5nKpc3k |제작자=리데오 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 5편 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
-      <origin>2079</origin>
+      <origin>2119</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="335" sha1="1zveaolkjtm62slrrhbf4qbw5nxjqwy" xml:space="preserve">{{문서:창팝
+      <text bytes="370" sha1="6maqwd70s1lrtamkztasbh1pet2idmg" xml:space="preserve">{{문서:창팝
 |유튜브Id=qqqL5nKpc3k
 |제작자=리데오
 |개사여부=아니오
 |수록컵={{수록 창드컵
 |창드컵=2025년 5편
 }}
+|다른언어제목=Record of Year
 |고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
@@ -55864,7 +55879,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>1zveaolkjtm62slrrhbf4qbw5nxjqwy</sha1>
+      <sha1>6maqwd70s1lrtamkztasbh1pet2idmg</sha1>
     </revision>
   </page>
   <page>
@@ -55872,23 +55887,26 @@ NPC 취급한 세상에 욕은 을어
     <ns>0</ns>
     <id>1369</id>
     <revision>
-      <id>2080</id>
-      <timestamp>2026-04-11T14:33:19Z</timestamp>
+      <id>2120</id>
+      <parentid>2080</parentid>
+      <timestamp>2026-04-12T06:47:03Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=LvT_EJb_G1g |제작자=리반 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 5편 }} |링크={{링크 |링크=https://www.youtube.com/watch?v=VGouzPcRs8o |레이블=이전 버전 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
-      <origin>2080</origin>
+      <minor/>
+      <comment>최초 버전 기준 공개일</comment>
+      <origin>2120</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="429" sha1="gzjlmp0bg6dslmh6qg1pxr1vrajevu0" xml:space="preserve">{{문서:창팝
+      <text bytes="451" sha1="my8afldabfap6jpae0y0exsn1xzwarh" xml:space="preserve">{{문서:창팝
 |유튜브Id=LvT_EJb_G1g
 |제작자=리반
 |개사여부=아니오
 |수록컵={{수록 창드컵
 |창드컵=2025년 5편
 }}
+|공개일=2025-09-13
 |링크={{링크
 |링크=https://www.youtube.com/watch?v=VGouzPcRs8o
 |레이블=이전 버전
@@ -55902,7 +55920,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>gzjlmp0bg6dslmh6qg1pxr1vrajevu0</sha1>
+      <sha1>my8afldabfap6jpae0y0exsn1xzwarh</sha1>
     </revision>
   </page>
   <page>
@@ -55940,27 +55958,29 @@ NPC 취급한 세상에 욕은 을어
     </revision>
   </page>
   <page>
-    <title>노래</title>
+    <title>노래 (AlphaGo)</title>
     <ns>0</ns>
     <id>1371</id>
     <revision>
-      <id>2082</id>
-      <timestamp>2026-04-11T14:47:26Z</timestamp>
+      <id>2130</id>
+      <parentid>2121</parentid>
+      <timestamp>2026-04-12T06:56:09Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=udj3ygPQkFk |제작자=AlphaGo |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 5편 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
-      <origin>2082</origin>
+      <minor/>
+      <origin>2130</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="333" sha1="4aewbnoj6hbaov53suzo85s4vy1dkeh" xml:space="preserve">{{문서:창팝
+      <text bytes="348" sha1="nmdfg43cakmdl3xwf29na9d5iqjtma2" xml:space="preserve">{{문서:창팝
 |유튜브Id=udj3ygPQkFk
 |제작자=AlphaGo
 |개사여부=아니오
 |수록컵={{수록 창드컵
 |창드컵=2025년 5편
 }}
+|곡명=노래
 |고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
@@ -55970,7 +55990,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>4aewbnoj6hbaov53suzo85s4vy1dkeh</sha1>
+      <sha1>nmdfg43cakmdl3xwf29na9d5iqjtma2</sha1>
     </revision>
   </page>
   <page>
@@ -56046,19 +56066,20 @@ NPC 취급한 세상에 욕은 을어
     <ns>0</ns>
     <id>1374</id>
     <revision>
-      <id>2086</id>
-      <timestamp>2026-04-11T14:49:08Z</timestamp>
+      <id>2122</id>
+      <parentid>2086</parentid>
+      <timestamp>2026-04-12T06:48:19Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=J7RDcpk5Ilo |제작자=슝좍TV |공동제작자=습작노트 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 5편 }} |화자=신창섭 |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
-      <origin>2086</origin>
+      <minor/>
+      <origin>2122</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="382" sha1="cnfpny413hh4s252yzlss2rlrb3vbyy" xml:space="preserve">{{문서:창팝
+      <text bytes="381" sha1="1m67ewo7tioq1aojm37844kamfrgrb0" xml:space="preserve">{{문서:창팝
 |유튜브Id=J7RDcpk5Ilo
-|제작자=슝좍TV
+|제작자=슝좍1
 |공동제작자=습작노트
 |개사여부=아니오
 |수록컵={{수록 창드컵
@@ -56074,31 +56095,32 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>cnfpny413hh4s252yzlss2rlrb3vbyy</sha1>
+      <sha1>1m67ewo7tioq1aojm37844kamfrgrb0</sha1>
     </revision>
   </page>
   <page>
-    <title>신 놀이 (play God / 神遊び)</title>
+    <title>신 놀이</title>
     <ns>0</ns>
     <id>1375</id>
     <revision>
-      <id>2087</id>
-      <timestamp>2026-04-11T14:49:50Z</timestamp>
+      <id>2124</id>
+      <parentid>2123</parentid>
+      <timestamp>2026-04-12T06:49:26Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=A74WksywwZk |제작자=e3z |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 5편 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
-      <origin>2087</origin>
+      <origin>2124</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="329" sha1="jax2ybi2sbz4qdn6ka51gec4nafgvs0" xml:space="preserve">{{문서:창팝
+      <text bytes="370" sha1="pg077pnw2m5jatzg2bp5ir3oj5lir3z" xml:space="preserve">{{문서:창팝
 |유튜브Id=A74WksywwZk
 |제작자=e3z
 |개사여부=아니오
 |수록컵={{수록 창드컵
 |창드컵=2025년 5편
 }}
+|다른언어제목=play God / 神遊び
 |고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
@@ -56108,31 +56130,33 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>jax2ybi2sbz4qdn6ka51gec4nafgvs0</sha1>
+      <sha1>pg077pnw2m5jatzg2bp5ir3oj5lir3z</sha1>
     </revision>
   </page>
   <page>
-    <title>Si bel homme</title>
+    <title>시벨롬</title>
     <ns>0</ns>
     <id>1376</id>
     <revision>
-      <id>2088</id>
-      <timestamp>2026-04-11T14:50:33Z</timestamp>
+      <id>2126</id>
+      <parentid>2125</parentid>
+      <timestamp>2026-04-12T06:52:07Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=xUlbL02Lf10 |제작자=리스항르 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 5편 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
-      <origin>2088</origin>
+      <minor/>
+      <origin>2126</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="338" sha1="trtb4b7bqw1hnl7tora24kub5eetwuz" xml:space="preserve">{{문서:창팝
+      <text bytes="356" sha1="dr1qypdp3ocjckdujkhj7qxd85ieovj" xml:space="preserve">{{문서:창팝
 |유튜브Id=xUlbL02Lf10
 |제작자=리스항르
 |개사여부=아니오
 |수록컵={{수록 창드컵
 |창드컵=2025년 5편
 }}
+|화자=메벤남
 |고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
@@ -56142,7 +56166,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>trtb4b7bqw1hnl7tora24kub5eetwuz</sha1>
+      <sha1>dr1qypdp3ocjckdujkhj7qxd85ieovj</sha1>
     </revision>
   </page>
   <page>
@@ -56253,23 +56277,26 @@ NPC 취급한 세상에 욕은 을어
     <ns>0</ns>
     <id>1380</id>
     <revision>
-      <id>2092</id>
-      <timestamp>2026-04-11T14:52:21Z</timestamp>
+      <id>2127</id>
+      <parentid>2092</parentid>
+      <timestamp>2026-04-12T06:53:10Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=eb3U2ZLNifE |제작자=발라리안한모금 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 5편 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
-      <origin>2092</origin>
+      <minor/>
+      <comment>한국어 제목 추가</comment>
+      <origin>2127</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="347" sha1="0jpirz051fxpnmcg45jvyn50gjzrxa0" xml:space="preserve">{{문서:창팝
+      <text bytes="386" sha1="052sopetasx1uu3e0npaf58m1mz7f2r" xml:space="preserve">{{문서:창팝
 |유튜브Id=eb3U2ZLNifE
 |제작자=발라리안한모금
 |개사여부=아니오
 |수록컵={{수록 창드컵
 |창드컵=2025년 5편
 }}
+|다른언어제목=샤덴프로이데
 |고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
@@ -56279,7 +56306,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>0jpirz051fxpnmcg45jvyn50gjzrxa0</sha1>
+      <sha1>052sopetasx1uu3e0npaf58m1mz7f2r</sha1>
     </revision>
   </page>
   <page>
@@ -56594,19 +56621,20 @@ NPC 취급한 세상에 욕은 을어
     <ns>0</ns>
     <id>1390</id>
     <revision>
-      <id>2104</id>
-      <parentid>2103</parentid>
-      <timestamp>2026-04-11T14:59:13Z</timestamp>
+      <id>2129</id>
+      <parentid>2104</parentid>
+      <timestamp>2026-04-12T06:54:57Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>2104</origin>
+      <origin>2129</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="389" sha1="pg5pj84bwvktpwje4odtpfxvkt0k0do" xml:space="preserve">{{문서:창팝
+      <text bytes="416" sha1="kyyemxul94lefcg628hit3yft8t39p8" xml:space="preserve">{{문서:창팝
 |유튜브Id=JWSPvRML9yQ
-|제작자=상추토끼, 창팝용, 캡펠, 음악으로세상을정상화
+|제작자=이단아
+|공동제작자=상추토끼, 창팝용, 캡펠, 음악으로세상을정상화
 |개사여부=아니오
 |수록컵={{수록 창드컵
 |창드컵=2025년 5편
@@ -56620,7 +56648,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>pg5pj84bwvktpwje4odtpfxvkt0k0do</sha1>
+      <sha1>kyyemxul94lefcg628hit3yft8t39p8</sha1>
     </revision>
   </page>
   <page>
@@ -56716,6 +56744,641 @@ NPC 취급한 세상에 욕은 을어
 
 {{창팝 둘러보기}}</text>
       <sha1>4jj9733u4wzqr4zy3iaqo6j99uc0j26</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>안녕해적</title>
+    <ns>0</ns>
+    <id>1395</id>
+    <redirect title="Hello, pirates" />
+    <revision>
+      <id>2116</id>
+      <timestamp>2026-04-12T06:44:11Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>[[Hello, pirates]] 문서로 넘겨주기</comment>
+      <origin>2116</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="32" sha1="7r8seofvktm14f0dys3j7tp9drbni5p" xml:space="preserve">#넘겨주기 [[Hello, pirates]]</text>
+      <sha1>7r8seofvktm14f0dys3j7tp9drbni5p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>유제</title>
+    <ns>0</ns>
+    <id>1396</id>
+    <redirect title="Titled" />
+    <revision>
+      <id>2117</id>
+      <timestamp>2026-04-12T06:44:28Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>[[Titled]] 문서로 넘겨주기</comment>
+      <origin>2117</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="5ajnb0a791huabpv24uqj1pnkyuk5f6" xml:space="preserve">#넘겨주기 [[Titled]]</text>
+      <sha1>5ajnb0a791huabpv24uqj1pnkyuk5f6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>샤덴프로이데</title>
+    <ns>0</ns>
+    <id>1397</id>
+    <redirect title="Schadenfreude" />
+    <revision>
+      <id>2128</id>
+      <timestamp>2026-04-12T06:53:29Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>[[Schadenfreude]] 문서로 넘겨주기</comment>
+      <origin>2128</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="31" sha1="10w8dl6oula4blx1mbcyj3cy7e6jv3d" xml:space="preserve">#넘겨주기 [[Schadenfreude]]</text>
+      <sha1>10w8dl6oula4blx1mbcyj3cy7e6jv3d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:그들만의 축제</title>
+    <ns>3200</ns>
+    <id>1398</id>
+    <revision>
+      <id>2132</id>
+      <timestamp>2026-04-12T13:40:39Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: Yo, It's God's Showtime! We are Whale! 이건 그들만의, 축제!  내 모든 패치는 이제 진심을 향해 우리를 진심으로 즐기는 고래들을 위해 유입? 알 게 뭐 있어 코어 게이어만을 챙겨 보스 출시도 해줬어 체리피커들은 다 꺼져  매일 보스, 퀘스트 재끼고! 성장하는 재미 느끼고! 어차피 빨간약 다 마시고! 다시 안 돌아와도 괜찮아!  신! 창! 섭! 그들만의 축제, 돌아올 분들만 돌아...</comment>
+      <origin>2132</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1774" sha1="pw9ssa2hyuhpb2bl3yrlgyapfl0o31z" xml:space="preserve">Yo, It's God's Showtime!
+We are Whale!
+이건 그들만의,
+축제!
+
+내 모든 패치는 이제 진심을 향해
+우리를 진심으로 즐기는 고래들을 위해
+유입? 알 게 뭐 있어
+코어 게이어만을 챙겨
+보스 출시도 해줬어
+체리피커들은 다 꺼져
+
+매일 보스, 퀘스트 재끼고!
+성장하는 재미 느끼고!
+어차피 빨간약 다 마시고!
+다시 안 돌아와도 괜찮아!
+
+신! 창! 섭!
+그들만의 축제, 돌아올 분들만 돌아와
+모두가 즐기진 못해도 우린 환영할 거야
+신! 창! 섭!
+분위기 수호는 계속해주잖아
+유입 없어도 경제,
+돌아가잖아!
+
+그게 바로 축제야!
+축제야!
+
+관을 옮기고 또 옮겨도
+보스 출시만을 반복
+달성ㄹ 기준을 전부 충족
+대단한 분들을 위한 축복
+유입이 온다 해도 어차피
+결국 시간 되면 떠날 거니
+즐기는 사람들만이 남아ㅏㅏㅏ
+It's out of 돌아온 탕아!
+
+매일 보스, 퀘스트 재끼고!
+성장하는 재미 느끼고!
+어차피 빨간약 다 마시고!
+다시 안 돌아와도 괜찮아!
+
+신! 창! 섭!
+그들만의 축제, 돌아올 분들만 돌아와
+모두가 즐기진 못해도 우린 환영할 거야
+신! 창! 섭!
+분위기 수호는 계속해주잖아
+유입 없어도 경제,
+돌아가잖아!
+
+그게 바로 축제야!
+축제야!
+
+어쨌든 다시 신으로 난 복직 (5 5)
+그게 팩트야, 너넨 알아 내 "진심" (5 5 5)
+그렇다면 보여줄게, 나의 보법이 (0!)
+다시 올려줄게, 작금의 더보기
+
+신! 창! 섭!
+그들만의 축제, 돌아올 분들만 돌아와
+모두가 즐기진 못해도 우린 환영할 거야
+신! 창! 섭!
+분위기 수호는 계속해주잖아
+유입 없어도 경제,
+돌아가잖아!
+
+그게 바로 축제야!
+축제야!</text>
+      <sha1>pw9ssa2hyuhpb2bl3yrlgyapfl0o31z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>릴창섭</title>
+    <ns>0</ns>
+    <id>1399</id>
+    <revision>
+      <id>2134</id>
+      <timestamp>2026-04-12T13:44:06Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: {{문서:제작자 |대표유튜브채널Id=UCOaUAbpROnaCqBwusgS7uoQ |링크={{링크 |링크=https://www.youtube.com/@LilChangsup |레이블=저장용 채널 }} }}</comment>
+      <origin>2134</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="164" sha1="0s5vudydao78us02qoq9sk2pasmclvw" xml:space="preserve">{{문서:제작자
+|대표유튜브채널Id=UCOaUAbpROnaCqBwusgS7uoQ
+|링크={{링크
+|링크=https://www.youtube.com/@LilChangsup
+|레이블=저장용 채널
+}}
+}}</text>
+      <sha1>0s5vudydao78us02qoq9sk2pasmclvw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:그래, 결국 신창섭이야</title>
+    <ns>3200</ns>
+    <id>1400</id>
+    <revision>
+      <id>2136</id>
+      <timestamp>2026-04-12T13:53:45Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: 그래 결국 신창섭이야 Ay 아마 자려고 했을텐데 창팝을 듣고 말았지 Ay 이제 그를 숭배해야 해 그래 결국 신창섭이야 Ay 아마 자려고 했을텐데 창팝을 듣고 말았지 Ay 이제 그를 숭배해야 해  부가 거대해도 여전히 난 쟁여 절대 만족은 없어 욕심쟁이여 겸손은 몰라 이런 거만해서 노래로 까불던 리선족 전쟁이여 매출 바닥 칠 때 난 쟤처럼 해결 못 해 창팝 양산으로는...</comment>
+      <origin>2136</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1927" sha1="l2gmoch8gheughkpv9lp5zc4hzo3oid" xml:space="preserve">그래 결국 신창섭이야 Ay
+아마 자려고 했을텐데
+창팝을 듣고 말았지 Ay
+이제 그를 숭배해야 해
+그래 결국 신창섭이야 Ay
+아마 자려고 했을텐데
+창팝을 듣고 말았지 Ay
+이제 그를 숭배해야 해
+
+부가 거대해도 여전히 난 쟁여
+절대 만족은 없어 욕심쟁이여
+겸손은 몰라 이런 거만해서
+노래로 까불던 리선족 전쟁이여
+매출 바닥 칠 때 난 쟤처럼 해결 못 해
+창팝 양산으로는 happy하지 못 해
+신에게 악을 써대니 신, 선함이 없네
+쌀숭이 태세전환은 당연해
+메소 값 하이드처럼 지킬거지
+약도 없지 강박만 남았으니
+지표 공개는 할 이유가 없는데
+불만이 거세지 알 권리 없으니
+열 내봤자 덧없지 난 이미
+댓글로 수 백번 죽었지
+But I'm unkillable demon king
+쌀숭이들의 Pay 커질 일 없지
+
+그래 결국 신창섭이야 Ay
+아마 자려고 했을텐데
+창팝을 듣고 말았지 Ay
+이제 그를 숭배해야 해
+그래 결국 신창섭이야 Ay
+아마 자려고 했을텐데
+창팝을 듣고 말았지 Ay
+이제 그를 숭배해야 해
+
+쌀수이 지능이 곤충이라
+3분이면 머리가 숭배
+성질을 버리기 싫어 난
+불만 있으면 와 판교에
+차 막히니까 올 때 버스 타
+지하철 다고 내 Me-tro 와
+대중교통 But I don't mean 택시
+거긴 속 좁아 재미 없잖아
+날 본 사람들
+KO, A.K.A 실신
+하고 뒤집어져 곧 신실
+한 신자가 돼 날 믿지
+-메-갓 이지만 공친 적 없어
+라이벌 마케팅 CR도 안 먹혀
+사기도박은 K-RPG의 대전제
+학을 뗐다며 왜 로스트아크로 도망쳐
+그래 결국 신창섭이야
+
+그래 결국 신창섭이야 Ay
+아마 자려고 했을텐Day
+창팝을 듣고 말았지 Ay
+이제 그를 숭배해야 Hey
+그래 결국 신창섭이야 Ay
+아마 자려고 했을텐Day
+창팝을 듣고 말았지 Ay
+이제 그를 숭배해야 Hey</text>
+      <sha1>l2gmoch8gheughkpv9lp5zc4hzo3oid</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rice Paradise</title>
+    <ns>0</ns>
+    <id>1403</id>
+    <revision>
+      <id>2137</id>
+      <timestamp>2026-04-12T17:19:21Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=ro0ApCeL9zY |제작자=도사의 길 |공동제작자=체포낙 |개사여부=아니오 |화자=$$AL (feat. 신창섭) |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
+      <origin>2137</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="340" sha1="728lr2xhugui5rtjc3v5ddjbzg6poh2" xml:space="preserve">{{문서:창팝
+|유튜브Id=ro0ApCeL9zY
+|제작자=도사의 길
+|공동제작자=체포낙
+|개사여부=아니오
+|화자=$$AL (feat. 신창섭)
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>728lr2xhugui5rtjc3v5ddjbzg6poh2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:Rice Paradise</title>
+    <ns>3200</ns>
+    <id>1404</id>
+    <revision>
+      <id>2138</id>
+      <timestamp>2026-04-12T17:27:14Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: 내가 쌀을 팔며 나름 벌이를 벌이는게 너에겐 유희거리로 흘러가 버리네 내가 생계 위해 짓밟고 올라서는게 너에겐 부도덕한 군상으로 비치네 커다랗던 내 마음은 시간이 지날 수록, 규정된 틀에 맞춰 나였던걸 깎아내 햇살론 못 담을 빛 네까짓 가사 몇줄에 담길 인생 아냐 흉내내 봤자 거기서 거기 All that Fake  너네들은 Copy and Paste 내 일상은 2PM Phase 공허한 낱말 놀...</comment>
+      <origin>2138</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="3026" sha1="5oca5hlegq1u9lkfic55yj6h40vtrph" xml:space="preserve">내가 쌀을 팔며 나름 벌이를 벌이는게
+너에겐 유희거리로 흘러가 버리네
+내가 생계 위해 짓밟고 올라서는게
+너에겐 부도덕한 군상으로 비치네
+커다랗던 내 마음은 시간이 지날 수록,
+규정된 틀에 맞춰 나였던걸 깎아내
+햇살론 못 담을 빛
+네까짓 가사 몇줄에 담길 인생 아냐
+흉내내 봤자 거기서 거기
+All that Fake
+
+너네들은 Copy and Paste
+내 일상은 2PM Phase
+공허한 낱말 놀이 전에
+먼저 벗어 위선적인 Two face
+누울수록 커지는 Pay
+No paid No gain
+Again 너넨 또 웃긴게
+폐인 흔적 찾아 시간만 날리는 중?
+
+난 가짜들과는 다른 깊이,
+나를 보며 눈을 기피하는
+아버지의 정년연장속 담긴 부정에
+증명해 I'mma cash 히어로
+너네 맘속 깊이 Keep it, 잔돈 됐어
+내 적성은 원래 메이플 마켓 Casher! 
+
+Livin' in a Rice Paradise
+Keep shaping myself to fit the mold
+Livin' in a Rice Paradise
+Keep shaping myself to fit the mold
+
+원래 그랬던건 없어 내가 나를 깎아내
+주변에 맞춰 맘에 드는 색 골라 Chill해
+그래 이 회색지대가 좀더 편해진 요즘 난
+약관 상관없지 ill 하지 않으니
+그저 Go on my way
+지조있게 직진, 짖어대도
+Oh My jesus with me
+접었다고 못 박던 넌, 봐바
+ROTC 답게 간 부었던 놈도 이젠 나랑 공
+흔한 Orphan의 망상은 시켜 너를 고생
+난 휘둘러 앱솔Sword, Not a words
+망가지는 Worlds 에선 내가 5컴 광부들의 Role model
+그래 쌀을 또 캤어, 매순간 메소가 손에 가득
+쌀숭이 손 탄, 수화물은 경계를 넘어
+메소가 Won할수록 선명해져가는 내 삶의 이정표
+매도 맞아본 놈이 잘 안다고
+타이밍은 놓쳤다고 이미 -메-도
+But 이미 판 놈들에겐 보내는 애도
+R I P
+
+R I P
+
+몹시 낡은 게임, 라인 잘 타 도달한 SKY
+ROTC 장교 엘리트 우린 혈통이 달라
+과거 영광 취한 시야, 확실한 비전 보단 암시야
+사육한 동물 농장 마법처럼 바꿀거란 다짐이야
+그러다 걸린 사기
+엘리트 아닌 범인, 갇혀버릴 Jail
+성난 쌀숭인 WWE 드러누워 매일
+But 우유같은 사료 없어
+오판은 Orphan으로 덮어
+갈등 주범 낙인 찍고 Kill it
+민심 걍 AGAIN
+이해해줘 내 잘못, 아닌 너희 문제
+다시 쌀섭으로 돌아올 거란 생각에 밀었네
+믿은건 내 자만, 문화 혁명처럼 남은게 없어
+현실 부정, 버리지 못한 회색 내복만이 남았네
+인방에 빌 붙고 티끌 모아 기회 찾아, 제쳐 종민 재학
+비싼 요금제, 티나는 다단계, 토끼야 해줘 종신 계약
+금방 절전, 왜 학을 떼 전쟁 속 썩은 균 모두 피해
+남은건 원숭이와 낡은 군인, 여긴 어쩔 수 없는
+Dystopia
+
+Livin' in a Rice Paradise
+Keep shaping myself to fit the mold
+Livin' in a Rice Paradise
+Keep shaping myself to fit the mold
+Livin' in a Rice Paradise
+Keep shaping myself to fit the mold
+Livin' in a Rice Paradise
+Keep shaping myself to fit the mold</text>
+      <sha1>5oca5hlegq1u9lkfic55yj6h40vtrph</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:수건</title>
+    <ns>3200</ns>
+    <id>1405</id>
+    <revision>
+      <id>2139</id>
+      <timestamp>2026-04-12T17:30:08Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: 하루 종일 젖어 있던 수건처럼 내 마음도 푹 젖어 있었어 네가 떠난 그날 이후로 짜내도 짜내도 남아 있더라  햇빛 없는 베란다에 널어둔 채 그대로 굳어 차라리 바람 한번 불어주면 훨씬 나았을 텐데 방 안 가득 비 냄새처럼 네 기억도 눅눅하게 퍼져 TV에서 흘러나온 광고 딱 너 좋아하던 그거더라 돌릴까 하다가 듣고 말았어 어차피 뭐 바뀔 것도 없고 이제 후회도...</comment>
+      <origin>2139</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2593" sha1="mepmdo7bu4e0vmh9wjexiz1cw73fuxx" xml:space="preserve">하루 종일 젖어 있던 수건처럼
+내 마음도 푹 젖어 있었어
+네가 떠난 그날 이후로
+짜내도 짜내도 남아 있더라
+
+햇빛 없는 베란다에 널어둔 채
+그대로 굳어 차라리
+바람 한번 불어주면
+훨씬 나았을 텐데
+방 안 가득 비 냄새처럼
+네 기억도 눅눅하게 퍼져
+TV에서 흘러나온 광고
+딱 너 좋아하던 그거더라
+돌릴까 하다가 듣고 말았어
+어차피 뭐 바뀔 것도 없고
+이제 후회도 습관이 돼서
+네 생각도 그냥 흐르더라
+
+이젠 말라버렸으면 좋겠는데
+햇빛도 바람도 아직은 부족한가 봐
+괜히 꺼내다가 또 껴안고
+괜히 그리워서 또 접어두고
+
+사랑은 젖은 수건
+말리지 않으면 썩어가
+계속 쥐고 있자니
+손도 함께 냄새나고
+털어도 떨어지질 않아
+네 흔적이 딱 그 모양이야
+차라리 다 짜내고
+탁 던져버릴걸 그랬지
+사랑은 젖은 수건
+세탁해도 완전히 안 없어져
+가끔 다시 꺼내보면
+여전히 너 냄새가 나
+꺼낸 적 없는데 자꾸 눈에 밟혀
+구석에 처박아 놨는데도
+어느새 다시 손에 들려 있어
+이젠 버리기도 뭐한 냄새야
+
+
+
+문득 창밖을 보다가
+빨래줄에 널린 수건들을 봤어
+바람 불어 벌럭이는
+그 모습이 네가 떠나던 날 같더라
+왜 그날 그렇게 허둥댔을까
+넌 한 마디 말도 없이 나가버렸고
+나는 아무 말도 못 한 채
+베란다 창문만 열어놨지
+
+습기 찬 유리창에 이름을 써봤다가
+손바닥으로 지웠어
+그 흔적도 남지 않게 근데 김서린 창엔
+또다시 떠오르더라
+무뎌진 줄 알았던 생각들이 수건처럼
+구겨져 말라붙어 펴보면
+아직 젖어있고 만지면 여전히 너 같더라
+
+이젠 말라버렸으면 좋겠는데
+햇빛도 바람도 아직은 부족한가 봐
+괜히 꺼내다가 또 껴안고
+괜히 그리워서 또 접어두고
+
+사랑은 젖은 수건
+말리지 않으면 썩어가
+계속 쥐고 있자니
+손도 함께 냄새나고
+털어도 떨어지질 않아
+네 흔적이 딱 그 모양이야
+차라리 다 짜내고
+탁 던져버릴걸 그랬지
+사랑은 젖은 수건
+세탁해도 완전히 안 없어져
+가끔 다시 꺼내보면
+여전히 너 냄새가 나
+꺼낸 적 없는데 자꾸 눈에 밟혀
+구석에 처박아 놨는데도
+어느새 다시 손에 들려 있어
+이젠 버리기도 뭐한 냄새야
+
+
+
+괜히 꺼내다가 또 껴안고
+괜히 그리워서 또 접어두고
+괜히 꺼내다가 또 껴안고
+괜히 그리워서 또 접어두고
+이젠 말라버렸으면
+좋겠는데</text>
+      <sha1>mepmdo7bu4e0vmh9wjexiz1cw73fuxx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>DOUGH</title>
+    <ns>0</ns>
+    <id>1406</id>
+    <revision>
+      <id>2140</id>
+      <timestamp>2026-04-12T17:39:34Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=ZxfOZ-aORdI |제작자=슝좍1 |공동제작자=주차장P |개사여부=아니오 |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
+      <origin>2140</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="304" sha1="pv5fvo7kgt9jdxx62w8ceu19f7x1x7l" xml:space="preserve">{{문서:창팝
+|유튜브Id=ZxfOZ-aORdI
+|제작자=슝좍1
+|공동제작자=주차장P
+|개사여부=아니오
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>pv5fvo7kgt9jdxx62w8ceu19f7x1x7l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:DOUGH</title>
+    <ns>3200</ns>
+    <id>1407</id>
+    <revision>
+      <id>2141</id>
+      <timestamp>2026-04-12T17:40:01Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: 말을 자꾸 하게 만들잖아, 방금 자고 일어나 확인하는 Chart out 돌려놔라 감가 먹은 일확천금 기술 들어간다 봐라 잠깐 여기 일로 와 봐라 바락바락 소리쳐야 알아 들어먹나 보다 니 갈 길 방향  겨울에 못 팔았음 내년 여름에 팔면 됨 여름에 못 팔았음 내년 겨울에 팔면 됨 생각 단순해 당장 대돈게 상장 내 손에 딱 뜨는 날 최대 수혜 다 조용히 해라 저지르기 전에...</comment>
+      <origin>2141</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2804" sha1="1yrobv6i2m0btfewtnv6rxa2zqv1okw" xml:space="preserve">말을 자꾸 하게 만들잖아, 방금
+자고 일어나 확인하는 Chart out
+돌려놔라 감가 먹은 일확천금
+기술 들어간다 봐라
+잠깐 여기 일로 와 봐라
+바락바락 소리쳐야 알아
+들어먹나 보다 니 갈 길 방향
+
+겨울에 못 팔았음 내년 여름에 팔면 됨
+여름에 못 팔았음 내년 겨울에 팔면 됨
+생각 단순해
+당장 대돈게
+상장 내 손에
+딱 뜨는 날 최대 수혜
+다 조용히 해라 저지르기 전에
+
+메벤에서 분명 오늘 2000 간댔어
+이러면 안돼 더는 안돼 맞짱뜨자 신창섭
+저점에 메소 쌀먹 하기 싫어 씨발 좆됐어
+메벤에서 분명 오늘 2000 간댔어
+내 미래, 빚
+저기 옆집
+자그마치 500원 짜리
+I need my dough, I know
+(Dough, Dough, Dough, Dough, Dough, Dough)
+내 미래, 빚
+저기 옆집
+자그마치 500원 짜리
+I need my dough, U know?
+(Dough, Dough, Dough, Dough, Dough)
+
+Yeah, 내 작고 예쁜 적금
+미장 and 코인 대신해 Dunk
+이번엔 2000 간대서 먹금
+해도 안돼 이젠 반도 채 Fuck U
+귀찮아도 됐어 뭣 됐어
+내 통장은 Hands up So 개털 매점매석
+눈치게임 애써, 디렉터
+넌 그냥 Limit Dancer
+내 10년 Play's value는 나락
+떨어져 가치 꼴이 SBENU 상장
+폐지 막막해진 미래 다 좆됐지
+일 없어져 막말 뱉지 나
+난 더 던져 버려 품 다 무가치해
+아직도 떨려 너 못 벌었니 왜?
+더 멀어버려 눈 Pay to Pain
+개버러지 걔 땜에 매일이 Sale
+
+겨울에 못 팔았음 내년 여름에 팔면 됨
+여름에 못 팔았음 내년 겨울에 팔면 됨
+생각 단순해
+당장 대돈게
+상장 내 손에
+딱 뜨는 날 최대 수혜
+다 조용히 해라 저지르기 전에
+
+메벤에서 분명 오늘 2000 간댔어
+이러면 안돼 더는 안돼 맞짱뜨자 신창섭
+저점에 메소 쌀먹 하기 싫어 씨발 좆됐어
+메벤에서 분명 오늘 2000 간댔어
+내 미래, 빚
+저기 옆집
+자그마치 500원 짜리
+I need my dough, I know
+(Dough, Dough, Dough, Dough, Dough)
+내 미래, 빚
+저기 옆집
+자그마치 500원 짜리
+I need my dough, U know?
+(Dough, Dough, Dough, Dough, Dough)
+
+천 단위로 더 비슷한 차이 더 비싼값
+다 팔아버려 조용할 때 한 장
+Wanna be a sugar papa
+(Dough, Dough, Dough, Dough)
+억 단위의 아득한 사이 더 비싼값
+더 멀어버려 눈 Pay to Pain
+Wanna be a Rockstar Lifestyle
+(Dough, Dough, Dough, Dough)
+
+메벤에서 분명 오늘 2000 간댔어
+이러면 안돼 더는 안돼 맞짱뜨자 신창섭
+저점에 메소 쌀먹 하기 싫어 씨발 좆됐어
+메벤에서 분명 오늘 2000 간댔어
+
+내 미래, 빚
+저기 옆집
+자그마치 500원 짜리
+I need my dough, I know
+내 미래, 빚
+저기 옆집
+자그마치 500원 짜리
+I need my, I need my
+(Dough, Dough, Dough, Dough, Dough)</text>
+      <sha1>1yrobv6i2m0btfewtnv6rxa2zqv1okw</sha1>
     </revision>
   </page>
 </mediawiki>
