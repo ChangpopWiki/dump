@@ -2,9 +2,10 @@
 
 # 미디어위키 설치 경로
 MW_DIR="/home/bitnami/htdocs/mw"
+PHP_DIR="/opt/bitnami/php/bin/php"
 
-php $MW_DIR/maintenance/run.php $MW_DIR/maintenance/dumpBackup.php --current > dump_allPages.xml
-php $MW_DIR/maintenance/run.php $MW_DIR/maintenance/dumpBackup.php --current --filter=namespace:3200 > dump_lyricOnly.xml
+$PHP_DIR $MW_DIR/maintenance/run.php $MW_DIR/maintenance/dumpBackup.php --current > dump_allPages.xml
+$PHP_DIR $MW_DIR/maintenance/run.php $MW_DIR/maintenance/dumpBackup.php --current --filter=namespace:3200 > dump_lyricOnly.xml
 
 # 스테이징
 git add dump_allPages.xml dump_lyricOnly.xml
@@ -17,5 +18,5 @@ GIT_COMMITTER_EMAIL="backup-bot[bot]@users.noreply.github.com" \
 git commit -m "자동 백업: $(date)"
 
 # 원격 저장소로 푸시
-git pull --rebase origin main
+git pull --ff-only
 git push origin main
