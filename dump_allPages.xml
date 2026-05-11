@@ -1728,25 +1728,25 @@ __새문단쓰기__
     <ns>8</ns>
     <id>38</id>
     <revision>
-      <id>729</id>
-      <parentid>728</parentid>
-      <timestamp>2025-08-06T11:38:54Z</timestamp>
+      <id>2249</id>
+      <parentid>729</parentid>
+      <timestamp>2026-05-11T11:31:20Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <origin>729</origin>
+      <origin>2249</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="653" sha1="8tvp7am08wq24953ha677vy7x7qiufv" xml:space="preserve">* DiscussionToolsEnhancedReadability[ default ] | DiscussionToolsEnhancedReadability.css
+      <text bytes="734" sha1="7pqawswvpwhoplihvodqhfnakibnhtm" xml:space="preserve">* DiscussionToolsEnhancedReadability[ default ] | DiscussionToolsEnhancedReadability.css
+* ChangesListEnhancedReadability[ default ] | ChangesListEnhancedReadability.css
 * PageFormsStyles[ default | hidden ] | PageFormsStyles.css
 * ExpandWikiEditorOnPreview[ default | skins = citizen ] | ExpandWikiEditorOnPreview.css
 * HideApprovedLatestMsg[ default ] | HideApprovedLatestMsg.css
 * Edittools [ ResourceLoader | hidden | default | actions = edit ] | Edittools.js | MoveEdittoolsInside.js | StylingEdittools.css
 * LyricNamespaceSansSerif | LyricNamespaceSansSerif.css
 * instantDiffs [ResourceLoader | dependencies=site, mediawiki.api, mediawiki.util, mediawiki.storage, mediawiki.notification, mediawiki.Title, oojs] | instantDiffs.js</text>
-      <sha1>8tvp7am08wq24953ha677vy7x7qiufv</sha1>
+      <sha1>7pqawswvpwhoplihvodqhfnakibnhtm</sha1>
     </revision>
   </page>
   <page>
@@ -61558,6 +61558,98 @@ just kick it
 (아이 아이 아이 아이 아이 아이 아이 아이 아이)
 (I 아이 愛)</text>
       <sha1>0y1n57376roy8xrqwivpw996ckumv28</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>미디어위키:Gadget-ChangesListEnhancedReadability.css</title>
+    <ns>8</ns>
+    <id>1999</id>
+    <revision>
+      <id>2250</id>
+      <timestamp>2026-05-11T11:31:38Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: .mw-special-Recentchanges .mw-changeslist-title {   font-size: var(--font-size-medium); }  .mw-special-Recentchanges .mw-changeslist-line:not(.mw-changeslist-line-watched) .mw-title {   font-weight: 500; }  .mw-special-Recentchanges .mw-changeslist-line-inner-comment::before, .mw-special-Recentchanges .mw-changeslist-line-inner-userLink::before, .mw-enhanced-rc-nested &gt; .comment {   content: "";   display: block; }  .mw-changeslist-line .comment, .mw-contributions-list li .comme...</comment>
+      <origin>2250</origin>
+      <model>css</model>
+      <format>text/css</format>
+      <text bytes="1657" sha1="pg7nit5wlnyxi31q5xim2epofae2h2m" xml:space="preserve">.mw-special-Recentchanges .mw-changeslist-title {
+  font-size: var(--font-size-medium);
+}
+
+.mw-special-Recentchanges .mw-changeslist-line:not(.mw-changeslist-line-watched) .mw-title {
+  font-weight: 500;
+}
+
+.mw-special-Recentchanges .mw-changeslist-line-inner-comment::before,
+.mw-special-Recentchanges .mw-changeslist-line-inner-userLink::before,
+.mw-enhanced-rc-nested &gt; .comment
+{
+  content: "";
+  display: block;
+}
+
+.mw-changeslist-line .comment, .mw-contributions-list li .comment {
+  font-style: normal;
+  color: var(--color-subtle);
+  font-size: var(--font-size-x-small);
+}
+
+.mw-changeslist-links{
+	border-style: solid;
+	border-width: 1px;
+	border-color: var(--border-color-base,#a2a9b1);
+	border-radius: var(--border-radius-pill);
+	padding: 0 var(--space-xs);
+	margin: 0 var(--space-xxs);
+}
+
+.mw-changeslist-links::before, .mw-changeslist-links::after {
+  display: none;
+}
+
+.mw-changeslist-links &gt; span:not(:first-child)::before {
+  color: var(--border-color-base);
+}
+
+.mw-special-Recentchanges .mw-changeslist-line-inner-characterDiff, 
+.mw-special-Recentchanges .mw-changeslist-line-inner-historyLink, 
+.mw-special-Recentchanges .mw-changeslist-line-inner .mw-diff-bytes, 
+.mw-changeslist-line-inner &gt; .mw-changeslist-links {
+  float: right;
+}
+
+.mw-special-Recentchanges .mw-changeslist-line-inner-userLink,  
+.mw-special-Recentchanges .mw-changeslist-line-inner-userTalkLink {
+  font-size: var(--font-size-x-small);
+}
+
+.mw-special-Recentchanges .mw-changeslist-line-inner-separatorAftercharacterDiff .mw-changeslist-separator,
+.mw-special-Recentchanges .mw-changeslist-line-inner-separatorAfterLinks .mw-changeslist-separator {
+  display: none;
+}</text>
+      <sha1>pg7nit5wlnyxi31q5xim2epofae2h2m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>미디어위키:Gadget-ChangesListEnhancedReadability</title>
+    <ns>8</ns>
+    <id>2000</id>
+    <revision>
+      <id>2251</id>
+      <timestamp>2026-05-11T11:32:42Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: 최근 바뀜 목록의 가독성을 개선합니다.</comment>
+      <origin>2251</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="53" sha1="lfe6j4f745xg2niosyr6gasefp6en4t" xml:space="preserve">최근 바뀜 목록의 가독성을 개선합니다.</text>
+      <sha1>lfe6j4f745xg2niosyr6gasefp6en4t</sha1>
     </revision>
   </page>
 </mediawiki>
