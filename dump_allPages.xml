@@ -5968,18 +5968,19 @@ piku\.co.kr
     <ns>4</ns>
     <id>142</id>
     <revision>
-      <id>2204</id>
-      <parentid>1260</parentid>
-      <timestamp>2026-04-22T09:54:42Z</timestamp>
+      <id>2252</id>
+      <parentid>2204</parentid>
+      <timestamp>2026-05-14T13:57:35Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <origin>2204</origin>
+      <comment>계획 추가: ** 제작자가 아닌 유튜브 채널용 틀 분리</comment>
+      <origin>2252</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1594" sha1="oyq8bx4uu531m12s2ezxm8x7tlxqtum" xml:space="preserve">{{창팝위키 둘러보기}}
+      <text bytes="1648" sha1="pvsz0hjv3wlfw47u64l5wznabaup8i2" xml:space="preserve">{{창팝위키 둘러보기}}
 
 창팝위키의 향후 계획 및 방향성
 
@@ -5992,6 +5993,7 @@ piku\.co.kr
 * 대문 정리
 ** 대회 시트 안정화되면 활용?
 * &lt;s&gt;제작자 문서용 틀 및 양식 만들기&lt;/s&gt; 
+** 제작자가 아닌 유튜브 채널용 틀 분리
 * 합작, 대회 문서용 틀 및 양식 만들기
 * &lt;s&gt;창드컵 문서에 수록된 창팝을 자동 표시하는 등 잡다한 정비&lt;/s&gt;
 ** &lt;s&gt;[[틀:수록곡 표]]&lt;/s&gt;
@@ -6009,7 +6011,7 @@ piku\.co.kr
 * 여러 버전 가사 지원
 
 [[분류:창팝위키]]</text>
-      <sha1>oyq8bx4uu531m12s2ezxm8x7tlxqtum</sha1>
+      <sha1>pvsz0hjv3wlfw47u64l5wznabaup8i2</sha1>
     </revision>
   </page>
   <page>
