@@ -455,18 +455,19 @@ useve=true
     <ns>8</ns>
     <id>8</id>
     <revision>
-      <id>2258</id>
-      <parentid>1080</parentid>
-      <timestamp>2026-05-20T14:09:32Z</timestamp>
+      <id>2280</id>
+      <parentid>2279</parentid>
+      <timestamp>2026-05-23T17:18:33Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>Citizen 스킨 최신 버전에서 문제가 있던 다크모드 수정</comment>
-      <origin>2258</origin>
+      <minor/>
+      <comment>잘못 닫힌 괄호 수정</comment>
+      <origin>2280</origin>
       <model>css</model>
       <format>text/css</format>
-      <text bytes="8569" sha1="nu9s4pcwnlt9sh7obxxgyo3mt5vqcco" xml:space="preserve">/* 여기의 모든 CSS는 시티즌 스킨을 사용하는 사용자에게 로드됩니다 */
+      <text bytes="8392" sha1="jffgie387moyqkfoolgjt3avyw7iivb" xml:space="preserve">/* 여기의 모든 CSS는 시티즌 스킨을 사용하는 사용자에게 로드됩니다 */
 
 :root {
 	/* 메인 색상 */
@@ -500,9 +501,7 @@ useve=true
 	
 	/* 텍스트 컬러 */
 	--color-emphasized-oklch__c: 0;
-	--color-base-oklch__l: 25%;
 	--color-base-oklch__c: 0;
-	--color-subtle-oklch__l: 35%;
 	--color-subtle-oklch__c: 0;
 	--color-placeholder-oklch__c: 0;
 	
@@ -516,19 +515,19 @@ useve=true
 @media screen {
 	:root.skin-theme-clientpref-day {
 		--color-surface-0-oklch__l: 100%;
+	}
 }
 @media screen and (prefers-color-scheme: light) {
 	:root.skin-theme-clientpref-os {
 		--color-surface-0-oklch__l: 100%;
+	}
 }
 
 /* 다크모드용 값 */
 @media screen {
 	:root.skin-theme-clientpref-night {
 		--color-emphasized-oklch__c: 0;
-		--color-base-oklch__l: 85%;
 		--color-base-oklch__c: 0;
-		--color-subtle-oklch__l: 80%;
 		--color-subtle-oklch__c: 0;
 		--color-placeholder-oklch__c: 0;
 		
@@ -547,9 +546,7 @@ useve=true
 @media screen and (prefers-color-scheme: dark) {
 	:root.skin-theme-clientpref-os {
 		--color-emphasized-oklch__c: 0;
-		--color-base-oklch__l: 85%;
 		--color-base-oklch__c: 0;
-		--color-subtle-oklch__l: 80%;
 		--color-subtle-oklch__c: 0;
 		--color-placeholder-oklch__c: 0;
 		
@@ -593,6 +590,7 @@ a {
     --color-link: #36c;
     --color-visited: #6a60b0;
 }
+
 @media screen {
 	:root.skin-theme-clientpref-night a {
 		--color-link: #88a3e8;
@@ -731,7 +729,7 @@ a {
 		display: none;
 	}
 }</text>
-      <sha1>nu9s4pcwnlt9sh7obxxgyo3mt5vqcco</sha1>
+      <sha1>jffgie387moyqkfoolgjt3avyw7iivb</sha1>
     </revision>
   </page>
   <page>
@@ -6277,25 +6275,26 @@ span.comment {
     <ns>4</ns>
     <id>153</id>
     <revision>
-      <id>155</id>
-      <timestamp>2025-06-14T13:47:47Z</timestamp>
+      <id>2265</id>
+      <parentid>155</parentid>
+      <timestamp>2026-05-23T15:13:47Z</timestamp>
       <contributor>
-        <username>창팝위키</username>
-        <id>2</id>
+        <username>ㅇㅇ20</username>
+        <id>27</id>
       </contributor>
-      <comment>새 문서: &lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------  --&gt;{{창팝위키 둘러보기}}{{SHORTDESC:창팝위키의 편집 연습장}}[[분류:창팝위키]] {{고지문|창팝위키의 편집 연습장입니다. 이 문서는 다른 사용자와 공유하므로 언제든 내용이 지워질 수 있습니다. 계정이 있다면 사용자 문서에서 연습하는 것을 권장합니다.}} &lt;!--  위 부분은 지우지 마시고 아래부터 편집해...</comment>
-      <origin>155</origin>
+      <origin>2265</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="573" sha1="1wdksrpx22bd8exs9flc9t5nb33yfdw" xml:space="preserve">&lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+      <text bytes="583" sha1="666ybl8av93tz9560mcig3w47tsklqz" xml:space="preserve">&lt;!------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
 
 --&gt;{{창팝위키 둘러보기}}{{SHORTDESC:창팝위키의 편집 연습장}}[[분류:창팝위키]]
 {{고지문|창팝위키의 편집 연습장입니다. 이 문서는 다른 사용자와 공유하므로 언제든 내용이 지워질 수 있습니다. 계정이 있다면 사용자 문서에서 연습하는 것을 권장합니다.}}
 &lt;!--
 
 위 부분은 지우지 마시고 아래부터 편집해 주세요!
---------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>1wdksrpx22bd8exs9flc9t5nb33yfdw</sha1>
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;
+테스트</text>
+      <sha1>666ybl8av93tz9560mcig3w47tsklqz</sha1>
     </revision>
   </page>
   <page>
@@ -61967,6 +61966,1295 @@ The prodigal's on my way</text>
 
 {{창팝 둘러보기}}</text>
       <sha1>hg8z72ydzek0p1ohbk0wn7q538i3ybg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:거짓말 속이기</title>
+    <ns>3200</ns>
+    <id>2073</id>
+    <revision>
+      <id>2267</id>
+      <timestamp>2026-05-23T15:29:06Z</timestamp>
+      <contributor>
+        <username>ㅇㅇ22</username>
+        <id>28</id>
+      </contributor>
+      <comment>새 문서: どうしようもないのこんな世界 도우시요-모나이 콘나 세카이 어찌 할 수도 없는 이 세상  欺いて騙すそんな世界だ 아자무이테 다마스 손나 세카이다 속이고 속이는, 그런 세상이야  冷えた視線の戦闘印章？ 히에타 시센노 센토-인쇼- 차가워진 시선의 전투인장?  ふざけないで 후자케나이데 웃기지마  正しさなんてどこにも書いてない 타다시사 난테 도코니모 카...</comment>
+      <origin>2267</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="5564" sha1="geq5dpia2db8f2o0idtpdcok35tj8rl" xml:space="preserve">どうしようもないのこんな世界
+도우시요-모나이 콘나 세카이
+어찌 할 수도 없는 이 세상
+
+欺いて騙すそんな世界だ
+아자무이테 다마스 손나 세카이다
+속이고 속이는, 그런 세상이야
+
+冷えた視線の戦闘印章？
+히에타 시센노 센토-인쇼-
+차가워진 시선의 전투인장?
+
+ふざけないで
+후자케나이데
+웃기지마
+
+正しさなんてどこにも書いてない
+타다시사 난테 도코니모 카이테나이
+'올바름' 같은건 어디에도 써 있지 않아
+
+
+同じだってふりをしても
+오나지닷테 후리오 시테모
+똑같다며 흉내를 내 봐도
+
+透けてる欺瞞の論理
+스케테루 기만노 론리
+훤히 보이는 기만의 논리
+
+別に特別わけじゃない
+베쓰니 토쿠베쓰 와케자나이
+딱히 특별한건 아니야
+
+五千って曖昧が怖い
+고센-떼 아이마이가 코와이
+"오천" 이라는 애매함이 무서울
+
+だけなの
+다케나노
+뿐이야
+
+
+衝動的な印章操作
+쇼-도-테키나 인쇼-소-사
+충동적인 인장주작
+
+忘れることもできない
+와스레루코토모 데키나이
+잊혀지는 것도 불가능해
+
+嘘の刃で胸を刺すの
+우소노 야이바데 무네오 사스노
+거짓말의 날로 가슴을 찔러
+
+破滅的な戦闘印章
+하메쓰테키나 센토-인쇼-
+파멸적인 전투인장
+
+には裏切られて
+니와 우라기라레테
+에게는 배신당해서
+
+ズレブレバレバレバレている
+즈레브레 바레바레 바레테이루
+어긋나고 흔들리고 들켜버렸어
+
+
+隠せ隠せ
+카쿠세 카쿠세
+숨겨라 숨겨
+
+いっそ被せてほしい
+잇소 카부세테호시-
+차라리 덮어씌워줬으면 좋겠어
+
+殺せ
+코로세
+죽여라
+
+無実のこの主犯も
+무지쓰노 코노 슈한모
+무고한 이 주범도
+
+欺瞞的なFAKEストーリー
+기만테키나 페이크스토-리-
+기만적인 페이크 스토리
+
+戻ることはできない
+모도루코토와 데키나이
+되돌아 가는건 불가능해
+
+ズレブレバレバレバレている
+즈레브레 바레바레 바레테이루
+어긋나고 흔들리고 들켜버렸어
+
+ズレブレバレバレバレている
+즈레브레 바레바레 바레테이루
+어긋나고 흔들리고 들켜버렸어
+
+
+なあ
+나아
+있잖아
+
+ふらふらな僕 祓って
+후라후라나 보쿠 하랏테
+비틀비틀거리는 나를 씻어내 줘
+
+制裁即退魔タイム払って
+세이사이 소쿠 타이마 타이무 하랏테
+제재 즉시 퇴마 시간을 바쳐서
+
+カチャカチャってガシャドクロ完成です
+카차카찻테 가샤도쿠로 칸세이데스
+딸깍딸깍으로 가샤도쿠로 완성입니다.
+
+Death!でもって正義ですって
+데스! 데못테 세이기데슷테
+죽어! 그걸로 정의라던데?
+
+打つて切った嫌悪のcrystal night
+웃테킷타 켄오노 crystal night
+때리고 자른 혐오의 crystal night
+
+敗北こじきやろうにBYE☆BYE
+하이보쿠 코지키야로-니 바이 바이
+패배한 거지자식에게 BYE BYE
+
+バイタルな バケツ売買って
+바이타루나 바케쓰 바이바잇테
+Vital인 물통 매매라고
+
+....そう思っていた
+...소- 오못테이타
+....생각하고 있었는데
+
+呪うように不快な歌も
+노로-요-니 후카이나 우타모
+저주하듯 불쾌한 노래도
+
+笑って流すしかない
+와랏테 나가스시카나이
+웃고 넘어가야하는
+
+宿命なんだろう
+사다메난다로-
+숙명인거겠지
+
+…きっと
+...킷토
+...분명
+
+
+ふさいでもやして
+후사이데 모야시테
+틀어막고 불태우고
+
+悲劇ぶった茶番も
+히게키붓타 챠반모
+비극인척하는 짜고치는 연극도
+
+所詮、荒らしです
+쇼센, 아라시데스
+결국, 분탕이에요.
+
+道理通りの 不純なストーリー
+도-리도-리노 후쥰나 스토-리-
+도리대로 불순한 스토리
+
+ストーリー通りの 純な道理
+스토-리-도-리노 쥰나 도-리
+스토리대로 순수한 도리
+
+清く正しく巧妙に
+키요쿠, 타다시쿠, 코-묘-니
+맑고 올바르고 교묘하게
+
+偽って
+이츠왓테
+거짓을 고하며
+
+自分の醜さを化かす
+지분노 미니쿠사오 바카스
+자신의 추악함을 속일
+
+だけなの
+다케나노
+뿐이야
+
+衝動的な印章操作 
+쇼-도-테키나 인쇼-소-사
+충동적인 인장주작
+
+忘れることもできない
+와스레루코토모 데키나이
+잊혀지는 것도 불가능해
+
+嘘の刃で胸を刺すの
+우소노 야이바데 무네오 사스노
+거짓말의 날로 가슴을 찔러
+
+破滅的な戦闘印章
+하메쓰테키나 센토-인쇼-
+파멸적인 전투인장
+
+には裏切られて
+니와 우라기라레테
+에게는 배신당해서
+
+ズレブレバレバレバレている
+즈레브레 바레바레 바레테이루
+어긋나고 흔들리고 들켜버렸어
+
+
+隠せ隠せ
+카쿠세 카쿠세
+숨겨라 숨겨
+
+いっそ被せてほしい
+잇소 카부세테호시-
+차라리 덮어씌워줬으면 좋겠어
+
+被せ
+카부세
+덮어줘
+
+真実って知らないで
+신지쓰-떼 시라나이데
+진실이라고 알지 말아줘
+
+欺瞞的なFAKEストーリー
+기만테키나 페이크스토-리-
+기만적인 페이크 스토리
+
+戻ることはできない
+모도루코토와 데키나이
+되돌아 가는건 불가능해
+
+ズレブレバレバレバレている
+즈레브레 바레바레 바레테이루
+어긋나고 흔들리고 들켜버렸어
+
+ズレブレバレバレバレている
+즈레브레 바레바레 바레테이루
+어긋나고 흔들리고 들켜버렸어</text>
+      <sha1>geq5dpia2db8f2o0idtpdcok35tj8rl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:어느 불신자의 사담</title>
+    <ns>3200</ns>
+    <id>2074</id>
+    <revision>
+      <id>2268</id>
+      <timestamp>2026-05-23T15:33:06Z</timestamp>
+      <contributor>
+        <username>Seolhwassi</username>
+        <id>29</id>
+      </contributor>
+      <comment>새 문서: 저기 신님 진심으로 당신이 싫습니다 이런 나를 당신은 이해 못할 테지요  게임 따위 때문에 겨우 그것 때문에 아직도 이토록 질척이고 있다니  다만 신님 꺼져가는 내 마음의 불씨에 장작을 넣었던 건 바로 당신입니다  끝나가는 노래의 연장전을 바라며 음악에 바다에 날 묶은건 당신이야  진심마저 녹아내린 인터넷 전장 자신의 프레임에 상대를 가둬라  분탕치는...</comment>
+      <origin>2268</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2045" sha1="octj2h9yg2dgyomj65f8rrzdrqg10mk" xml:space="preserve">저기 신님 진심으로 당신이 싫습니다
+이런 나를 당신은 이해 못할 테지요
+
+게임 따위 때문에 겨우 그것 때문에
+아직도 이토록 질척이고 있다니
+
+다만 신님 꺼져가는 내 마음의 불씨에
+장작을 넣었던 건 바로 당신입니다
+
+끝나가는 노래의 연장전을 바라며
+음악에 바다에 날 묶은건
+당신이야
+
+진심마저 녹아내린 인터넷 전장
+자신의 프레임에 상대를 가둬라
+
+분탕치는 딸깍충과 관대한 디렉터
+갈라치기 디렉터와 쫒겨난 유저
+
+진실따위 무의미한 인터넷 전장
+유죄 혹은 무죄 판결은 관객의 몫
+
+어차피 서로 이해하지 못하니
+각자의 무대에서 관객들을 매혹하자
+
+당신의 신도들은 짐승의 꼴이고
+추억 속의 그 땅이 불모지로 변해도
+
+사기꾼에 신님의 가면이 씌워져서
+당신의 지위가 지켜져 만족합니까
+
+그렇겠지 당신은 엘리트인 어른이니
+돈벌이의 도구에서 추억이니 인연이니
+
+게임이 좋아 라는 애새끼의 기분은
+바보취급 하면서 무시해버리겠지
+
+진심마저 녹아내린 인터넷 전장
+자신의 프레임에 상대를 가둬라
+
+뇌절하는 찐따와 일반인 샐러리맨
+확률조작 사기꾼과 유쾌한 해적
+
+진실따윈 무의미한 인터넷 전장
+재밌다면 무죄 지루하면 유죄
+
+어차피 서로 이해하지 못하니
+각자의 무대에서 관객들을 매혹하자
+
+116의 심판이 내려지던 그날을
+자신의 거짓이 들킨 고통이 아니라
+나를 상처입힌 희열로 기억한다니
+내가 당신을 미워할 이유는 충분하네
+
+진심마저 녹아내린 인터넷 전장
+떠나간 동료들을 기억속에 묻고
+
+닿지 않을 정상화 무모한 꿈을 꾸며
+힘이다해 쓰러지며 노래부르자
+
+진실따위 무의미한 인터넷 전장
+나에게 내려질 판결은 어떨까
+축제의 결말이 밝지않다 하여도
+지금은 웃으면서 노래를 부르자
+
+막연한 10년 더의 약속을 지키리</text>
+      <sha1>octj2h9yg2dgyomj65f8rrzdrqg10mk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:찢어죽이기</title>
+    <ns>3200</ns>
+    <id>2075</id>
+    <revision>
+      <id>2269</id>
+      <timestamp>2026-05-23T15:34:39Z</timestamp>
+      <contributor>
+        <username>Seolhwassi</username>
+        <id>29</id>
+      </contributor>
+      <comment>새 문서: 리선족 이 찢어 죽일 놈들!!!!!!!!!!!!!  본섭 유저들은 정말 억울해요 우리 쌀값이 오천원에서 천오백원이 됐어요  물론 아즈모스가 생겨난것도 쌀먹때문 물론 리부트 죽이라고 선동한 것도 본섭유저 물론 리부트는 교환 불가서버라서 쌀값에 영향을 안주죠  근데 씨발 그럼 누구한테 화풀이를 하죠? 사실 떨어진 이유든 쌀값이든 별상관없어 그냥 한시간에 천원 언저...</comment>
+      <origin>2269</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1837" sha1="b7ya32ieu3vbxr9rj7lh8gxcp8ykt76" xml:space="preserve">리선족 이 찢어 죽일 놈들!!!!!!!!!!!!!
+
+본섭 유저들은 정말 억울해요
+우리 쌀값이 오천원에서 천오백원이 됐어요
+
+물론 아즈모스가 생겨난것도 쌀먹때문
+물론 리부트 죽이라고 선동한 것도 본섭유저
+물론 리부트는 교환 불가서버라서
+쌀값에 영향을 안주죠
+
+근데 씨발
+그럼 누구한테 화풀이를 하죠?
+사실 떨어진 이유든 쌀값이든 별상관없어
+그냥 한시간에 천원 언저리 벌면서
+집에서 박혀서 축내는 쌀숭이
+나에게는 혐오 배출구가 필요해!!!!!!!
+
+리선족 이 찢어 죽일 놈들!
+로아에서 분탕치는 것도 리선족
+본섭 혐오도 아무튼 리선족
+던파에서 분탕치는것도 리선족
+
+감히 본섭에서 불법거래를 하지않고
+교환불가서버에서 현질을 쳐해?
+
+이 사태를 대중교통으로 비유하면
+택시 간판을 붙이지 않고
+불법 택시 운영을 하고 있었는데
+
+버스타는 사람들을 보니 화가 난다는거임
+그럼 어떻게 해야겠어?
+버스타는 승객들 끌어내려서 존나패야지
+누가 맘대로 버스타래 버선족 새끼들아!
+아~ 속이 후련하네요
+
+리선족 이 찢어 죽일 놈들!
+
+리선족 이 찢어죽일 놈들!
+
+누가 맘대로 교환불가 서버가서
+게임 재밌게하래
+트럭에 치여 죽어도 마땅한 놈들
+
+식당으로 비유하면
+내가 닭꼬치집 앞에서
+불법 노점상을 열어서
+닭꼬치를 더 싸개팔고있는데
+리선족이 찢어죽일 놈들이
+옆 족발집으로 가서
+배를 채우고 있는 상황
+니들이 맛있는 족발을 사먹으니
+내 닭꼬치 수요도가 줄어들잖아
+그럼 어떻게 해야겠어? (찔러)
+족발집 들어가서 불지르고 칼부림해야지
+아~ 속이 후련하네요
+
+리선족 이 찢어 죽일 놈들!</text>
+      <sha1>b7ya32ieu3vbxr9rj7lh8gxcp8ykt76</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:불나방들</title>
+    <ns>3200</ns>
+    <id>2076</id>
+    <revision>
+      <id>2270</id>
+      <timestamp>2026-05-23T15:35:02Z</timestamp>
+      <contributor>
+        <username>Seolhwassi</username>
+        <id>29</id>
+      </contributor>
+      <comment>새 문서: 회색 옷의 광대 포자 묻은 말종에~ 잿 더미 위에서 화려하게~ 춤추자.  연옥의 손아귀에 메마른 대지 위  비열한 광대는 잿빛 손을 움켜쥐고.  심장이 멈출때까지 끝없이 달아올라 아아 아!!!!!!!!!!!!!!!!!!!   황천의 경계선!!! 불나방처럼 - 춤추자  그의 손아귀안에서 우리는 한 낫 꺼질 운명  그러니 손바닥이 불탈때까지 날개짓을 계속하자!!!  온몸을 불태워, 재를 - 쌓...</comment>
+      <origin>2270</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1541" sha1="30ehrcl9igcl5jdyxvphaj5fkvb816h" xml:space="preserve">회색 옷의 광대
+포자 묻은 말종에~
+잿 더미 위에서 화려하게~ 춤추자.
+
+연옥의 손아귀에
+메마른 대지 위
+
+비열한 광대는
+잿빛 손을 움켜쥐고.
+
+심장이 멈출때까지
+끝없이 달아올라 아아 아!!!!!!!!!!!!!!!!!!!
+
+
+황천의 경계선!!!
+불나방처럼 - 춤추자
+
+그의 손아귀안에서
+우리는 한 낫 꺼질 운명
+
+그러니
+손바닥이 불탈때까지
+날개짓을 계속하자!!!
+
+온몸을 불태워, 재를 - 쌓아올려 아아 아!!!!!!!!!!
+
+아아!!!~
+
+자색 뿔의 - 사탄
+강제 당한 - 운명에~
+잿 더미 위에서 - 화려하게~ 춤추자.
+
+창난 얼굴 위에
+서글픈 광소 위에
+
+가면의 광대는
+이내 손을 움켜쥐고.
+
+심장이 멈출때까지
+끝없이 달아올라 아아 아!!!!!!!!!!!!!!!!!!!
+
+황천의 경계선!!!
+불나방처럼 - 춤추자
+
+그의 손아귀안에서
+우리는 한 낯 꺼질 운명
+
+그러니
+손바닥이 불탈때까지
+날개짓을 계속하자!!!
+
+온몸을 불태워, 재를 - 쌓아올려라 아아 아!!!!!!!!!!
+
+"괴로워?, 즐거워?"
+
+"행복해?, 불행해?"
+
+오늘은 또 어떤 기분인지
+그딴게 뭐가 중요해
+
+어짜피 - 곧 꺼질 - 불나방 들, 인, 데!!!!!!!
+
+아 아 아!!!!!!!!!!
+
+
+"넌 행복하잖아."
+
+
+황천의 경계선!!!
+불나방처럼 - 춤추자
+
+그의 손아귀안에서
+우리는 한 낫 꺼질 운명
+
+그러니
+손바닥이 불탈때까지
+날개짓을 계속하자!!!
+
+온몸을 불태워, 재를 - 쌓아올려라 아아 아!!!!!!!!!!
+
+아!!!!!!!!!!!!!!!!!!!!!!!</text>
+      <sha1>30ehrcl9igcl5jdyxvphaj5fkvb816h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:시벨롬</title>
+    <ns>3200</ns>
+    <id>2077</id>
+    <revision>
+      <id>2271</id>
+      <timestamp>2026-05-23T15:35:38Z</timestamp>
+      <contributor>
+        <username>Seolhwassi</username>
+        <id>29</id>
+      </contributor>
+      <comment>새 문서: L’homme qui ajuste les équilibres avec élégance 밸런스를 우아하게 잘맞추는 남자  L’homme qui rallume la flamme du jeu 게임의 꺼진 불씨를 다시 피워 올리는 남자  Celui dont le showcase, triomphal, a divisé la foule par deux 쇼케이스 성공으로 유저수를 반토막 낸 남자  Mon homme, infiniment admirable 끝없이도 경이로운, 나의 남자  [Newage Piano] [Bittersweet vocal]  Oh oh oh oh 오 오 오 오  Si bel homme 아름다...</comment>
+      <origin>2271</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2224" sha1="jls2q5vhhf21hlp0btu5k3t3f3d618s" xml:space="preserve">L’homme qui ajuste les équilibres avec élégance
+밸런스를 우아하게 잘맞추는 남자
+
+L’homme qui rallume la flamme du jeu
+게임의 꺼진 불씨를 다시 피워 올리는 남자
+
+Celui dont le showcase, triomphal, a divisé la foule par deux
+쇼케이스 성공으로 유저수를 반토막 낸 남자
+
+Mon homme, infiniment admirable
+끝없이도 경이로운, 나의 남자
+
+[Newage Piano]
+[Bittersweet vocal]
+
+Oh oh oh oh
+오 오 오 오
+
+Si bel homme
+아름다운 남자
+
+Shin Changseop est bien un Si bel homme
+신창섭, 더없이 아름다운 남자
+
+[Newage Piano]
+[Bittersweet vocal]
+
+L’homme qui fait chuter le prix du riz sans fin
+끝없이 쌀값을 떨구는 남자
+
+À qui l’on demande d’augmenter, et qui répond : « disparais »
+올려달라 하면 “꺼져”라 답하는 남자
+
+Enivré de Chang pop, il danse pendant que la gestion s’effondre
+창팝에 취해 춤추는 사이, 운영은 무너져가
+
+Mon homme, infiniment admirable
+그럼에도 끝없이도 경이로운, 나의 남자
+
+[Newage Piano]
+[Bittersweet vocal]
+
+Oh oh oh oh
+오 오 오 오
+
+Si bel homme
+아름다운 남자
+
+Shin Changseop est bien un Si bel homme
+신창섭, 더없이 아름다운 남자
+
+Celui qui fait prospérer Maple, Si bel homme
+메이플을 흥행시켜주는 아름다운 남자
+
+Si bel homme, dont la danse est si belle à voir
+춤추는 모습마저 눈부시게 아름다운 남자
+
+Devant ton allure splendide, je me mets à crier
+그 찬란한 자태 앞에서, 나는 외쳐버리고 말아
+
+Shin Changseop, quel Si bel homme
+신창섭, 그는 너무나 아름다워
+
+[Newage Piano]
+[Bittersweet vocal]
+
+Si bel homme
+아름다운 남자
+
+Même un peu plus de rations, je t’en prie
+사료라도 조금만 더 달라고 애원해도
+
+Mais tu n’écoutes jamais un mot
+너는 한 마디도 듣지 않지
+
+Les bugs éclatent de partout
+버그는 사방에서 터져 나오고
+
+Et tu ne sors que des BM hors de prix
+네가 내놓는 건 값비싼 BM뿐
+
+Quel homme terriblement Si bel homme
+아, 너무나 잔혹하지만 아름다운 남자
+
+Vers toi, encore une fois, je crie
+나는 또다시, 너를 향해 외친다
+
+Oh oh oh oh
+오 오 오 오
+
+Si bel homme
+아름다운 남자</text>
+      <sha1>jls2q5vhhf21hlp0btu5k3t3f3d618s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:대출해서 돈 버는 게임</title>
+    <ns>3200</ns>
+    <id>2078</id>
+    <revision>
+      <id>2272</id>
+      <timestamp>2026-05-23T15:42:01Z</timestamp>
+      <contributor>
+        <username>Seolhwassi</username>
+        <id>29</id>
+      </contributor>
+      <comment>새 문서: 낮은 메포값이 나는 애석했어[1] 쌀을 애써 캐서 계속 매도했어 줄곧 줄은 주보 수익에 눈물 참고 쌀먹을 해  거울에 비친 슬픈 눈빛 애써 지워봐도 빚을 지울 방법 없어 편의점 가서 한 캔 사 beers 빛이 없는 내 미래에 cheers  최고 4000원을 바라보던 게 메소 값 어느새 2600원  그만 좀 떨어져 2300원이 됐잖아 이곳이 지옥이구나[2]  대출해서 돈 버는 게임 내 돈 안 쓰고...</comment>
+      <origin>2272</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1814" sha1="28dv6klb2v05rnyt1f1xugajtpro2vp" xml:space="preserve">낮은 메포값이 나는 애석했어[1]
+쌀을 애써 캐서 계속 매도했어
+줄곧 줄은 주보 수익에
+눈물 참고 쌀먹을 해
+
+거울에 비친 슬픈 눈빛 애써
+지워봐도 빚을 지울 방법 없어
+편의점 가서 한 캔 사 beers
+빛이 없는 내 미래에 cheers
+
+최고 4000원을
+바라보던 게
+메소 값 어느새
+2600원
+
+그만 좀 떨어져
+2300원이 됐잖아
+이곳이 지옥이구나[2]
+
+대출해서 돈 버는 게임
+내 돈 안 쓰고
+돈 버는 게임
+
+대출금 천천히 갚음 됨
+님도 하셈 돈 나옴
+
+대출해서 돈 버는 게임
+내 돈 안 쓰고
+돈 버는 게임
+
+이자를 주보로 메꾸는 쌀숭이는
+매를 버는 거임
+
+반값 된 템 값 X될 것 같아 애가 타
+회생 신청할까 고민도 계속했어
+한심한 실수에 속이 쓰려
+계속 위 속에 술을 부어
+
+문득 떠올라 템 값 오를 거라던
+대출받아 사도 손해 아니더라던
+대출받으라던 메벤남
+씹새 너 죽고 나 죽자
+
+최소 이자라도
+상환해야 돼
+이자가 어느새
+두 배 됐잖아
+
+캐시 지급 이벤트
+넥슨 계정 15개로
+이벤트 쌀먹 드가자
+
+대출해서 돈 버는 게임
+내 돈 안 쓰고
+돈 버는 게임
+
+대출금 천천히 갚음 됨
+님도 하셈 돈 나옴
+
+대출해서 돈 버는 게임
+내 돈 안 쓰고
+돈 버는 게임
+
+이자를 주보로 메꾸는 쌀숭이는
+매를 버는 거임
+
+넥슨 씹새들아
+이딴 이벤트 할 거면
+다계정 좀
+막으라고
+
+쌀숭이 새끼가
+게임을 한 판도 안하고 전부 다 받아가잖아
+
+대출해서 돈 버는 게임
+내 돈 안 쓰고
+돈 버는 게임
+
+대출금 천천히 갚는 게
+가능할 줄 알았어
+
+대출해서 돈 버는 게임
+내 돈 안 쓰고
+돈 버는 게임
+
+이자를 주보로 메꾸는 쌀숭이는
+인생 망한 거임</text>
+      <sha1>28dv6klb2v05rnyt1f1xugajtpro2vp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:리부트는 빨갱이 게임</title>
+    <ns>3200</ns>
+    <id>2079</id>
+    <revision>
+      <id>2273</id>
+      <timestamp>2026-05-23T15:42:32Z</timestamp>
+      <contributor>
+        <username>Seolhwassi</username>
+        <id>29</id>
+      </contributor>
+      <comment>새 문서: 쌀먹 조진다고 하면 정상적인 본섭 유저가 많이 떠나겠구나 여겨야 정상인데 넥슨은 곧이곧대로 받아들여서 창팝이 말하는 대로 다 해주고 있잖아  리부트가 이상해 보이지 않은 건 이상에 가까운 공산주의 차용하려 했기 때문임 리부트가 이긴 세계선은 북한을 보면 알 수 있음 리부트를 삭제하라 한 걸 게임 망할까 걱정한 거임  리부트는 빨갱이 게임 GMS도 빨갱...</comment>
+      <origin>2273</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1773" sha1="6pzo5073ht6bz6gtqs3pdy57731757r" xml:space="preserve">쌀먹 조진다고 하면
+정상적인 본섭 유저가
+많이 떠나겠구나 여겨야 정상인데
+넥슨은 곧이곧대로
+받아들여서 창팝이
+말하는 대로 다 해주고 있잖아
+
+리부트가 이상해 보이지 않은 건
+이상에 가까운
+공산주의 차용하려 했기 때문임
+리부트가 이긴 세계선은
+북한을 보면 알 수 있음
+리부트를 삭제하라 한 걸
+게임 망할까 걱정한 거임
+
+리부트는 빨갱이 게임
+GMS도 빨갱이 게임
+메이플 망할까 걱정됨
+내가 지키는 거임
+
+리부트는 빨갱이 게임
+GMS도 빨갱이 게임
+리부트 옹호는
+공산주의 지지하는 거임
+
+메벤남 안 씻어서 냄새난단 글
+커뮤니티에서 돌려지잖아
+메벤남이 안 씻는 건 팩트니까 열받잖아!
+이 링크를 타고 캡쳐해서
+자기가 쓴 글이 아닌데도 '내 글' 뜨는 거지만
+일단 선동하고 봐
+
+이거 주작인 것처럼 꾸며
+메벤남은 지능이 낮으니까
+이 정도로 허술해도 믿을 거야
+리선족 자작극이라 믿을 거야
+
+봐봐 리선족이 한 줄 알잖아
+커뮤 좌표 찍고 쉴드 쳐주잖아
+창섭이 형 이거 보고 있지?
+내가 오늘도 메평을 지켜냈어
+
+리부트는 빨갱이 게임
+GMS도 빨갱이 게임
+메이플 망할까 걱정됨
+내가 지키는 거임
+
+리부트는 빨갱이 게임
+GMS도 빨갱이 게임
+리부트 옹호는
+공산주의 지지하는 거임
+
+메벤남은 창팝이 계속 나오길 바라는 게 아닐까?
+그게 아니면 저런 멍청함이 설명되지 않잖아!
+
+리부트는 빨갱이 게임
+GMS도 빨갱이 게임
+메이플 망할까 걱정됨
+내가 지키는 거임
+
+리부트는 빨갱이 게임
+GMS도 빨갱이 게임
+리부트 옹호는
+공산주의 지지하는 거임</text>
+      <sha1>6pzo5073ht6bz6gtqs3pdy57731757r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:창삣삐! 신은 울지 않아</title>
+    <ns>3200</ns>
+    <id>2080</id>
+    <revision>
+      <id>2274</id>
+      <timestamp>2026-05-23T15:43:08Z</timestamp>
+      <contributor>
+        <username>Seolhwassi</username>
+        <id>29</id>
+      </contributor>
+      <comment>새 문서: (쌀숭이) "창섭아 XX!" "사료나 달라고!"  (신창섭) "요, 용사님들..." "진정해주세요!"  (기가창섭) "Oh, My Sweet 창삣삐!" "오늘도 쌀인스텝을 당하는군" "그럼 몸 좀 풀어볼까?"  뻐킹 애쓰홀 쓰탑! 창삣삐  신은 울지 않아! 창삣삐  유 스투핏 애쓰홀! 창삣삐  신은 울지 않아! 창삣삐  유 뻑킹 썬 옵 빗취! 창삣삐  버그는 안 고치고 쌀숭이 WWE에나 휘둘려? 창삣삐  기가창섭! 나...</comment>
+      <origin>2274</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2125" sha1="82dtmsuqelpdd1juz07sa8u397aw2xe" xml:space="preserve">(쌀숭이)
+"창섭아 XX!"
+"사료나 달라고!"
+
+(신창섭)
+"요, 용사님들..."
+"진정해주세요!"
+
+(기가창섭)
+"Oh, My Sweet 창삣삐!"
+"오늘도 쌀인스텝을 당하는군"
+"그럼 몸 좀 풀어볼까?"
+
+뻐킹 애쓰홀 쓰탑!
+창삣삐
+
+신은 울지 않아!
+창삣삐
+
+유 스투핏 애쓰홀!
+창삣삐
+
+신은 울지 않아!
+창삣삐
+
+유 뻑킹 썬 옵 빗취!
+창삣삐
+
+버그는 안 고치고 쌀숭이 WWE에나 휘둘려?
+창삣삐
+
+기가창섭! 나 정말 한계야...
+정말 다 해줬는데 그만두고 싶어!
+창삣삐
+
+"Fucking Asshole Stop!"
+마음 단단히 먹고 따라 해!
+
+뻐킹 애쓰홀 쓰탑!
+창삣삐
+
+신은 울지 않아!
+창삣삐
+
+유 스투핏 애쓰홀!
+창삣삐
+
+신은 울지 않아!
+창삣삐
+
+코 묻은 돈을 빨아먹고!
+검은 의도로 팔아먹고!
+우린 돈 쓴 놈만 챙겨!
+바로 돈슨으로 쟁여!
+
+겜접분! 겜안분! 겜한분이 많아!
+한 분 한 분 조져버려 줄 세워!
+
+노래 한 곡 해달래...
+그럼 바로 불러!
+
+사진 좀 찍어 달래..
+그럼 찍어줘!
+
+기부 한 번 해달래...
+그럼 입금해!
+
+밸패 좀 해달라는데?
+그럼 죽...어!
+
+(갓갓갓가오)
+
+뻐킹 애쓰홀 쓰탑!
+창삣삐
+
+신은 울지 않아!
+창삣삐
+
+유 스투핏 애쓰홀!
+창삣삐
+
+신은 울지 않아!
+창삣삐
+
+쌀숭이 새끼들!
+잠도 죽어서 잔단 새끼들!
+그럼 쌀도 죽어서 먹어!
+
+죽은 뉴비!
+죽은 고래!
+죽은 분위긴 신경 꺼!
+
+사료 씨발 안 준다고
+선물 씨발 안 준다고
+밸패 씨발 안 한다고
+우선 순윈 핑계였다고!
+
+간만에 마주한 메벤남의 빨간 약!
+아직도 불만이 많아?
+그럼 죽어!!!
+
+뻐킹 애쓰홀 쓰탑!
+창삣삐
+
+신은 울지 않아!
+창삣삐
+
+유 스투핏 애쓰홀!
+창삣삐
+
+신은 울지 않아!
+창삣삐
+
+GOD Never! (ever!) GOD Never! (ever!)
+신은 죽지 않아!
+기 가 창 섭 !
+
+GOD Never! (ever!) GOD Never! (ever!)
+신은 죽지 않아!
+기 가 창 섭 !
+
+GOD Never! (ever!) GOD Never! (ever!)
+신은 죽지 않아!
+기 가 창 섭 !
+
+GOD Never! (ever!) GOD Never! (ever!)
+신은 죽지 않아...
+기 가 창 섭...</text>
+      <sha1>82dtmsuqelpdd1juz07sa8u397aw2xe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:어서오세요, 메이플 대학교에!</title>
+    <ns>3200</ns>
+    <id>2081</id>
+    <revision>
+      <id>2276</id>
+      <parentid>2275</parentid>
+      <timestamp>2026-05-23T15:50:23Z</timestamp>
+      <contributor>
+        <username>Seolhwassi</username>
+        <id>29</id>
+      </contributor>
+      <origin>2276</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2242" sha1="4arel4fpfsg7deq8xdpcucniwy11jyz" xml:space="preserve">메이플 대학을 다니면 인생이 달라져!
+
+원숭이들 갱생 위해 열어준 대학교
+
+느끼게 해줄게 진정한 -메-학생활을!
+
+아차차! 등록금은 내고 들어와야지?
+
+이것도 못 내면 네 쌀도 압수하지!
+
+나 신창섭의 커리큘럼을 따라와
+
+스펙업은 쑥쑥, 선물들은 꾹꾹 담아와!
+
+매순간이 둥둥, 기대되는 메이플 대학!
+
+Come on MAPLE UNIVERSITY!
+
+구시대의 흔적을 없앤 새로운 City!
+
+Come on MAPLE UNIVERSE!
+
+지루하지 않을 블록버스터 Story!
+
+현생에서 찾지못한 캠퍼스 라이프!
+
+여기에서 들어봐봐! 캠퍼스 클래스!
+
+원숭이도, 두더지도 가능한 졸업을~
+
+Come on MAPLE UNIVERSITY!
+
+대학 신입생들 위한 젓가락 소독!
+
+이건 재학생들 위한 숟가락 소독!
+
+깜짝 선물 반응 좀 봐야지! 근데 뭐야!
+
+어라 이런 씨발!
+
+17계정 쌀먹은 뭔데 너흰 "정상화"
+
+우리 학생들 실제 학교 방문좀 해볼까?
+
+어디 용사님들 재학생 손좀 들어보세요!
+
+아니 이게 뭐야!? 우리 메이플 수준 이 정도야? 
+
+제발 현생도 좀 살아라! 쌀숭이들아
+
+Come on MAPLE UNIVERSITY!
+
+구시대의 흔적을 없앤 새로운 City!
+
+Come on MAPLE UNIVERSE!
+
+지루하지 않을 블록버스터 Story!
+
+현생에서 찾지못한 캠퍼스 라이프!
+
+여기에서 들어봐봐! 캠퍼스 클래스!
+
+원숭이도, 두더지도 가능한 졸업을~
+
+Come on MAPLE UNIVERSITY!
+
+전투력 상승! 학력 상승! 경험치 상승! 유니온 상승!
+
+전투력 상승! 학력 상승! 경험치 상승! 유니온 상승!
+
+전투력 상승! 학력 상승! 경험치 상승! 유니온 상승!
+
+(Come on MAPLE UNIVERSITY!)
+
+메이플 대학에서 함께해...!
+
+Come on MAPLE UNIVERSITY!
+
+구시대의 흔적을 없앤 새로운 City!
+
+Come on MAPLE UNIVERSE!
+
+지루하지 않을 블록버스터 Story!
+
+현생에서 찾지못한 캠퍼스 라이프!
+
+여기에서 들어봐봐! 캠퍼스 클래스!
+
+원숭이도, 두더지도 가능한 졸업을~
+
+Come on MAPLE UNIVERCITY!
+
+Come on MAPLE UNIVERCITY!
+
+Come on MAPLE UNIVERCITY!
+
+Come on MAPLE UNIVERCITY!
+
+Come on MAPLE UNIVERCITY!
+
+Come on MAPLE UNIVERCITY!
+
+Come on MAPLE UNIVERCITY!
+
+Come on MAPLE UNIVERCITY!</text>
+      <sha1>4arel4fpfsg7deq8xdpcucniwy11jyz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:동화 짓밟기</title>
+    <ns>3200</ns>
+    <id>2082</id>
+    <revision>
+      <id>2277</id>
+      <timestamp>2026-05-23T16:12:48Z</timestamp>
+      <contributor>
+        <username>ㅇㅇ22</username>
+        <id>28</id>
+      </contributor>
+      <comment>새 문서: 気づかなかったんだ、誰ひとり 키즈카 나캇탄-다, 다레히토리 눈치채지 못했구나, 아무도  もう、気づいていたのかもね 모-, 키즈이테 이타노 카모네 다들 알고 있었던 걸지도 몰라  もう、ほら 모-, 호라 봐, 이제는  認めたくはないんだ 미토메타쿠와 나인-다 인정하고 싶지 않구나  見たくもないんだ 미타쿠모 나인-다 보고 싶지도 않구나  目を背けたいんだ 메...</comment>
+      <origin>2277</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="3872" sha1="dox3vlgqnfn9e5pu6vcpn1jhsp2jehd" xml:space="preserve">気づかなかったんだ、誰ひとり
+키즈카 나캇탄-다, 다레히토리
+눈치채지 못했구나, 아무도
+
+もう、気づいていたのかもね
+모-, 키즈이테 이타노 카모네
+다들 알고 있었던 걸지도 몰라
+
+もう、ほら
+모-, 호라
+봐, 이제는
+
+認めたくはないんだ
+미토메타쿠와 나인-다
+인정하고 싶지 않구나
+
+見たくもないんだ
+미타쿠모 나인-다
+보고 싶지도 않구나
+
+目を背けたいんだ
+메오 소무케 타인-다
+눈을 돌리고 싶구나
+
+散りゆく前に
+치리유쿠 마에니
+흩어져버리기 전에
+
+
+ 一方的に
+잇보-테키니
+일방적으로
+
+「確信」を言ってよ
+카쿠신-오 잇테요
+확신을 말해줘
+
+満月みたいに
+만-게츠 미타이니
+보름달처럼
+
+あと少しだ
+아토 스코시다
+앞으로, 조금만 더
+
+だけどやっぱり君は
+다케도 얏바리 키미와
+하지만 역시 너는
+
+今も彷徨っているんだね
+이마모 사마욧테 이룬-다네
+여전히 맴돌고 있네
+
+僕の心も知らずに
+보쿠노 코코모 시라즈니
+내 마음도 모른채로
+
+さあ、この手の中で華麗に踊ろう
+사아, 코노테노 나카데 카레이니 오도로-
+자, 이 손 안에서 화려하게 춤추자
+
+夜が明けるまで
+요루가 아케루마데
+날이 밝을 때까지
+
+否定しても
+히테-시테모
+부정해도
+
+信じると言っても
+신지루도 잇테모
+믿는다고 해도
+
+もう月は満ちていく
+모-츠키와 미치데이쿠
+달은 이미 차오르고 있어
+
+目を閉じて
+메오 도지테
+눈을 감은 채
+
+裏切りの中で
+우라기리노 나카데
+배신 속에서
+
+奪われたんだ
+우바와 레탄-다
+빼앗겨버린거야
+
+いつまでも
+이츠마 데모
+언제까지나
+
+片想いだと
+카타모오 이다토
+짝사랑일 거란 걸
+
+分かっていたのに
+와캇데 이타노니
+알고 있었는데
+
+どうしてこんなに切ないの？
+도-시테 콘나니 세츠나이노?
+어째서 이렇게 가슴이 아픈거야?
+
+一方的に
+잇보-테키니
+일방적으로
+
+終わりを告げられた
+오와리오 츠게라레타
+끝을 통보받았어
+
+そんなはずないのに
+손-나하즈 나이노니
+그럴 리 없는데
+
+いくら呼んでみても
+이쿠라 욘-데미테모
+아무리 불러봐도
+
+答えてはくれないんでしょ？
+코타에테와 쿠레나인-데쇼-?
+대답해주지 않을 거잖아?
+
+誰の声さえも
+다레노 코에사에모
+그 누구의 목소리도
+
+つまり、童話
+츠마리, 도-와
+즉, 동화
+
+僕のものですらないんだ
+보쿠노 모노데스라 나인-다
+내 것조차 아니었어
+
+ねえ、正常化のアイロニー
+네-, 세-조-카노 아이러니
+그래, 정상화의 아이러니
+
+だからこの手の中で華麗に踊ろう
+다카라 코노테노 나카데 카레이니 오도로-
+그러니까 이 손 안에서 화려하게 춤추자
+
+それしかできないから
+소레시카 데키나이카라
+그것밖에 할 수 없으니
+
+僕のものですらない
+보쿠노 모노데스라 나이
+내 것이 아니었고
+
+僕のものですらなかったけど
+보쿠노 모노데스라 나캇타게도
+내 것조차 아니었지만
+
+一方的に
+잇보-테키니
+일방적으로
+
+「確信」を言ってよ！
+카쿠신-오 잇테요!
+"확신"을 말해줘!
+
+三日月みたいに
+미카츠키 미타이니
+초승달처럼 말이야
+
+ああ、背中を押されたから
+아아, 세나카오 오사레타 카라
+그래, 등을 떠밀렸으니까
+
+華麗に踊ろう
+카레이니 오도로-
+화려하게 춤추자
+
+夜が明けるまであと少しだけ
+요루가 아케루마데 아토 스코시다케
+밤이 끝나기 전까지 앞으로, 조금만 더
+
+夜が明けるまであと少しだけ
+요루가 아케루마데 아토 스코시다케
+밤이 끝나기 전까지 앞으로, 조금만 더</text>
+      <sha1>dox3vlgqnfn9e5pu6vcpn1jhsp2jehd</sha1>
     </revision>
   </page>
 </mediawiki>
