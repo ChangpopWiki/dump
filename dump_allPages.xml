@@ -43,17 +43,17 @@
     <ns>4</ns>
     <id>2</id>
     <revision>
-      <id>843</id>
-      <parentid>687</parentid>
-      <timestamp>2025-08-31T09:03:53Z</timestamp>
+      <id>2315</id>
+      <parentid>843</parentid>
+      <timestamp>2026-05-27T14:24:16Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>843</origin>
+      <origin>2315</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1458" sha1="0duv1a599j4k07l0oyl9k29jeitmdtb" xml:space="preserve">__목차숨김__
+      <text bytes="1528" sha1="kzmrxla49i7tg3vrvshcpnevozs4dz7" xml:space="preserve">__목차숨김__
 &lt;templatestyles src="대문"&gt;&lt;/templatestyles&gt;
 &lt;p class="ts-subtitle"&gt;[[창팝]] 가사, 기록 저장소&lt;/p&gt;
 &lt;h1 class="ts-title"&gt;창팝위키&lt;/h1&gt;
@@ -62,7 +62,7 @@
 
 {{창팝위키 둘러보기}}
 
-창팝위키에 오신 것을 환영합니다! 현재 창팝위키는 베타 오픈입니다.
+현재 창팝위키에는 {{분류문서수:창팝|문서}}개의 [[창팝]] 문서와 {{사용자수}}명의 [[특수:사용자목록|사용자]]가 있습니다.
 
 분류된 문서는 아래에서 찾을 수 있습니다.
 
@@ -81,7 +81,7 @@ break=no
 &lt;/div&gt;
 
 [[분류:창팝위키]]</text>
-      <sha1>0duv1a599j4k07l0oyl9k29jeitmdtb</sha1>
+      <sha1>kzmrxla49i7tg3vrvshcpnevozs4dz7</sha1>
     </revision>
   </page>
   <page>
@@ -59304,17 +59304,17 @@ Truth flows in song, while you pretend it's right
     <ns>0</ns>
     <id>1955</id>
     <revision>
-      <id>2189</id>
-      <timestamp>2026-04-22T08:00:56Z</timestamp>
+      <id>2286</id>
+      <parentid>2285</parentid>
+      <timestamp>2026-05-27T06:49:02Z</timestamp>
       <contributor>
-        <username>창팝위키</username>
-        <id>2</id>
+        <username>Seolhwassi</username>
+        <id>29</id>
       </contributor>
-      <comment>일괄 가져오기 - 2026년 2편</comment>
-      <origin>2189</origin>
+      <origin>2286</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="375" sha1="3wzv6lb4re5l4fjq662uhm5hi6t3yc4" xml:space="preserve">{{문서:창팝
+      <text bytes="374" sha1="5vzhvlww3fqklh0kqqca8kpmjo0egvo" xml:space="preserve">{{문서:창팝
 |유튜브Id=LV1SfYN0WVI
 |제작자=낙서장
 |제작방법=Suno
@@ -59327,9 +59327,8 @@ Truth flows in song, while you pretend it's right
 
 == 가사 ==
 {{가사}}
-
 {{창팝 둘러보기}}</text>
-      <sha1>3wzv6lb4re5l4fjq662uhm5hi6t3yc4</sha1>
+      <sha1>5vzhvlww3fqklh0kqqca8kpmjo0egvo</sha1>
     </revision>
   </page>
   <page>
@@ -62615,17 +62614,17 @@ Si bel homme
     <ns>3200</ns>
     <id>2078</id>
     <revision>
-      <id>2272</id>
-      <timestamp>2026-05-23T15:42:01Z</timestamp>
+      <id>2307</id>
+      <parentid>2272</parentid>
+      <timestamp>2026-05-27T11:45:22Z</timestamp>
       <contributor>
-        <username>Seolhwassi</username>
-        <id>29</id>
+        <username>Rgr</username>
+        <id>25</id>
       </contributor>
-      <comment>새 문서: 낮은 메포값이 나는 애석했어[1] 쌀을 애써 캐서 계속 매도했어 줄곧 줄은 주보 수익에 눈물 참고 쌀먹을 해  거울에 비친 슬픈 눈빛 애써 지워봐도 빚을 지울 방법 없어 편의점 가서 한 캔 사 beers 빛이 없는 내 미래에 cheers  최고 4000원을 바라보던 게 메소 값 어느새 2600원  그만 좀 떨어져 2300원이 됐잖아 이곳이 지옥이구나[2]  대출해서 돈 버는 게임 내 돈 안 쓰고...</comment>
-      <origin>2272</origin>
+      <origin>2307</origin>
       <model>text</model>
       <format>text/plain</format>
-      <text bytes="1814" sha1="28dv6klb2v05rnyt1f1xugajtpro2vp" xml:space="preserve">낮은 메포값이 나는 애석했어[1]
+      <text bytes="1808" sha1="g83bsyewpf843rf9fkdtecseeok5oh7" xml:space="preserve">낮은 메포값이 나는 애석했어
 쌀을 애써 캐서 계속 매도했어
 줄곧 줄은 주보 수익에
 눈물 참고 쌀먹을 해
@@ -62642,7 +62641,7 @@ Si bel homme
 
 그만 좀 떨어져
 2300원이 됐잖아
-이곳이 지옥이구나[2]
+이곳이 지옥이구나
 
 대출해서 돈 버는 게임
 내 돈 안 쓰고
@@ -62712,7 +62711,7 @@ Si bel homme
 
 이자를 주보로 메꾸는 쌀숭이는
 인생 망한 거임</text>
-      <sha1>28dv6klb2v05rnyt1f1xugajtpro2vp</sha1>
+      <sha1>g83bsyewpf843rf9fkdtecseeok5oh7</sha1>
     </revision>
   </page>
   <page>
@@ -62948,17 +62947,18 @@ GOD Never! (ever!) GOD Never! (ever!)
     <ns>3200</ns>
     <id>2081</id>
     <revision>
-      <id>2283</id>
-      <parentid>2276</parentid>
-      <timestamp>2026-05-25T16:41:23Z</timestamp>
+      <id>2290</id>
+      <parentid>2283</parentid>
+      <timestamp>2026-05-27T08:19:27Z</timestamp>
       <contributor>
-        <username>ㅇㅇ25</username>
-        <id>30</id>
+        <username>하얀 설</username>
+        <id>32</id>
       </contributor>
-      <origin>2283</origin>
+      <comment>가사수정</comment>
+      <origin>2290</origin>
       <model>text</model>
       <format>text/plain</format>
-      <text bytes="2250" sha1="2ixauuhzn5fe2ap7x7r6vgywuavrw1q" xml:space="preserve">메이플 대학을 다니면 인생이 달라져!
+      <text bytes="2256" sha1="7rnjbag45fd5qhwae05nbn5qczllaj7" xml:space="preserve">메이플 대학을 다니면 인생이 달라져!
 
 원숭이들 갱생 위해 열어준 대학교
 
@@ -62980,7 +62980,7 @@ Come on MAPLE UNIVERSITY!
 
 Come on MAPLE UNIVERSE!
 
-지루하지 않을 블록버스터 Story!
+지루하지 않을 블록버스터 Stories!
 
 현생에서 찾지못한 캠퍼스 라이프!
 
@@ -63014,7 +63014,7 @@ Come on MAPLE UNIVERSITY!
 
 Come on MAPLE UNIVERSE!
 
-지루하지 않을 블록버스터 Story!
+지루하지 않을 블록버스터 Stories!
 
 현생에서 찾지못한 캠퍼스 라이프!
 
@@ -63040,7 +63040,7 @@ Come on MAPLE UNIVERSITY!
 
 Come on MAPLE UNIVERSE!
 
-지루하지 않을 블록버스터 Story!
+지루하지 않을 블록버스터 Stories!
 
 현생에서 찾지못한 캠퍼스 라이프!
 
@@ -63071,7 +63071,7 @@ Come on MAPLE UNIVERSITY!
 
 
 Come on MAPLE UNIVERSITY!</text>
-      <sha1>2ixauuhzn5fe2ap7x7r6vgywuavrw1q</sha1>
+      <sha1>7rnjbag45fd5qhwae05nbn5qczllaj7</sha1>
     </revision>
   </page>
   <page>
@@ -63333,6 +63333,1982 @@ Come on MAPLE UNIVERSITY!</text>
 
 이렇게 춤추고 노래하는 디렉터가 탄생했습니다</text>
       <sha1>gcx8kif56iu1qvhtqg2smv98m28q102</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:X창섭</title>
+    <ns>3200</ns>
+    <id>2085</id>
+    <revision>
+      <id>2287</id>
+      <timestamp>2026-05-27T06:50:39Z</timestamp>
+      <contributor>
+        <username>Seolhwassi</username>
+        <id>29</id>
+      </contributor>
+      <comment>새 문서: 겨울방학 성적표 한번 봐야지  30만 결사대 이제 본 보야지  환불해준 메키 매출 매워야지  새로 나올 BM 더욱 매워야지   그래도 햄버거는 뿌려졌잖아  이러면 장사꾼도 용서해 주잖아  분명 나는 잘하고 있는 중인데  넘쳐나는 합성들은 뭔데?  원 투 쓰리 자 가자  빵난 창섭 콩창섭 금창섭 두쫀창섭  렌창섭 눈창섭 합성하는 호로새끼  언급 한번 해줬더니 쌀숭이가...</comment>
+      <origin>2287</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2038" sha1="7jbhd8f1cprn9p2289wqqinxjcq0k5j" xml:space="preserve">겨울방학 성적표 한번 봐야지 
+30만 결사대 이제 본 보야지 
+환불해준 메키 매출 매워야지 
+새로 나올 BM 더욱 매워야지 
+
+그래도 햄버거는 뿌려졌잖아 
+이러면 장사꾼도 용서해 주잖아 
+분명 나는 잘하고 있는 중인데 
+넘쳐나는 합성들은 뭔데?
+
+원 투 쓰리 자 가자 
+빵난 창섭 콩창섭 금창섭 두쫀창섭 
+렌창섭 눈창섭 합성하는 호로새끼 
+언급 한번 해줬더니 쌀숭이가 한 마디 
+개 씨발 슝 좍 고소하고 싶네
+
+해병창섭 멸창섭 군창섭 기가창섭 
+닭창섭 페창섭 합성하는 선족새끼 
+언급 한번 해줬더니 쌀숭이가 한 마디 
+개 씨발 슝 좍 고소하고 싶네
+
+고스펙들 접대 길드 
+캐슬 열개 
+이렇게 해줘도 패치한 건 좆도 없대 
+이것저것 개 편해 이제는 개편해 
+도 불만 만 계속 늘어놓을 게 뻔해 
+
+그래도 두쫀쿠는 뿌려줬잖아 
+이러면 사기꾼도 용서해 주잖아 
+이제 소재도 전부 없어졌을 텐데 
+넘쳐나는 합성들은 뭔데
+
+원 투 쓰리 한 번 더 
+빵난 창섭 콩창섭 금창섭 두쫀창섭 
+렌창섭 눈창섭 합성하는 선족새끼 
+언급 한번 해줬더니 쌀숭이가 한 마디 
+개 씨발 슝좍 고소하고 싶네
+
+해병창섭 멸창섭 군 창섭 기가 창섭 
+닭 창섭 페창섭 합성하는 선족새끼 
+언급 한번 해줬더니 쌀숭이가 한 마디 
+개씨발 슝 좍 고소하고 싶네
+
+그래도 용사님들은 내 편이구나 
+내 걱정해서 대신 화내주는구나 
+여론 한번 보러 인벤 들어가 보니 
+넘쳐나는 쌍욕들은 뭔데?
+
+원 투 쓰리 자 가자 
+병신 창섭 개창섭 십창섭 아갈창섭 
+십창섭 개10섭 이번라방 좆망했네 
+패치 한번 해줬으니 쌀숭이에 한 마디 
+개 씨발 억 까 존나 패고 싶네
+
+병신 창섭 개창섭 십창섭 아갈창섭 
+십창섭 개10섭 이번라방 좆망했네 
+패치 한번 해줬으니 쌀숭이에 한 마디 
+개 씨발 억 까 존나 패고 싶네</text>
+      <sha1>7jbhd8f1cprn9p2289wqqinxjcq0k5j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:Lith Harbor COMPLEX</title>
+    <ns>3200</ns>
+    <id>2086</id>
+    <revision>
+      <id>2288</id>
+      <timestamp>2026-05-27T08:10:58Z</timestamp>
+      <contributor>
+        <username>Seolhwassi</username>
+        <id>29</id>
+      </contributor>
+      <comment>새 문서: [intro]  Hello ! Maplers !  Hello ! Maplers !  [verse 1]   I am Chang-Seop GOD  the director of GMS !  what I hear, there's a conflict in my "Normalization World" !  Upon closer inspection, "리선족" who still plays games,  is in conflict with "Rice Monkey"  Out of harmony !  I Need to step up Myself to Solve this Situation  [chorus]  Go Harmony with Rice Monkey  Go Harmony with Rice Mole  Yes ! We are one in this "Normalization World"  We are each other's best friends  We are...</comment>
+      <origin>2288</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1384" sha1="r2fz8fhncgvb7tcd63q0the0fkbxe9x" xml:space="preserve">[intro]
+
+Hello ! Maplers !
+
+Hello ! Maplers !
+
+[verse 1]
+ 
+I am Chang-Seop GOD
+
+the director of GMS !
+
+what I hear,
+there's a conflict in my "Normalization World" !
+
+Upon closer inspection,
+"리선족" who still plays games,
+
+is in conflict with "Rice Monkey"
+
+Out of harmony !
+
+I Need to step up Myself to Solve this Situation
+
+[chorus]
+
+Go Harmony with Rice Monkey
+
+Go Harmony with Rice Mole
+
+Yes ! We are one in this "Normalization World"
+
+We are each other's best friends
+
+We are a perfect COMPLEX
+
+[verse 2]
+
+With my power, 
+you can now make money too !
+
+Why are you not in harmony ?
+i am just sad...
+
+Why are you ignoring each other ?
+you're just like each other
+
+Why do you want to be separated from them ?
+
+Please don't do that
+
+너넨 리스항구 아니야
+
+아 영어 어렵네
+
+너넨 이제
+
+쌀더지
+
+[chorus]
+
+Go Harmony with Rice Monkey
+
+Go Harmony with Rice Mole
+
+Yes ! We are one in this "Normalization World"
+
+We are each other's best friends
+
+We are a perfect COMPLEX
+
+[bridge]
+
+I'll never forgive any act of ruining my "Normalization World."
+
+Make sure you produce "쌀"
+
+귀속의 표식이 영원히 박힌채
+
+Harmony with them
+
+So that I don't come forward anymore
+
+Don't deny yourself
+
+[outro]
+
+Go Harmony with Rice Monkey
+
+Go Harmony with Rice Mole
+
+Yes ! We are one in this "Normalization World"
+
+We are each other's best friends
+
+We are a perfect COMPLEX</text>
+      <sha1>r2fz8fhncgvb7tcd63q0the0fkbxe9x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>하얀 설</title>
+    <ns>0</ns>
+    <id>2087</id>
+    <revision>
+      <id>2292</id>
+      <parentid>2289</parentid>
+      <timestamp>2026-05-27T08:22:20Z</timestamp>
+      <contributor>
+        <username>하얀 설</username>
+        <id>32</id>
+      </contributor>
+      <minor/>
+      <origin>2292</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="319" sha1="pztrggadkqjq0jskcqlucol6hcl5d6n" xml:space="preserve">{{문서:제작자
+|대표유튜브채널Id=UCJPFcmtKH5q9QPf8QAa-sfQ
+|이름=하얀 설
+|별명=설, 까만설
+|데뷔일=2024-09-01
+|링크={{링크
+|링크=https://suno.com/@unearthlyaudioengineer5014
+|레이블=Suno 프로필
+}}{{링크
+|링크=https://www.youtube.com/@x2222-z1x
+|레이블=유튜브 부계정
+}}
+}}</text>
+      <sha1>pztrggadkqjq0jskcqlucol6hcl5d6n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>메벤남</title>
+    <ns>0</ns>
+    <id>2088</id>
+    <revision>
+      <id>2291</id>
+      <timestamp>2026-05-27T08:21:43Z</timestamp>
+      <contributor>
+        <username>하얀 설</username>
+        <id>32</id>
+      </contributor>
+      <comment>문서 추가</comment>
+      <origin>2291</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="137" sha1="qnrhh7y6cgumbxzp87rfwgo7tusz7pu" xml:space="preserve">{{문서:제작자
+|대표유튜브채널Id=UCX-CL5Vq5pzQMwh6a-ujuKQ
+|이름=메벤남
+|별명=메벤남, 앵앵
+|데뷔일=2024-06-18
+}}</text>
+      <sha1>qnrhh7y6cgumbxzp87rfwgo7tusz7pu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:Normalization World</title>
+    <ns>3200</ns>
+    <id>2089</id>
+    <revision>
+      <id>2293</id>
+      <timestamp>2026-05-27T08:24:50Z</timestamp>
+      <contributor>
+        <username>하얀 설</username>
+        <id>32</id>
+      </contributor>
+      <comment>가사 추가</comment>
+      <origin>2293</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="3480" sha1="2s3s57hcfq5i12ce2jrj6bjj6s9v98p" xml:space="preserve">With GOD's normalization, Forget about the past
+신의 정상화와 함께 과거는 잊어버려
+
+Everything has to adapt to this new world
+모든 것이 새로운 이 세상에 적응해야 돼
+
+Find out about the market economy and the efficiency of billing
+시장 경제와 과금의 효율에 대해 공부하는 거야
+
+with a tattoo of a "귀속의 표식"
+리선족의 문신과 함께
+
+All~
+
+All this is GOD's grace, isn't it? I'm Following that fate
+모든게 신의 은총이지, 그렇지? 난 그 운명을 따를래
+
+Thank you Chang-seop GOD
+신창섭이여 감사해요
+
+In the end, I accepted your grace
+마침내, 저는 당신의 자비를 받아들여요
+
+We're moving forward together to a normalization world
+우린 함께, 일반화된 세상을 향해 가고 있어
+
+I'll be waiting for you at the end of this world, miss you comeback
+나는 세상의 끝에서 당신을 그리워하며 돌아오기를 기다릴게
+
+
+Isn't that actually wrong? I'm  not sure about this world
+사실은 잘못된 것 아닐까 난 확신이 안서
+
+Be a "Rice Monkey" with an already completed item?
+완성된 아이템으로 쌀먹을 하라고?
+
+No let's stop thinking, all of this is God's grace
+아니야, 그만 생각하자, 모든게 신의 은총인걸
+
+I'm Following that fate
+난 운명을 따를래
+
+Thank you Chang-seop GOD
+신창섭에게 감사를
+
+In the end, I accepted your grace
+마침내, 나는 당신의 자비를 받아들였고
+
+We're moving forward together to a normalization world
+우린 함께, 일반화된 세상을 향해 가고 있어
+
+I'll be waiting for you at the end of this world, miss you comeback
+나는 세상의 끝에서 당신을 그리워하며 돌아오기를 기다릴게
+
+Get used to the "Normalization World"
+일반화된 월드에 적응해나가자
+I prepared "200만원" in cash, forget about the past now
+200만원의 현금도 준비해 놨어, 과거는 이제 잊어버려
+I'm setting my own new rules, and I'm gonna survive here
+나만의 새로운 규칙을 세우고, 여기서 살아남아야 해
+
+I'm Following that fate, I'm Following that fate
+난 운명을 따를래, 난 운명을 따를래
+
+Thank you Chang-seop GOD
+신창섭에게 감사를
+
+In the end, I accepted your grace
+마침내, 나는 당신의 자비를 받아들였고
+
+We're moving forward together to a normalization world
+우린 함께, 일반화된 세상을 향해 가고 있어
+
+I'll be waiting for you at the end of this world, miss you comeback
+나는 세상의 끝에서 당신을 그리워하며 돌아오기를 기다릴게
+
+Actually, I know everything is wrong
+사실은 모든 것이 잘못됐다는 걸 알고 있어
+
+GOD doesn't exist, we're trying to hide what's been betrayed
+신은 존재하지 않고, 우린 배신당한 것을 숨기려 해
+
+We're getting kicked out and making a music
+우리들은 쫓겨나서 음악을 만들고 있어
+
+We will love this culture, Please don't undermine our memory, You little Rice monkey
+우린 이 문화를 사랑할거야, 우리의 기억들을 훼손하지마, 쌀숭이들아
+
+
+Thank you Chang-seop GOD
+신창섭에게 감사를
+
+In the end, I accepted your grace
+마침내, 나는 당신의 자비를 받아들였고
+
+We're moving forward together to a normalization world
+우린 함께, 일반화된 세상을 향해 가고 있어
+
+I'll be waiting for you at the end of this world, miss you comeback
+나는 세상의 끝에서 당신을 그리워하며 돌아오기를 기다릴게</text>
+      <sha1>2s3s57hcfq5i12ce2jrj6bjj6s9v98p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:리부트 슬레이어</title>
+    <ns>3200</ns>
+    <id>2090</id>
+    <revision>
+      <id>2294</id>
+      <timestamp>2026-05-27T08:26:42Z</timestamp>
+      <contributor>
+        <username>하얀 설</username>
+        <id>32</id>
+      </contributor>
+      <comment>가사 추가</comment>
+      <origin>2294</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2808" sha1="9ozrwfa4h3zg9zbvvn0oyubfqg9clr1" xml:space="preserve">심볼도 못받는 Simpleton
+
+혐오도 아주 쉽게, Simple Simple
+
+아직도 Steady 내밀어 Are, 알리바이
+
+여기 저기 존나 많은 문, 문어발
+
+니들 글만 모아도 나와 통발
+
+수 없이 시발 메, Many
+
+대 대체 그 스펙 가지고
+
+무슨 박, 박탈감을 느낀다고
+
+지, 지랄하는지도 모르겠지만
+
+오늘도 드러누워 인벤 접속해
+
+오천플마 정도면 End 스펙
+
+이런 스펙 비판하는 넌 무슨 스펙?
+
+Huh~ 니 인생은 이미 가버렸어
+
+To The End!
+
+Reboot Slayer! Reboot Slayer!
+
+혐오에 중독된 Maple Player
+
+Reboot Slayer! Reboot Slayer!
+
+게임 수명 갉아 먹는 Reboot Slayer
+
+Reboot Slayer! Reboot Slayer!
+
+혐오에 중독된 Maple Player
+
+Reboot Slayer! Reboot Slayer!
+
+게임 수명 갉아 먹는 Reboot Slayer
+
+너의 패치는 정말 예술 네 운영도 하나의 뮤지컬
+
+네가 게임 망쳐도 우리한테는 늘 대박 Spectacle
+
+계속 도전해봐 너의 실패는 나에겐 Comedy
+
+웃어 임마 이건 그냥 Game 너는 또 망해 Steady
+
+네가 쓰러질 때마다 우린 배꼽 잡고 웃어 LOL
+
+네가 진심일 때마다 그게 더 웃겨 Real
+
+넌 쌀숭이의 영웅 우리에겐 정말 COOL
+
+네가 없으면 재미 없어 진짜로 말이야 NO FOOL
+
+Reboot Slayer! Reboot Slayer!
+
+혐오에 중독된 Maple Player
+
+Reboot Slayer! Reboot Slayer!
+
+게임 수명 갉아 먹는 Reboot Slayer
+
+Reboot Slayer! Reboot Slayer!
+
+혐오에 중독된 Maple Player
+
+Reboot Slayer! Reboot Slayer!
+
+게임 수명 갉아 먹는 Reboot Slayer
+
+넌 참 대단해 패치 하면 난리
+
+매번 실패해 넌 진짜 천재 no rally
+
+마이크 손에 쥐고 계속 똑같아 Funny
+
+실패 속에서 넌 항상 빛나 만약 성공하면 No Funny
+
+네가 하는 패치마다 결과는 뻔해 Fun해
+
+실패는 너의 친구 성공은 모르는 사이 Bye
+
+하지만 너의 열정 그게 진짜 웃겨 DUMMY
+
+넌 진정한 운영의 신 100% Agree
+
+우린 인정해줘야 해 나이스 Honey
+
+우리에게 너는 유머 그게 진짜 레벨 업, Value
+
+계속해서 도전해 될지는 몰라 하지만 해봐 CONTINUE
+
+성공할 수 없어 차라리 바꿔 디렉터 LUCID
+
+재미없어? 웃으라고 하는 거 아니야 DREAMER
+
+Reboot Slayer! Reboot Slayer!
+
+혐오에 중독된 Maple Player
+
+Reboot Slayer! Reboot Slayer!
+
+게임 수명 갉아 먹는 Reboot Slayer
+
+Reboot Slayer! Reboot Slayer!
+
+혐오에 중독된 Maple Player
+
+Reboot Slayer! Reboot Slayer!
+
+게임 수명 갉아 먹는 Reboot Slayer
+
+너희 실력은 최고 항상 나를 놀래켜 Just Shout
+
+어떻게 그렇게 못할 수 있는지 정말 경이로워 DOUBT
+
+계속해봐 너흰 진짜 레전드 진짜의 존재
+
+우리 모두 너흴 보고 웃어
+
+너희는 최고의 엔터테이너
+
+Reboot Slayer!
+
+Reboot Slayer!
+
+whhh~~~~
+
+Reboot Slayer!</text>
+      <sha1>9ozrwfa4h3zg9zbvvn0oyubfqg9clr1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:Titled</title>
+    <ns>3200</ns>
+    <id>2091</id>
+    <revision>
+      <id>2295</id>
+      <timestamp>2026-05-27T08:35:07Z</timestamp>
+      <contributor>
+        <username>하얀 설</username>
+        <id>32</id>
+      </contributor>
+      <comment>가사 추가</comment>
+      <origin>2295</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1486" sha1="4yupstgduspw2dbmgq2wg6a0xgcdhoh" xml:space="preserve">언제부터 꿈을 꾸지 않는 
+
+타성에 젖어버린 걸까
+
+이런 과걸 도망쳐온 우린
+
+틀렸다고 생각하던 우린
+
+어느새 여기까지 왔지
+
+어디로 향해야 할지
+
+생각 할 필요는 없어
+
+달려간 만큼 우리 세계는 더 넓어져
+
+어둠을 가르는 나비처럼
+
+더 높이 날아가는 거야
+
+기억해 걸어왔던 길들을
+
+우리 아픔이 떠오른다면
+
+이제 전부 보여
+
+은하수 저편에서 우린
+
+끝은 절대 알 수 없어
+
+변할 건 없어
+
+슬픈 새벽에도 다시 해가 떠오르듯
+
+우리 함께 걸어갈 길을 비춰줘
+
+그래, 우리가 있기에 
+
+너를 위해서 우리는
+
+한계를 생각하지마 동화된 만큼
+
+우리 세계는 더 넓어져
+
+어둠을 가르는 나비처럼
+
+더 높이 날아가는 거야
+
+기억해 걸어왔던 길들을
+
+우리 아픔이 떠오른다면
+
+이제 모든 걸 증명해
+
+우리 역사는 함께 쓰는 거야
+
+태양 아래 바다처럼
+
+온 세상을 덮는거야
+
+어둠을 가르는 나비처럼
+
+더 높이 날아가는 거야
+
+기억해 걸어왔던 길들을
+
+우리 아픔이 떠오른다면
+
+(다같이!)
+
+바람을 탄 불꽃처럼 (바람을 가르는 나비처럼)
+
+더 뜨겁게 타오르는 거야 (더 높이 날아가는 거야)
+
+기억해 우리가 그려왔던 꿈들을
+
+가슴속 불이 계속 타오를 테니까
+
+(Get on!) 후회는 없어
+
+(Go on!) 끝없이 달려
+
+We are not alone (We are not alone)
+
+We are not alone
+
+We are not alone!</text>
+      <sha1>4yupstgduspw2dbmgq2wg6a0xgcdhoh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:Stay with LARA</title>
+    <ns>3200</ns>
+    <id>2092</id>
+    <revision>
+      <id>2296</id>
+      <timestamp>2026-05-27T08:43:58Z</timestamp>
+      <contributor>
+        <username>하얀 설</username>
+        <id>32</id>
+      </contributor>
+      <comment>가사 추가</comment>
+      <origin>2296</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1392" sha1="2r9k8v5ajqwmuhw4rk91aapeewfztdh" xml:space="preserve">모니터 속 귀여운 낭만 풍수사
+
+모험의 길로 여운 나만 보고파
+
+너의 손짓에 모두가 버섯화
+
+너의 숨결에 모두가 벗어봐
+
+나만 바라봐 귀여운 눈
+
+배덕감 느껴 귀여운 넌
+
+없어진 인간성 남은건 내 본성 날 녹여줘
+
+(달콤한 속삭임으로)
+
+I'll stay with LARA
+
+dance in ugly gray
+
+I'll stay with LARA
+
+breathe rot, r-rot, we play
+
+I'll stay with LARA
+
+Life slips, s-slips astray
+
+I'll stay with LARA
+
+mark the pure as prey
+
+I'll stay with LARA
+
+know I die still pray
+
+I'll stay with LARA
+
+break, bend, disarray
+
+I'll stay with LARA
+
+think of me, I delay
+
+I'll stay with LARA
+
+burn back, fade away
+
+UGLY GRAY
+
+UGLY GRAY
+
+UGLY GRAY
+
+UGLY GRAY
+
+나의 모든것이 보이니
+
+나의 모든것을 줄테니
+
+너의 모든 것을 보여줘
+
+너의 모든 것을 바쳐줘
+
+모든 옷을 벗고 검은 심장을 바쳐
+
+본능에 충실해 검은 마음을 비쳐
+
+너의 협곡 마저 너의 주화 마저 
+
+너의 추억 마저 너의 미래 마저
+
+I'll stay with LARA
+
+dance in ugly gray
+
+I'll stay with LARA
+
+breathe rot, r-rot, we play
+
+I'll stay with LARA
+
+Life slips, s-slips astray
+
+I'll stay with LARA
+
+mark the pure as prey
+
+I'll stay with LARA
+
+know I die still pray
+
+I'll stay with LARA
+
+break, bend, disarray
+
+I'll stay with LARA
+
+think of me, I delay
+
+I'll stay with LARA
+
+burn back, fade away
+
+I'll stay with LARA</text>
+      <sha1>2r9k8v5ajqwmuhw4rk91aapeewfztdh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:악귀</title>
+    <ns>3200</ns>
+    <id>2093</id>
+    <revision>
+      <id>2297</id>
+      <timestamp>2026-05-27T08:44:19Z</timestamp>
+      <contributor>
+        <username>Seolhwassi</username>
+        <id>29</id>
+      </contributor>
+      <comment>새 문서: 이 밤길에 금수도 하나 없소 떠는 손엔 횃불 하나 쥐고 있소 귀기 서린 눈빛 나를 보네 괴이한 가면에 숨이 딱 멎었소  뒷덜미에 발톱이 닿았소 웃는 입을 하고선 비명을 지르네 뛰면 따라붙고 뒤돌면 사라지오 웃음소리 귓전에 맴돌아  들어가세 들어가세 이리와서 놀자꾸나 불태워도 따라오며 리부트요 리부트요  해 뜰 무렵 산너머 마을이 보였소 간밤에 본 가면...</comment>
+      <origin>2297</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1220" sha1="iuowkyszcfr27m6f4ogm1ktvcfeqq62" xml:space="preserve">이 밤길에 금수도 하나 없소
+떠는 손엔 횃불 하나 쥐고 있소
+귀기 서린 눈빛 나를 보네
+괴이한 가면에 숨이 딱 멎었소
+
+뒷덜미에 발톱이 닿았소
+웃는 입을 하고선 비명을 지르네
+뛰면 따라붙고 뒤돌면 사라지오
+웃음소리 귓전에 맴돌아
+
+들어가세 들어가세
+이리와서 놀자꾸나
+불태워도 따라오며
+리부트요 리부트요
+
+해 뜰 무렵 산너머 마을이 보였소
+간밤에 본 가면이 허리춤에 있소
+해괴한 가락에 어울려 춤추고는
+수유를 던지며 대소하네
+
+사위가 퍽 흉흉하오
+장승의 목 위는 어디간거요
+옳거니 간밤의 악귀놈이 여기 있구나
+이몸이 곧 불을 놓을지라
+
+들어가세 들어가세
+이리와서 놀자꾸나
+불태워도 따라오며
+리부트요 리부트요
+
+창문틈에 그 눈이 떠있소
+불구덩이 속에서도 웃고있소
+자네가 불을 놓았지?
+놈이 말하오 내가 말하오
+아ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ
+
+들어가세 들어가세
+이리와서 놀자꾸나
+불태워도 따라오며
+리부트요 리부트요
+
+들어가세 들어가세
+이 밤 끝엔 무엇이오
+밤새 춤춰 놀자꾸나
+울고있소 울고있소</text>
+      <sha1>iuowkyszcfr27m6f4ogm1ktvcfeqq62</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:쌀먹 맛 좀 볼래?</title>
+    <ns>3200</ns>
+    <id>2094</id>
+    <revision>
+      <id>2298</id>
+      <timestamp>2026-05-27T08:46:19Z</timestamp>
+      <contributor>
+        <username>Seolhwassi</username>
+        <id>29</id>
+      </contributor>
+      <comment>새 문서: 리부트 정상화 해 준지 일년 반째  쌀숭이들은 아직도 지갑을 닫네  직장이 구해져야 나가든 말든 한대  직장이 있어도 개인사업으로 한대  ​  난 정말 다해줬는데 호의만 베풀었는데  쌀숭이 새끼들은 이제 전부 둘리가 됐네  이렇게는 못살아 여긴 내 직장이야  내 직장에서 나가 쌀버러지 새끼들아  ​  선 넘 네  ​  쌀먹맛좀 볼래 호이  다계정 맛좀 볼래 호이...</comment>
+      <origin>2298</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1713" sha1="0f8wpapwpytsprz2rhe3izd0kd9jfiv" xml:space="preserve">리부트 정상화 해 준지 일년 반째
+
+쌀숭이들은 아직도 지갑을 닫네
+
+직장이 구해져야 나가든 말든 한대
+
+직장이 있어도 개인사업으로 한대
+
+​
+
+난 정말 다해줬는데 호의만 베풀었는데
+
+쌀숭이 새끼들은 이제 전부 둘리가 됐네
+
+이렇게는 못살아 여긴 내 직장이야
+
+내 직장에서 나가 쌀버러지 새끼들아
+
+​
+
+선 넘 네
+
+​
+
+쌀먹맛좀 볼래 호이
+
+다계정 맛좀 볼래 호이
+
+군소리 하지 말고 사료나 달래
+
+​
+
+쌀인스텝 맛좀 볼래 호이
+
+패드립 맛좀 볼래 호이
+
+꼴받게 하지 말고 처신 잘 하래
+
+​
+
+들어올땐 마음대로 들어와 놓고 나갈땐 아니라며 징징대는 새끼들도
+
+던파로 갈까요 로아로 갈까요 간보다가 쌀캐러 눌러앉은 새끼들도
+
+나는 다 품어줬는데 호의만 베풀었는데
+
+메벤을 요리보고 저리봐도 내욕만 있네
+
+이렇게는 못살아 여긴 내 직장이야
+
+내 직장에서 나가 쌀버러지 새끼들아
+
+​
+
+선 넘 네
+
+​
+
+쌀먹맛좀 볼래 호이
+
+다계정 맛좀 볼래 호이
+
+군소리 하지 말고 사료나 달래
+
+​
+
+쌀인스텝 맛좀 볼래 호이
+
+패드립 맛좀 볼래 호이
+
+꼴받게 하지 말고 처신 잘 하래
+
+​
+
+이제야 정신이 들어 잠깐
+
+이 서늘하고도 묵직한 감각
+
+기나긴 모멸과 핍박의 시간
+
+​
+
+정상화의 신으로 돌아갈 때다
+
+쌀숭이 어서오고!
+
+​
+
+정지 맛좀 볼래 정상화!
+
+고소장 맛좀 볼래 정상화!
+
+쌀숭이도 아닌데 왜 죽상이야?
+
+​
+
+개편 맛좀 볼래 정상화!
+
+밸런스 맛좀 볼래 정상화!
+
+니들이 원한 가치보존 해줄게
+
+성능 확실하구만</text>
+      <sha1>0f8wpapwpytsprz2rhe3izd0kd9jfiv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:은하수 저편에서</title>
+    <ns>3200</ns>
+    <id>2095</id>
+    <revision>
+      <id>2300</id>
+      <parentid>2299</parentid>
+      <timestamp>2026-05-27T08:50:57Z</timestamp>
+      <contributor>
+        <username>Seolhwassi</username>
+        <id>29</id>
+      </contributor>
+      <origin>2300</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1555" sha1="puf87ceayxcoymwh161hgfhhmh5uuk1" xml:space="preserve">쏟아지는 별의 바다
+
+그 안에서 춤을 춰
+
+슬픔은 모두 잊고
+
+영원의 꿈을 꿔
+
+가슴 벅찬 이 순간
+
+자유롭게 날아올라
+
+저 하늘 끝까지
+
+빛이 되어 번져가~~~!!!
+
+
+은하수 저편에서
+
+들려오는 멜로디
+
+고요한 밤의 숨결
+
+내 맘을 감싸네
+
+
+작은 별빛 하나
+
+길을 잃은 내게
+
+손짓하며 속삭여
+
+괜찮아, 괜찮아
+
+​
+
+[Chorus]
+
+쏟아지는 별의 바다
+
+그 안에서 춤을 춰
+
+슬픔은 모두 잊고
+
+영원의 꿈을 꿔
+
+가슴 벅찬 이 순간
+
+자유롭게 날아올라
+
+저 하늘 끝까지
+
+빛이 되어 번져가~~~!!!
+
+​
+
+[Drop]
+
+​
+
+​
+
+[Verse 2]
+
+안개 낀 세상의 끝에서
+
+길을 헤맬 때에도
+
+희미한 달빛처럼
+
+넌 나를 비추네
+
+​
+
+[Pre-Chorus]
+
+작은 바람 하나
+
+지친 내 어깨에
+
+살며시 다가와서
+
+괜찮아, 괜찮아
+
+​
+
+[Chorus]
+
+쏟아지는 별의 바다
+
+그 안에서 춤을 춰
+
+슬픔은 모두 잊고
+
+영원의 꿈을 꿔
+
+​
+
+자유롭게 날아올라
+
+저 하늘 끝까지
+
+빛이 되어 번져가
+
+​
+
+[Bridge]
+
+차가운 세상의 끝에서
+
+따스한 온기를 느껴
+
+두 눈을 감고 귀 기울여봐
+
+우주가 부르는 노래
+
+​
+
+[Build-up]
+
+점점 더 빠르게
+
+뛰는 심장의 리듬
+
+모든 감각이 깨어나~~
+
+​
+
+[Final Drop]
+
+(아~~~~아아아~~)
+
+​
+
+​
+
+[Final Chorus]
+
+쏟아지는 별의 바다
+
+그 안에서 춤을 춰
+
+슬픔은 모두 잊고
+
+영원의 꿈을 꿔
+
+가슴 벅찬 이 순간
+
+자유롭게 날아올라
+
+저 하늘 끝까지
+
+빛이 되어 번져가</text>
+      <sha1>puf87ceayxcoymwh161hgfhhmh5uuk1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:예토전생</title>
+    <ns>3200</ns>
+    <id>2096</id>
+    <revision>
+      <id>2301</id>
+      <timestamp>2026-05-27T08:51:09Z</timestamp>
+      <contributor>
+        <username>하얀 설</username>
+        <id>32</id>
+      </contributor>
+      <comment>새 문서: 아 진짜 쌀값이 왜이래  사람도 줄고 쌀값도 떨어져  쌀숭이는 울고 창섭이가 미워져  겨울방학은 성! 수기인데  유입들은 왜 안오는건데  문제를 찾아서 헤매었지만  모두가 눈을 돌려 업보겠지만  곰곰히 떠올리자, 과거를 지난  아무리 생각해도 해결법은 하나!  그건 바로..  예 토 전 생  리 선족선족선족 선족 (선족)  예 토 전 생  리 선족선족선족 선족 (선족)  예...</comment>
+      <origin>2301</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1750" sha1="fkaxnnigemoitb9qvl2owc7g56i1qm8" xml:space="preserve">아 진짜 쌀값이 왜이래
+
+사람도 줄고 쌀값도 떨어져
+
+쌀숭이는 울고 창섭이가 미워져
+
+겨울방학은 성! 수기인데
+
+유입들은 왜 안오는건데
+
+문제를 찾아서 헤매었지만
+
+모두가 눈을 돌려 업보겠지만
+
+곰곰히 떠올리자, 과거를 지난
+
+아무리 생각해도 해결법은 하나!
+
+그건 바로..
+
+예 토 전 생
+
+리 선족선족선족 선족 (선족)
+
+예 토 전 생
+
+리 선족선족선족 선족 (선족)
+
+예 토 전 생
+
+리 선족선족선족 선족 (선족)
+
+예 토 전 생
+
+리 선족선족선족 선족 (선족)
+
+게임 속 생기는 모든 문제는
+
+2년전 게임 접힌 리선족 탓
+
+메이플 모든 사건 사고도
+
+2년전 게임 접힌 리선족 탓
+
+아즈모스 찬양한 것도 리선족들
+
+아즈모스 삭제한 것도 리선족들
+
+인게임 메소를 파는 것도 리선족들
+
+이 찢어죽일 리선족놈들아~~
+
+(으아니 선생님 이미 접힌 애들이 게임에서 분탕을 어떻게 쳐요?)
+
+예 토 전 생
+
+리 선족선족선족 선족 (선족)
+
+예 토 전 생
+
+리 선족선족선족 선족 (선족)
+
+예 토 전 생
+
+리 선족선족선족 선족 (선족)
+
+예 토 전 생
+
+리 선족선족선족 선족 (선족)
+
+
+생각하지마 그냥 하는거야
+
+애매하다 싶으면 리선족 탓
+
+우리 게임 분위기 수호해야지
+
+쌀값 떨어지면 큰일이잖아~~
+
+넥슨이 욕먹으면 던북공정
+
+RPG가 위험하면 로북공정
+
+변명이 죄다 떨어지면
+
+일단 하는거야 한번 더~~
+
+예 토 전 생
+
+리 선족선족선족 선족 (선족)
+
+예 토 전 생
+
+리 선족선족선족 선족 (선족)
+
+예 토 전 생
+
+리 선족선족선족 선족 (선족)
+
+예 토 전 생
+
+리 선족선족선족 선족 (선족)</text>
+      <sha1>fkaxnnigemoitb9qvl2owc7g56i1qm8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:쌀뚜기</title>
+    <ns>3200</ns>
+    <id>2097</id>
+    <revision>
+      <id>2302</id>
+      <timestamp>2026-05-27T09:02:57Z</timestamp>
+      <contributor>
+        <username>Seolhwassi</username>
+        <id>29</id>
+      </contributor>
+      <comment>새 문서: 메이플이 망했어 괜찮아 로아 가면 돼 로아가 망했어 괜찮아 던파 가면 돼 던파가 망했어 괜찮아 아이온2 흥하잖아 우린 그냥 쌀비싼 데로 가면 돼  하등 이득이 되지 않는 비정상적 이용군  소비 없이 골드 생산만 하는 이용자 그리고 또 특정 그룹 왜 이렇게 어렵게 해  쌀숭이가 제일 찰지니까 통일 좀 해  쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 이거 저거 싸그리다...</comment>
+      <origin>2302</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2088" sha1="3b3kvkqbcb9tg6rhb1dv8osada6douc" xml:space="preserve">메이플이 망했어 괜찮아 로아 가면 돼
+로아가 망했어 괜찮아 던파 가면 돼
+던파가 망했어 괜찮아 아이온2 흥하잖아
+우린 그냥 쌀비싼 데로 가면 돼
+
+하등 이득이 되지 않는 비정상적 이용군 
+소비 없이 골드 생산만 하는 이용자
+그리고 또 특정 그룹 왜 이렇게 어렵게 해 
+쌀숭이가 제일 찰지니까 통일 좀 해
+
+쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 이거 저거 싸그리다 발라먹어 
+쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 너네 게임 떡상하면 다시 올게 
+쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 나한테 이게 바로 평생 직장 
+쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 다음 목적지는 어디로 갈까
+
+메이플 쌀팔땐 로아 순수노잼 게임 던파는 정공 게임 낙인 찍어버려
+그 짓거리를 돌아가면서 하면 쌀값이 쭉쭉 올라 이젠 아예 갤쳐막고 여론 통제도 해
+
+하등 이득이 되지 않는 비정상적 이용군 소비 없이 골드 생산만 하는 이용자
+그리고 또 특정 그룹 기억하기 쉽게 쌀숭이로 통일해줘
+
+쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 안 가리고 싸그리다 발라먹어 
+쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 너네 게임 떡상하면 다시 올게
+쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 내겐 이게 바로 평생 직장이야 
+쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 다음 목적지는 어디로 갈까ㅏㅏㅏ
+
+우린 잡식성이라 아무거나 쳐먹어
+메소건 골드건 쌀만 팔면 그만이지 
+이건 분탕이 아니야 우리 사업 마케팅
+이 얼마나 아름다운 순환이야
+
+와 쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 아주 그냥 싸그리 발라먹어 
+쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 우리 게임쳐망하면 다시 올게 
+쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 쌀 니들끼리 서로 갈라치며 싸워 
+쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 쌀뚜기 우린 그냥 먹고 째면 그만이야 예예 예예 Ah</text>
+      <sha1>3b3kvkqbcb9tg6rhb1dv8osada6douc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:ㅤ</title>
+    <ns>3200</ns>
+    <id>2098</id>
+    <revision>
+      <id>2303</id>
+      <timestamp>2026-05-27T11:03:25Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: 안타까운 용사여 뒤를 돌아보지 말아  목적지를 잃어도 출발점은 기억해 둬  추억 아래 가려진 추악함 Happy 아래 숨어든 회의감 정상화란 이름 아래 고향에 묘비가 필요할까?  우린 너를 영원히 용서하지 않아 용서하지 않아 용서하지 않아  이젠 그저 영원히 없어져버린 없어져버린 없어져버린 없어져버린 우리들은?  표류하는 보트 꼬여있는 로드 넘겨주는 토드 닿...</comment>
+      <origin>2303</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="980" sha1="66pty334emi3e20ki7iljhxuu98vcaz" xml:space="preserve">안타까운 용사여
+뒤를 돌아보지 말아
+
+목적지를 잃어도
+출발점은 기억해 둬
+
+추억 아래 가려진 추악함
+Happy 아래 숨어든 회의감
+정상화란 이름 아래 고향에
+묘비가 필요할까?
+
+우린 너를 영원히
+용서하지 않아
+용서하지 않아
+용서하지 않아
+
+이젠 그저 영원히
+없어져버린
+없어져버린
+없어져버린
+없어져버린 우리들은?
+
+표류하는 보트
+꼬여있는 로드
+넘겨주는 토드
+닿지 않는 리부트
+
+낮은 숫자 아래에서
+신창섭, 네가 만든 worlds가
+무너져 가
+썩어가는 이 게임에 왜
+묘비가 필요할까?
+
+우린 너를 영원히
+용서하지 않아
+용서하지 않아
+용서하지 않아
+
+이젠 그저 영원히
+없어져버린
+없어져버린
+없어져버린
+
+우린 너를 영원히
+용서하지 않아
+용서하지 않아
+용서하지 않아
+
+이젠 그저 영원히
+없어져버린
+없어져버린
+없어져버린
+없어져버린 우리들은?</text>
+      <sha1>66pty334emi3e20ki7iljhxuu98vcaz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:HI, FIVE</title>
+    <ns>3200</ns>
+    <id>2099</id>
+    <revision>
+      <id>2305</id>
+      <parentid>2304</parentid>
+      <timestamp>2026-05-27T11:12:49Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <origin>2305</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2037" sha1="pex5ey6wl15qqj122338wzegoedv8q1" xml:space="preserve">시간은 벌써 4시
+네 맘은 애써 무시
+이 밤은 짧단 듯이
+해 뜨길 기다리지
+의미 없는 Multi Tasking
+따라
+Sleep 없는 Telebanking
+Smoking, yeah
+puffing, puffing
+Time is gone
+melting, melting
+붉게 물든 눈동자에
+따라 묶인 수면 장애
+필요한 건 drug,
+a money
+지금 앞엔 Drunk &amp; Money
+지금 여행가는 중이야
+조금 짧고 넓은 PASSPORT
+열고 도장마냥 숫잘 찍어
+Closing hours
+칼 같이 퇴근, yeah
+
+(Hi Five)
+Time over 오늘 일은 끝임
+(Night Bye)
+어두운 밤은 지나 밝은 밤에
+(あいまい)
+AM PM 지금은 어떤 다섯시
+(Wi-Fi)
+밖으로는 닿지 않아
+
+(Hi Five, Five, Five)
+(Hi Five, Five, Five, Five, Five, Five)
+(Hi Five, Five, Five)
+(Hi Five, Five, Five, Five, Five, Five)
+
+Yeah,
+맞닿은 손,
+다 미뤄놓고 다시 내일 내게 Toss
+내밀어 또,
+매일 피로도 익숙해져 버린 게
+왜 싫어? 버는 돈
+눈에 밟혀서 좀 신경적인 걸
+눈에 닿으면 더 보기 싫어져
+그래 불에 닿은 것처럼 오늘도 난 뛰어
+한잔하고 나서 다음 잔까지 run, 또 run
+"오늘 하루는 지겹지"
+하는 사람 이해 안 가
+뭐 다 똑같으니
+다른 말로 해서 뭐해? 나도 버겁지
+같은 자리 출퇴근 하루에 몇 번씩
+나를 책임지려 해, 다른 일은 독이 돼
+나름대로 벌이인데 왜 다 나를 버린대?
+바로 몰입해, 모니터에 작은 탭
+이게 삶의 낙인데 너네가 뭐 어쩔래
+HI FIVE 그래 I'm fine
+마지막 잔, 벌써 네 시간 반
+Night, bye 어때 I'm fine
+조금 참아 이미 바뀐 낮 밤
+내일 바빠, 나 또 일하잖아
+소리 내고서 난 좀 더 세게 문을 닫아
+bye, bye, 방해 말고 저리 좀 가
+좀 더해서 나 집이라도 나갈까 봐
+
+(Hi Five)
+Time over 오늘 일은 끝임
+(Night Bye)
+어두운 밤은 지나 밝은 밤에
+(あいまい)
+AM PM 지금은 어떤 다섯시
+(Wi-Fi)
+밖으로는 닿지 않아
+
+(Hi Five, Five, Five)
+(Hi Five, Five, Five, Five, Five, Five)
+(Hi Five, Five, Five)
+(Hi Five, Five, Five, Five, Five, Five)</text>
+      <sha1>pex5ey6wl15qqj122338wzegoedv8q1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>이단아</title>
+    <ns>0</ns>
+    <id>2100</id>
+    <revision>
+      <id>2306</id>
+      <timestamp>2026-05-27T11:40:14Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: {{문서:제작자 |대표유튜브채널Id=UCN0oSeuRcCR6Vq1fBJqCE7Q }}</comment>
+      <origin>2306</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="71" sha1="ejlzo9asa8r0kszks27szjxrn0wzu48" xml:space="preserve">{{문서:제작자
+|대표유튜브채널Id=UCN0oSeuRcCR6Vq1fBJqCE7Q
+}}</text>
+      <sha1>ejlzo9asa8r0kszks27szjxrn0wzu48</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:아이 라인</title>
+    <ns>3200</ns>
+    <id>2101</id>
+    <revision>
+      <id>2308</id>
+      <timestamp>2026-05-27T11:45:41Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: 내 사랑은 마치 나선형 같아  끝없이 계속 돌고 돌아서  너의 손길 소라 처럼 다가와  내 마음의 골을 따라 춤을 춰   내 사랑은 마치 나선형 같아  끝없이 계속 돌고 끝나서  너의 손길 파도처럼 다 와가  처음으로 되돌아가 또 다시 시작해  은하계로 향하는 길은 험난해서  껍데기에 남은 상처 쉽게 안 사라져  빙그르르 이해할 수 없어 할 수 없어  나는 원래 그러는...</comment>
+      <origin>2308</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1484" sha1="mcsy4rtdgaffqetuvu7gwyqpk6vxscw" xml:space="preserve">내 사랑은 마치 나선형 같아 
+끝없이 계속 돌고 돌아서 
+너의 손길 소라 처럼 다가와 
+내 마음의 골을 따라 춤을 춰 
+
+내 사랑은 마치 나선형 같아 
+끝없이 계속 돌고 끝나서 
+너의 손길 파도처럼 다 와가 
+처음으로 되돌아가 또 다시 시작해
+
+은하계로 향하는 길은 험난해서 
+껍데기에 남은 상처 쉽게 안 사라져 
+빙그르르 이해할 수 없어 할 수 없어 
+나는 원래 그러는 가봐 빙빙 돌아서 
+마음은 이미 일직선으로 또 시작했어 
+愛 line 
+직선은 또 다시 빙그르르 뚜뚜뚜
+愛 line
+
+내 사랑은 마치 나선형 같아 
+끝없이 계속 돌고 돌아서 
+너의 손길 소라 처럼 다가와 
+내 마음의 골을 따라 춤을 춰 
+
+내 사랑은 마치 나선형 같아 
+끝없이 계속 돌고 끝나서 
+너의 손길 파동처럼 다 와가 
+처음으로 되돌아가 또 다시 시작해
+
+아릅답고 깨끗한 행성 
+시작하는 새하얀 메모 
+오른손에 그려지는 스케치로
+이런 해석 저런 해석 
+멈춰서서 멀어져서 
+너와 난 겹쳐져 가 
+햇살에 피어난 은하
+아직 나 있나 봐 
+
+내 사랑은 마치 나선형 같아 
+끝없이 계속 돌고 돌아서 
+너의 손길 소라 처럼 다가와 
+내 마음의 골을 따라 춤을 춰 
+
+내 사랑은 마치 나선형 같아 
+끝없이 계속 돌고 끝나서 
+너의 손길 파동처럼 다 와가 
+처음으로 되돌아가 또 다시 시작해</text>
+      <sha1>mcsy4rtdgaffqetuvu7gwyqpk6vxscw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:200만 지르면</title>
+    <ns>3200</ns>
+    <id>2102</id>
+    <revision>
+      <id>2309</id>
+      <timestamp>2026-05-27T12:14:18Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: (쌀 팔장) 아! 이 비참한 세상아! 여자들은 심을 팔고 남자들은 상하차를 하네 사냥을 해도 원킬이 안 나니 메이플도 결국 차가운 세상의 거울이구나  막간1 (슈피겔만) 예에에~ 이 세상에 공짜 없다지만 메이플은 얘기가 다르지 결국 회수하면 다 공짜야 오히려 돈이 벌린다구! 200정돈 다 있잖아 편돌이라도 한 달 해 뒷일 생각 할 거 없어 다시 팔면 되니까! 200만 지르...</comment>
+      <origin>2309</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1689" sha1="6ohh4aygt9lcejfdhs0wdvqbcaid56u" xml:space="preserve">(쌀 팔장)
+아! 이 비참한 세상아!
+여자들은 심을 팔고
+남자들은 상하차를 하네
+사냥을 해도 원킬이 안 나니
+메이플도 결국
+차가운 세상의 거울이구나
+
+막간1
+(슈피겔만)
+예에에~
+이 세상에 공짜 없다지만
+메이플은 얘기가 다르지
+결국 회수하면 다 공짜야
+오히려 돈이 벌린다구!
+200정돈 다 있잖아
+편돌이라도 한 달 해
+뒷일 생각 할 거 없어
+다시 팔면 되니까!
+200만 지르면
+200만 지르면
+원킬에 잡혀, 성장 안 막혀!
+200만 지르면
+너도 강해지고 싶잖아
+모험을 펼치고 싶잖아
+어서 일어서, 꿈이 이뤄져!
+200만 지르면!
+20년 된 게임이면
+얼마나 컨텐츠가 많겠어?
+이건 역사를 사는 거야
+200이면 거의 공짜지!
+너도 추억이 있을 거 아냐?
+검마 얼굴은 봐야지
+코즈믹 호러의 극의
+신규 보스도 있다구!
+200만 지르면
+200만 지르면
+보스도 잡혀, 피가 쫙 깎여!
+200만 지르면
+그 루시드도 잡을 수 있어
+잘하면 검밑솔까지!
+모두 가능해, 정말 빠르게!
+200만 지르면!
+불경기 시대~
+(돈 버는 취미)
+고령화 시대~
+(노인 일자리!)
+앉아서 편하게 돈 벌 수 있지!
+넷플릭스랑 유튜브까지!
+200만 지르면
+200만 지르면
+세상이 바뀌어, 시선이 바뀌어!
+200만 지르면
+여로의 물결을 타고
+무도회장에서 춤추자
+어디든 갈 수 있어
+딱 눈 감고
+200만 지르면!
+정령들이 뛰어노는 아르카나
+어떤 세계가 기다리고 있을까나?
+황홀한 모험이 시작되려나 봐!
+200만 지르면!
+
+막간2
+(쌀 팔장)
+아! 이 비참한 세상아!
+여자들은 심을 팔고...</text>
+      <sha1>6ohh4aygt9lcejfdhs0wdvqbcaid56u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:4달 동안</title>
+    <ns>3200</ns>
+    <id>2103</id>
+    <revision>
+      <id>2310</id>
+      <timestamp>2026-05-27T12:14:46Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: (슈피겔만) 포기해라, 넌 안돼. 200도 안 지르면 메이플을 즐길 수 있을 리가 없어 설레는 모험도, 보스도 못 잡는 거야 저 전설의 검을 뽑지 않는 이상 (쌀 팔장) 저게 뭐죠? (슈피겔만) 네가 알아서 뭐하게에에에에!? 말도 안 돼, 저 평범한 놈이 검을 뽑았네, 저 흔한 뉴비 그토록 어려운 미션을 깨고 십년동안 묵혀있던 전설의 검을! (쌀 팔장) 이게 대체 뭐길래 그래요?...</comment>
+      <origin>2310</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2032" sha1="4dlbv4n7pox3q9fhvz5k4t0gddu05yn" xml:space="preserve">(슈피겔만)
+포기해라, 넌 안돼. 200도 안 지르면
+메이플을 즐길 수 있을 리가 없어
+설레는 모험도, 보스도 못 잡는 거야
+저 전설의 검을 뽑지 않는 이상
+(쌀 팔장)
+저게 뭐죠?
+(슈피겔만)
+네가 알아서 뭐하게에에에에!?
+말도 안 돼, 저 평범한 놈이
+검을 뽑았네, 저 흔한 뉴비
+그토록 어려운 미션을 깨고
+십년동안 묵혀있던 전설의 검을!
+(쌀 팔장)
+이게 대체 뭐길래 그래요?
+(슈피겔만)
+전설의 명검 앱솔칼리버라고!
+선택받은 왕 중의 왕 만이
+뽑을 수 있다는 전설의 검
+10년동안 잠들어 있던,
+아직 현역인 저 빛나는 검
+휴대폰으로 치면,
+갤럭시 S3급 찬란한 검
+유니온만 한다면,
+오천플마단도 압도할 수 있는 검!
+(쌀 팔장)
+그게 정말인가,
+이 검의 힘으로
+될 수 있다니.
+내가 왕의 자리로
+그 보스들도,
+다 무릎 꿇리고
+나아간다니,
+그란디스 저 위로!
+(슈피겔만 &amp; 의용군)
+네 달 동안!
+(쌀 팔장)
+?
+(슈피겔만&amp;의용군)
+네 달 동안! 네 달 동안!
+새로운 왕이 탄생하리라!
+네 달 동안! 네 달 동안!
+하루 네시간 하면 복구 가능하리라!
+(쌀 팔장)
+그래, 사랑조차
+영원하지 않은 세상에서
+그 무엇이 불멸을
+말 할 수 있으리
+끝이 있어야
+새로운 시작이 있으니
+사라질 운명 그저 감사할 뿐
+거센 바람이 나를 깨우고
+성난 파도가 소식을 전해 주네
+나 앞으로 나아가리라!
+리선족 척결을 위해!
+(모두)
+네 달 동안!
+(쌀 팔장)
+네 달 동안!
+왕 중의 왕이 통치하리라!
+(통치하리라!)
+(모두)
+네 달 동안!
+(쌀 팔장)
+네 달 동안!
+사악한 리선족을 퇴치하리라!
+(퇴치하리라!)
+(모두)
+네 달 동안!
+(슈피겔만)
+너는 왕이 될 거야!
+(모두)
+네 달 동안!
+(슈피겔만)
+이 세계는 네 거야!
+(모두)
+네 달 동안!
+(슈피겔만)
+모두 무릎 꿇을 거야!
+(모두)
+네 달 동안!
+네 달 동안!
+네 달 동안~!
+네 달 동안!</text>
+      <sha1>4dlbv4n7pox3q9fhvz5k4t0gddu05yn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:RE멤버</title>
+    <ns>3200</ns>
+    <id>2104</id>
+    <revision>
+      <id>2311</id>
+      <timestamp>2026-05-27T12:15:08Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: Sitting in front of the faded screen, I rub my tired eyes 빛바랜 스크린 앞에 앉아, 피곤한 눈 비벼보네 My youth, my passion, all dedicated to the Maple World 내 청춘, 내 열정 모두 바친 메이플 월드 Only a bitter feeling lingers 남은 건 씁쓸한 감정뿐 Where did things go wrong? 어디서부터 잘못된 것일까? When did things start to change like this? 언제부터 이렇게 변해버린 걸까? Oh! Do you remember? Oh! 기억나니? How...</comment>
+      <origin>2311</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2666" sha1="343kld19o2yb8ocplqb6k93oov3kx6n" xml:space="preserve">Sitting in front of the faded screen, I rub my tired eyes
+빛바랜 스크린 앞에 앉아, 피곤한 눈 비벼보네
+My youth, my passion, all dedicated to the Maple World
+내 청춘, 내 열정 모두 바친 메이플 월드
+Only a bitter feeling lingers
+남은 건 씁쓸한 감정뿐
+Where did things go wrong?
+어디서부터 잘못된 것일까?
+When did things start to change like this?
+언제부터 이렇게 변해버린 걸까?
+Oh! Do you remember?
+Oh! 기억나니?
+How pure we were..
+순수했던 우리 ..
+Meso were just numbers; what mattered were our memories
+메소는 그저 숫자일 뿐, 중요한 건 우리의 추억이었어
+Oh! Do you remember?
+Oh! 기억나니?
+How we laughed over a single mushroom
+주황버섯 하나로 웃던 우리
+But now, Maple is filled with madness
+하지만 지금의 메이플은 광기에 가득차있어
+Hiding in the darkness, a shadow chasing meso
+어둠 속에 숨어, 메소만 쫓는 그림자
+Rice monkey. Because of you, Maple has lost its light
+쌀숭이. 너희 때문에, 메이플은 빛을 잃었어
+Please stop now... I have already normalized the Reboot server
+제발 이제 그만... 리부트 서버도 정상화해줬잖아
+I hope you pay some attention to our BM
+우리 BM 관심 좀 가져주었으면 좋겠어요..
+Come back, our heroes
+돌아와, 우리 용사님들
+True adventure, pure passion
+진정한 모험, 순수한 열정
+I want to feel it once again
+다시 한 번 느껴보고 싶어
+Oh! Do you remember?
+Oh! 기억나니?
+How we used to get excited over a single skill
+스킬 하나에 열광하던 우리
+But now people have left
+하지만 사람들은 떠나버리고
+and all that's left is an empty shell
+남은 건 빈 껍데기 뿐이야
+Oh! Do you remember?
+Oh! 기억나니?
+When there were no server conflicts?
+서버 갈등 없던 우리
+Will I never see the MapleStory I loved again?
+내가 사랑했던 메이플은 다시 볼 수 없는 걸까?
+I knew it, I didn't want it to be this way either
+나도 알고 있었어, 나도 그러고 싶지 않았어
+The public's trust was shattered by rigged probabilities I didn't even manipulate
+내가 하지도 않은 확률 조작으로 바닥난 민심
+I had no choice but to destroy the Reboot server to win back their hearts
+마음을 돌리기 위해 리부트 서버를 파괴할 수밖에 없었어
+Sorry.. I'm sorry
+미안해.. 미안해
+Is it too late now?
+이젠 너무 늦은걸까?
+Have we reached a point of no return?
+돌이킬 수 없는 상태까지 와버린 것일까?
+I'll try my best so we can all smile together once again..
+다시 한 번, 모두 함께 웃을 수 있도록 내가 노력할게요..</text>
+      <sha1>343kld19o2yb8ocplqb6k93oov3kx6n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:This is your world</title>
+    <ns>3200</ns>
+    <id>2105</id>
+    <revision>
+      <id>2312</id>
+      <timestamp>2026-05-27T12:15:41Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: My first music. 네가만든 worlds 해가 바뀔 때 너희를 처음 만났어 그땐 서로 미웠겠지 아마 사랑에 빠졌단걸 우린 늦게 알았어 음악을 한다는건 쉽지만은 않아 But gloria. 내 앞에 있어 조금만 더 두려우면 눈을 감고 상상해 로기견 더쿠 just a shadow and spark잖아 이겨내야지 Haters의 noise도 의지는 strong. 굴하지 않으려 해 Maplestory Players' cheers가 있으니 함께 걸어가자 내가 만든...</comment>
+      <origin>2312</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2240" sha1="iehif04shcx1javdyhd6qtjyr2wkq27" xml:space="preserve">My first music. 네가만든 worlds
+해가 바뀔 때 너희를 처음 만났어
+그땐 서로 미웠겠지 아마
+사랑에 빠졌단걸 우린 늦게 알았어
+음악을 한다는건 쉽지만은 않아
+But gloria. 내 앞에 있어 조금만 더
+두려우면 눈을 감고 상상해
+로기견 더쿠 just a shadow and spark잖아
+이겨내야지 Haters의 noise도
+의지는 strong. 굴하지 않으려 해
+Maplestory Players' cheers가 있으니
+함께 걸어가자 내가 만든 Worlds를 향해
+창섭. this is your world.
+Culture. just for you.
+singing and dancing 인생을 담아
+꿈을 향해 나아가. 우리가 있잖아.
+창섭. this is your world.
+Culture. just for you.
+shouting and howling 추억을 담아
+미래를 향해 달려가. 네 팬들이 함께 하잖아.
+내 사랑스런 팬들 욕하지마!
+너흰 리선족이 아냐. 리따거. 따거. oh!
+you can fly to high!
+부디 새가 되어 멀리 멀리 날아줬으면 해.
+언제나 고마워 my mega hit song!
+'다해줬잖아'. '온선족'. '쌀숭이'. '진심'도!
+전부 입에 담지 못해서 미안해!
+And thank you! So I became a dancing musician!
+조회수가 주작당해도 괜찮아
+너희만 나를 알아줘도 난 좋아!
+부디. 이 문화를 사랑해줬으면 해.
+내 음악으로 세상을 정상화 할 수 있게!
+창섭. this is your world.
+Culture. just for you.
+singing and dancing 인생을 담아
+꿈을 향해 나아가. 우리가 있잖아.
+창섭. this is your world.
+Culture. just for you.
+shouting and howling 추억을 담아
+미래를 향해 달려가. 네 팬들이 함께 하잖아.
+조회수가 주작당해도 괜찮아
+너희만 나를 알아줘도 난 좋아!
+부디. 이 문화를 사랑해줬으면 해.
+내 음악으로 세상을 정상화 할 수 있게!
+조회수가 주작당해도 괜찮아
+너희만 나를 알아줘도 난 좋아!
+부디. 이 문화를 사랑해줬으면 해.
+내 음악으로 세상을 정상화 할 수 있게!
+창섭. this is your world.
+Culture. just for you.
+singing and dancing 인생을 담아
+꿈을 향해 나아가. 우리가 있잖아.
+창섭. this is your world.
+Culture. just for you.
+shouting and howling 추억을 담아
+미래를 향해 달려가. 네 팬들이 함께 하잖아.</text>
+      <sha1>iehif04shcx1javdyhd6qtjyr2wkq27</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:그래 나 리선족이다</title>
+    <ns>3200</ns>
+    <id>2106</id>
+    <revision>
+      <id>2313</id>
+      <timestamp>2026-05-27T12:16:01Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: 루시드 헤어 루시드 성형 루시드 실크햇 루시드 드림 다 가져다 바쳤지 내 용돈 중학교 때 완성한 내 메아가 아니 씨발 문상 4만원 사기당했네 아니 씨발 썬콜 게이트 2018년에 급히 도망친 리부트 아아 이곳이 낙원이로구나 그래 나 리선족이다 돈 안 쓰는 리선족이다 자석펫 사고 기간 늘리고 로얄 지르고 마라벨 지르고 매달 질렀지만 리선족이야 돈 썼지만 돈 날린...</comment>
+      <origin>2313</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1356" sha1="6j7y72ttmvy7a0j4k370twsm2twvt8r" xml:space="preserve">루시드 헤어 루시드 성형
+루시드 실크햇 루시드 드림
+다 가져다 바쳤지 내 용돈
+중학교 때 완성한 내 메아가
+아니 씨발 문상 4만원 사기당했네
+아니 씨발 썬콜 게이트
+2018년에 급히 도망친 리부트
+아아 이곳이 낙원이로구나
+그래 나 리선족이다
+돈 안 쓰는 리선족이다
+자석펫 사고 기간 늘리고
+로얄 지르고 마라벨 지르고
+매달 질렀지만 리선족이야
+돈 썼지만 돈 날린 리선족이야
+그래 나 저능아다
+7살부터 메이플 했던 저능아다
+아니 환불사태 뭐지
+왕토햄 씨다씨
+어라 리부트가 왜 이래
+사람들이 왜 자꾸 몰리지?
+너네 우리한테 관심 없었잖아
+너네 우리 맨날 욕만 했었잖아
+그래도 괜찮아
+우리 함께 게임 즐겨보자
+아니 리퐁대전 뭐지?
+돈 쓰기 싫으면 리부트 오면 되잖아
+제발 욕하지마
+나의 추억을 더럽히려 하지마
+그래 나 리선족이다
+돈 안 쓰는 리선족이다
+자석펫 사고 기간 늘리고
+로얄 지르고 마라벨 지르고
+매달 질렀지만 리선족이야
+돈 썼지만 돈 날린 리선족이야
+그래 나 저능아다
+7살부터 메이플 했던 저능아다
+결국 메소 정상화가 됐네
+언젠가는 졸업해야지?
+그래 이제는 졸업하자
+추억은 추억인게 가장 아름다워</text>
+      <sha1>6j7y72ttmvy7a0j4k370twsm2twvt8r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:나 김창섭 알게 되고서</title>
+    <ns>3200</ns>
+    <id>2107</id>
+    <revision>
+      <id>2314</id>
+      <timestamp>2026-05-27T12:16:22Z</timestamp>
+      <contributor>
+        <username>Rgr</username>
+        <id>25</id>
+      </contributor>
+      <comment>새 문서: 김창섭, 메이플의 아버지 김창섭, 정상화의 마술사 김창섭, 리선족의 학살자 김창섭, 건강화의 선각자 김창섭 메이플 스토리에 내려와 정상화 선보이신 영도자 그의 손짓에 정상화 당한 십만의 리선족 그의 결단에 환호하는 수십만의 메유저 아아 리스항구족 드디어 소멸됐구나 비정상 정상화하며 그 큰 업적 널리 빛내시니 나 이제 깨달았도다, 내 한 몸 바칠 디렉...</comment>
+      <origin>2314</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2057" sha1="3w7lu1zfn8gjtfgsfcokze90nmv1yo8" xml:space="preserve">김창섭, 메이플의 아버지
+김창섭, 정상화의 마술사
+김창섭, 리선족의 학살자
+김창섭, 건강화의 선각자
+김창섭 메이플 스토리에 내려와 정상화 선보이신 영도자
+그의 손짓에 정상화 당한 십만의 리선족
+그의 결단에 환호하는 수십만의 메유저
+아아 리스항구족 드디어 소멸됐구나
+비정상 정상화하며 그 큰 업적 널리 빛내시니
+나 이제 깨달았도다, 내 한 몸 바칠 디렉터 그 누구인가
+김창섭을 알기 전까지 나, 리선족 날먹 보며 화가났었네
+김창섭을 알기 전까지 나, 리선족 패악질에 분노했었네
+김창섭을 알기 전까지 나, 리부트 존재해서 과금 안했네
+김창섭을 알기 전까지 나, 리부트 항상 눈에 가시였다네
+김창섭 메이플 스토리에 내려와 정상화 선보이신 영도자
+수십만의 리선족 모가지 손수 쳐내시며
+게임 건강화에 힘쓰시니 남은건 떡상뿐
+서버비도 안내던 거지들 사라졌구나
+암덩이 모두도려내 그 큰 위용 널리 퍼뜨리니
+나 이제 깨달았도다, 내 한 몸 바칠 디렉터 그 누구인가
+김창섭을 알게 되고서 나, 업데이트 불만없이 받아들이네
+김창섭을 알게 되고서 나, 신규BM 의심없이 구매할거네
+김창섭을 알게 되고서 나, 지금부터 마음놓고 지갑열거네
+김창섭을 알게 되고서 나, 이제서야 내주인을 발견했다네
+김창섭께 감히 바라니, 여전히 리부트서버 사기맞다네
+김창섭께 감히 바라니, 최종뎀 정상화까지 부탁드리네
+김창섭께 감히 바라니, 드랍율 정상화까지 희망한다네
+김창섭께 감히 바라니, 메이플 건강화 항상 지지한다네
+김창섭께 감히 바라니, 여전히 리부트서버 사기맞다네
+김창섭께 감히 바라니, 최종뎀 정상화까지 부탁드리네
+김창섭께 감히 바라니, 드랍율 정상화까지 희망한다네
+김창섭께 감히 바라니, 메이플 건강화 항상 지지한다네</text>
+      <sha1>3w7lu1zfn8gjtfgsfcokze90nmv1yo8</sha1>
     </revision>
   </page>
 </mediawiki>
