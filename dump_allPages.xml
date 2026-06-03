@@ -29650,18 +29650,17 @@ box-shadow: var(--box-shadow-border);
     <ns>0</ns>
     <id>571</id>
     <revision>
-      <id>2230</id>
-      <parentid>1824</parentid>
-      <timestamp>2026-05-04T08:38:21Z</timestamp>
+      <id>2324</id>
+      <parentid>2230</parentid>
+      <timestamp>2026-06-03T11:52:06Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <origin>2230</origin>
+      <origin>2324</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="908" sha1="5bg6tc9jztm845qd05xxf5qyeznha8v" xml:space="preserve">최초공개 시트에 적힌 내용의 아카이브입니다. 2025년 8월 12일부터 기록을 시작했습니다. 
+      <text bytes="992" sha1="ra9z0g5bu6t2x3hk1cjio6t66x7k0r6" xml:space="preserve">최초공개 시트에 적힌 내용의 아카이브입니다. 2025년 8월 12일부터 기록을 시작했습니다. 
 
 날짜 변경 전 마지막 수정 사항이 기록되기 때문에 시트에서 너무 일찍 지워진 경우 데이터가 날아갈 수 있습니다. 제([[사용자:창팝위키]])가 알아차린 경우에는 항상 복구해 놓는 편이지만 놓친 날도 있을 수 있기 때문에 혹시 누락된 데이터나 문제를 발견하셨다면 제보 주세요.
 
@@ -29681,9 +29680,13 @@ https://changpop.wiki/premiere-relay-archive/
 ** [[/2026년 3월]]
 ** [[/2026년 4월]]
 ** [[/2026년 5월]]
+** [[/2026년 6월]]
+** [[/2026년 7월]]
+** [[/2026년 8월]]
+** [[/2026년 9월]]
 
 [[분류:최초공개 릴레이 아카이브]]</text>
-      <sha1>5bg6tc9jztm845qd05xxf5qyeznha8v</sha1>
+      <sha1>ra9z0g5bu6t2x3hk1cjio6t66x7k0r6</sha1>
     </revision>
   </page>
   <page>
@@ -65820,6 +65823,25 @@ HEY 해임 고작 해임
 HEY 해임 보직 해임
 국가 공인 사기 IP</text>
       <sha1>6kjm7luekcgvuhe09982jqfsg9xea4z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>최초공개 릴레이/아카이브/2026년 6월</title>
+    <ns>0</ns>
+    <id>2115</id>
+    <revision>
+      <id>2325</id>
+      <timestamp>2026-06-03T11:52:24Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:월별 최초공개 릴레이 아카이브|월=2026-06}}</comment>
+      <origin>2325</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="65" sha1="0tq3zxktlrc9u31n550n7wcfj0xy13c" xml:space="preserve">{{문서:월별 최초공개 릴레이 아카이브|월=2026-06}}</text>
+      <sha1>0tq3zxktlrc9u31n550n7wcfj0xy13c</sha1>
     </revision>
   </page>
 </mediawiki>
