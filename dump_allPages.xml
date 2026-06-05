@@ -20144,34 +20144,22 @@ Let's create our story
     <title>아무창섭</title>
     <ns>0</ns>
     <id>396</id>
+    <redirect title="아무 창섭" />
     <revision>
-      <id>1315</id>
-      <parentid>501</parentid>
-      <timestamp>2025-11-29T19:54:49Z</timestamp>
+      <id>2329</id>
+      <parentid>2328</parentid>
+      <timestamp>2026-06-05T13:16:43Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1315</origin>
+      <comment>내용을 "#넘겨주기 [[아무 창섭]]"(으)로 바꿈</comment>
+      <origin>2329</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="310" sha1="mx6l0nz31kcntxg6vp5pp7ll61iniem" xml:space="preserve">{{문서:창팝
-|곡명=아무 창섭
-|유튜브Id=lDFmwfPmPY8
-|제작자=주차장P
-|개사여부=아니오
-|이전수록컵={{이전 수록 창드컵}}
-}}
-{{창팝 기본 개요}}
-&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
-
-== 가사 ==
-{{가사}}
-
-{{창팝 둘러보기}}</text>
-      <sha1>mx6l0nz31kcntxg6vp5pp7ll61iniem</sha1>
+      <text bytes="31" sha1="gza9h02d3oly654tp7avqwggq59rrzn" xml:space="preserve">#넘겨주기 [[아무 창섭]]</text>
+      <sha1>gza9h02d3oly654tp7avqwggq59rrzn</sha1>
     </revision>
   </page>
   <page>
@@ -65842,6 +65830,38 @@ HEY 해임 보직 해임
       <format>text/x-wiki</format>
       <text bytes="65" sha1="0tq3zxktlrc9u31n550n7wcfj0xy13c" xml:space="preserve">{{문서:월별 최초공개 릴레이 아카이브|월=2026-06}}</text>
       <sha1>0tq3zxktlrc9u31n550n7wcfj0xy13c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sea Breeze</title>
+    <ns>0</ns>
+    <id>2116</id>
+    <revision>
+      <id>2327</id>
+      <parentid>2326</parentid>
+      <timestamp>2026-06-05T09:50:00Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <origin>2327</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="328" sha1="lsed9k7890dqx8qupqdepkosjelznx5" xml:space="preserve">{{문서:창팝
+|유튜브Id=EaTiqwZFki4
+|제작자=리스항르
+|공동제작자=레이지, 창팝용, WHLilly
+|개사여부=아니오
+|고화질썸네일없음=아니오
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>lsed9k7890dqx8qupqdepkosjelznx5</sha1>
     </revision>
   </page>
 </mediawiki>
