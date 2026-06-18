@@ -13556,22 +13556,23 @@ Yes i'm Plastic Star</text>
     <ns>0</ns>
     <id>293</id>
     <revision>
-      <id>1563</id>
-      <parentid>540</parentid>
-      <timestamp>2025-11-30T15:47:30Z</timestamp>
+      <id>2455</id>
+      <parentid>1563</parentid>
+      <timestamp>2026-06-18T12:41:30Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1563</origin>
+      <comment>창드컵 수록 정보 추가</comment>
+      <origin>2455</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="517" sha1="bkpe6hvx0tv9b7ip788l424lar1zg8u" xml:space="preserve">{{문서:창팝
+      <text bytes="593" sha1="ic6oayyl2oi7vy8cdxtm7eoxgdvfxfn" xml:space="preserve">{{문서:창팝
 |유튜브Id=JGVwV0MLtiw
 |제작자=SSL
 |개사여부=아니오
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|제작방법=Suno
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -13589,7 +13590,7 @@ Yes i'm Plastic Star</text>
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>bkpe6hvx0tv9b7ip788l424lar1zg8u</sha1>
+      <sha1>ic6oayyl2oi7vy8cdxtm7eoxgdvfxfn</sha1>
     </revision>
   </page>
   <page>
@@ -14239,22 +14240,22 @@ Heaven's Door
     <ns>0</ns>
     <id>303</id>
     <revision>
-      <id>1309</id>
-      <parentid>602</parentid>
-      <timestamp>2025-11-29T19:54:22Z</timestamp>
+      <id>2449</id>
+      <parentid>1309</parentid>
+      <timestamp>2026-06-18T12:32:49Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1309</origin>
+      <comment>창드컵 수록 정보 추가</comment>
+      <origin>2449</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="543" sha1="avde89794kjf3r1n7s14x2053j6af00" xml:space="preserve">{{문서:창팝
+      <text bytes="600" sha1="1yhoq2p29dfwx9rc8r23jgipmmti1as" xml:space="preserve">{{문서:창팝
 |유튜브Id=MYFQU5TCqRA
 |제작자=체포낙
 |개사여부=아니오
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -14272,7 +14273,7 @@ Heaven's Door
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>avde89794kjf3r1n7s14x2053j6af00</sha1>
+      <sha1>1yhoq2p29dfwx9rc8r23jgipmmti1as</sha1>
     </revision>
   </page>
   <page>
@@ -16924,23 +16925,24 @@ SSal in Step 이제는 잊어버려라
     <ns>0</ns>
     <id>343</id>
     <revision>
-      <id>1591</id>
-      <parentid>525</parentid>
-      <timestamp>2025-11-30T17:33:04Z</timestamp>
+      <id>2453</id>
+      <parentid>1591</parentid>
+      <timestamp>2026-06-18T12:34:51Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1591</origin>
+      <comment>창드컵 수록 정보 추가</comment>
+      <origin>2453</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="840" sha1="p7jpd5mhb77rtfljxs46zm789dhaqeo" xml:space="preserve">{{문서:창팝
+      <text bytes="916" sha1="tjno6r0j0g1xbp9oe7vz8wnonth05ol" xml:space="preserve">{{문서:창팝
 |곡명=창팝다움
 |유튜브Id=_DKqW8ZZA9Q
 |제작자=리듬타는선율족
 |개사여부=아니오
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|제작방법=Suno
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -16958,7 +16960,7 @@ SSal in Step 이제는 잊어버려라
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>p7jpd5mhb77rtfljxs46zm789dhaqeo</sha1>
+      <sha1>tjno6r0j0g1xbp9oe7vz8wnonth05ol</sha1>
     </revision>
   </page>
   <page>
@@ -17214,22 +17216,23 @@ BPM은 태풍 난 멈추지 않아
     <ns>0</ns>
     <id>347</id>
     <revision>
-      <id>1267</id>
-      <parentid>591</parentid>
-      <timestamp>2025-11-29T19:52:12Z</timestamp>
+      <id>2451</id>
+      <parentid>2450</parentid>
+      <timestamp>2026-06-18T12:33:38Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1267</origin>
+      <comment>화자 정보 추가</comment>
+      <origin>2451</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="527" sha1="64b9n18dr2jnpbr942husxv9tmtk4fs" xml:space="preserve">{{문서:창팝
+      <text bytes="619" sha1="jxa5b2d7c7ne55dr2buz5oso0cufo8r" xml:space="preserve">{{문서:창팝
 |유튜브Id=68nvthaHLdc
 |제작자=주차장P
+|화자=신창섭 (feat.$$AL, $$G)
 |개사여부=아니오
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -17247,7 +17250,7 @@ BPM은 태풍 난 멈추지 않아
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>64b9n18dr2jnpbr942husxv9tmtk4fs</sha1>
+      <sha1>jxa5b2d7c7ne55dr2buz5oso0cufo8r</sha1>
     </revision>
   </page>
   <page>
@@ -19111,22 +19114,23 @@ _한편, 음악의 바다에서는..._
     <ns>0</ns>
     <id>377</id>
     <revision>
-      <id>1332</id>
-      <parentid>496</parentid>
-      <timestamp>2025-11-29T19:55:38Z</timestamp>
+      <id>2452</id>
+      <parentid>1332</parentid>
+      <timestamp>2026-06-18T12:34:11Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1332</origin>
+      <comment>창드컵 수록 정보 추가</comment>
+      <origin>2452</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="575" sha1="d9m1xe99iyfhjvuibrhdladkwmanps9" xml:space="preserve">{{문서:창팝
+      <text bytes="662" sha1="e2fvbd049gzsba6w18qthiuqs0z54q1" xml:space="preserve">{{문서:창팝
 |유튜브Id=-U9-WK1XatE
 |제작자=탕이
 |개사여부=아니오
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|고화질썸네일없음=예
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -19145,7 +19149,7 @@ _한편, 음악의 바다에서는..._
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>d9m1xe99iyfhjvuibrhdladkwmanps9</sha1>
+      <sha1>e2fvbd049gzsba6w18qthiuqs0z54q1</sha1>
     </revision>
   </page>
   <page>
@@ -21267,21 +21271,22 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>423</id>
     <revision>
-      <id>1276</id>
-      <parentid>619</parentid>
-      <timestamp>2025-11-29T19:52:32Z</timestamp>
+      <id>2431</id>
+      <parentid>1276</parentid>
+      <timestamp>2026-06-18T12:31:34Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1276</origin>
+      <comment>단품 교체 및 수록 정보 추가</comment>
+      <origin>2431</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="523" sha1="owjqwx2p7fsr1dghsv3xxzc4opyggw5" xml:space="preserve">{{문서:창팝
+      <text bytes="610" sha1="99dy9fx1a2n91xaxabuzllthqmno7v9" xml:space="preserve">{{문서:창팝
 |다른언어제목=漫畫
-|유튜브Id=hsSo8Ewaodk
+|제작자=스피노의혈육
+|유튜브Id=Wiw7QPxntJ8
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
 |개사여부=아니오
 }}
 {{창팝 기본 개요}}
@@ -21301,7 +21306,7 @@ Cultual, 어차피 언젠가
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>owjqwx2p7fsr1dghsv3xxzc4opyggw5</sha1>
+      <sha1>99dy9fx1a2n91xaxabuzllthqmno7v9</sha1>
     </revision>
   </page>
   <page>
@@ -23390,21 +23395,23 @@ Cultual, 어차피 언젠가
     <ns>0</ns>
     <id>472</id>
     <revision>
-      <id>1389</id>
-      <parentid>676</parentid>
-      <timestamp>2025-11-29T19:58:33Z</timestamp>
+      <id>2456</id>
+      <parentid>1389</parentid>
+      <timestamp>2026-06-18T12:43:24Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1389</origin>
+      <comment>단품 교체, 창드컵 수록 정보 추가</comment>
+      <origin>2456</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="434" sha1="k6wfeznicf213psb7b39a1y51fzrxa6" xml:space="preserve">{{문서:창팝
-|유튜브Id=B00nlreREQk
+      <text bytes="531" sha1="1qx63y37pkc6dx4xhyjt184s8sbo5p1" xml:space="preserve">{{문서:창팝
+|유튜브Id=4tC0oV2dgrY
+|제작자=이단아
 |개사여부=아니오
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -23423,7 +23430,7 @@ Cultual, 어차피 언젠가
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>k6wfeznicf213psb7b39a1y51fzrxa6</sha1>
+      <sha1>1qx63y37pkc6dx4xhyjt184s8sbo5p1</sha1>
     </revision>
   </page>
   <page>
@@ -47176,21 +47183,24 @@ From Zero to Infinite
     <ns>0</ns>
     <id>1189</id>
     <revision>
-      <id>1859</id>
-      <timestamp>2026-02-04T07:49:58Z</timestamp>
+      <id>2457</id>
+      <parentid>1859</parentid>
+      <timestamp>2026-06-18T12:44:20Z</timestamp>
       <contributor>
-        <username>독슝좍</username>
-        <id>13</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=ACNK49tRCzo |제작자=독슝좍 |개사여부=아니오 |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
-      <origin>1859</origin>
+      <comment>창드컵 수록 정보 추가</comment>
+      <origin>2457</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="278" sha1="lqsakp8oqu8alc4e8n9k6tpxi6qw0c8" xml:space="preserve">{{문서:창팝
+      <text bytes="365" sha1="o0r59fb7hw639f05vdgrc4la103wd29" xml:space="preserve">{{문서:창팝
 |유튜브Id=ACNK49tRCzo
 |제작자=독슝좍
+|다른언어제목=Make Fume
 |개사여부=아니오
 |고화질썸네일없음=아니오
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -47199,7 +47209,7 @@ From Zero to Infinite
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>lqsakp8oqu8alc4e8n9k6tpxi6qw0c8</sha1>
+      <sha1>o0r59fb7hw639f05vdgrc4la103wd29</sha1>
     </revision>
   </page>
   <page>
@@ -66845,6 +66855,2975 @@ I'm not 에겐
 
 테토테토 테토 테토가이</text>
       <sha1>3dw2guxpljxycq2151jy447r52rq7g8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>쌀은 승, 리는 패</title>
+    <ns>0</ns>
+    <id>2125</id>
+    <revision>
+      <id>2360</id>
+      <timestamp>2026-06-18T12:27:16Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2360</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="293" sha1="b7v1333cmcgtlgmacj2o57l03mg8nnz" xml:space="preserve">{{문서:창팝
+|유튜브Id=uDWV0Nqsznk
+|제작자=독슝좍
+|화자=쌀숭이
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>b7v1333cmcgtlgmacj2o57l03mg8nnz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ㅏㅏㅏ</title>
+    <ns>0</ns>
+    <id>2126</id>
+    <revision>
+      <id>2361</id>
+      <timestamp>2026-06-18T12:27:19Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2361</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="295" sha1="ghs8k8o1oflstjdq2lfvywwmh8fgmh8" xml:space="preserve">{{문서:창팝
+|유튜브Id=4V9aATDy4qU
+|제작자=주차장P
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ghs8k8o1oflstjdq2lfvywwmh8fgmh8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>때려박는 랩</title>
+    <ns>0</ns>
+    <id>2127</id>
+    <revision>
+      <id>2362</id>
+      <timestamp>2026-06-18T12:27:22Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2362</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="293" sha1="nbuvnp3g5aqvy1kivu9vi7hgbsl44sk" xml:space="preserve">{{문서:창팝
+|유튜브Id=nm9TqsbBWCM
+|제작자=신재윤
+|화자=리주범
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>nbuvnp3g5aqvy1kivu9vi7hgbsl44sk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>다시 (순수창팝)</title>
+    <ns>0</ns>
+    <id>2128</id>
+    <revision>
+      <id>2363</id>
+      <timestamp>2026-06-18T12:27:28Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2363</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="4uqxwzs75im5byfcyjt8q4r0vk3dswf" xml:space="preserve">{{문서:창팝
+|유튜브Id=9wZG-OirkII
+|제작자=순수창팝
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|곡명=다시
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>4uqxwzs75im5byfcyjt8q4r0vk3dswf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bxxch, We're twins (Original ver.)</title>
+    <ns>0</ns>
+    <id>2129</id>
+    <revision>
+      <id>2364</id>
+      <timestamp>2026-06-18T12:27:32Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2364</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="333" sha1="jmzxrgrd0hmyhog1es91op6fbv1o88k" xml:space="preserve">{{문서:창팝
+|유튜브Id=HBUl45ZMhcw
+|제작자=SSLIT
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|곡명=Bxxch, We're twins (Original ver.)
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>jmzxrgrd0hmyhog1es91op6fbv1o88k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>BADASS</title>
+    <ns>0</ns>
+    <id>2130</id>
+    <revision>
+      <id>2365</id>
+      <timestamp>2026-06-18T12:27:32Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2365</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="322" sha1="7gor6x662lk4m9gc1x3apeltd5o8bii" xml:space="preserve">{{문서:창팝
+|유튜브Id=Vtoo1rUczE4
+|제작자=습작노트
+|공동제작자=X슝좍
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>7gor6x662lk4m9gc1x3apeltd5o8bii</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>뜻.</title>
+    <ns>0</ns>
+    <id>2131</id>
+    <revision>
+      <id>2366</id>
+      <timestamp>2026-06-18T12:27:35Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2366</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="275" sha1="ih19cscjb6yxbfzv4puyentlzdnlovg" xml:space="preserve">{{문서:창팝
+|유튜브Id=EPpa2DGLzCA
+|제작자=릴창섭
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ih19cscjb6yxbfzv4puyentlzdnlovg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>버거뿌려</title>
+    <ns>0</ns>
+    <id>2132</id>
+    <revision>
+      <id>2367</id>
+      <timestamp>2026-06-18T12:27:38Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2367</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="275" sha1="nrhr61mfqv6nmueirxr6sqlud45d0cx" xml:space="preserve">{{문서:창팝
+|유튜브Id=rJH-sePUHeo
+|제작자=창섭이
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>nrhr61mfqv6nmueirxr6sqlud45d0cx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>뜻. REMIX</title>
+    <ns>0</ns>
+    <id>2133</id>
+    <revision>
+      <id>2368</id>
+      <timestamp>2026-06-18T12:27:49Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2368</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="315" sha1="jfh1wdygsct5b2191ghc9es0eg7q5l0" xml:space="preserve">{{문서:창팝
+|유튜브Id=e0b1GguWzew
+|제작자=주차장P
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|원곡명=[[뜻.]]
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>jfh1wdygsct5b2191ghc9es0eg7q5l0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>도사 신창섭</title>
+    <ns>0</ns>
+    <id>2134</id>
+    <revision>
+      <id>2369</id>
+      <timestamp>2026-06-18T12:27:53Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2369</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="317" sha1="4byirlmrivm97cvwhssjan3ek1y6d3z" xml:space="preserve">{{문서:창팝
+|유튜브Id=7Wdd0VWtta8
+|제작자=너구리돌격대장
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>4byirlmrivm97cvwhssjan3ek1y6d3z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Game is over</title>
+    <ns>0</ns>
+    <id>2135</id>
+    <revision>
+      <id>2370</id>
+      <timestamp>2026-06-18T12:27:56Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2370</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="eom218xm8dhggs3akej1qqlwex8rjja" xml:space="preserve">{{문서:창팝
+|유튜브Id=DxNR52IhT7E
+|제작자=또너야
+|화자=신창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>eom218xm8dhggs3akej1qqlwex8rjja</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>도돌이표</title>
+    <ns>0</ns>
+    <id>2136</id>
+    <revision>
+      <id>2371</id>
+      <timestamp>2026-06-18T12:28:01Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2371</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="352" sha1="745bqk8oouclz4ts8t8gy8mybtobe5i" xml:space="preserve">{{문서:창팝
+|유튜브Id=N2oq98g3y8w
+|제작자=신재윤
+|화자=10만 다이 듀오
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>745bqk8oouclz4ts8t8gy8mybtobe5i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>고릴라</title>
+    <ns>0</ns>
+    <id>2137</id>
+    <revision>
+      <id>2372</id>
+      <timestamp>2026-06-18T12:28:03Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2372</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="287" sha1="8g2i2shdzljznjf43fwvdbm9g0qfgux" xml:space="preserve">{{문서:창팝
+|유튜브Id=qfedpyWjBkE
+|제작자=발라리안한모금
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>8g2i2shdzljznjf43fwvdbm9g0qfgux</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>마리오네트 Side-A</title>
+    <ns>0</ns>
+    <id>2138</id>
+    <revision>
+      <id>2373</id>
+      <timestamp>2026-06-18T12:28:05Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2373</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="392" sha1="d4sgritt0rcmpa9wxnpzuk7flrd7fi4" xml:space="preserve">{{문서:창팝
+|유튜브Id=UETMBxa2Pjc
+|제작자=발라리안한모금
+|화자=신창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|다른언어제목=Marionette Side-A
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>d4sgritt0rcmpa9wxnpzuk7flrd7fi4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MASK OFF</title>
+    <ns>0</ns>
+    <id>2139</id>
+    <revision>
+      <id>2374</id>
+      <timestamp>2026-06-18T12:28:08Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2374</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="293" sha1="mj2id42kb3123bgp5yuz4oast7jvmjh" xml:space="preserve">{{문서:창팝
+|유튜브Id=4WQuR6jtwLg
+|제작자=나는아무것도몰라요
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>mj2id42kb3123bgp5yuz4oast7jvmjh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>빌런 (신재윤)</title>
+    <ns>0</ns>
+    <id>2140</id>
+    <revision>
+      <id>2375</id>
+      <timestamp>2026-06-18T12:28:12Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2375</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="367" sha1="2r2vsoyo7fh82ccwlgntzkevtpdvpcu" xml:space="preserve">{{문서:창팝
+|유튜브Id=a-scEh5NCJI
+|제작자=신재윤
+|화자=10만 다이 듀오
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|곡명=빌런
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>2r2vsoyo7fh82ccwlgntzkevtpdvpcu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>13-24</title>
+    <ns>0</ns>
+    <id>2141</id>
+    <revision>
+      <id>2376</id>
+      <timestamp>2026-06-18T12:28:13Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2376</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="293" sha1="nn03ukus1gdjx2ipyri7ozjwviyhsuu" xml:space="preserve">{{문서:창팝
+|유튜브Id=EgwUefrBNWk
+|제작자=나는아무것도몰라요
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>nn03ukus1gdjx2ipyri7ozjwviyhsuu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>DRIFT!</title>
+    <ns>0</ns>
+    <id>2142</id>
+    <revision>
+      <id>2377</id>
+      <timestamp>2026-06-18T12:28:14Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2377</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="303" sha1="2zq79ito39uui1bchiadu8hphwxzxeg" xml:space="preserve">{{문서:창팝
+|유튜브Id=VAYspSvUZEk
+|제작자=신재윤
+|화자=10만 다이 듀오
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>2zq79ito39uui1bchiadu8hphwxzxeg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>개폐</title>
+    <ns>0</ns>
+    <id>2143</id>
+    <revision>
+      <id>2378</id>
+      <timestamp>2026-06-18T12:28:17Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2378</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="324" sha1="6jnt43dzzoejiz08zpsdkac6eh8vu7f" xml:space="preserve">{{문서:창팝
+|유튜브Id=ZPXq_BaP_nk
+|제작자=순수창팝
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+|다른언어제목=開閉
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>6jnt43dzzoejiz08zpsdkac6eh8vu7f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>탐인가</title>
+    <ns>0</ns>
+    <id>2144</id>
+    <revision>
+      <id>2379</id>
+      <timestamp>2026-06-18T12:28:20Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2379</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="336" sha1="493oruljcouex7fiyq2kgm6d46de22v" xml:space="preserve">{{문서:창팝
+|유튜브Id=TmDWDXip4as
+|제작자=발라리안한모금
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|다른언어제목=貪人歌
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>493oruljcouex7fiyq2kgm6d46de22v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>SLAY FREESTYLE</title>
+    <ns>0</ns>
+    <id>2145</id>
+    <revision>
+      <id>2380</id>
+      <timestamp>2026-06-18T12:28:23Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2380</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="324" sha1="40vj688934po8k47qn4ha81wmswlgqb" xml:space="preserve">{{문서:창팝
+|유튜브Id=2Oj0k6FpnEc
+|제작자=SSLIT
+|화자=(Feat.리부트유치원)
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>40vj688934po8k47qn4ha81wmswlgqb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>그저</title>
+    <ns>0</ns>
+    <id>2146</id>
+    <revision>
+      <id>2381</id>
+      <timestamp>2026-06-18T12:28:27Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2381</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="5y5hmwnayy970bxc7ta712nd6mtla7a" xml:space="preserve">{{문서:창팝
+|유튜브Id=dVbSQAqYUJc
+|제작자=창팝용
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>5y5hmwnayy970bxc7ta712nd6mtla7a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Grind</title>
+    <ns>0</ns>
+    <id>2147</id>
+    <revision>
+      <id>2382</id>
+      <timestamp>2026-06-18T12:28:30Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2382</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="281" sha1="gefhag14idtvqdz6u6x46f37lx6q34q" xml:space="preserve">{{문서:창팝
+|유튜브Id=_qW0ABF8xjI
+|제작자=무명음악가
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>gefhag14idtvqdz6u6x46f37lx6q34q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>방송계의 블루칩</title>
+    <ns>0</ns>
+    <id>2148</id>
+    <revision>
+      <id>2383</id>
+      <timestamp>2026-06-18T12:28:33Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2383</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="352" sha1="2i5oop5t4jrs7dqe4kndxu4jj1jrl1o" xml:space="preserve">{{문서:창팝
+|유튜브Id=un1F44FyRU0
+|제작자=여 오
+|화자=신창섭 
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|다른언어제목=Blue Chip
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>2i5oop5t4jrs7dqe4kndxu4jj1jrl1o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>악당출현</title>
+    <ns>0</ns>
+    <id>2149</id>
+    <revision>
+      <id>2384</id>
+      <timestamp>2026-06-18T12:28:40Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2384</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="338" sha1="mnwc8gwz2oy6vztp80wny7ud2ok1sll" xml:space="preserve">{{문서:창팝
+|유튜브Id=XhbZEDgKfXg
+|제작자=신창섭의은총
+|화자=리선족 (feat.신창섭)
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>mnwc8gwz2oy6vztp80wny7ud2ok1sll</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>돈 담아</title>
+    <ns>0</ns>
+    <id>2150</id>
+    <revision>
+      <id>2385</id>
+      <timestamp>2026-06-18T12:28:45Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2385</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="306" sha1="5l1ybnrrbfwn21ddpecrfhs4fcjqq60" xml:space="preserve">{{문서:창팝
+|유튜브Id=7prfrTpsvlA
+|제작자=Changseob The Magician
+|화자=신창섭
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>5l1ybnrrbfwn21ddpecrfhs4fcjqq60</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>독</title>
+    <ns>0</ns>
+    <id>2151</id>
+    <revision>
+      <id>2386</id>
+      <timestamp>2026-06-18T12:28:49Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2386</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="293" sha1="9xx0ch4iwjri4pipx2jljbbxf5gffdl" xml:space="preserve">{{문서:창팝
+|유튜브Id=pvo1ng6lrOk
+|제작자=독슝좍
+|화자=신창섭
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>9xx0ch4iwjri4pipx2jljbbxf5gffdl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CHANG CYPHER</title>
+    <ns>0</ns>
+    <id>2152</id>
+    <revision>
+      <id>2387</id>
+      <timestamp>2026-06-18T12:28:51Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2387</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="360" sha1="qsp9c154fsj01z2oaw2gz2tktaeqmsv" xml:space="preserve">{{문서:창팝
+|유튜브Id=RdRNAvbiEhQ
+|제작자=신창섭의은총
+|화자=Feat. 신창섭, 쌀숭이, 루시드, 강원기
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>qsp9c154fsj01z2oaw2gz2tktaeqmsv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Director</title>
+    <ns>0</ns>
+    <id>2153</id>
+    <revision>
+      <id>2388</id>
+      <timestamp>2026-06-18T12:29:00Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2388</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="333" sha1="eo94g0kxoshjcfwh5d5ou4jnfwsgi0r" xml:space="preserve">{{문서:창팝
+|유튜브Id=fNmUj9I-dBI
+|제작자=신재윤
+|화자=10만 다이 듀오
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>eo94g0kxoshjcfwh5d5ou4jnfwsgi0r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>디카페인</title>
+    <ns>0</ns>
+    <id>2154</id>
+    <revision>
+      <id>2389</id>
+      <timestamp>2026-06-18T12:29:02Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2389</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="318" sha1="kyjazeoe103pmq1sidgwy6c4kepqegc" xml:space="preserve">{{문서:창팝
+|유튜브Id=FAPFNRbox7s
+|제작자=너구리돌격대장
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+|다른언어제목=Decaffeine
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>kyjazeoe103pmq1sidgwy6c4kepqegc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>연고전</title>
+    <ns>0</ns>
+    <id>2155</id>
+    <revision>
+      <id>2390</id>
+      <timestamp>2026-06-18T12:29:04Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2390</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="316" sha1="i2q6et3vjjl02ry32ikr8f6iocpwyw6" xml:space="preserve">{{문서:창팝
+|유튜브Id=AirTki5ZPAU
+|제작자=너구리돌격대장
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|별명=( 연대 vs 고래 )
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>i2q6et3vjjl02ry32ikr8f6iocpwyw6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>무료해</title>
+    <ns>0</ns>
+    <id>2156</id>
+    <revision>
+      <id>2391</id>
+      <timestamp>2026-06-18T12:29:22Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2391</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="305" sha1="ri77kh91o3jo6bsh8p5g5ngydtx2l3b" xml:space="preserve">{{문서:창팝
+|유튜브Id=d-sX73EJIuw
+|제작자=릴창섭
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ri77kh91o3jo6bsh8p5g5ngydtx2l3b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>POWER</title>
+    <ns>0</ns>
+    <id>2157</id>
+    <revision>
+      <id>2392</id>
+      <timestamp>2026-06-18T12:29:24Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2392</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="333" sha1="dxbt5674qo71ibay22canpn4hse3qb8" xml:space="preserve">{{문서:창팝
+|유튜브Id=2MCcNI-gRO0
+|제작자=신재윤
+|화자=10만 다이 듀오
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>dxbt5674qo71ibay22canpn4hse3qb8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>설거지 하는 가장 쉬운 방법</title>
+    <ns>0</ns>
+    <id>2158</id>
+    <revision>
+      <id>2393</id>
+      <timestamp>2026-06-18T12:29:29Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2393</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="281" sha1="rl3ifa5h8x7lsdfnmk7otaopp7lpihh" xml:space="preserve">{{문서:창팝
+|유튜브Id=KbEzv_BAJqE
+|제작자=아드레날린
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>rl3ifa5h8x7lsdfnmk7otaopp7lpihh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>AbraFxxingCadabra</title>
+    <ns>0</ns>
+    <id>2159</id>
+    <revision>
+      <id>2394</id>
+      <timestamp>2026-06-18T12:29:31Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2394</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="300" sha1="plfbn37k0x4ohv8kzdermmlg0tz65ba" xml:space="preserve">{{문서:창팝
+|유튜브Id=utqexxQmovA
+|제작자=무명음악가
+|화자=신창섭 
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>plfbn37k0x4ohv8kzdermmlg0tz65ba</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sextet</title>
+    <ns>0</ns>
+    <id>2160</id>
+    <revision>
+      <id>2395</id>
+      <timestamp>2026-06-18T12:29:34Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2395</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="8hnkbtpuiw602m4rakboyrkwpyle2tl" xml:space="preserve">{{문서:창팝
+|유튜브Id=vmvr_cnA0Eg
+|제작자=지평단
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>8hnkbtpuiw602m4rakboyrkwpyle2tl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>내가 판 메소</title>
+    <ns>0</ns>
+    <id>2161</id>
+    <revision>
+      <id>2396</id>
+      <timestamp>2026-06-18T12:29:37Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2396</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="278" sha1="ez0wjmco289w32nsrx3nyllws1gcqxb" xml:space="preserve">{{문서:창팝
+|유튜브Id=JHRAR6C-PjY
+|제작자=자기개발
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ez0wjmco289w32nsrx3nyllws1gcqxb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>천치</title>
+    <ns>0</ns>
+    <id>2162</id>
+    <revision>
+      <id>2397</id>
+      <timestamp>2026-06-18T12:29:39Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2397</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="306" sha1="950xpu9biwg388rtosxumjglxc1no7f" xml:space="preserve">{{문서:창팝
+|유튜브Id=8ncJ46-sVsY
+|제작자=발라리안한모금
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>950xpu9biwg388rtosxumjglxc1no7f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Business Man</title>
+    <ns>0</ns>
+    <id>2163</id>
+    <revision>
+      <id>2398</id>
+      <timestamp>2026-06-18T12:29:40Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2398</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="307" sha1="90p0ya9c8qtbee5pmrhvvksvrjm7gjn" xml:space="preserve">{{문서:창팝
+|유튜브Id=v9u7_Ct3xoQ
+|제작자=창팝용
+|화자=$$al
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>90p0ya9c8qtbee5pmrhvvksvrjm7gjn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>무제 (신재윤)</title>
+    <ns>0</ns>
+    <id>2164</id>
+    <revision>
+      <id>2399</id>
+      <timestamp>2026-06-18T12:29:43Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2399</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="348" sha1="jpc4rqxi89dfwdndwqmkldb2fn3w8am" xml:space="preserve">{{문서:창팝
+|유튜브Id=1utqZsFfTP4
+|제작자=신재윤
+|화자=10만 다이 듀오
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|곡명=무제
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>jpc4rqxi89dfwdndwqmkldb2fn3w8am</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>버림자</title>
+    <ns>0</ns>
+    <id>2165</id>
+    <revision>
+      <id>2400</id>
+      <timestamp>2026-06-18T12:29:47Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2400</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="339" sha1="iu6wqfpl38bi8tdhw679eh0lbwjdxtp" xml:space="preserve">{{문서:창팝
+|유튜브Id=uptDDLrzYMA
+|제작자=아드레날린
+|화자=쌀 미손, 쌀마마
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|다른언어제목=Outcast
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>iu6wqfpl38bi8tdhw679eh0lbwjdxtp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>무법자</title>
+    <ns>0</ns>
+    <id>2166</id>
+    <revision>
+      <id>2401</id>
+      <timestamp>2026-06-18T12:29:49Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2401</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="340" sha1="4eildhs2gdsgwel52iue36cjv087xrt" xml:space="preserve">{{문서:창팝
+|유튜브Id=IsPXIDKt2mY
+|제작자=신재윤
+|화자=10만 다이 듀오 (Feat. 강원기)
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>4eildhs2gdsgwel52iue36cjv087xrt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cyber Downpour</title>
+    <ns>0</ns>
+    <id>2167</id>
+    <revision>
+      <id>2402</id>
+      <timestamp>2026-06-18T12:29:49Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2402</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="307" sha1="s0f1vo5x0opg4y61noq0qp30cqc62ok" xml:space="preserve">{{문서:창팝
+|유튜브Id=Q3RxlbOkY08
+|제작자=창팝용
+|화자=$$al
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>s0f1vo5x0opg4y61noq0qp30cqc62ok</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>신과 머저리</title>
+    <ns>0</ns>
+    <id>2168</id>
+    <revision>
+      <id>2403</id>
+      <timestamp>2026-06-18T12:29:54Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2403</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="275" sha1="8dh5947qims0epdsb33taejiwrppre7" xml:space="preserve">{{문서:창팝
+|유튜브Id=uaeRupQJkdM
+|제작자=독슝좍
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>8dh5947qims0epdsb33taejiwrppre7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>봇이지뭐 (RAP)</title>
+    <ns>0</ns>
+    <id>2169</id>
+    <revision>
+      <id>2404</id>
+      <timestamp>2026-06-18T12:29:55Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2404</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="320" sha1="81cn1lzzit21b9t7hwnf6fjdpyxytyv" xml:space="preserve">{{문서:창팝
+|유튜브Id=uKM4H_ky5gE
+|제작자=SSLIT
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>81cn1lzzit21b9t7hwnf6fjdpyxytyv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>마리오네트 Side-B</title>
+    <ns>0</ns>
+    <id>2170</id>
+    <revision>
+      <id>2405</id>
+      <timestamp>2026-06-18T12:29:59Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2405</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="362" sha1="b2taclyebwp9trdjcrgrx1m6ru7clce" xml:space="preserve">{{문서:창팝
+|유튜브Id=XW1Dnu01xqQ
+|제작자=발라리안한모금
+|화자=신창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|다른언어제목=Marionette Side-B
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>b2taclyebwp9trdjcrgrx1m6ru7clce</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Teabagging</title>
+    <ns>0</ns>
+    <id>2171</id>
+    <revision>
+      <id>2406</id>
+      <timestamp>2026-06-18T12:30:00Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2406</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="nfb2bp3mtapluyxwqeis84ki8hjj7e6" xml:space="preserve">{{문서:창팝
+|유튜브Id=EtQPHcgzaPM
+|제작자=SSLIT
+|공동제작자=duRE
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>nfb2bp3mtapluyxwqeis84ki8hjj7e6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bxxch, We're twins (Emo ver.)</title>
+    <ns>0</ns>
+    <id>2172</id>
+    <revision>
+      <id>2407</id>
+      <timestamp>2026-06-18T12:30:04Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2407</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="339" sha1="izzrn1t17fe018h4kv2dxojulrctd5b" xml:space="preserve">{{문서:창팝
+|유튜브Id=6k-aHSylYQM
+|제작자=SSLIT
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|곡명=Bxxch, We're twins (Emo ver.)
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>izzrn1t17fe018h4kv2dxojulrctd5b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Knuckle</title>
+    <ns>0</ns>
+    <id>2173</id>
+    <revision>
+      <id>2408</id>
+      <timestamp>2026-06-18T12:30:06Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2408</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="401" sha1="e3hq2gn1pil5qest2jhwajf7tey343a" xml:space="preserve">{{문서:창팝
+|유튜브Id=llWTdM79EOo
+|제작자=지평단
+|화자=신창섭 
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+|링크={{링크|링크=https://www.youtube.com/watch?v=Zkx4eCQOYkQ
+|레이블=원본}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>e3hq2gn1pil5qest2jhwajf7tey343a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>털어 (주차장P)</title>
+    <ns>0</ns>
+    <id>2174</id>
+    <revision>
+      <id>2409</id>
+      <timestamp>2026-06-18T12:30:09Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2409</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="328" sha1="a3ruh1g8qlod5z10hc7ggh8ysgcw7tw" xml:space="preserve">{{문서:창팝
+|유튜브Id=4qX7UMr7nr4
+|제작자=주차장P
+|화자=신창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|곡명=털어
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>a3ruh1g8qlod5z10hc7ggh8ysgcw7tw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>원해 (신재윤)</title>
+    <ns>0</ns>
+    <id>2175</id>
+    <revision>
+      <id>2410</id>
+      <timestamp>2026-06-18T12:30:11Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2410</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="348" sha1="28ewuw0kmtf3s40dc7rfxajm4pail7u" xml:space="preserve">{{문서:창팝
+|유튜브Id=9FU2wzw3EKw
+|제작자=신재윤
+|화자=10만 다이 듀오
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|곡명=원해
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>28ewuw0kmtf3s40dc7rfxajm4pail7u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>넌 기러기 난 고라니</title>
+    <ns>0</ns>
+    <id>2176</id>
+    <revision>
+      <id>2411</id>
+      <timestamp>2026-06-18T12:30:14Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2411</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="304" sha1="t96jbznfozh7hcot59vhbjy9hdah7nr" xml:space="preserve">{{문서:창팝
+|유튜브Id=hg34SdvgM8A
+|제작자=이터널 리슨족
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>t96jbznfozh7hcot59vhbjy9hdah7nr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>탑 승</title>
+    <ns>0</ns>
+    <id>2177</id>
+    <revision>
+      <id>2412</id>
+      <timestamp>2026-06-18T12:30:23Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2412</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="303" sha1="5vr0ipeins8f5pay5elbgykkcypskge" xml:space="preserve">{{문서:창팝
+|유튜브Id=fbuhtwBZmus
+|제작자=독슝좍
+|화자=쌀더지 (feat. ?)
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>5vr0ipeins8f5pay5elbgykkcypskge</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>신창섭 덕분에</title>
+    <ns>0</ns>
+    <id>2178</id>
+    <revision>
+      <id>2413</id>
+      <timestamp>2026-06-18T12:30:25Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2413</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="d25hxlxiahnezynq0plq79rrwlox6yd" xml:space="preserve">{{문서:창팝
+|유튜브Id=j0yGL-3csHk
+|제작자=자기개발
+|화자=$$AL $OONG
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>d25hxlxiahnezynq0plq79rrwlox6yd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>쌀살</title>
+    <ns>0</ns>
+    <id>2179</id>
+    <revision>
+      <id>2414</id>
+      <timestamp>2026-06-18T12:30:28Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2414</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="333" sha1="haz7z3tcszygd15tsja1qh76ohja8l9" xml:space="preserve">{{문서:창팝
+|유튜브Id=KG4pAlHlJLk
+|제작자=발라리안한모금
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|다른언어제목=쌀殺
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>haz7z3tcszygd15tsja1qh76ohja8l9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>교화 곡조</title>
+    <ns>0</ns>
+    <id>2180</id>
+    <revision>
+      <id>2415</id>
+      <timestamp>2026-06-18T12:30:32Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2415</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="291" sha1="fq6l18x2w681ce5zqbov7ncqdun8139" xml:space="preserve">{{문서:창팝
+|유튜브Id=Dnk5PAYKT9o
+|제작자=9999OV0
+|화자=신창섭
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>fq6l18x2w681ce5zqbov7ncqdun8139</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>물통은 현질이 맞아</title>
+    <ns>0</ns>
+    <id>2181</id>
+    <revision>
+      <id>2416</id>
+      <timestamp>2026-06-18T12:30:35Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2416</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="282" sha1="pk1l7jyhx3yci5kaef6tfpqeau1r80s" xml:space="preserve">{{문서:창팝
+|유튜브Id=oC7AXaVxBMA
+|제작자=섭 회색셔츠
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>pk1l7jyhx3yci5kaef6tfpqeau1r80s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>난, 해시</title>
+    <ns>0</ns>
+    <id>2182</id>
+    <revision>
+      <id>2417</id>
+      <timestamp>2026-06-18T12:30:37Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2417</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="293" sha1="6vujmni7bboa6d3xmsb0gar8iu2f2yh" xml:space="preserve">{{문서:창팝
+|유튜브Id=ixsSuIitZEE
+|제작자=Novelist
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>6vujmni7bboa6d3xmsb0gar8iu2f2yh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Karma &amp; Trauma</title>
+    <ns>0</ns>
+    <id>2183</id>
+    <revision>
+      <id>2418</id>
+      <timestamp>2026-06-18T12:30:40Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2418</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="335" sha1="4aj1t5sjrnlvy56mdomdmtyuvwx9wsx" xml:space="preserve">{{문서:창팝
+|유튜브Id=51sTu2IBexM
+|제작자=체포낙
+|화자=쌀숭이
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|곡명=Karma &amp; Trauma
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>4aj1t5sjrnlvy56mdomdmtyuvwx9wsx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>SPOTLIGHT</title>
+    <ns>0</ns>
+    <id>2184</id>
+    <revision>
+      <id>2419</id>
+      <timestamp>2026-06-18T12:30:43Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2419</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="rcftc1gg4kqkmfh5zk1robibtw158pe" xml:space="preserve">{{문서:창팝
+|유튜브Id=FC2_FpiqWxA
+|제작자=릴창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>rcftc1gg4kqkmfh5zk1robibtw158pe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>BOW DOWN</title>
+    <ns>0</ns>
+    <id>2185</id>
+    <revision>
+      <id>2420</id>
+      <timestamp>2026-06-18T12:30:45Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2420</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="71zdbgg32m6xv8dywqpgk5otjaokjzh" xml:space="preserve">{{문서:창팝
+|유튜브Id=VAYOi7GNca8
+|제작자=선율족
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>71zdbgg32m6xv8dywqpgk5otjaokjzh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>섬</title>
+    <ns>0</ns>
+    <id>2186</id>
+    <revision>
+      <id>2421</id>
+      <timestamp>2026-06-18T12:30:51Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2421</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="320" sha1="d28svq0x75hetqqpldjpnyk7bu7yxio" xml:space="preserve">{{문서:창팝
+|유튜브Id=--owS6YLuTg
+|제작자=X슝좍
+|공동제작자=주차장P
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>d28svq0x75hetqqpldjpnyk7bu7yxio</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>말해</title>
+    <ns>0</ns>
+    <id>2187</id>
+    <revision>
+      <id>2422</id>
+      <timestamp>2026-06-18T12:30:55Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2422</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="275" sha1="he11ozcmb01u8g7fhb76glc501850vw" xml:space="preserve">{{문서:창팝
+|유튜브Id=xhAM9Z-olME
+|제작자=릴창섭
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>he11ozcmb01u8g7fhb76glc501850vw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>물거품</title>
+    <ns>0</ns>
+    <id>2188</id>
+    <revision>
+      <id>2423</id>
+      <timestamp>2026-06-18T12:30:57Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2423</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="319" sha1="nr78zsykv1n1qdkfknw2xca1nof8iy3" xml:space="preserve">{{문서:창팝
+|유튜브Id=j4_vBWbhRtE
+|제작자=MLR_d
+|화자=슈멧 (with 올리)
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>nr78zsykv1n1qdkfknw2xca1nof8iy3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>잉걸불</title>
+    <ns>0</ns>
+    <id>2189</id>
+    <revision>
+      <id>2424</id>
+      <timestamp>2026-06-18T12:31:00Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2424</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="ocujcfh2stpyf1223fkzhwetxnmh2og" xml:space="preserve">{{문서:창팝
+|유튜브Id=fAxS7n7pCew
+|제작자=습작노트
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ocujcfh2stpyf1223fkzhwetxnmh2og</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>변신 (릴창섭)</title>
+    <ns>0</ns>
+    <id>2190</id>
+    <revision>
+      <id>2425</id>
+      <timestamp>2026-06-18T12:31:03Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2425</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="320" sha1="rly0h37quz3azmhdcwchpmitariqoeh" xml:space="preserve">{{문서:창팝
+|유튜브Id=wb2PrXgD5U8
+|제작자=릴창섭
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|곡명=변신
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>rly0h37quz3azmhdcwchpmitariqoeh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>다시 온 여덟글자랩</title>
+    <ns>0</ns>
+    <id>2191</id>
+    <revision>
+      <id>2426</id>
+      <timestamp>2026-06-18T12:31:12Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2426</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="342" sha1="mrusmyhdbtroyriffobkopb3mnugcza" xml:space="preserve">{{문서:창팝
+|유튜브Id=HX3gYOLIIr0
+|제작자=임주인
+|화자=리선족
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>mrusmyhdbtroyriffobkopb3mnugcza</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>벼슝좍</title>
+    <ns>0</ns>
+    <id>2192</id>
+    <revision>
+      <id>2427</id>
+      <timestamp>2026-06-18T12:31:15Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2427</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="275" sha1="a36uzveqc8fqusz2p7cpt8fnai6gzbx" xml:space="preserve">{{문서:창팝
+|유튜브Id=ibPz7neEfOE
+|제작자=독슝좍
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>a36uzveqc8fqusz2p7cpt8fnai6gzbx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Punch King</title>
+    <ns>0</ns>
+    <id>2193</id>
+    <revision>
+      <id>2428</id>
+      <timestamp>2026-06-18T12:31:18Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2428</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="317" sha1="syu3grkpltmxmsk18jtyistvcfdgoay" xml:space="preserve">{{문서:창팝
+|유튜브Id=FR3QqBgkWjg
+|제작자=너구리돌격대장
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>syu3grkpltmxmsk18jtyistvcfdgoay</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nexon Freestyle</title>
+    <ns>0</ns>
+    <id>2194</id>
+    <revision>
+      <id>2429</id>
+      <timestamp>2026-06-18T12:31:29Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2429</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="322" sha1="qk6sqge0fzeyr75zltwskqmvdmwlsp0" xml:space="preserve">{{문서:창팝
+|유튜브Id=tVDNBTg5vSk
+|제작자=신재윤
+|화자=10만 다이 듀오
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>qk6sqge0fzeyr75zltwskqmvdmwlsp0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>FRAME.</title>
+    <ns>0</ns>
+    <id>2195</id>
+    <revision>
+      <id>2430</id>
+      <timestamp>2026-06-18T12:31:31Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2430</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="271" sha1="bmtx556xj7pixsh9mmr9zrepi88mcag" xml:space="preserve">{{문서:창팝
+|유튜브Id=jycXEvy9qws
+|제작자=SSLIT
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>bmtx556xj7pixsh9mmr9zrepi88mcag</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>수긍</title>
+    <ns>0</ns>
+    <id>2196</id>
+    <revision>
+      <id>2432</id>
+      <timestamp>2026-06-18T12:31:35Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2432</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="bwazw76o09vjalohe9kwdxz2j1gykb9" xml:space="preserve">{{문서:창팝
+|유튜브Id=nYK68gyCoXU
+|제작자=또너야
+|화자=신창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>bwazw76o09vjalohe9kwdxz2j1gykb9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MemoRiEs - E</title>
+    <ns>0</ns>
+    <id>2197</id>
+    <revision>
+      <id>2433</id>
+      <timestamp>2026-06-18T12:31:43Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2433</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="289" sha1="djz4y8mn9nhhcs2darbm5xg19t5gcs5" xml:space="preserve">{{문서:창팝
+|유튜브Id=z6xK7tJ6dUs
+|제작자=duRE
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>djz4y8mn9nhhcs2darbm5xg19t5gcs5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>메벤이야기</title>
+    <ns>0</ns>
+    <id>2198</id>
+    <revision>
+      <id>2434</id>
+      <timestamp>2026-06-18T12:31:46Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2434</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="js9qjqblspax8rv95yt4bpnggzds6rt" xml:space="preserve">{{문서:창팝
+|유튜브Id=SRARkXJtvLw
+|제작자=캡펠
+|공동제작자=X슝좍
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>js9qjqblspax8rv95yt4bpnggzds6rt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Burberry</title>
+    <ns>0</ns>
+    <id>2199</id>
+    <revision>
+      <id>2435</id>
+      <timestamp>2026-06-18T12:31:51Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2435</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="343" sha1="9pcn5z5isklctljl791e90k5tuv2rp2" xml:space="preserve">{{문서:창팝
+|유튜브Id=05Nw4oDwdQU
+|제작자=리데오
+|화자=$$AL Thug 
+|제작방법=Udio
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>9pcn5z5isklctljl791e90k5tuv2rp2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>인시</title>
+    <ns>0</ns>
+    <id>2200</id>
+    <revision>
+      <id>2436</id>
+      <timestamp>2026-06-18T12:31:53Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2436</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="318" sha1="grxaq52309y0lhwn42444tr7dpcvxxi" xml:space="preserve">{{문서:창팝
+|유튜브Id=wsqycFa6fQk
+|제작자=김낙
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|다른언어제목=寅時
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>grxaq52309y0lhwn42444tr7dpcvxxi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>BOTTLE</title>
+    <ns>0</ns>
+    <id>2201</id>
+    <revision>
+      <id>2437</id>
+      <timestamp>2026-06-18T12:31:58Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2437</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="321" sha1="65rugc9nd3ula89maoh5skwgvaqwz2e" xml:space="preserve">{{문서:창팝
+|유튜브Id=3AqcfZqS-2Q
+|제작자=리멤브란서족
+|화자=FIV3 MIN3
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>65rugc9nd3ula89maoh5skwgvaqwz2e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>거울에 비친 별</title>
+    <ns>0</ns>
+    <id>2202</id>
+    <revision>
+      <id>2438</id>
+      <timestamp>2026-06-18T12:32:00Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2438</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="289" sha1="ngshgl93m1sf381w3zjn2awcreyvy9t" xml:space="preserve">{{문서:창팝
+|유튜브Id=uFCL18ughH8
+|제작자=duRE
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ngshgl93m1sf381w3zjn2awcreyvy9t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ㅇㅗㅔㄱ</title>
+    <ns>0</ns>
+    <id>2203</id>
+    <revision>
+      <id>2439</id>
+      <timestamp>2026-06-18T12:32:01Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2439</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="275" sha1="8yqdxnqc9hwyt5qrmhwl3gf8drzu5cc" xml:space="preserve">{{문서:창팝
+|유튜브Id=23mCRHEQYsY
+|제작자=창스풀
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>8yqdxnqc9hwyt5qrmhwl3gf8drzu5cc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>바이탈 사인</title>
+    <ns>0</ns>
+    <id>2204</id>
+    <revision>
+      <id>2440</id>
+      <timestamp>2026-06-18T12:32:06Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2440</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="346" sha1="m1mws2wb7z9ioi2skfrt32d1nuhylmh" xml:space="preserve">{{문서:창팝
+|유튜브Id=TNxHdqvqiUk
+|제작자=습작노트
+|화자=신창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|다른언어제목=VITAL SIGN
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>m1mws2wb7z9ioi2skfrt32d1nuhylmh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Get that dope</title>
+    <ns>0</ns>
+    <id>2205</id>
+    <revision>
+      <id>2441</id>
+      <timestamp>2026-06-18T12:32:09Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2441</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="271" sha1="eual475x83kag9c63drz1x6hhrlw3xb" xml:space="preserve">{{문서:창팝
+|유튜브Id=pgZ6DtRNFAE
+|제작자=SSLIT
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>eual475x83kag9c63drz1x6hhrlw3xb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>다시 창팝</title>
+    <ns>0</ns>
+    <id>2206</id>
+    <revision>
+      <id>2442</id>
+      <timestamp>2026-06-18T12:32:12Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2442</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="otpmgz5skt4qiytuuz7q7ie9n6gxnfl" xml:space="preserve">{{문서:창팝
+|유튜브Id=ereet_4q47Q
+|제작자=지평단
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>otpmgz5skt4qiytuuz7q7ie9n6gxnfl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>GO HIGHER</title>
+    <ns>0</ns>
+    <id>2207</id>
+    <revision>
+      <id>2443</id>
+      <timestamp>2026-06-18T12:32:15Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2443</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="320" sha1="s84aoxw7sqsvmh2iu2xi0sbke01wy1o" xml:space="preserve">{{문서:창팝
+|유튜브Id=379dqU4aHZU
+|제작자=SSLIT
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>s84aoxw7sqsvmh2iu2xi0sbke01wy1o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hear &amp; Fear</title>
+    <ns>0</ns>
+    <id>2208</id>
+    <revision>
+      <id>2444</id>
+      <timestamp>2026-06-18T12:32:18Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2444</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="332" sha1="meksemlx7ddrjavmqmr0xrg486fd8rm" xml:space="preserve">{{문서:창팝
+|유튜브Id=cL1nUYAvP2Y
+|제작자=체포낙
+|화자=신창섭
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|곡명=Hear &amp; Fear
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>meksemlx7ddrjavmqmr0xrg486fd8rm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>- -</title>
+    <ns>0</ns>
+    <id>2209</id>
+    <revision>
+      <id>2454</id>
+      <parentid>2445</parentid>
+      <timestamp>2026-06-18T12:36:02Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>미디어위키 시스템 한계로 제목에서 _ 사용 불가하므로 보일제목 추가</comment>
+      <origin>2454</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="363" sha1="rxh5jwtynm6yejamuzfl9qtu4orrfb6" xml:space="preserve">{{보일제목:-_-}}
+{{문서:창팝
+|유튜브Id=WIGWZkdypV4
+|제작자=이단아
+|화자=신창섭 (Feat. 루시드)
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 2편}}
+|곡명=-_-
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>rxh5jwtynm6yejamuzfl9qtu4orrfb6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Marble story</title>
+    <ns>0</ns>
+    <id>2210</id>
+    <revision>
+      <id>2446</id>
+      <timestamp>2026-06-18T12:32:23Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2446</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="319" sha1="e31bjfc8l4ihw38ryzhxeupa6ez903t" xml:space="preserve">{{문서:창팝
+|유튜브Id=2ngOitPQrco
+|제작자=상추토끼
+|수록컵={{수록 창드컵|창드컵=힙드컵 3편}}
+|다른언어제목=대리석 위 서사
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>e31bjfc8l4ihw38ryzhxeupa6ez903t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>유저 대가리 깨기</title>
+    <ns>0</ns>
+    <id>2211</id>
+    <revision>
+      <id>2447</id>
+      <timestamp>2026-06-18T12:32:26Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2447</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="327" sha1="czocpfsh49x3tii66z4pxf6nzgtl61s" xml:space="preserve">{{문서:창팝
+|유튜브Id=8SfY4Z4dUxU
+|제작자=뷁다혜
+|화자=조재윤
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|기타=조팝
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>czocpfsh49x3tii66z4pxf6nzgtl61s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>신이 아니야</title>
+    <ns>0</ns>
+    <id>2212</id>
+    <revision>
+      <id>2448</id>
+      <timestamp>2026-06-18T12:32:29Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기 - 힙드컵</comment>
+      <origin>2448</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="4akmy8hubkhmu2w528naq38r19d52pp" xml:space="preserve">{{문서:창팝
+|유튜브Id=ejqKlGKFjbU
+|제작자=섭 회색셔츠
+|수록컵={{수록 창드컵|창드컵=힙드컵 1편}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>4akmy8hubkhmu2w528naq38r19d52pp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>힙드컵 1편</title>
+    <ns>0</ns>
+    <id>2213</id>
+    <revision>
+      <id>2458</id>
+      <timestamp>2026-06-18T12:45:36Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 |명칭_=&lt;br&gt;창팝 힙합 부문 월드컵 1편 |PikuId=4PXuL6 |강=32 |유형=장르 }}  == 수록곡 == {{창드컵 수록곡 둘러보기 | 창드컵 = {{문서이름}} | 펼치기 = 예  }} {{수록곡 표}}  === 가사 모음 === [[/수록곡 가사 모음]]</comment>
+      <origin>2458</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="283" sha1="mughbguhbp8gns7lztgruioh2p8h6fp" xml:space="preserve">{{문서:창드컵
+|명칭_=&lt;br&gt;창팝 힙합 부문 월드컵 1편
+|PikuId=4PXuL6
+|강=32
+|유형=장르
+}}
+
+== 수록곡 ==
+{{창드컵 수록곡 둘러보기
+| 창드컵 = {{문서이름}}
+| 펼치기 = 예 
+}}
+{{수록곡 표}}
+
+=== 가사 모음 ===
+[[/수록곡 가사 모음]]</text>
+      <sha1>mughbguhbp8gns7lztgruioh2p8h6fp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>힙드컵 2편</title>
+    <ns>0</ns>
+    <id>2214</id>
+    <revision>
+      <id>2459</id>
+      <timestamp>2026-06-18T12:46:00Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 |명칭_=&lt;br&gt;창팝 힙합 부문 월드컵 2편 |PikuId=436uYg |강=32 |유형=장르 }}  == 수록곡 == {{창드컵 수록곡 둘러보기 | 창드컵 = {{문서이름}} | 펼치기 = 예  }} {{수록곡 표}}  === 가사 모음 === [[/수록곡 가사 모음]]</comment>
+      <origin>2459</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="283" sha1="05d8a7b8ery89hvvad8yv0ak5u7ihx6" xml:space="preserve">{{문서:창드컵
+|명칭_=&lt;br&gt;창팝 힙합 부문 월드컵 2편
+|PikuId=436uYg
+|강=32
+|유형=장르
+}}
+
+== 수록곡 ==
+{{창드컵 수록곡 둘러보기
+| 창드컵 = {{문서이름}}
+| 펼치기 = 예 
+}}
+{{수록곡 표}}
+
+=== 가사 모음 ===
+[[/수록곡 가사 모음]]</text>
+      <sha1>05d8a7b8ery89hvvad8yv0ak5u7ihx6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>힙드컵 3편</title>
+    <ns>0</ns>
+    <id>2215</id>
+    <revision>
+      <id>2460</id>
+      <timestamp>2026-06-18T12:46:21Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 |명칭_=&lt;br&gt;창팝 힙합 부문 월드컵 3편 |PikuId=2eZeg2 |강=32 |유형=장르 }}  == 수록곡 == {{창드컵 수록곡 둘러보기 | 창드컵 = {{문서이름}} | 펼치기 = 예  }} {{수록곡 표}}  === 가사 모음 === [[/수록곡 가사 모음]]</comment>
+      <origin>2460</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="283" sha1="qzesvhn9579vrq7d55k5e9vu91b1cbu" xml:space="preserve">{{문서:창드컵
+|명칭_=&lt;br&gt;창팝 힙합 부문 월드컵 3편
+|PikuId=2eZeg2
+|강=32
+|유형=장르
+}}
+
+== 수록곡 ==
+{{창드컵 수록곡 둘러보기
+| 창드컵 = {{문서이름}}
+| 펼치기 = 예 
+}}
+{{수록곡 표}}
+
+=== 가사 모음 ===
+[[/수록곡 가사 모음]]</text>
+      <sha1>qzesvhn9579vrq7d55k5e9vu91b1cbu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>분류:힙드컵 3편 수록곡</title>
+    <ns>14</ns>
+    <id>2216</id>
+    <revision>
+      <id>2461</id>
+      <timestamp>2026-06-18T12:47:52Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{창드컵 수록곡 둘러보기 |창드컵=힙드컵 3편 |펼치기=예 }} [[분류:창드컵 수록곡]]</comment>
+      <origin>2461</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="109" sha1="es6nqsdwb0aivox1y0kf7gabouvxf9m" xml:space="preserve">{{창드컵 수록곡 둘러보기
+|창드컵=힙드컵 3편
+|펼치기=예
+}}
+[[분류:창드컵 수록곡]]</text>
+      <sha1>es6nqsdwb0aivox1y0kf7gabouvxf9m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>분류:힙드컵 2편 수록곡</title>
+    <ns>14</ns>
+    <id>2217</id>
+    <revision>
+      <id>2462</id>
+      <timestamp>2026-06-18T12:48:06Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{창드컵 수록곡 둘러보기 |창드컵=힙드컵 2편 |펼치기=예 }} [[분류:창드컵 수록곡]]</comment>
+      <origin>2462</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="109" sha1="1yv39itvuscn9nvrenvy1kjxmc25i95" xml:space="preserve">{{창드컵 수록곡 둘러보기
+|창드컵=힙드컵 2편
+|펼치기=예
+}}
+[[분류:창드컵 수록곡]]</text>
+      <sha1>1yv39itvuscn9nvrenvy1kjxmc25i95</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>분류:힙드컵 1편 수록곡</title>
+    <ns>14</ns>
+    <id>2218</id>
+    <revision>
+      <id>2463</id>
+      <timestamp>2026-06-18T12:48:21Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{창드컵 수록곡 둘러보기 |창드컵=힙드컵 1편 |펼치기=예 }} [[분류:창드컵 수록곡]]</comment>
+      <origin>2463</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="109" sha1="70n8abbsln8maqvoevkap99udbt88ub" xml:space="preserve">{{창드컵 수록곡 둘러보기
+|창드컵=힙드컵 1편
+|펼치기=예
+}}
+[[분류:창드컵 수록곡]]</text>
+      <sha1>70n8abbsln8maqvoevkap99udbt88ub</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>탑승</title>
+    <ns>0</ns>
+    <id>2219</id>
+    <redirect title="탑 승" />
+    <revision>
+      <id>2464</id>
+      <timestamp>2026-06-18T12:51:59Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>[[탑 승]] 문서로 넘겨주기</comment>
+      <origin>2464</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25" sha1="42dvvh3g1n1ml7s36k7wn7g9sgx9h8o" xml:space="preserve">#넘겨주기 [[탑 승]]</text>
+      <sha1>42dvvh3g1n1ml7s36k7wn7g9sgx9h8o</sha1>
     </revision>
   </page>
 </mediawiki>
