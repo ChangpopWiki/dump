@@ -37485,17 +37485,19 @@ Sorry 미안해
     </revision>
   </page>
   <page>
-    <title>Blue de Mer</title>
+    <title>Bleu de Mer</title>
     <ns>0</ns>
     <id>741</id>
     <revision>
-      <id>1692</id>
-      <parentid>1424</parentid>
-      <timestamp>2025-12-11T15:01:16Z</timestamp>
+      <id>2465</id>
+      <parentid>1692</parentid>
+      <timestamp>2026-06-19T12:24:07Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
+      <minor/>
+      <comment>창팝위키님이 [[Blue de Mer]] 문서를 넘겨주기를 만들지 않고 [[Bleu de Mer]] 문서로 이동했습니다: 제목 오기 발견</comment>
       <origin>1692</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
