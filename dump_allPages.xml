@@ -51348,17 +51348,17 @@ Find flame to blame
     <ns>3200</ns>
     <id>1267</id>
     <revision>
-      <id>1944</id>
-      <timestamp>2026-03-16T06:30:00Z</timestamp>
+      <id>2466</id>
+      <parentid>1944</parentid>
+      <timestamp>2026-06-26T11:04:55Z</timestamp>
       <contributor>
-        <username>리릭슝좍</username>
-        <id>23</id>
+        <username>ㅇㅇ39</username>
+        <id>36</id>
       </contributor>
-      <comment>새 문서: 쌀숭이는 햄부기 좋아 쌀숭이는 햄부기 좋아 근데 버거 단품 하나 주네? 목 막혀 먹다 죽으란 말?  쌀숭이는 햄부기 좋아 쌀숭이는 단품이 싫어 화이트 갈릭이면 고민했음 단품은 안 받아  햄부기와 햄북어 햄부르크 햄부가티 현기증 나니까 빨리 부거 뿌리거라 한참을 죽으라고 사이버 힐링 하다가도 햄부기는 못 참아  우리 신념이 겨우 버거 값이냐고? 맞아 꺼져...</comment>
-      <origin>1944</origin>
+      <origin>2466</origin>
       <model>text</model>
       <format>text/plain</format>
-      <text bytes="1260" sha1="nikchiju8bcdu2ng1wvqlrqd34moumt" xml:space="preserve">쌀숭이는 햄부기 좋아
+      <text bytes="1260" sha1="q64y7sprd9d6tben5fdduwx5cicl032" xml:space="preserve">쌀숭이는 햄부기 좋아
 쌀숭이는 햄부기 좋아
 근데 버거 단품 하나 주네?
 목 막혀 먹다 죽으란 말?
@@ -51390,7 +51390,7 @@ Find flame to blame
 
 쌀숭이는 날조와 선동하다 박제당하고
 다른 데서 날조 실패하고 차단당해
-나롲 선동은 쌀숭이가 했지만
+날조 선동은 쌀숭이가 했지만
 무튼 우린 선량한 피해자임
 
 창섭은 쌀숭이 싫어
@@ -51402,7 +51402,7 @@ Find flame to blame
 창섭은 밸패가 싫어
 쌀먹을 하다 걸리면 아오지
 갚기 전엔 못 나오지</text>
-      <sha1>nikchiju8bcdu2ng1wvqlrqd34moumt</sha1>
+      <sha1>q64y7sprd9d6tben5fdduwx5cicl032</sha1>
     </revision>
   </page>
   <page>
@@ -69826,6 +69826,32 @@ I'm not 에겐
       <format>text/x-wiki</format>
       <text bytes="25" sha1="42dvvh3g1n1ml7s36k7wn7g9sgx9h8o" xml:space="preserve">#넘겨주기 [[탑 승]]</text>
       <sha1>42dvvh3g1n1ml7s36k7wn7g9sgx9h8o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>복면창팝 시즌 1</title>
+    <ns>0</ns>
+    <id>2220</id>
+    <revision>
+      <id>2468</id>
+      <parentid>2467</parentid>
+      <timestamp>2026-06-26T14:54:49Z</timestamp>
+      <contributor>
+        <username>이거는진짜인가가짜인가</username>
+        <id>6</id>
+      </contributor>
+      <origin>2468</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="289" sha1="n67ox70r75iakeawzq69qiwxg3v7nt1" xml:space="preserve">'''복면창팝 시즌 1'''는 테일로가 주최한 첫번째 [[복면창팝]]이다. 2024년 10월 20일에 합본이 공개되었다. 최종적으로 25명이 참가했다. 
+
+{{유튜브 영상|Id=dhP1rh1UIoI}}
+
+== 참가곡 ==
+{{복면창팝 1 참가곡 표}}
+
+[[분류:복면창팝]]</text>
+      <sha1>n67ox70r75iakeawzq69qiwxg3v7nt1</sha1>
     </revision>
   </page>
 </mediawiki>
