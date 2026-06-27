@@ -50939,17 +50939,17 @@ SLOW 점점 더 깊게
     <ns>3200</ns>
     <id>1261</id>
     <revision>
-      <id>1938</id>
-      <timestamp>2026-03-16T05:53:59Z</timestamp>
+      <id>2469</id>
+      <parentid>1938</parentid>
+      <timestamp>2026-06-27T07:17:22Z</timestamp>
       <contributor>
-        <username>리릭슝좍</username>
-        <id>23</id>
+        <username>ㅇㅇ39</username>
+        <id>36</id>
       </contributor>
-      <comment>새 문서: 공식이! 뭘 알아!  재획해서 돈으로 바꿔 주보 돌아 돈으로 바꿔 조각 캐서 돈으로 바꿔 창섭이가 하지 말라고? 공식이 뭘 알아  메벤 가서 존나게 누워 나눔 글에 존나게 줄 서 환불 금액 천 원 이하야 넥슨 캐시 지른 적 없고 메소 존나 팔지만 하며 물통 밖에 할 줄 모르는 나는야 쌀숭이  재획해서 돈으로 바꿔 주보 돌아 돈으로 바꿔 조각 캐서 돈으로 바꿔 창섭이...</comment>
-      <origin>1938</origin>
+      <origin>2469</origin>
       <model>text</model>
       <format>text/plain</format>
-      <text bytes="1637" sha1="bcv13nl1h57ztpubwreqgox24ccmh1o" xml:space="preserve">공식이! 뭘 알아!
+      <text bytes="1637" sha1="4wf7g0qb88hqsx998tqb319xb17ed2r" xml:space="preserve">공식이! 뭘 알아!
 
 재획해서 돈으로 바꿔
 주보 돌아 돈으로 바꿔
@@ -50961,7 +50961,7 @@ SLOW 점점 더 깊게
 나눔 글에 존나게 줄 서
 환불 금액 천 원 이하야
 넥슨 캐시 지른 적 없고
-메소 존나 팔지만 하며
+메소 존나 팔기만 하며
 물통 밖에 할 줄 모르는
 나는야 쌀숭이
 
@@ -51014,7 +51014,7 @@ SLOW 점점 더 깊게
 공식이 뭘 알아
 공식이 뭘 알아
 공식이 뭘 알아</text>
-      <sha1>bcv13nl1h57ztpubwreqgox24ccmh1o</sha1>
+      <sha1>4wf7g0qb88hqsx998tqb319xb17ed2r</sha1>
     </revision>
   </page>
   <page>
