@@ -38877,23 +38877,27 @@ Sorry 미안해
     <ns>0</ns>
     <id>780</id>
     <revision>
-      <id>1462</id>
-      <parentid>1220</parentid>
-      <timestamp>2025-11-29T20:03:09Z</timestamp>
+      <id>2470</id>
+      <parentid>1462</parentid>
+      <timestamp>2026-06-29T16:21:20Z</timestamp>
       <contributor>
-        <username>창팝위키</username>
-        <id>2</id>
+        <username>Rgr</username>
+        <id>25</id>
       </contributor>
-      <minor/>
-      <comment>{{창팝 둘러보기}} 틀 적용 [문자열 찾아 바꾸기를 이용한 편집]</comment>
-      <origin>1462</origin>
+      <origin>2470</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="298" sha1="21icb3cg35totx8yqprg0v6jzogqwof" xml:space="preserve">{{문서:창팝
-|유튜브Id=1tGAiKMn8pE
+      <text bytes="440" sha1="3epypavnyybcwq8hqu23ew9d8u6axrx" xml:space="preserve">{{문서:창팝
+|유튜브Id=EM5dC4ULisw
 |제작자=메트로워크
+|개사여부=아니오
+|수록컵={{수록 창드컵
+|창드컵=2024년 4편
+}}
 |제작방법=Suno
-|수록컵={{수록 창드컵|창드컵=2024년 4편}}
+|기타=삭제된 원본 영상 ID: 1tGAiKMn8pE
+삭제 전 조회수: 18,653회
+|고화질썸네일없음=아니오
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -38902,7 +38906,7 @@ Sorry 미안해
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>21icb3cg35totx8yqprg0v6jzogqwof</sha1>
+      <sha1>3epypavnyybcwq8hqu23ew9d8u6axrx</sha1>
     </revision>
   </page>
   <page>
