@@ -2481,18 +2481,19 @@ break = no
     <ns>8</ns>
     <id>64</id>
     <revision>
-      <id>1118</id>
-      <parentid>724</parentid>
-      <timestamp>2025-11-12T12:34:29Z</timestamp>
+      <id>2472</id>
+      <parentid>1118</parentid>
+      <timestamp>2026-07-02T09:30:58Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1118</origin>
+      <comment>문서를 비움</comment>
+      <origin>2472</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="174" sha1="hk6798jwtptv9a3x3uq8arjkj09cd4y" xml:space="preserve">(2025. 11. 12.) 제작자 문서에 대한 양식이 추가되었습니다. [[창팝위키:선착장#c-창팝위키-20251112123000-창팝위키-20250615134700|공지 보기]]</text>
-      <sha1>hk6798jwtptv9a3x3uq8arjkj09cd4y</sha1>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
     </revision>
   </page>
   <page>
