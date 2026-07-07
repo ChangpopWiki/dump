@@ -31423,17 +31423,18 @@ Hey Crowd 더
     <ns>8</ns>
     <id>601</id>
     <revision>
-      <id>2214</id>
-      <parentid>905</parentid>
-      <timestamp>2026-04-24T10:09:27Z</timestamp>
+      <id>2476</id>
+      <parentid>2214</parentid>
+      <timestamp>2026-07-07T11:58:49Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>2214</origin>
+      <comment>미디어위키 1.45+ 버전 대응</comment>
+      <origin>2476</origin>
       <model>javascript</model>
       <format>text/javascript</format>
-      <text bytes="3326" sha1="nrzhf23f2jhv8kikrn7i2zlr9j4vskp" xml:space="preserve">mw.hook('wikipage.content').add(function() {
+      <text bytes="3548" sha1="jo0l6o05fjsakj7ofbvbjkpf5bfzdg8" xml:space="preserve">mw.hook('wikipage.content').add(function() {
   document.querySelectorAll('.mw-collapsible').forEach(function(container) {
       const content = container.querySelector('.mw-collapsible-content');
       if (!content) return;
@@ -31442,10 +31443,16 @@ Hey Crowd 더
           content.style.display = 'none';
           content.style.opacity = '0';
           content.style.maxHeight = '0px';
+          
+          // MW 1.45+
+          if (!content.hasAttribute('hidden')) {
+              content.setAttribute('hidden', 'until-found');
+          }
       } else {
           content.style.display = 'block';
           content.style.opacity = '1';
           content.style.maxHeight = 'none';
+          content.removeAttribute('hidden');
       }
   });
 
@@ -31473,14 +31480,14 @@ Hey Crowd 더
 
       if (isCurrentlyCollapsed) {
         container.classList.remove('mw-collapsed'); 
+        content.removeAttribute('hidden');
         
         content.style.transition = 'none';
         
-        if (window.getComputedStyle(content).display === 'none') {
-            content.style.display = 'block';
-            content.style.maxHeight = '0px';
-            content.style.opacity = '0';
-        }
+        content.style.display = 'block';
+        content.style.maxHeight = '0px';
+        content.style.opacity = '0';
+        
         const targetHeight = content.scrollHeight; 
         void content.offsetHeight; 
 
@@ -31514,6 +31521,7 @@ Hey Crowd 더
         const finishClose = () =&gt; {
             if (!container.classList.contains('mw-collapsed')) return;
             content.style.display = 'none';
+            content.setAttribute('hidden', 'until-found');
             content.cleanupListener = null;
         };
         content.cleanupListener = function(e) { if (e.propertyName === 'max-height') finishClose(); };
@@ -31523,7 +31531,7 @@ Hey Crowd 더
     });
   });
 });</text>
-      <sha1>nrzhf23f2jhv8kikrn7i2zlr9j4vskp</sha1>
+      <sha1>jo0l6o05fjsakj7ofbvbjkpf5bfzdg8</sha1>
     </revision>
   </page>
   <page>
@@ -70071,6 +70079,102 @@ LET IT BURN
 우린 이 창을 멈추지 않으리
 FADE OUT INTO THE VOID</text>
       <sha1>b6d7dwfclwh71rc0jkmsnb6vt0y6pic</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:NANA</title>
+    <ns>3200</ns>
+    <id>2224</id>
+    <revision>
+      <id>2475</id>
+      <timestamp>2026-07-07T06:51:06Z</timestamp>
+      <contributor>
+        <username>ㅇㅇ39</username>
+        <id>36</id>
+      </contributor>
+      <comment>새 문서: Where we land is all the same 어디에 도착해도 다 똑같아  Comfort feels a little safe 이 안락함이 조금은 편해  On the days I slipped away 미끄러지듯 멀어지던 날엔  I fell too far to even stay 머물 수도 없을 만큼 멀리 갔어  Circles leading back to you 돌고 돌아 결국 너에게  If you smile, yeahm maybe true 네가 웃는다면 진짜인 것 같아  I like how this moment moves 이 순간이 흘러가는 게 좋아  So I forget, and...</comment>
+      <origin>2475</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1767" sha1="4uizce9z01xfxg6w92apjnirszpaa87" xml:space="preserve">Where we land is all the same
+어디에 도착해도 다 똑같아
+
+Comfort feels a little safe
+이 안락함이 조금은 편해
+
+On the days I slipped away
+미끄러지듯 멀어지던 날엔
+
+I fell too far to even stay
+머물 수도 없을 만큼 멀리 갔어
+
+Circles leading back to you
+돌고 돌아 결국 너에게
+
+If you smile, yeahm maybe true
+네가 웃는다면 진짜인 것 같아
+
+I like how this moment moves
+이 순간이 흘러가는 게 좋아
+
+So I forget, and drift to new
+그래서 잊고 또 다른 곳으로 떠올라
+
+
+Even chances won't return...
+다시는 오지 않은 기회들...
+
+You made them all, let them burn...
+네가 전부 태워버렸어...
+
+I keep denying me...
+난 계속 나를 부정해...
+
+The version you want to see...
+네가 보고싶어 하던 나를...
+
+Just forget, stay close tonight...
+오늘 밤만은 잊어, 그냥 곁에 있어줘...
+
+Let it flow, in no need to try...
+애쓰지 말고 흐르게 둬...
+
+Where we land is all the same
+어디에 도착해도 다 같은 곳
+
+Comfort feels a little safe
+이 익숙함이 조금은 날 지켜줘
+
+I fell too far to even stay
+머물 수도 없을 만큼 멀리 와버렸는데도
+
+Still, I circle back your way
+난 또 너에게로 돌아가
+
+Please don't hate the way I am
+이런 나를 미워하지 말아줘
+
+I don't know why I can't pretend
+난 잘 꾸미는 법을 몰라
+
+I'm uneasy, fragile, calm
+불안하고, 쉽게 흔들리고, 조용한 나
+
+I'm sorry. I'm not who you want
+네가 원한 사람이 아니라서 미안해
+
+Is this not like me at all?
+이건 나답지 않은 모습이지?
+
+Nothing changes, nothing new
+아무것도 변하지 않은 채
+
+Always late, a beat too late
+항상 한 박자 늦게
+
+NANANANA NANANANA
+나나나나 나나나나</text>
+      <sha1>4uizce9z01xfxg6w92apjnirszpaa87</sha1>
     </revision>
   </page>
 </mediawiki>
