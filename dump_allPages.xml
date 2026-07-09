@@ -40608,21 +40608,24 @@ And I says "paid fucking tax tax tax tax tax"</text>
     <ns>0</ns>
     <id>828</id>
     <revision>
-      <id>1640</id>
-      <timestamp>2025-12-11T14:45:37Z</timestamp>
+      <id>2550</id>
+      <parentid>1640</parentid>
+      <timestamp>2026-07-09T10:13:32Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기</comment>
-      <origin>1640</origin>
+      <origin>2550</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="298" sha1="nsrctm23oy1gnjuaokdwrcl2tgy3tdm" xml:space="preserve">{{문서:창팝
-|유튜브Id=xHnW0ah53HE
+      <text bytes="398" sha1="14i9er38rlkejmw5uln0dan2tliinkl" xml:space="preserve">{{문서:창팝
+|유튜브Id=Dndv7fvuQ3I
 |제작자=TailloW
 |제작방법=Suno
 |수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+|공개일=2025-08-19
+|기타=삭제된 원본 영상 Id: xHnW0ah53HE
+|고화질썸네일없음=예
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -40631,7 +40634,7 @@ And I says "paid fucking tax tax tax tax tax"</text>
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>nsrctm23oy1gnjuaokdwrcl2tgy3tdm</sha1>
+      <sha1>14i9er38rlkejmw5uln0dan2tliinkl</sha1>
     </revision>
   </page>
   <page>
@@ -41495,21 +41498,24 @@ And I says "paid fucking tax tax tax tax tax"</text>
     <ns>0</ns>
     <id>856</id>
     <revision>
-      <id>1668</id>
-      <timestamp>2025-12-11T14:47:01Z</timestamp>
+      <id>2549</id>
+      <parentid>1668</parentid>
+      <timestamp>2026-07-09T10:12:40Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기</comment>
-      <origin>1668</origin>
+      <origin>2549</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="298" sha1="9m0el54w26q41jxeezxtw3x9vo1qsb0" xml:space="preserve">{{문서:창팝
-|유튜브Id=-RfMbikiV68
+      <text bytes="398" sha1="dkdv8y04awg8y8afo5gn0z00veget90" xml:space="preserve">{{문서:창팝
+|유튜브Id=MTICJmwvheM
 |제작자=TailloW
 |제작방법=Suno
 |수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+|공개일=2025-09-09
+|기타=삭제된 원본 영상 ID: -RfMbikiV68
+|고화질썸네일없음=예
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -41518,7 +41524,7 @@ And I says "paid fucking tax tax tax tax tax"</text>
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>9m0el54w26q41jxeezxtw3x9vo1qsb0</sha1>
+      <sha1>dkdv8y04awg8y8afo5gn0z00veget90</sha1>
     </revision>
   </page>
   <page>
@@ -41706,39 +41712,6 @@ And I says "paid fucking tax tax tax tax tax"</text>
 
 {{창팝 둘러보기}}</text>
       <sha1>25jlhs392q53wyvcafehl73k2fsyal8</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>不命者</title>
-    <ns>0</ns>
-    <id>863</id>
-    <revision>
-      <id>1675</id>
-      <timestamp>2025-12-11T14:47:23Z</timestamp>
-      <contributor>
-        <username>창팝위키</username>
-        <id>2</id>
-      </contributor>
-      <comment>일괄 가져오기</comment>
-      <origin>1675</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="347" sha1="lnf15hczxswnhhftddfyjuieiavzuag" xml:space="preserve">{{문서:창팝
-|유튜브Id=LYl20Ep96gc
-|제작자=π
-|수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
-|다른언어제목=The Long Goodbye
-|별명=불명자
-|곡명=不命者
-}}
-{{창팝 기본 개요}}
-&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
-
-== 가사 ==
-{{가사}}
-
-{{창팝 둘러보기}}</text>
-      <sha1>lnf15hczxswnhhftddfyjuieiavzuag</sha1>
     </revision>
   </page>
   <page>
@@ -41996,21 +41969,23 @@ And I says "paid fucking tax tax tax tax tax"</text>
     <ns>0</ns>
     <id>872</id>
     <revision>
-      <id>1684</id>
-      <timestamp>2025-12-11T14:48:00Z</timestamp>
+      <id>2551</id>
+      <parentid>1684</parentid>
+      <timestamp>2026-07-09T10:14:14Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기</comment>
-      <origin>1684</origin>
+      <origin>2551</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="298" sha1="opljshtsutttod4ze582inyjpre7o05" xml:space="preserve">{{문서:창팝
-|유튜브Id=H2nsBKPyEfA
+      <text bytes="368" sha1="tdordihswamx1lrvw7dodyymuttzlzx" xml:space="preserve">{{문서:창팝
+|유튜브Id=s7R2sSKm2LM
 |제작자=TailloW
 |제작방법=Suno
 |수록컵={{수록 창드컵|창드컵=추수감사컵 2025}}
+|공개일=2025-10-30
+|기타=삭제된 원본 영상 ID: H2nsBKPyEfA
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -42019,7 +41994,7 @@ And I says "paid fucking tax tax tax tax tax"</text>
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>opljshtsutttod4ze582inyjpre7o05</sha1>
+      <sha1>tdordihswamx1lrvw7dodyymuttzlzx</sha1>
     </revision>
   </page>
   <page>
@@ -70774,17 +70749,17 @@ return p</text>
     <ns>0</ns>
     <id>2241</id>
     <revision>
-      <id>2494</id>
-      <timestamp>2026-07-08T12:58:28Z</timestamp>
+      <id>2548</id>
+      <parentid>2494</parentid>
+      <timestamp>2026-07-09T10:04:00Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기 - 26 봄소풍,바캉스</comment>
-      <origin>2494</origin>
+      <origin>2548</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="312" sha1="6z7nirkxhx76g800bgpochflxin7coe" xml:space="preserve">{{문서:창팝
+      <text bytes="303" sha1="btj4qsb7b7pivqwkodx806oljjvwsvx" xml:space="preserve">{{문서:창팝
 |유튜브Id=eYffNOxr5Hc
 |제작자=리ᄉퟄᆫ좍
 |제작방법=Suno
@@ -70797,7 +70772,7 @@ return p</text>
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>6z7nirkxhx76g800bgpochflxin7coe</sha1>
+      <sha1>btj4qsb7b7pivqwkodx806oljjvwsvx</sha1>
     </revision>
   </page>
   <page>
@@ -71494,19 +71469,21 @@ return p</text>
     <ns>0</ns>
     <id>2264</id>
     <revision>
-      <id>2520</id>
-      <timestamp>2026-07-08T13:02:41Z</timestamp>
+      <id>2556</id>
+      <parentid>2520</parentid>
+      <timestamp>2026-07-09T11:55:18Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기 - 26 봄소풍,바캉스</comment>
-      <origin>2520</origin>
+      <minor/>
+      <origin>2556</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="300" sha1="4zz54s1c4kqb8g08at519tb65mrnwlu" xml:space="preserve">{{문서:창팝
+      <text bytes="325" sha1="gq8pthkaaf7svers6s119axissi3vtl" xml:space="preserve">{{문서:창팝
 |유튜브Id=GaxLvc0IRcI
 |제작자=하얀 설
+|화자=카링&amp;오르카
 |수록컵={{수록 창드컵|창드컵=바캉스컵 2026}}
 |곡명=오아시스
 }}
@@ -71517,7 +71494,7 @@ return p</text>
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>4zz54s1c4kqb8g08at519tb65mrnwlu</sha1>
+      <sha1>gq8pthkaaf7svers6s119axissi3vtl</sha1>
     </revision>
   </page>
   <page>
