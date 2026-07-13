@@ -66183,19 +66183,21 @@ Just a dream that slips away
     <ns>3200</ns>
     <id>2120</id>
     <revision>
-      <id>2355</id>
-      <timestamp>2026-06-10T16:43:12Z</timestamp>
+      <id>2559</id>
+      <parentid>2558</parentid>
+      <timestamp>2026-07-13T05:55:11Z</timestamp>
       <contributor>
-        <username>ㅇㅇ39</username>
-        <id>36</id>
+        <username>Altfluegel</username>
+        <id>37</id>
       </contributor>
-      <comment>새 문서: 뭘 해도 짜치는 게임   고민해 내일 돈벌이를  짜치는 데이터 더미  이게 과연 돈이 될까?  이제 나랑 알아볼까?  좀 환전해라 네 돈 메소마켓  칩 쥐어줄테니 분수에 맞게  내가 한탕 할 때 잘 나간 BJ  눈 감아줄게  제발 걸리지 않게  뭐, 첫 걸음마엔  뭐든 삐끗하지, 아무렴  손 뻗어 여기에 닿아  돈 벌어 두 손 모아  내가 바라는 메이플 바로  (Luxury Luxury)  Balenciaga, Pra...</comment>
-      <origin>2355</origin>
+      <minor/>
+      <comment>[넌 쌀 팔아 벌어 이득 -&gt; 넌 쌀 팔아 쌀 벌어 이득] 탈자 수정</comment>
+      <origin>2559</origin>
       <model>text</model>
       <format>text/plain</format>
-      <text bytes="2013" sha1="04f50ih5v64al5a3lizl2znlsw2uxv5" xml:space="preserve">뭘 해도 짜치는 게임 
+      <text bytes="2017" sha1="sfze5istkp5f8qtngw4dhcd0vbzodoa" xml:space="preserve">뭘 해도 짜치는 게임 
 
-고민해 내일 돈벌이를
+고민해 매일 돈벌이를
 
 짜치는 데이터 더미
 
@@ -66311,7 +66313,7 @@ Data 박아 네 Paypal
 
 넌 쌀 
 
-팔아 벌어 이득
+팔아 쌀 벌어 이득
 
 난 날 
 
@@ -66346,7 +66348,7 @@ Limited Pixel
 Data 박아 네 Paypal
 
 (Luxury)(Luxury)(Luxury)</text>
-      <sha1>04f50ih5v64al5a3lizl2znlsw2uxv5</sha1>
+      <sha1>sfze5istkp5f8qtngw4dhcd0vbzodoa</sha1>
     </revision>
   </page>
   <page>
@@ -70070,17 +70072,19 @@ FADE OUT INTO THE VOID</text>
     <ns>3200</ns>
     <id>2224</id>
     <revision>
-      <id>2475</id>
-      <timestamp>2026-07-07T06:51:06Z</timestamp>
+      <id>2557</id>
+      <parentid>2475</parentid>
+      <timestamp>2026-07-13T05:20:03Z</timestamp>
       <contributor>
-        <username>ㅇㅇ39</username>
-        <id>36</id>
+        <username>Altfluegel</username>
+        <id>37</id>
       </contributor>
-      <comment>새 문서: Where we land is all the same 어디에 도착해도 다 똑같아  Comfort feels a little safe 이 안락함이 조금은 편해  On the days I slipped away 미끄러지듯 멀어지던 날엔  I fell too far to even stay 머물 수도 없을 만큼 멀리 갔어  Circles leading back to you 돌고 돌아 결국 너에게  If you smile, yeahm maybe true 네가 웃는다면 진짜인 것 같아  I like how this moment moves 이 순간이 흘러가는 게 좋아  So I forget, and...</comment>
-      <origin>2475</origin>
+      <minor/>
+      <comment>[yeahm -&gt; yeah,] 오타수정</comment>
+      <origin>2557</origin>
       <model>text</model>
       <format>text/plain</format>
-      <text bytes="1767" sha1="4uizce9z01xfxg6w92apjnirszpaa87" xml:space="preserve">Where we land is all the same
+      <text bytes="1767" sha1="qbfhqlkzzee4ytep177v9ivsrewi59h" xml:space="preserve">Where we land is all the same
 어디에 도착해도 다 똑같아
 
 Comfort feels a little safe
@@ -70095,7 +70099,7 @@ I fell too far to even stay
 Circles leading back to you
 돌고 돌아 결국 너에게
 
-If you smile, yeahm maybe true
+If you smile, yeah, maybe true
 네가 웃는다면 진짜인 것 같아
 
 I like how this moment moves
@@ -70158,7 +70162,7 @@ Always late, a beat too late
 
 NANANANA NANANANA
 나나나나 나나나나</text>
-      <sha1>4uizce9z01xfxg6w92apjnirszpaa87</sha1>
+      <sha1>qbfhqlkzzee4ytep177v9ivsrewi59h</sha1>
     </revision>
   </page>
   <page>
@@ -72140,6 +72144,81 @@ return p</text>
 }}
 [[분류:창드컵 수록곡]]</text>
       <sha1>jzrnpehe72knep8anmntk68a4iknp1r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:Ailasing</title>
+    <ns>3200</ns>
+    <id>2287</id>
+    <revision>
+      <id>2560</id>
+      <timestamp>2026-07-13T06:24:09Z</timestamp>
+      <contributor>
+        <username>Altfluegel</username>
+        <id>37</id>
+      </contributor>
+      <comment>새 문서: 빛나는 별 사이로 끝이 없는 굴레 속에서 나를 바라본 새로운 신비로운 어둠의 거래  oh it's a beautiful odd dream 사람 없는 이들의 미래 없는 앞길 속에서 oh it's a beautiful odd dream 난 사랑하지 않을래 영원하지 않은 미래를  같은 꿈을 꾸면서 이해할 수 없는 신호로 상식과 다른 내용 다차원의 문법을 뿌려 위태로운 모래성들은 어둠의 구멍으로 사라질 테니  oh it's a beautifu...</comment>
+      <origin>2560</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1394" sha1="8hs15ce7n5okbvl5ru0tgytkt5fkv53" xml:space="preserve">빛나는 별 사이로
+끝이 없는 굴레 속에서
+나를 바라본 새로운
+신비로운 어둠의 거래
+
+oh it's a beautiful odd dream
+사람 없는 이들의
+미래 없는 앞길 속에서
+oh it's a beautiful odd dream
+난 사랑하지 않을래
+영원하지 않은 미래를
+
+같은 꿈을 꾸면서
+이해할 수 없는 신호로
+상식과 다른 내용
+다차원의 문법을 뿌려
+위태로운 모래성들은
+어둠의 구멍으로 사라질 테니
+
+oh it's a beautiful odd dream
+사람 없는 이들의
+미래 없는 앞길 속에서
+oh it's a beautiful odd dream
+난 사랑하지 않을래
+영원하지 않은 미래를
+
+이해하려 할수록 멀어지는 그 맘
+투명한 유리 너머
+우릴 향해 손짓하는 걸
+다른 물감으로 그려진 그림
+섞일 수 없는 두 개의 삶과 사이
+멀어지는 차원의 고리
+
+Static transmission starts
+the transient and trance
+Synthetic systems
+scripting silent statutes
+Too sell the 'Self', to sell the 'Soul'
+and 'Ssal', inside a static 'Cell'
+Such transient tales
+for temporal treasures told
+The ceaseless synthesis, 
+it takes its silents toll
+A spectral story...
+on a screen...
+forever scrolled
+
+oh it's a beautiful odd dream
+사람 없는 이들의
+미래 없는 앞길 속에서
+oh it's a beautiful odd dream
+난 사랑하지 않을래
+영원하지 않은 미래를
+
+how beautiful dream
+or just a nightmare
+Ailasing</text>
+      <sha1>8hs15ce7n5okbvl5ru0tgytkt5fkv53</sha1>
     </revision>
   </page>
 </mediawiki>
