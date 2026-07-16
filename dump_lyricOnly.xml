@@ -25027,18 +25027,17 @@ GOD Never! (ever!) GOD Never! (ever!)
     <ns>3200</ns>
     <id>2081</id>
     <revision>
-      <id>2290</id>
-      <parentid>2283</parentid>
-      <timestamp>2026-05-27T08:19:27Z</timestamp>
+      <id>2561</id>
+      <parentid>2290</parentid>
+      <timestamp>2026-07-16T00:11:38Z</timestamp>
       <contributor>
-        <username>하얀 설</username>
-        <id>32</id>
+        <username>ㅇㅇ49</username>
+        <id>38</id>
       </contributor>
-      <comment>가사수정</comment>
-      <origin>2290</origin>
+      <origin>2561</origin>
       <model>text</model>
       <format>text/plain</format>
-      <text bytes="2256" sha1="7rnjbag45fd5qhwae05nbn5qczllaj7" xml:space="preserve">메이플 대학을 다니면 인생이 달라져!
+      <text bytes="2309" sha1="ov2o65dy3yysk0oag9e4jejllqp0gyu" xml:space="preserve">메이플 대학을 다니면 인생이 달라져!
 
 원숭이들 갱생 위해 열어준 대학교
 
@@ -25053,6 +25052,8 @@ GOD Never! (ever!) GOD Never! (ever!)
 스펙업은 쑥쑥, 선물들은 꾹꾹 담아와!
 
 매순간이 둥둥, 기대되는 메이플 대학!
+
+메소 값이 쭉쭉 올라가는 메이플 대학!
 
 Come on MAPLE UNIVERSITY!
 
@@ -25151,7 +25152,7 @@ Come on MAPLE UNIVERSITY!
 
 
 Come on MAPLE UNIVERSITY!</text>
-      <sha1>7rnjbag45fd5qhwae05nbn5qczllaj7</sha1>
+      <sha1>ov2o65dy3yysk0oag9e4jejllqp0gyu</sha1>
     </revision>
   </page>
   <page>
