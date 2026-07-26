@@ -3,7 +3,7 @@
     <sitename>창팝위키</sitename>
     <dbname>changpopwiki</dbname>
     <base>https://changpop.wiki/</base>
-    <generator>MediaWiki 1.44.0</generator>
+    <generator>MediaWiki 1.46.0</generator>
     <case>first-letter</case>
     <namespaces>
       <namespace key="-2" case="first-letter">미디어</namespace>
@@ -737,18 +737,18 @@ a {
     <ns>4</ns>
     <id>12</id>
     <revision>
-      <id>2032</id>
-      <parentid>2031</parentid>
-      <timestamp>2026-04-02T10:06:04Z</timestamp>
+      <id>2731</id>
+      <parentid>2729</parentid>
+      <timestamp>2026-07-26T16:22:24Z</timestamp>
       <contributor>
-        <username>ㅇㅇ8</username>
-        <id>24</id>
+        <username>ㅇㅇ53</username>
+        <id>40</id>
       </contributor>
-      <comment>/* 건?의?사항 */</comment>
-      <origin>2032</origin>
+      <comment>/* 7월 27일 오전 1:15 서버 이전 완료 */ 답변</comment>
+      <origin>2731</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="5285" sha1="a1s4f1aqfzgndt0ws2wmiyi81ukkxdy" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
+      <text bytes="5859" sha1="qur99a1q9jk18jz7bkfdvp3sr12s2tm" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
 __새문단쓰기__
 [[분류:창팝위키]]
 {{창팝위키 둘러보기}}
@@ -794,8 +794,16 @@ __새문단쓰기__
 일단은 선착장 항목이 일종의 자유 게시판(나무위키의 그루터기) 비슷한 역할이라고 보아 건의도 여기 남겼는데, 혹시 다른 창구가 있다면 알려주시면 감사하겠습니다.&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:리부트는벌레가돼집안에갇혔어|리부트는벌레가돼집안에갇혔어]] ([[사용자토론:리부트는벌레가돼집안에갇혔어|토론]])&lt;/span&gt; 2025년 6월 19일 (목) 19:43 (KST)
 
 :지금은 선착장이 통합 창구 맞아요. 잘 찾아오셨습니다.
-:단독 가사 문서를 직접 볼 경우는 따로 생각하지 않았는데 일단 바꿀 수 있게 소도구에 추가했습니다. ('환경 설정 → 소도구'에서 활성화 가능)&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 6월 20일 (금) 01:27 (KST)</text>
-      <sha1>a1s4f1aqfzgndt0ws2wmiyi81ukkxdy</sha1>
+:단독 가사 문서를 직접 볼 경우는 따로 생각하지 않았는데 일단 바꿀 수 있게 소도구에 추가했습니다. ('환경 설정 → 소도구'에서 활성화 가능)&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 6월 20일 (금) 01:27 (KST)
+
+== 7월 27일 오전 1:15 서버 이전 완료 ==
+
+창팝위키 서버 이전 및 미디어위키 버전 업그레이드가 완료되었습니다.
+
+전에 없던 문제가 발생한 경우 답글로 제보해주세요.&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2026년 7월 27일 (월) 01:19 (KST)
+
+:비로그인 답글 테스트&lt;br&gt;&lt;span class="signature-message"&gt;— [[특수:기여/ㅇㅇ53|ㅇㅇ53]] ([[사용자토론:ㅇㅇ53|토론]])&lt;/span&gt; 2026년 7월 27일 (월) 01:22 (KST)</text>
+      <sha1>qur99a1q9jk18jz7bkfdvp3sr12s2tm</sha1>
     </revision>
   </page>
   <page>
@@ -2481,19 +2489,18 @@ break = no
     <ns>8</ns>
     <id>64</id>
     <revision>
-      <id>2472</id>
-      <parentid>1118</parentid>
-      <timestamp>2026-07-02T09:30:58Z</timestamp>
+      <id>2730</id>
+      <parentid>2728</parentid>
+      <timestamp>2026-07-26T16:21:02Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>문서를 비움</comment>
-      <origin>2472</origin>
+      <origin>2730</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
-      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+      <text bytes="280" sha1="a0i0ml5qoj1geldtu16lddpzk2h1n3c" xml:space="preserve">창팝위키 서버 이전 완료 [https://changpop.wiki/%EC%B0%BD%ED%8C%9D%EC%9C%84%ED%82%A4:%EC%84%A0%EC%B0%A9%EC%9E%A5#c-%EC%B0%BD%ED%8C%9D%EC%9C%84%ED%82%A4-20260726161900-7%EC%9B%94_27%EC%9D%BC_%EC%98%A4%EC%A0%84_1:15_%EC%84%9C%EB%B2%84_%EC%9D%B4%EC%A0%84_%EC%99%84%EB%A3%8C]</text>
+      <sha1>a0i0ml5qoj1geldtu16lddpzk2h1n3c</sha1>
     </revision>
   </page>
   <page>
