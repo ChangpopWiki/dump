@@ -1,10 +1,6 @@
 # 창팝위키 페이지 백업
 
-매일 05:55:55에 해당 시점의 모든 페이지를 자동 백업합니다.
-
 * 모든 페이지: [dump_allPages.xml](./dump_allPages.xml)
 * 모든 가사: [dump_lyricOnly.xml](./dump_lyricOnly.xml)
 
-## 정보
-
-* [미디어위키 dumpBackup.php 매뉴얼](https://www.mediawiki.org/wiki/Manual:DumpBackup.php)
+백업 생성은 [ChangpopWiki/wiki](https://github.com/ChangpopWiki/wiki) 리포지토리의 backup 서비스가 수행합니다. 
