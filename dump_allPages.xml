@@ -2489,18 +2489,19 @@ break = no
     <ns>8</ns>
     <id>64</id>
     <revision>
-      <id>2730</id>
-      <parentid>2728</parentid>
-      <timestamp>2026-07-26T16:21:02Z</timestamp>
+      <id>2794</id>
+      <parentid>2730</parentid>
+      <timestamp>2026-08-13T12:48:03Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>2730</origin>
+      <comment>문서를 비움</comment>
+      <origin>2794</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="280" sha1="a0i0ml5qoj1geldtu16lddpzk2h1n3c" xml:space="preserve">창팝위키 서버 이전 완료 [https://changpop.wiki/%EC%B0%BD%ED%8C%9D%EC%9C%84%ED%82%A4:%EC%84%A0%EC%B0%A9%EC%9E%A5#c-%EC%B0%BD%ED%8C%9D%EC%9C%84%ED%82%A4-20260726161900-7%EC%9B%94_27%EC%9D%BC_%EC%98%A4%EC%A0%84_1:15_%EC%84%9C%EB%B2%84_%EC%9D%B4%EC%A0%84_%EC%99%84%EB%A3%8C]</text>
-      <sha1>a0i0ml5qoj1geldtu16lddpzk2h1n3c</sha1>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
     </revision>
   </page>
   <page>
@@ -55692,22 +55693,21 @@ NPC 취급한 세상에 욕은 을어
     <ns>0</ns>
     <id>1361</id>
     <revision>
-      <id>2112</id>
-      <parentid>2072</parentid>
-      <timestamp>2026-04-12T06:41:10Z</timestamp>
+      <id>2789</id>
+      <parentid>2112</parentid>
+      <timestamp>2026-08-13T12:27:17Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <origin>2112</origin>
+      <origin>2789</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="359" sha1="gxu20s44940358pami88kbyc7f9u245" xml:space="preserve">{{문서:창팝
+      <text bytes="372" sha1="0yqhzlcpd2rn1tsomhmvfx26yfk1pio" xml:space="preserve">{{문서:창팝
 |유튜브Id=YbW3fCyAOJQ
 |제작자=리플족
 |개사여부=아니오
-|수록컵={{수록 창드컵
+|이전수록컵={{이전 수록 창드컵
 |창드컵=2025년 5편
 }}
 |곡명=Stars don't cry
@@ -55720,7 +55720,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>gxu20s44940358pami88kbyc7f9u245</sha1>
+      <sha1>0yqhzlcpd2rn1tsomhmvfx26yfk1pio</sha1>
     </revision>
   </page>
   <page>
@@ -55799,21 +55799,21 @@ NPC 취급한 세상에 욕은 을어
     <ns>0</ns>
     <id>1364</id>
     <revision>
-      <id>2115</id>
-      <parentid>2114</parentid>
-      <timestamp>2026-04-12T06:43:09Z</timestamp>
+      <id>2785</id>
+      <parentid>2780</parentid>
+      <timestamp>2026-08-13T12:25:06Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>2115</origin>
+      <origin>2785</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="371" sha1="ay39tv3f0caljjolhx8w1vr25thfyus" xml:space="preserve">{{문서:창팝
+      <text bytes="384" sha1="touahp1ma8yqko5hn4k68x8h3uoe9lq" xml:space="preserve">{{문서:창팝
 |유튜브Id=ldRPOcPJZNo
 |제작자=상추토끼
 |개사여부=아니오
-|수록컵={{수록 창드컵
+|이전수록컵={{이전 수록 창드컵
 |창드컵=2025년 5편
 }}
 |다른언어제목=안녕해적
@@ -55826,7 +55826,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>ay39tv3f0caljjolhx8w1vr25thfyus</sha1>
+      <sha1>touahp1ma8yqko5hn4k68x8h3uoe9lq</sha1>
     </revision>
   </page>
   <page>
@@ -55937,21 +55937,23 @@ NPC 취급한 세상에 욕은 을어
     <ns>0</ns>
     <id>1368</id>
     <revision>
-      <id>2119</id>
-      <parentid>2118</parentid>
-      <timestamp>2026-04-12T06:45:56Z</timestamp>
+      <id>2783</id>
+      <parentid>2119</parentid>
+      <timestamp>2026-08-13T12:24:46Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>2119</origin>
+      <origin>2783</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="370" sha1="6maqwd70s1lrtamkztasbh1pet2idmg" xml:space="preserve">{{문서:창팝
+      <text bytes="435" sha1="k19ngl2ifvs490mpuhaqv3u9uzvceoz" xml:space="preserve">{{문서:창팝
 |유튜브Id=qqqL5nKpc3k
 |제작자=리데오
 |개사여부=아니오
-|수록컵={{수록 창드컵
+|이전수록컵={{이전 수록 창드컵
+|창드컵=2024년 5편
+}}{{이전 수록 창드컵
 |창드컵=2025년 5편
 }}
 |다른언어제목=Record of Year
@@ -55964,7 +55966,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>6maqwd70s1lrtamkztasbh1pet2idmg</sha1>
+      <sha1>k19ngl2ifvs490mpuhaqv3u9uzvceoz</sha1>
     </revision>
   </page>
   <page>
@@ -56223,22 +56225,21 @@ NPC 취급한 세상에 욕은 을어
     <ns>0</ns>
     <id>1376</id>
     <revision>
-      <id>2126</id>
-      <parentid>2125</parentid>
-      <timestamp>2026-04-12T06:52:07Z</timestamp>
+      <id>2787</id>
+      <parentid>2126</parentid>
+      <timestamp>2026-08-13T12:25:27Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <origin>2126</origin>
+      <origin>2787</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="356" sha1="dr1qypdp3ocjckdujkhj7qxd85ieovj" xml:space="preserve">{{문서:창팝
+      <text bytes="369" sha1="jjlh4we295vmi0wymcfa480dkzpjpla" xml:space="preserve">{{문서:창팝
 |유튜브Id=xUlbL02Lf10
 |제작자=리스항르
 |개사여부=아니오
-|수록컵={{수록 창드컵
+|이전수록컵={{이전 수록 창드컵
 |창드컵=2025년 5편
 }}
 |화자=메벤남
@@ -56251,7 +56252,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>dr1qypdp3ocjckdujkhj7qxd85ieovj</sha1>
+      <sha1>jjlh4we295vmi0wymcfa480dkzpjpla</sha1>
     </revision>
   </page>
   <page>
@@ -56399,21 +56400,21 @@ NPC 취급한 세상에 욕은 을어
     <ns>0</ns>
     <id>1381</id>
     <revision>
-      <id>2105</id>
-      <parentid>2093</parentid>
-      <timestamp>2026-04-11T15:00:29Z</timestamp>
+      <id>2786</id>
+      <parentid>2781</parentid>
+      <timestamp>2026-08-13T12:25:15Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>2105</origin>
+      <origin>2786</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="341" sha1="coqantkm1kshz8hqljmhazlpvvo60bx" xml:space="preserve">{{문서:창팝
+      <text bytes="354" sha1="suwhn6zbn1zyh8cscwf3kkw1rmpofh9" xml:space="preserve">{{문서:창팝
 |유튜브Id=QmoqUv2_AVc
 |제작자=라이프라인
 |개사여부=아니오
-|수록컵={{수록 창드컵
+|이전수록컵={{이전 수록 창드컵
 |창드컵=2025년 5편
 }}
 |고화질썸네일없음=아니오
@@ -56425,7 +56426,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>coqantkm1kshz8hqljmhazlpvvo60bx</sha1>
+      <sha1>suwhn6zbn1zyh8cscwf3kkw1rmpofh9</sha1>
     </revision>
   </page>
   <page>
@@ -56570,21 +56571,21 @@ NPC 취급한 세상에 욕은 을어
     <ns>0</ns>
     <id>1386</id>
     <revision>
-      <id>2099</id>
-      <timestamp>2026-04-11T14:56:49Z</timestamp>
+      <id>2791</id>
+      <parentid>2782</parentid>
+      <timestamp>2026-08-13T12:28:24Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=3TcdbJ1aTqc |제작자=렌슝좍 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 5편 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
-      <origin>2099</origin>
+      <origin>2791</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="335" sha1="ht63gn74nw7djk7yw6n7q486fv2hoqj" xml:space="preserve">{{문서:창팝
+      <text bytes="348" sha1="i48bks3fl14h7poelxeh9tnoa4n6cy4" xml:space="preserve">{{문서:창팝
 |유튜브Id=3TcdbJ1aTqc
 |제작자=렌슝좍
 |개사여부=아니오
-|수록컵={{수록 창드컵
+|이전수록컵={{이전 수록 창드컵
 |창드컵=2025년 5편
 }}
 |고화질썸네일없음=아니오
@@ -56596,7 +56597,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>ht63gn74nw7djk7yw6n7q486fv2hoqj</sha1>
+      <sha1>i48bks3fl14h7poelxeh9tnoa4n6cy4</sha1>
     </revision>
   </page>
   <page>
@@ -56638,21 +56639,21 @@ NPC 취급한 세상에 욕은 을어
     <ns>0</ns>
     <id>1388</id>
     <revision>
-      <id>2101</id>
-      <timestamp>2026-04-11T14:57:50Z</timestamp>
+      <id>2784</id>
+      <parentid>2779</parentid>
+      <timestamp>2026-08-13T12:24:56Z</timestamp>
       <contributor>
-        <username>Rgr</username>
-        <id>25</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창팝 |유튜브Id=Rb7n3drgUqQ |제작자=다하카 |개사여부=아니오 |수록컵={{수록 창드컵 |창드컵=2025년 5편 }} |고화질썸네일없음=아니오 }} {{창팝 기본 개요}}  &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;    == 가사 ==  {{가사}}    {{창팝 둘러보기}}</comment>
-      <origin>2101</origin>
+      <origin>2784</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="335" sha1="e57l214tcnt0jk50rqgidg79x2sf3pc" xml:space="preserve">{{문서:창팝
+      <text bytes="348" sha1="k9tjjuxgiqzzywgm2odxhyy96psz3um" xml:space="preserve">{{문서:창팝
 |유튜브Id=Rb7n3drgUqQ
 |제작자=다하카
 |개사여부=아니오
-|수록컵={{수록 창드컵
+|이전수록컵={{이전 수록 창드컵
 |창드컵=2025년 5편
 }}
 |고화질썸네일없음=아니오
@@ -56664,7 +56665,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>e57l214tcnt0jk50rqgidg79x2sf3pc</sha1>
+      <sha1>k9tjjuxgiqzzywgm2odxhyy96psz3um</sha1>
     </revision>
   </page>
   <page>
@@ -56706,22 +56707,22 @@ NPC 취급한 세상에 욕은 을어
     <ns>0</ns>
     <id>1390</id>
     <revision>
-      <id>2129</id>
-      <parentid>2104</parentid>
-      <timestamp>2026-04-12T06:54:57Z</timestamp>
+      <id>2788</id>
+      <parentid>2129</parentid>
+      <timestamp>2026-08-13T12:25:41Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>2129</origin>
+      <origin>2788</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="416" sha1="kyyemxul94lefcg628hit3yft8t39p8" xml:space="preserve">{{문서:창팝
+      <text bytes="429" sha1="73bglffpf68p0s1ia095jm4fvpcua1d" xml:space="preserve">{{문서:창팝
 |유튜브Id=JWSPvRML9yQ
 |제작자=이단아
 |공동제작자=상추토끼, 창팝용, 캡펠, 음악으로세상을정상화
 |개사여부=아니오
-|수록컵={{수록 창드컵
+|이전수록컵={{이전 수록 창드컵
 |창드컵=2025년 5편
 }}
 |고화질썸네일없음=아니오
@@ -56733,7 +56734,7 @@ NPC 취급한 세상에 욕은 을어
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>kyyemxul94lefcg628hit3yft8t39p8</sha1>
+      <sha1>73bglffpf68p0s1ia095jm4fvpcua1d</sha1>
     </revision>
   </page>
   <page>
@@ -71008,20 +71009,21 @@ return p</text>
     <ns>0</ns>
     <id>2249</id>
     <revision>
-      <id>2503</id>
-      <timestamp>2026-07-08T12:59:52Z</timestamp>
+      <id>2775</id>
+      <parentid>2503</parentid>
+      <timestamp>2026-08-13T12:20:16Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기 - 26 봄소풍,바캉스</comment>
-      <origin>2503</origin>
+      <comment>26-3 수록정보 추가</comment>
+      <origin>2775</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="278" sha1="6lxw0c1e69ke6gyezpmb5z54mnu8mnc" xml:space="preserve">{{문서:창팝
+      <text bytes="342" sha1="on4gqsvszhr7nfotlus7soy3lre7hsp" xml:space="preserve">{{문서:창팝
 |유튜브Id=tbelrluxnNc
 |제작자=체포낙
-|수록컵={{수록 창드컵|창드컵=바캉스컵 2026}}
+|수록컵={{수록 창드컵|창드컵=바캉스컵 2026}}{{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -71030,7 +71032,7 @@ return p</text>
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>6lxw0c1e69ke6gyezpmb5z54mnu8mnc</sha1>
+      <sha1>on4gqsvszhr7nfotlus7soy3lre7hsp</sha1>
     </revision>
   </page>
   <page>
@@ -71734,20 +71736,20 @@ return p</text>
     <ns>0</ns>
     <id>2272</id>
     <revision>
-      <id>2530</id>
-      <timestamp>2026-07-08T13:05:04Z</timestamp>
+      <id>2790</id>
+      <parentid>2530</parentid>
+      <timestamp>2026-08-13T12:28:00Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기 - 26 봄소풍,바캉스</comment>
-      <origin>2530</origin>
+      <origin>2790</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="278" sha1="d57ak7ahismt35bmbkwurcg4u5k3g59" xml:space="preserve">{{문서:창팝
+      <text bytes="321" sha1="dpxxcoakek7472ztetvcd1jymts7vmy" xml:space="preserve">{{문서:창팝
 |유튜브Id=6TAL-Jl39Jk
 |제작자=리플족
-|수록컵={{수록 창드컵|창드컵=봄소풍컵 2026}}
+|수록컵={{수록 창드컵|창드컵=봄소풍컵 2026}}{{수록 창드컵|창드컵=2025년 5편}}
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -71756,7 +71758,7 @@ return p</text>
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>d57ak7ahismt35bmbkwurcg4u5k3g59</sha1>
+      <sha1>dpxxcoakek7472ztetvcd1jymts7vmy</sha1>
     </revision>
   </page>
   <page>
@@ -84211,6 +84213,1307 @@ Oh
       <format>text/x-wiki</format>
       <text bytes="65" sha1="1qhizpzi4pi5he87hnwgj9gjpad2x5q" xml:space="preserve">{{문서:월별 최초공개 릴레이 아카이브|월=2026-08}}</text>
       <sha1>1qhizpzi4pi5he87hnwgj9gjpad2x5q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Just take it boss</title>
+    <ns>0</ns>
+    <id>2455</id>
+    <revision>
+      <id>2736</id>
+      <timestamp>2026-08-13T12:17:13Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2736</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="fe8imdolcyez1esmgv8jplvxwhuelw0" xml:space="preserve">{{문서:창팝
+|유튜브Id=GznNgL6yXsI
+|제작자=선율족
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>fe8imdolcyez1esmgv8jplvxwhuelw0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>징징대지마</title>
+    <ns>0</ns>
+    <id>2456</id>
+    <revision>
+      <id>2737</id>
+      <timestamp>2026-08-13T12:17:13Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2737</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="6e8300iehm2wmy6y78t6oobqwqe2cwo" xml:space="preserve">{{문서:창팝
+|유튜브Id=ydMpx1l0geA
+|제작자=낙서장
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>6e8300iehm2wmy6y78t6oobqwqe2cwo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>연향</title>
+    <ns>0</ns>
+    <id>2457</id>
+    <revision>
+      <id>2738</id>
+      <timestamp>2026-08-13T12:17:23Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2738</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="321" sha1="ms1swv19tj6yb89ka0ft6yltcr11skb" xml:space="preserve">{{문서:창팝
+|유튜브Id=tUnaP4aVcsI
+|제작자=마슝좍
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+|다른언어제목=連響
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ms1swv19tj6yb89ka0ft6yltcr11skb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>더보기 그랑프리</title>
+    <ns>0</ns>
+    <id>2458</id>
+    <revision>
+      <id>2739</id>
+      <timestamp>2026-08-13T12:17:25Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2739</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="316" sha1="bsk1tkqvbt6hdstkz4u8nalqykscp6a" xml:space="preserve">{{문서:창팝
+|유튜브Id=3bF7aQ3jxVw
+|제작자=메벤남
+|공동제작자=DUre
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>bsk1tkqvbt6hdstkz4u8nalqykscp6a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>건강해지고 있다는거임</title>
+    <ns>0</ns>
+    <id>2459</id>
+    <revision>
+      <id>2740</id>
+      <timestamp>2026-08-13T12:17:25Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2740</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="tew3gb0g3cci3fuj3n6hi38ug6al697" xml:space="preserve">{{문서:창팝
+|유튜브Id=hIBeCPhrlEs
+|제작자=머미슝좍
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>tew3gb0g3cci3fuj3n6hi38ug6al697</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>이봐요 리선족, 아니 슝좍씨 ㅡㅡ^^</title>
+    <ns>0</ns>
+    <id>2460</id>
+    <revision>
+      <id>2741</id>
+      <timestamp>2026-08-13T12:17:25Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2741</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="291" sha1="d3exnc4eg22pomnohmpdeojkab4n2ev" xml:space="preserve">{{문서:창팝
+|유튜브Id=1p6vrl-BNeg
+|제작자=리반
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>d3exnc4eg22pomnohmpdeojkab4n2ev</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>RUN TO YOU</title>
+    <ns>0</ns>
+    <id>2461</id>
+    <revision>
+      <id>2742</id>
+      <timestamp>2026-08-13T12:17:26Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2742</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="337" sha1="nf2bytzc9t7aes48lfcs9grn62ann6a" xml:space="preserve">{{문서:창팝
+|유튜브Id=UGAdShDh2_Q
+|제작자=X슝좍
+|공동제작자=나는아무것도몰라요
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>nf2bytzc9t7aes48lfcs9grn62ann6a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>신창섭 또 일냈다! 자석펫 무료로 얻는 법 3분 요약.</title>
+    <ns>0</ns>
+    <id>2462</id>
+    <revision>
+      <id>2743</id>
+      <timestamp>2026-08-13T12:17:27Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2743</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="8xs7869ck64xypaglay0flz5z4tlpd8" xml:space="preserve">{{문서:창팝
+|유튜브Id=nYyZKtwxfMs
+|제작자=낙서장
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>8xs7869ck64xypaglay0flz5z4tlpd8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>모나리자</title>
+    <ns>0</ns>
+    <id>2463</id>
+    <revision>
+      <id>2744</id>
+      <timestamp>2026-08-13T12:17:28Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2744</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="gk1ibtmsgsg82sv3f0akkjj9bukx8y2" xml:space="preserve">{{문서:창팝
+|유튜브Id=8RGIZ3DxXdI
+|제작자=체포낙
+|화자=신창섭
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>gk1ibtmsgsg82sv3f0akkjj9bukx8y2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Be a Sister</title>
+    <ns>0</ns>
+    <id>2464</id>
+    <revision>
+      <id>2745</id>
+      <timestamp>2026-08-13T12:17:29Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2745</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="3vgsjitwpi7vy93b1f0uxh0avlpiyob" xml:space="preserve">{{문서:창팝
+|유튜브Id=9U-8obT6qdM
+|제작자=독슝좍
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>3vgsjitwpi7vy93b1f0uxh0avlpiyob</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>신 김 치</title>
+    <ns>0</ns>
+    <id>2465</id>
+    <revision>
+      <id>2746</id>
+      <timestamp>2026-08-13T12:17:30Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2746</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="340" sha1="6o6dqyidh3yco6lq2xuivm2mcgjobes" xml:space="preserve">{{문서:창팝
+|유튜브Id=pu54n6Wtvgo
+|제작자=물통도정
+|화자=김창 워리어
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+|별명=신김치
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>6o6dqyidh3yco6lq2xuivm2mcgjobes</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>하얀 까만</title>
+    <ns>0</ns>
+    <id>2466</id>
+    <revision>
+      <id>2747</id>
+      <timestamp>2026-08-13T12:17:31Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2747</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="311" sha1="ni2abs7m1efnhxpcea4osbtaxk4hkid" xml:space="preserve">{{문서:창팝
+|유튜브Id=CoGksVpkbgY
+|제작자=라이프라인
+|수록컵={{수록 창드컵|창드컵=2025년 5편}}
+|다른언어제목=White Black
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>ni2abs7m1efnhxpcea4osbtaxk4hkid</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dr.SHIN</title>
+    <ns>0</ns>
+    <id>2467</id>
+    <revision>
+      <id>2748</id>
+      <timestamp>2026-08-13T12:17:32Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2748</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="353" sha1="op7nobpmh71t4sb7u142elror7apgfg" xml:space="preserve">{{문서:창팝
+|유튜브Id=M87DZcK-1xc
+|제작자=무명음악가
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+|별명=[EP] Track 05.
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>op7nobpmh71t4sb7u142elror7apgfg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>메이플 간만에 복귀할까 싶다가도</title>
+    <ns>0</ns>
+    <id>2468</id>
+    <revision>
+      <id>2749</id>
+      <timestamp>2026-08-13T12:17:32Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2749</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="291" sha1="1r00bni2mnj1h75lii2puoalnf43ht6" xml:space="preserve">{{문서:창팝
+|유튜브Id=LYc6nPEva3s
+|제작자=리반
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>1r00bni2mnj1h75lii2puoalnf43ht6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>내가 신이라니</title>
+    <ns>0</ns>
+    <id>2469</id>
+    <revision>
+      <id>2750</id>
+      <timestamp>2026-08-13T12:17:33Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2750</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="q8g4o8defe5guz05zry85p7tq2sl7gf" xml:space="preserve">{{문서:창팝
+|유튜브Id=Bq5zIpu93f4
+|제작자=리자예
+|화자=신창섭
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>q8g4o8defe5guz05zry85p7tq2sl7gf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>상남자 특</title>
+    <ns>0</ns>
+    <id>2470</id>
+    <revision>
+      <id>2751</id>
+      <timestamp>2026-08-13T12:17:34Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2751</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="345" sha1="pwwy4h7f1iqs0g3vf7pylqbnqk7dr92" xml:space="preserve">{{문서:창팝
+|유튜브Id=0QI6tDxcNLY
+|제작자=리스항르
+|화자=쌀숭이
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>pwwy4h7f1iqs0g3vf7pylqbnqk7dr92</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>팩트</title>
+    <ns>0</ns>
+    <id>2471</id>
+    <revision>
+      <id>2752</id>
+      <timestamp>2026-08-13T12:17:34Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2752</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="308" sha1="iged42sfilb9wmcszwtdixo71mp0a84" xml:space="preserve">{{문서:창팝
+|유튜브Id=33licSC6w9Q
+|제작자=Axion
+|화자=쌀숭이
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>iged42sfilb9wmcszwtdixo71mp0a84</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Grand Segue</title>
+    <ns>0</ns>
+    <id>2472</id>
+    <revision>
+      <id>2753</id>
+      <timestamp>2026-08-13T12:17:35Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2753</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="276" sha1="8ccisxrkw491la6uesxdd5cwnwz61kn" xml:space="preserve">{{문서:창팝
+|유튜브Id=Ly1YRjfc1_k
+|제작자=리스항르
+|수록컵={{수록 창드컵|창드컵=2025년 5편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>8ccisxrkw491la6uesxdd5cwnwz61kn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>사악한 라라</title>
+    <ns>0</ns>
+    <id>2473</id>
+    <revision>
+      <id>2754</id>
+      <timestamp>2026-08-13T12:17:36Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2754</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="393" sha1="13fkvjfydl63b5paleqcbuyh5o65r9w" xml:space="preserve">{{문서:창팝
+|유튜브Id=nnn9Svt9_Nk
+|제작자=A라는 I
+|공동제작자=너구리돌격대장
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+|다른언어제목=Evil Lara
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>13fkvjfydl63b5paleqcbuyh5o65r9w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Only Maple</title>
+    <ns>0</ns>
+    <id>2474</id>
+    <revision>
+      <id>2755</id>
+      <timestamp>2026-08-13T12:17:36Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2755</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="lu36trw20kx0wndsmalmty6bjvenlsj" xml:space="preserve">{{문서:창팝
+|유튜브Id=yvvTU9B3gho
+|제작자=체포낙
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>lu36trw20kx0wndsmalmty6bjvenlsj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>벌거숭이｡</title>
+    <ns>0</ns>
+    <id>2475</id>
+    <revision>
+      <id>2756</id>
+      <timestamp>2026-08-13T12:17:37Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2756</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="319" sha1="mmal3no8k9oq1exb35323ndzmue7c8z" xml:space="preserve">{{문서:창팝
+|유튜브Id=gQDsWT87n2I
+|제작자=주차장P
+|공동제작자=김낙
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>mmal3no8k9oq1exb35323ndzmue7c8z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>종신형</title>
+    <ns>0</ns>
+    <id>2476</id>
+    <revision>
+      <id>2757</id>
+      <timestamp>2026-08-13T12:17:38Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2757</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="358" sha1="8ewl3xt28od7shkpbtcxhvseinv8xz4" xml:space="preserve">{{문서:창팝
+|유튜브Id=zuE6R5U7L40
+|제작자=창스풀
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+|별명=창팝 해체신서 PART ZERO (TVA 1,2쿨 OP 통합본)
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>8ewl3xt28od7shkpbtcxhvseinv8xz4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>독식</title>
+    <ns>0</ns>
+    <id>2477</id>
+    <revision>
+      <id>2758</id>
+      <timestamp>2026-08-13T12:17:39Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2758</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="327" sha1="l42bhtme96d928v1b7wz6olnv1t9p40" xml:space="preserve">{{문서:창팝
+|유튜브Id=Eqdr8ZUmHR4
+|제작자=리스항르
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>l42bhtme96d928v1b7wz6olnv1t9p40</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>리더</title>
+    <ns>0</ns>
+    <id>2478</id>
+    <revision>
+      <id>2759</id>
+      <timestamp>2026-08-13T12:17:39Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2759</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="292" sha1="mz9m3mtknb6xz9b64fwz473fi6apgz9" xml:space="preserve">{{문서:창팝
+|유튜브Id=h515U_Ue66E
+|제작자=AlphaGo
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>mz9m3mtknb6xz9b64fwz473fi6apgz9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>아니 10만 마리 이거 뭐야</title>
+    <ns>0</ns>
+    <id>2479</id>
+    <revision>
+      <id>2760</id>
+      <timestamp>2026-08-13T12:17:40Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2760</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="qd6pp5iftu58l8sw4m5nrtpb0dodg01" xml:space="preserve">{{문서:창팝
+|유튜브Id=cFXIGHEL3e8
+|제작자=슈슉이
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>qd6pp5iftu58l8sw4m5nrtpb0dodg01</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>메벤 혐오를 멈춰주세요</title>
+    <ns>0</ns>
+    <id>2480</id>
+    <revision>
+      <id>2761</id>
+      <timestamp>2026-08-13T12:17:41Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2761</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="idurhw59vsaftre01cslg0qoq30l3ws" xml:space="preserve">{{문서:창팝
+|유튜브Id=plWKOSijLIU
+|제작자=롹슨족
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>idurhw59vsaftre01cslg0qoq30l3ws</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>아니 내 리부트가</title>
+    <ns>0</ns>
+    <id>2481</id>
+    <revision>
+      <id>2762</id>
+      <timestamp>2026-08-13T12:17:42Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2762</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="269" sha1="gl7lido8mscvlm0z3f6qqnhzy6taybo" xml:space="preserve">{{문서:창팝
+|유튜브Id=2vXzxzRvvpQ
+|제작자=DWAET
+|수록컵={{수록 창드컵|창드컵=2025년 5편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>gl7lido8mscvlm0z3f6qqnhzy6taybo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>마법소녀 신창섭</title>
+    <ns>0</ns>
+    <id>2482</id>
+    <revision>
+      <id>2763</id>
+      <timestamp>2026-08-13T12:17:42Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2763</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="330" sha1="cd0qx3si1hgfkw4ur2cxzfm3o25gw2a" xml:space="preserve">{{문서:창팝
+|유튜브Id=3DZwjYb-GYQ
+|제작자=나는아무것도몰라요
+|화자=신창섭
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>cd0qx3si1hgfkw4ur2cxzfm3o25gw2a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>리선족에게 창팝을 만들 자격이 있는 걸까요</title>
+    <ns>0</ns>
+    <id>2483</id>
+    <revision>
+      <id>2764</id>
+      <timestamp>2026-08-13T12:17:43Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2764</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="345" sha1="4dn3yt65gjyiliw1pchn3uycbtkvlyy" xml:space="preserve">{{문서:창팝
+|유튜브Id=dHdQZX3DPkk
+|제작자=리스항르
+|화자=쌀숭이
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>4dn3yt65gjyiliw1pchn3uycbtkvlyy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CATCH ME IF YOU CAN</title>
+    <ns>0</ns>
+    <id>2484</id>
+    <revision>
+      <id>2765</id>
+      <timestamp>2026-08-13T12:17:44Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2765</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="358" sha1="slowj9eh2rqbxjuxlib2oqm9qqbvwxw" xml:space="preserve">{{문서:창팝
+|유튜브Id=Bp56sfuC77I
+|제작자=너구리돌격대장
+|화자=괴도 창섭
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>slowj9eh2rqbxjuxlib2oqm9qqbvwxw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Coaster</title>
+    <ns>0</ns>
+    <id>2485</id>
+    <revision>
+      <id>2766</id>
+      <timestamp>2026-08-13T12:17:44Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2766</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="47ck46di7q9itn4izm3ts4p0igorlgx" xml:space="preserve">{{문서:창팝
+|유튜브Id=MkywDrsQjYk
+|제작자=렌슝좍
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>47ck46di7q9itn4izm3ts4p0igorlgx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>사계 2025</title>
+    <ns>0</ns>
+    <id>2486</id>
+    <revision>
+      <id>2767</id>
+      <timestamp>2026-08-13T12:17:45Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2767</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="304" sha1="a6acyg8ta8q2gmex5675638v8o4dm2h" xml:space="preserve">{{문서:창팝
+|유튜브Id=K3CH2beDIpQ
+|제작자=리데오
+|수록컵={{수록 창드컵|창드컵=2025년 5편}}
+|다른언어제목=Year-Round
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>a6acyg8ta8q2gmex5675638v8o4dm2h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDOL, ALWAYS</title>
+    <ns>0</ns>
+    <id>2487</id>
+    <revision>
+      <id>2768</id>
+      <timestamp>2026-08-13T12:17:46Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2768</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="335" sha1="cilo3ujntwzbx512ezv5h0cxytdd8q4" xml:space="preserve">{{문서:창팝
+|유튜브Id=x7DZ89ublus
+|제작자=pretty_
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}{{수록 창드컵|창드컵=2025년 5편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>cilo3ujntwzbx512ezv5h0cxytdd8q4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>플라네타리안 레조네이트</title>
+    <ns>0</ns>
+    <id>2488</id>
+    <revision>
+      <id>2769</id>
+      <timestamp>2026-08-13T12:17:47Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2769</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="347" sha1="4tms3kff58iq2oyiv8cc704wllfowe6" xml:space="preserve">{{문서:창팝
+|유튜브Id=hS0xYG3iZiM
+|제작자=물통도정
+|수록컵={{수록 창드컵|창드컵=2025년 5편}}
+|다른언어제목=PLANETARIAN RESONATE
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>4tms3kff58iq2oyiv8cc704wllfowe6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>X발 쌀V, 절대 기업에 굴복하지마</title>
+    <ns>0</ns>
+    <id>2489</id>
+    <revision>
+      <id>2770</id>
+      <timestamp>2026-08-13T12:17:48Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2770</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="336" sha1="tjmtu6liviqh87dskl15onxjsa0ywmd" xml:space="preserve">{{문서:창팝
+|유튜브Id=8Hk_VfBhGus
+|제작자=너구리돌격대장
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>tjmtu6liviqh87dskl15onxjsa0ywmd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>메결</title>
+    <ns>0</ns>
+    <id>2490</id>
+    <revision>
+      <id>2771</id>
+      <timestamp>2026-08-13T12:17:49Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2771</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="318" sha1="rqdkx3hlneq821a7ald1ryy1ui8tjba" xml:space="preserve">{{문서:창팝
+|유튜브Id=bRA5L0eKkIU
+|제작자=Lee
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>rqdkx3hlneq821a7ald1ryy1ui8tjba</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>$ollar</title>
+    <ns>0</ns>
+    <id>2491</id>
+    <revision>
+      <id>2772</id>
+      <timestamp>2026-08-13T12:17:50Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
+      <origin>2772</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="288" sha1="9544j2dmqs5m9nwz2lstihsx6wtircu" xml:space="preserve">{{문서:창팝
+|유튜브Id=IimOh-1v7ck
+|제작자=렌슝좍
+|수록컵={{수록 창드컵|창드컵=2025년 5편}}
+|별명=Dollar
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>9544j2dmqs5m9nwz2lstihsx6wtircu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>신김치</title>
+    <ns>0</ns>
+    <id>2492</id>
+    <redirect title="신 김 치" />
+    <revision>
+      <id>2773</id>
+      <timestamp>2026-08-13T12:18:36Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>[[신 김 치]] 문서로 넘겨주기</comment>
+      <origin>2773</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="jq9b7yfomw5i0406ll8oskany0r7cbb" xml:space="preserve">#넘겨주기 [[신 김 치]]</text>
+      <sha1>jq9b7yfomw5i0406ll8oskany0r7cbb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>창팝 해체신서 PART ZERO -종신형-</title>
+    <ns>0</ns>
+    <id>2493</id>
+    <redirect title="종신형" />
+    <revision>
+      <id>2774</id>
+      <timestamp>2026-08-13T12:18:55Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>[[종신형]] 문서로 넘겨주기</comment>
+      <origin>2774</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27" sha1="olz9n5bteodi1q77rpblnazo8u9ycnx" xml:space="preserve">#넘겨주기 [[종신형]]</text>
+      <sha1>olz9n5bteodi1q77rpblnazo8u9ycnx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>26-3</title>
+    <ns>0</ns>
+    <id>2494</id>
+    <redirect title="2026년 3편" />
+    <revision>
+      <id>2776</id>
+      <timestamp>2026-08-13T12:21:39Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>Redirect added via the RedirectManager dialog.</comment>
+      <origin>2776</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30" sha1="112l8nnolrvgaudebi78e6k41v3k6qr" xml:space="preserve">#넘겨주기 [[2026년 3편]]</text>
+      <sha1>112l8nnolrvgaudebi78e6k41v3k6qr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2026년 3편</title>
+    <ns>0</ns>
+    <id>2495</id>
+    <revision>
+      <id>2777</id>
+      <timestamp>2026-08-13T12:21:46Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 |명칭=2026년 3편 |PikuId=arlVTl |강=32 |유형=엄선작 2026 |오픈날짜=2026-08-03 }} '''2026년 3편'''은 2026년 엄선작 [[창드컵]]이다. 2026년 8월 3일에 베타를 시작했다.&lt;ref&gt;[https://gall.dcinside.com/mgallery/board/view/?id=maplereboot&amp;no=3740829 창드컵 2주년 기념 26-3 베타 시작]&lt;/ref&gt;  == 수록곡 == {{창드컵 수록곡 둘러보기 | 창드컵 = {{문서이름}} | 펼치기 = 예  }} {{수록곡 표}}  === 가사...</comment>
+      <origin>2777</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="523" sha1="p0zi5ftuxzs274jupgyiy1tzhqpvyrj" xml:space="preserve">{{문서:창드컵
+|명칭=2026년 3편
+|PikuId=arlVTl
+|강=32
+|유형=엄선작 2026
+|오픈날짜=2026-08-03
+}}
+'''2026년 3편'''은 2026년 엄선작 [[창드컵]]이다. 2026년 8월 3일에 베타를 시작했다.&lt;ref&gt;[https://gall.dcinside.com/mgallery/board/view/?id=maplereboot&amp;no=3740829 창드컵 2주년 기념 26-3 베타 시작]&lt;/ref&gt;
+
+== 수록곡 ==
+{{창드컵 수록곡 둘러보기
+| 창드컵 = {{문서이름}}
+| 펼치기 = 예 
+}}
+{{수록곡 표}}
+
+=== 가사 모음 ===
+[[/수록곡 가사 모음]]</text>
+      <sha1>p0zi5ftuxzs274jupgyiy1tzhqpvyrj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>2026년 3편/수록곡 가사 모음</title>
+    <ns>0</ns>
+    <id>2496</id>
+    <revision>
+      <id>2778</id>
+      <timestamp>2026-08-13T12:22:03Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창드컵 수록곡 가사 모음}}</comment>
+      <origin>2778</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="2aonutm7mc0tkry0fkaod5p5secrri1" xml:space="preserve">{{문서:창드컵 수록곡 가사 모음}}</text>
+      <sha1>2aonutm7mc0tkry0fkaod5p5secrri1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>분류:2025년 5편 수록곡</title>
+    <ns>14</ns>
+    <id>2497</id>
+    <revision>
+      <id>2792</id>
+      <timestamp>2026-08-13T12:29:47Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{창드컵 수록곡 둘러보기 |창드컵=2025년 5편 |펼치기=예 }} [[분류:창드컵 수록곡]]</comment>
+      <origin>2792</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="107" sha1="6pova6ne1pghg0l1bxmp66wpmmr31hr" xml:space="preserve">{{창드컵 수록곡 둘러보기
+|창드컵=2025년 5편
+|펼치기=예
+}}
+[[분류:창드컵 수록곡]]</text>
+      <sha1>6pova6ne1pghg0l1bxmp66wpmmr31hr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>분류:2026년 3편 수록곡</title>
+    <ns>14</ns>
+    <id>2498</id>
+    <revision>
+      <id>2793</id>
+      <timestamp>2026-08-13T12:30:09Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{창드컵 수록곡 둘러보기 |창드컵=2026년 3편 |펼치기=예 }} [[분류:창드컵 수록곡]]</comment>
+      <origin>2793</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="107" sha1="m6my4cr07xx2h9ihwdbeb9otb5hh51h" xml:space="preserve">{{창드컵 수록곡 둘러보기
+|창드컵=2026년 3편
+|펼치기=예
+}}
+[[분류:창드컵 수록곡]]</text>
+      <sha1>m6my4cr07xx2h9ihwdbeb9otb5hh51h</sha1>
     </revision>
   </page>
 </mediawiki>
