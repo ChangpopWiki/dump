@@ -737,18 +737,18 @@ a {
     <ns>4</ns>
     <id>12</id>
     <revision>
-      <id>2731</id>
-      <parentid>2729</parentid>
-      <timestamp>2026-07-26T16:22:24Z</timestamp>
+      <id>2833</id>
+      <parentid>2731</parentid>
+      <timestamp>2026-08-30T10:19:32Z</timestamp>
       <contributor>
-        <username>ㅇㅇ53</username>
-        <id>40</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>/* 7월 27일 오전 1:15 서버 이전 완료 */ 답변</comment>
-      <origin>2731</origin>
+      <comment>/* 창팝위키 베타 오픈 */ 답변</comment>
+      <origin>2833</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="5859" sha1="qur99a1q9jk18jz7bkfdvp3sr12s2tm" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
+      <text bytes="6163" sha1="j3wt3q0w7hsxw9a701cwdevfm07uys8" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
 __새문단쓰기__
 [[분류:창팝위키]]
 {{창팝위키 둘러보기}}
@@ -781,6 +781,8 @@ __새문단쓰기__
 :공동제작자 필드가 추가되었습니다. 적용 예시: [[RED]]&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2025년 11월 30일 (일) 01:12 (KST)
 :업데이트:
 :기존의 월별 [[최초공개 릴레이/아카이브]] 문서에는 로딩이 오래걸리거나 서버를 터트리는 문제가 있었습니다. 무거운 일별 결과 합치기 대신 새 월별 가져오기 API를 도입했고 이를 이용하는 틀을 사용하도록 모두 수정했습니다.&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2026년 3월 16일 (월) 19:34 (KST)
+:업데이트:
+:한 곡에 여러 가사를 추가할 수 있게 되었습니다. 적용 예시: [[거짓말 속이기]], [[Spider Hotel]]&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2026년 8월 30일 (일) 19:19 (KST)
 
 == 건?의?사항 ==
 
@@ -803,7 +805,7 @@ __새문단쓰기__
 전에 없던 문제가 발생한 경우 답글로 제보해주세요.&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2026년 7월 27일 (월) 01:19 (KST)
 
 :비로그인 답글 테스트&lt;br&gt;&lt;span class="signature-message"&gt;— [[특수:기여/ㅇㅇ53|ㅇㅇ53]] ([[사용자토론:ㅇㅇ53|토론]])&lt;/span&gt; 2026년 7월 27일 (월) 01:22 (KST)</text>
-      <sha1>qur99a1q9jk18jz7bkfdvp3sr12s2tm</sha1>
+      <sha1>j3wt3q0w7hsxw9a701cwdevfm07uys8</sha1>
     </revision>
   </page>
   <page>
@@ -1228,49 +1230,53 @@ __새문단쓰기__
     <ns>10</ns>
     <id>17</id>
     <revision>
-      <id>1006</id>
-      <parentid>17</parentid>
-      <timestamp>2025-10-14T08:45:17Z</timestamp>
+      <id>2838</id>
+      <parentid>2828</parentid>
+      <timestamp>2026-08-30T16:55:16Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>변수로 직접 삽입할 문서 설정 가능하도록 변경</comment>
-      <origin>1006</origin>
+      <origin>2838</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1180" sha1="a4h3ptmeac7nb5cd3ovu699bi15jcd6" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+      <text bytes="1677" sha1="iantsfpt5si1q9kkey6g7jszjjd5h46" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
 
 --&gt;
-{{#vardefine: 가사문서이름
+{{#vardefine: 곡문서이름
 | {{#if: {{#or: {{{1|}}} | {{{문서|}}} }} 
-  | 가사:{{#or: {{{1|}}} | {{{문서|}}} }} 
-  | 가사:{{전체문서이름}} 
+  | {{#or: {{{1|}}} | {{{문서|}}} }} 
+  | {{전체문서이름}} 
   }}
-}}
-&lt;templatestyles src="틀:가사/스타일.css" /&gt;&lt;!-- 
+}}&lt;!-- 
 
---&gt;&lt;div class="ts-lyric-container"&gt;&lt;!-- 
-
---&gt;&lt;div class="ts-lyric-header"&gt;&lt;!-- 
-
-	--&gt;&lt;div class="ts-lyric-edit plainlinks" &gt;&lt;!--
-		--&gt; {{#ifexist: {{#var: 가사문서이름}} 
-			| [{{fullurl: {{#var: 가사문서이름}}|action=edit}} 가사 편집]
-			| [{{fullurl: {{#var: 가사문서이름}}|action=edit}} 가사 추가]
-			}} &lt;!--
-    --&gt;&lt;/div&gt;&lt;!-- 
-
---&gt;&lt;/div&gt;&lt;!-- 
-
---&gt;&lt;div class="ts-lyric-content"&gt;&lt;!-- 
---&gt; {{#ifexist: {{#var: 가사문서이름}}
-	| {{#tag: poem |{{ :{{#var: 가사문서이름}} }}}}
-	| ''가사가 없습니다.''
-	}}&lt;!-- 
---&gt;&lt;/div&gt;&lt;!-- 
-
---&gt;&lt;/div&gt;&lt;!--
+ --&gt;&lt;usescript src="가사.js" /&gt;&lt;!-- 
+ --&gt;&lt;usestyle src="가사.css" /&gt;&lt;!-- 
+ 
+ --&gt;&lt;div class="mw--lyrics-container-before"&gt;&lt;/div&gt;&lt;!-- 
+ --&gt;&lt;div class="mw--lyrics-container citizen-overflow" data-lyric-mainpage="{{#var: 곡문서이름}}"&gt;
+		&lt;div class="mw--lyrics-viewer-bar citizen-overflow-sticky-header"&gt;&lt;/div&gt;
+		&lt;div class="mw--lyrics-variation-container citizen-overflow"&gt;
+			&lt;!-- 기본 가사 문서는 항상 표시하기 --&gt;
+			&lt;div class="mw--lyrics-variation" data-lyric-variation=""&gt;
+				{{가사/상자|가사문서=가사:{{#var: 곡문서이름}}|레이블=가사}}
+			&lt;/div&gt;
+			&lt;!-- 그 외 가사 문자 가져오기 --&gt;
+			{{#af_stringmap:
+				&lt;!-- 참고: {{#가사문서목록}} 파서 함수는 로컬 설정에 존재하는 커스텀 구현입니다. --&gt;
+				{{#가사문서목록: {{#var: 곡문서이름}} }}
+				| ;;
+				| 가사문서
+				| &lt;div class="mw--lyrics-variation" data-lyric-variation="{{#titleparts:{{{가사문서}}}|0|2}}"&gt;
+					{{가사/상자
+					| 가사문서 = {{{가사문서}}}
+					| 레이블 = {{#titleparts:{{{가사문서}}}|0|2}}
+					}}
+				 &lt;/div&gt;
+				|
+			}}
+		&lt;/div&gt;&lt;!-- 
+ --&gt;&lt;/div&gt;&lt;!--
 
 --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
 
@@ -1282,7 +1288,7 @@ __새문단쓰기__
 &lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------</text>
-      <sha1>a4h3ptmeac7nb5cd3ovu699bi15jcd6</sha1>
+      <sha1>iantsfpt5si1q9kkey6g7jszjjd5h46</sha1>
     </revision>
   </page>
   <page>
@@ -5304,17 +5310,19 @@ box-shadow: var(--box-shadow-drop-xx-large);
     </revision>
   </page>
   <page>
-    <title>틀:가사/스타일.css</title>
+    <title>틀:가사/상자/스타일.css</title>
     <ns>10</ns>
     <id>122</id>
     <revision>
-      <id>820</id>
-      <parentid>813</parentid>
-      <timestamp>2025-08-19T14:17:18Z</timestamp>
+      <id>2827</id>
+      <parentid>820</parentid>
+      <timestamp>2026-08-30T10:13:54Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
+      <minor/>
+      <comment>창팝위키님이 [[틀:가사/스타일.css]] 문서를 넘겨주기를 만들지 않고 [[틀:가사/상자/스타일.css]] 문서로 이동했습니다</comment>
       <origin>820</origin>
       <model>sanitized-css</model>
       <format>text/css</format>
@@ -5756,18 +5764,19 @@ piku\.co.kr
     <ns>8</ns>
     <id>134</id>
     <revision>
-      <id>1013</id>
-      <parentid>134</parentid>
-      <timestamp>2025-10-14T08:55:06Z</timestamp>
+      <id>2834</id>
+      <parentid>1013</parentid>
+      <timestamp>2026-08-30T10:34:30Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1013</origin>
+      <comment>다른 유형 가사 지원에 따라 안내 문구 삭제</comment>
+      <origin>2834</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="252" sha1="rfg49r3w3f8182aippgoe6t99m91ei2" xml:space="preserve">&lt;div class="mw-parser-output"&gt;{{고지문|여기에는 순수 가사만 입력해주세요! 송폼, 메타태그, 보컬 구분, 가사 내용 설명과 같은 정보는 본 문서에서 별도의 가사 문단을 만들어 입력해주세요. }}&lt;/div&gt;</text>
-      <sha1>rfg49r3w3f8182aippgoe6t99m91ei2</sha1>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
     </revision>
   </page>
   <page>
@@ -62021,262 +62030,85 @@ The prodigal's on my way</text>
     <ns>3200</ns>
     <id>2073</id>
     <revision>
-      <id>2267</id>
-      <timestamp>2026-05-23T15:29:06Z</timestamp>
+      <id>2829</id>
+      <parentid>2267</parentid>
+      <timestamp>2026-08-30T10:15:37Z</timestamp>
       <contributor>
-        <username>ㅇㅇ22</username>
-        <id>28</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: どうしようもないのこんな世界 도우시요-모나이 콘나 세카이 어찌 할 수도 없는 이 세상  欺いて騙すそんな世界だ 아자무이테 다마스 손나 세카이다 속이고 속이는, 그런 세상이야  冷えた視線の戦闘印章？ 히에타 시센노 센토-인쇼- 차가워진 시선의 전투인장?  ふざけないで 후자케나이데 웃기지마  正しさなんてどこにも書いてない 타다시사 난테 도코니모 카...</comment>
-      <origin>2267</origin>
+      <comment>가사 변형으로 나누기</comment>
+      <origin>2829</origin>
       <model>text</model>
       <format>text/plain</format>
-      <text bytes="5564" sha1="geq5dpia2db8f2o0idtpdcok35tj8rl" xml:space="preserve">どうしようもないのこんな世界
-도우시요-모나이 콘나 세카이
-어찌 할 수도 없는 이 세상
-
+      <text bytes="1715" sha1="1uq2hwffx9j3n07jr5w1b19zmaeo3zb" xml:space="preserve">どうしようもないのこんな世界
 欺いて騙すそんな世界だ
-아자무이테 다마스 손나 세카이다
-속이고 속이는, 그런 세상이야
-
 冷えた視線の戦闘印章？
-히에타 시센노 센토-인쇼-
-차가워진 시선의 전투인장?
-
 ふざけないで
-후자케나이데
-웃기지마
-
 正しさなんてどこにも書いてない
-타다시사 난테 도코니모 카이테나이
-'올바름' 같은건 어디에도 써 있지 않아
-
 
 同じだってふりをしても
-오나지닷테 후리오 시테모
-똑같다며 흉내를 내 봐도
-
 透けてる欺瞞の論理
-스케테루 기만노 론리
-훤히 보이는 기만의 논리
-
 別に特別わけじゃない
-베쓰니 토쿠베쓰 와케자나이
-딱히 특별한건 아니야
-
 五千って曖昧が怖い
-고센-떼 아이마이가 코와이
-"오천" 이라는 애매함이 무서울
-
 だけなの
-다케나노
-뿐이야
-
 
 衝動的な印章操作
-쇼-도-테키나 인쇼-소-사
-충동적인 인장주작
-
 忘れることもできない
-와스레루코토모 데키나이
-잊혀지는 것도 불가능해
-
 嘘の刃で胸を刺すの
-우소노 야이바데 무네오 사스노
-거짓말의 날로 가슴을 찔러
-
 破滅的な戦闘印章
-하메쓰테키나 센토-인쇼-
-파멸적인 전투인장
-
 には裏切られて
-니와 우라기라레테
-에게는 배신당해서
-
 ズレブレバレバレバレている
-즈레브레 바레바레 바레테이루
-어긋나고 흔들리고 들켜버렸어
-
 
 隠せ隠せ
-카쿠세 카쿠세
-숨겨라 숨겨
-
 いっそ被せてほしい
-잇소 카부세테호시-
-차라리 덮어씌워줬으면 좋겠어
-
 殺せ
-코로세
-죽여라
-
 無実のこの主犯も
-무지쓰노 코노 슈한모
-무고한 이 주범도
-
 欺瞞的なFAKEストーリー
-기만테키나 페이크스토-리-
-기만적인 페이크 스토리
-
 戻ることはできない
-모도루코토와 데키나이
-되돌아 가는건 불가능해
-
 ズレブレバレバレバレている
-즈레브레 바레바레 바레테이루
-어긋나고 흔들리고 들켜버렸어
-
 ズレブレバレバレバレている
-즈레브레 바레바레 바레테이루
-어긋나고 흔들리고 들켜버렸어
-
 
 なあ
-나아
-있잖아
-
 ふらふらな僕 祓って
-후라후라나 보쿠 하랏테
-비틀비틀거리는 나를 씻어내 줘
-
 制裁即退魔タイム払って
-세이사이 소쿠 타이마 타이무 하랏테
-제재 즉시 퇴마 시간을 바쳐서
-
 カチャカチャってガシャドクロ完成です
-카차카찻테 가샤도쿠로 칸세이데스
-딸깍딸깍으로 가샤도쿠로 완성입니다.
-
 Death!でもって正義ですって
-데스! 데못테 세이기데슷테
-죽어! 그걸로 정의라던데?
-
 打つて切った嫌悪のcrystal night
-웃테킷타 켄오노 crystal night
-때리고 자른 혐오의 crystal night
-
 敗北こじきやろうにBYE☆BYE
-하이보쿠 코지키야로-니 바이 바이
-패배한 거지자식에게 BYE BYE
-
 バイタルな バケツ売買って
-바이타루나 바케쓰 바이바잇테
-Vital인 물통 매매라고
-
 ....そう思っていた
-...소- 오못테이타
-....생각하고 있었는데
-
 呪うように不快な歌も
-노로-요-니 후카이나 우타모
-저주하듯 불쾌한 노래도
-
 笑って流すしかない
-와랏테 나가스시카나이
-웃고 넘어가야하는
-
 宿命なんだろう
-사다메난다로-
-숙명인거겠지
-
 …きっと
-...킷토
-...분명
-
 
 ふさいでもやして
-후사이데 모야시테
-틀어막고 불태우고
-
 悲劇ぶった茶番も
-히게키붓타 챠반모
-비극인척하는 짜고치는 연극도
-
 所詮、荒らしです
-쇼센, 아라시데스
-결국, 분탕이에요.
-
 道理通りの 不純なストーリー
-도-리도-리노 후쥰나 스토-리-
-도리대로 불순한 스토리
-
 ストーリー通りの 純な道理
-스토-리-도-리노 쥰나 도-리
-스토리대로 순수한 도리
-
 清く正しく巧妙に
-키요쿠, 타다시쿠, 코-묘-니
-맑고 올바르고 교묘하게
-
 偽って
-이츠왓테
-거짓을 고하며
-
 自分の醜さを化かす
-지분노 미니쿠사오 바카스
-자신의 추악함을 속일
-
 だけなの
-다케나노
-뿐이야
 
-衝動的な印章操作 
-쇼-도-테키나 인쇼-소-사
-충동적인 인장주작
-
+衝動的な印章操作
 忘れることもできない
-와스레루코토모 데키나이
-잊혀지는 것도 불가능해
-
 嘘の刃で胸を刺すの
-우소노 야이바데 무네오 사스노
-거짓말의 날로 가슴을 찔러
-
 破滅的な戦闘印章
-하메쓰테키나 센토-인쇼-
-파멸적인 전투인장
-
 には裏切られて
-니와 우라기라레테
-에게는 배신당해서
-
 ズレブレバレバレバレている
-즈레브레 바레바레 바레테이루
-어긋나고 흔들리고 들켜버렸어
-
 
 隠せ隠せ
-카쿠세 카쿠세
-숨겨라 숨겨
-
 いっそ被せてほしい
-잇소 카부세테호시-
-차라리 덮어씌워줬으면 좋겠어
-
 被せ
-카부세
-덮어줘
-
 真実って知らないで
-신지쓰-떼 시라나이데
-진실이라고 알지 말아줘
-
 欺瞞的なFAKEストーリー
-기만테키나 페이크스토-리-
-기만적인 페이크 스토리
-
 戻ることはできない
-모도루코토와 데키나이
-되돌아 가는건 불가능해
-
 ズレブレバレバレバレている
-즈레브레 바레바레 바레테이루
-어긋나고 흔들리고 들켜버렸어
-
-ズレブレバレバレバレている
-즈레브레 바레바레 바레테이루
-어긋나고 흔들리고 들켜버렸어</text>
-      <sha1>geq5dpia2db8f2o0idtpdcok35tj8rl</sha1>
+ズレブレバレバレバレている</text>
+      <sha1>1uq2hwffx9j3n07jr5w1b19zmaeo3zb</sha1>
     </revision>
   </page>
   <page>
@@ -86302,19 +86134,79 @@ RPG를 대체 왜 하고 있는건데?
     <ns>3200</ns>
     <id>2509</id>
     <revision>
-      <id>2809</id>
-      <parentid>2805</parentid>
-      <timestamp>2026-08-14T12:34:27Z</timestamp>
+      <id>2837</id>
+      <parentid>2809</parentid>
+      <timestamp>2026-08-30T11:55:07Z</timestamp>
       <contributor>
-        <username>ㅇㅇ52</username>
-        <id>39</id>
+        <username>ㅇㅇ38</username>
+        <id>35</id>
       </contributor>
-      <comment>문서를 비움</comment>
-      <origin>2809</origin>
+      <origin>2837</origin>
       <model>text</model>
       <format>text/plain</format>
-      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
-      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+      <text bytes="1806" sha1="nmpmp3cfr5f7k25dwdcqptrbk7t601l" xml:space="preserve">종신해라
+
+겸임이 뭔데, 담임은 안다만
+투잡 뛰냐? 많이 벌잖아
+부본부장? 디렉터는
+승진이라고? 이런 개씨발!
+
+좆같은 패치들 참아줬잖아
+신이라고 계속 빨아줬잖아
+선족 씹새들 아직 살아있는데
+승진해서 이대로 너 런칠거라면
+개새끼들 못 깝치게 고소는 하고가
+
+종신해라 종신
+승진 거절해라 거절
+창팝 지분 양분해라 양분
+주범들 고소해라 씨발 제발
+시작해 0원 챌린지
+눕방해 메벤 30추
+올려봐 국민 청원도
+너만 창팝에서 나가려고
+우린 너 못보내 새끼야
+
+시세는 떡락 1150원
+점유율 나락 월드에 밀려
+인식은 폭락 매번 그 긴거
+트레는 수락 디코봤나요?
+주범들은 아직까지 활개치는데
+아직까지 창드컵이 설쳐대는데
+니가 가면 포커싱이 집중될텐데
+승진해서 알빠아님 시전할거면
+씹새끼들 딥페이크 고소하고 가
+
+제발 그 딥페이크 범죄 그만 좀 얘기하세요
+다음 디렉터 들어오면 (잘하든 말든)
+딥페이크 창팝 막 나올텐데
+그 전에 고소하는게 맞다고
+생각하는 건 둘째치고
+그냥 부본부장 때려치고
+디렉터 종신하면 안되나요
+당신은 신이잖아요
+
+종신해라 종신
+승진 거절해라 거절
+창팝 지분 양분해라 양분
+주범들 고소해라 씨발 제발
+종신해서 평생 욕받이해
+종신해서 평생 춤이나 춰
+종신해서 평생 노래나 해
+쌀숭이도 고객이나 맞춰
+
+종신해라 종신
+승진 거절해라 거절
+창팝 지분 양분해라 양분
+주범들 고소해라 씨발 제발
+시작해 0원 챌린지
+눕방해 메벤 30추
+올려봐 국민 청원도
+너만 창팝에서 나가려고
+절대로 못보내 새끼야
+죽어도 못보내 새끼야
+종 신 해</text>
+      <sha1>nmpmp3cfr5f7k25dwdcqptrbk7t601l</sha1>
     </revision>
   </page>
   <page>
@@ -87227,6 +87119,2202 @@ go on
 catch me
 if you can</text>
       <sha1>lpe79hj2prds29oeohe23hnluwj2gvu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>미디어위키:가사.js</title>
+    <ns>8</ns>
+    <id>2521</id>
+    <revision>
+      <id>2823</id>
+      <timestamp>2026-08-30T10:12:05Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: /* eslint-disable mediawiki/class-doc */ /**  * MediaWiki 가사 Viewer — MediaWiki: 네임스페이스 JS  * UseResource 확장으로 직접 로드되는 클라이언트 스크립트입니다.  * 리소스 모듈 등록 없이 MediaWiki: 네임스페이스의 JS 페이지로 동작합니다.  * 의존성: MediaWiki 1.45+ ResourceLoader가 제공하는 vue, @wikimedia/codex (또는 codex)  */ /* global mw, Vue, require */ ( function () { 	'use strict';  	// 디버그 플래그...</comment>
+      <origin>2823</origin>
+      <model>javascript</model>
+      <format>text/javascript</format>
+      <text bytes="67561" sha1="sw96qmj66hgfusjpbmsqiqaolkpjr0p" xml:space="preserve">/* eslint-disable mediawiki/class-doc */
+/**
+ * MediaWiki 가사 Viewer — MediaWiki: 네임스페이스 JS
+ * UseResource 확장으로 직접 로드되는 클라이언트 스크립트입니다.
+ * 리소스 모듈 등록 없이 MediaWiki: 네임스페이스의 JS 페이지로 동작합니다.
+ * 의존성: MediaWiki 1.45+ ResourceLoader가 제공하는 vue, @wikimedia/codex (또는 codex)
+ */
+/* global mw, Vue, require */
+( function () {
+	'use strict';
+
+	// 디버그 플래그 저장 키
+	var DEBUG_STORAGE_KEY = 'mw-lyrics-viewer-debug';
+
+	// 디버그 로그 버퍼 저장 키 — 새로고침으로 콘솔이 초기화되어도 이전 세션 로그를 확인할 수 있게 버퍼링합니다.
+	var DEBUG_LOG_STORAGE_KEY = 'mw-lyrics-viewer-debuglog';
+	var DEBUG_LOG_MAX_ENTRIES = 50;
+
+	// 디버그 활성화 여부 확인
+	function isDebugEnabled() {
+		try {
+			// 디버그 플래그가 저장되어 있으면 활성화로 반환합니다.
+			if ( window.localStorage.getItem( DEBUG_STORAGE_KEY ) === '1' ) { return true; }
+		} catch ( error ) {}
+		try {
+			return /(?:\?|&amp;)lyricsViewerDebug=1(?:&amp;|$)/.test( window.location.search );
+		} catch ( error ) {
+			return false;
+		}
+	}
+
+	// 디버그 로그 출력
+	function debugLog() {
+		// 디버그가 비활성화되어 있다면 중단합니다.
+		if ( !isDebugEnabled() ) { return; }
+
+		var args = Array.prototype.slice.call( arguments );
+		args.unshift( '[LyricsViewer:debug]' );
+		try { window.console.log.apply( window.console, args ); } catch ( error ) {}
+		bufferDebugLog( 'log', args );
+	}
+
+	// 디버그 경고 출력
+	function debugWarn() {
+		var args = Array.prototype.slice.call( arguments );
+		args.unshift( '[LyricsViewer]' );
+		try { window.console.warn.apply( window.console, args ); } catch ( error ) {}
+		bufferDebugLog( 'warn', args );
+	}
+
+	// 디버그 로그를 저장소 버퍼에 기록
+	function bufferDebugLog( level, logArguments ) {
+		try {
+			var entries = JSON.parse( window.sessionStorage.getItem( DEBUG_LOG_STORAGE_KEY ) || '[]' );
+			entries.push( {
+				level: level,
+				time: new Date().toISOString(),
+				text: Array.prototype.map.call( logArguments, function ( item ) {
+					// 객체는 사람이 읽을 수 있는 형태로 직렬화합니다.
+					if ( typeof item === 'object' ) {
+						try { return JSON.stringify( item ); } catch ( innerError ) { return String( item ); }
+					}
+					return String( item );
+				} ).join( ' ' )
+			} );
+
+			// 최대 개수를 넘으면 오래된 로그부터 버립니다.
+			if ( entries.length &gt; DEBUG_LOG_MAX_ENTRIES ) { entries = entries.slice( -DEBUG_LOG_MAX_ENTRIES ); }
+			window.sessionStorage.setItem( DEBUG_LOG_STORAGE_KEY, JSON.stringify( entries ) );
+		} catch ( error ) {}
+	}
+
+	// 새로고침 전 세션에 기록된 디버그 로그를 콘솔로 다시 출력
+	function dumpBufferedDebugLogs() {
+		try {
+			var rawEntries = window.sessionStorage.getItem( DEBUG_LOG_STORAGE_KEY );
+			window.sessionStorage.removeItem( DEBUG_LOG_STORAGE_KEY );
+			var entries = rawEntries ? JSON.parse( rawEntries ) : [];
+
+			// 이전 세션에 기록된 로그가 있다면 출력합니다.
+			if ( entries.length ) {
+				entries.forEach( function ( entry ) {
+					var consoleMethod = entry.level === 'warn' ? window.console.warn : window.console.log;
+					consoleMethod.call( window.console, '[LyricsViewer:debug@' + entry.time + ']', entry.text );
+				} );
+			}
+		} catch ( error ) {}
+	}
+
+	// 전역 디버그 핸들 노출
+	try {
+		window.__lyricsViewerDebug = window.__lyricsViewerDebug || {};
+		window.__lyricsViewerDebug.enable = function () {
+			try { window.localStorage.setItem( DEBUG_STORAGE_KEY, '1' ); } catch ( error ) {}
+			try { window.console.info( '[LyricsViewer] 디버그 모드 활성화 — 새로고침 후 상세 로그가 출력되며, 새로고침 전 세션의 로그도 함께 출력됩니다.' ); } catch ( error2 ) {}
+		};
+		window.__lyricsViewerDebug.disable = function () {
+			try { window.localStorage.removeItem( DEBUG_STORAGE_KEY ); } catch ( error ) {}
+			try { window.console.info( '[LyricsViewer] 디버그 모드 비활성화' ); } catch ( error2 ) {}
+		};
+		window.__lyricsViewerDebug.isEnabled = isDebugEnabled;
+	} catch ( error ) {}
+
+	// ※ Codex 아이콘은 ResourceLoader에 모듈이 존재하지 않으므로 MediaWiki 1.44+의
+	//   list=codexicons API를 통해 필요한 아이콘만 URL 기반으로 동적 로드합니다.
+	//   외부 CDN보다 Same-Origin이라 더 안전합니다.
+	//   https://www.mediawiki.org/wiki/API:CodexIcons
+	//   "For performance reasons, there is no ResourceLoader module named codex-icons containing all the icons"
+	var API_ICON_NAMES = [ 'cdxIconAdd', 'cdxIconEdit', 'cdxIconSettings' ];
+
+	// 아이콘 세션 캐시 키 — 대상 아이콘 목록이나 응답 형식이 바뀌면 버전을 올립니다.
+	var API_ICON_STORAGE_KEY = 'mw-lyrics-viewer-codex-icons-v1';
+
+	var apiIconCache = null;
+	var apiIconFetchPromise = null;
+
+	// 라디오 그룹 고유 번호 카운터
+	var radioGroupCounter = 0;
+
+	// 캐시된 아이콘을 콜백으로 전달
+	function deliverCachedIcons( callback ) {
+		try { callback( apiIconCache ); } catch ( error ) {}
+	}
+
+	// 진행 중인 요청에 콜백 연결
+	function attachToPendingFetch( callback ) {
+		apiIconFetchPromise.then( function ( cachedIcons ) {
+			try { callback( cachedIcons ); } catch ( error ) {}
+		} ).catch( function () {} );
+	}
+
+	// API 응답에서 필요한 아이콘만 추출
+	function pickNeededIcons( iconData ) {
+		var pickedIcons = {};
+		API_ICON_NAMES.forEach( function ( iconName ) {
+			pickedIcons[ iconName ] = iconData[ iconName ] || null;
+		} );
+		return pickedIcons;
+	}
+
+	// API URL 생성
+	function buildCodexIconsApiUrl() {
+		var namesParam = encodeURIComponent( API_ICON_NAMES.join( '|' ) );
+		var queryString = 'action=query&amp;list=codexicons&amp;names=' + namesParam + '&amp;format=json&amp;formatversion=2';
+		try {
+			return mw.util.wikiScript( 'api' ) + '?' + queryString;
+		} catch ( error ) {
+			return '/w/api.php?' + queryString;
+		}
+	}
+
+	// 세션 저장소에서 아이콘 캐시를 읽습니다. 형식이 맞지 않으면 캐시 없음으로 취급합니다.
+	function readIconsFromSessionStorage() {
+		try {
+			var storedIcons = JSON.parse( window.sessionStorage.getItem( API_ICON_STORAGE_KEY ) || 'null' );
+
+			// 필요한 아이콘 이름이 모두 갖춰진 객체인지 검사합니다.
+			if ( !storedIcons || typeof storedIcons !== 'object' ) { return null; }
+			for ( var index = 0; index &lt; API_ICON_NAMES.length; index++ ) {
+				if ( !( API_ICON_NAMES[ index ] in storedIcons ) ) { return null; }
+			}
+			return storedIcons;
+		} catch ( error ) {
+			return null;
+		}
+	}
+
+	// 아이콘 캐시를 세션 저장소에 기록합니다. 실제 아이콘 데이터가 하나도 없다면 기록하지 않습니다.
+	function saveIconsToSessionStorage( icons ) {
+		try {
+			var hasIcon = false;
+			API_ICON_NAMES.forEach( function ( iconName ) {
+				if ( icons[ iconName ] ) { hasIcon = true; }
+			} );
+			if ( !hasIcon ) { return; }
+			window.sessionStorage.setItem( API_ICON_STORAGE_KEY, JSON.stringify( icons ) );
+		} catch ( error ) {}
+	}
+
+	// list=codexicons API에서 아이콘 JSON 가져오기
+	function fetchIconsFromApi( callback ) {
+		// 캐시된 아이콘이 있다면 즉시 전달합니다.
+		if ( apiIconCache ) { deliverCachedIcons( callback ); return; }
+
+		// 진행 중인 요청이 있다면 콜백만 연결합니다.
+		if ( apiIconFetchPromise ) { attachToPendingFetch( callback ); return; }
+
+		// 세션 저장소에 캐시가 남아 있다면 요청 없이 사용합니다.
+		var storedIcons = readIconsFromSessionStorage();
+		if ( storedIcons ) {
+			apiIconCache = storedIcons;
+			deliverCachedIcons( callback );
+			return;
+		}
+
+		// fetch API를 사용할 수 없다면 경고를 남기고 중단합니다.
+		if ( typeof window.fetch !== 'function' ) { debugWarn( 'fetch API를 사용할 수 없어 list=codexicons에서 아이콘을 가져올 수 없습니다.' ); return; }
+
+		var apiUrl = buildCodexIconsApiUrl();
+
+		// API 요청 시작
+		apiIconFetchPromise = window.fetch( apiUrl ).then( function ( response ) {
+			// 응답이 정상이 아니라면 에러를 던집니다.
+			if ( !response.ok ) { throw new Error( 'HTTP ' + response.status ); }
+			return response.json();
+		} ).then( function ( responseData ) {
+			var iconData = responseData &amp;&amp; responseData.query &amp;&amp; responseData.query.codexicons ? responseData.query.codexicons : responseData;
+			var loadedIcons = pickNeededIcons( iconData );
+			apiIconCache = loadedIcons;
+			saveIconsToSessionStorage( loadedIcons );
+			debugLog( 'list=codexicons API에서 아이콘 로드 성공:', apiUrl, 'iconAdd:', !!loadedIcons.cdxIconAdd, 'iconEdit:', !!loadedIcons.cdxIconEdit, 'iconSettings:', !!loadedIcons.cdxIconSettings );
+			return loadedIcons;
+		} ).catch( function ( fetchError ) {
+			debugWarn( 'list=codexicons API에서 아이콘을 가져오지 못했습니다: ' + apiUrl + ' — ' + ( fetchError &amp;&amp; fetchError.message ) );
+			apiIconFetchPromise = null;
+			throw fetchError;
+		} );
+
+		attachToPendingFetch( callback );
+	}
+
+	// 브라우저 저장소 키
+	var STORAGE_PREFIX = 'mw-lyrics-viewer-';
+	var STORAGE_KEYS = {
+		multimode: STORAGE_PREFIX + 'multimode',
+		fontSize: STORAGE_PREFIX + 'fontSize',
+		fontFamily: STORAGE_PREFIX + 'fontFamily',
+		align: STORAGE_PREFIX + 'align',
+		lineHeight: STORAGE_PREFIX + 'lineHeight',
+		letterSpacing: STORAGE_PREFIX + 'letterSpacing'
+	};
+
+	// UI 문자열
+	var MESSAGES = {
+		defaultVariationLabel: '가사',
+		documentNamespacePrefix: '가사:',
+		addButtonLabel: '다른 가사 추가',
+		addDialogTitle: '다른 가사 추가',
+		targetDocumentLabel: '대상 문서:',
+		customVariationLabel: '그 외',
+		customVariationPlaceholder: '가사 변형 이름 입력',
+		documentNameLabel: '문서 이름:',
+		createLabel: '생성',
+		editLabel: '편집',
+		editButtonAriaLabel: '편집',
+		editButtonTooltip: '편집',
+		addVariationAriaLabel: '추가',
+		addVariationTooltip: '추가',
+		closeLabel: '닫기',
+		editModalTitle: '가사 편집',
+		saveLabel: '저장',
+		editSummaryPlaceholder: '편집 요약',
+		unsavedChangesMessage: '저장하지 않은 변경 사항이 있습니다. 정말로 닫으시겠습니까?',
+		saveFailedMessage: '저장에 실패했습니다. 잠시 후 다시 시도해 주세요.',
+		diffLabel: '차이 보기',
+		noDiffLabel: '차이 없음',
+		displaySettingsTitle: '가사 표시 설정',
+		displaySettingsAriaLabel: '가사 표시 설정',
+		multiSelectLabel: '다중 선택',
+		fontSizeLabel: '글자 크기',
+		fontSizeSmall: '작게',
+		fontSizeMedium: '보통',
+		fontSizeLarge: '크게',
+		fontFamilyLabel: '글꼴',
+		fontFamilyDefault: '기본',
+		fontFamilySerif: '세리프',
+		fontFamilySans: '산세리프',
+		fontFamilyMono: '고정폭',
+		alignmentLabel: '정렬',
+		alignLeft: '왼쪽',
+		alignCenter: '가운데',
+		alignRight: '오른쪽',
+		lineHeightLabel: '줄 간격',
+		lineHeightNarrow: '좁게',
+		lineHeightNormal: '보통',
+		lineHeightWide: '넓게',
+		letterSpacingLabel: '글자 간격',
+		letterSpacingNarrow: '좁게',
+		letterSpacingNormal: '보통',
+		letterSpacingWide: '넓게',
+		variationTypeTranslation: { value: '번역', label: '번역', description: '외국어 가사를 한국어로 번역한 가사' },
+		variationTypePronunciation: { value: '발음', label: '발음', description: '가사를 발음에 맞게 표기한 가사' },
+		variationTypePrompt: { value: '프롬프트', label: '프롬프트', description: 'AI 음악 생성 도구 등에 사용할 수 있도록 구조나 지시문이 포함된 가사' }
+	};
+
+	// 표준 가사 문서 유형
+	var STANDARD_LYRICS_TYPES = [
+		MESSAGES.variationTypeTranslation,
+		MESSAGES.variationTypePronunciation,
+		MESSAGES.variationTypePrompt
+	];
+
+	// 스타일 매핑 테이블
+	var FONT_SIZE_MAP = { small: '0.875em', medium: '', large: '1.2em' };
+	var FONT_FAMILY_MAP = {
+		default: '',
+		serif: 'serif',
+		'sans-serif': 'sans-serif',
+		monospace: 'monospace'
+	};
+	var LINE_HEIGHT_MAP = { narrow: '1.4', normal: '', wide: '2.0' };
+	var LETTER_SPACING_MAP = { narrow: '-0.02em', normal: '', wide: '0.06em' };
+
+	// Viewer 템플릿
+	var VIEWER_TEMPLATE = `&lt;div v-if="shouldShowVariationToggle" class="mw--lyrics-viewer-variation"&gt;&lt;cdx-toggle-button-group v-model="toggleValue" :buttons="variationToggleButtons"&gt;&lt;/cdx-toggle-button-group&gt;&lt;/div&gt;
+&lt;div class="mw--lyrics-viewer-add"&gt;&lt;cdx-button @click="dialogOpen = true" :aria-label="messages.addButtonLabel" v-tooltip="tooltipDirectiveAvailable ? messages.addButtonLabel : null"&gt;&lt;cdx-icon v-if="iconAdd" :icon="iconAdd"&gt;&lt;/cdx-icon&gt; &lt;span class="mw--lyrics-viewer-add__label"&gt;{{ messages.addButtonLabel }}&lt;/span&gt;&lt;/cdx-button&gt;
+  &lt;cdx-dialog v-model:open="dialogOpen" :title="messages.addDialogTitle" :use-close-button="true" :primary-action="primaryAction" :default-action="defaultAction" @primary="handlePrimaryAction" @default="dialogOpen = false"&gt;
+    &lt;div class="mw--lyrics-viewer-dialog-body"&gt;
+      &lt;p class="mw--lyrics-viewer-dialog-target"&gt;{{ messages.targetDocumentLabel }} &lt;strong&gt;{{ songPageTitle }}&lt;/strong&gt;&lt;/p&gt;
+      &lt;div v-for="lyricType in standardTypes" :key="lyricType.value" class="mw--lyrics-viewer-type-card" :style="{ background: selectedType===lyricType.value ? 'var(--background-color-progressive-subtle)' : '' }" @click="selectedType=lyricType.value"&gt;
+        &lt;label class="mw--lyrics-viewer-type-card__header"&gt;&lt;input type="radio" :name="lyricTypeRadioGroupName" :value="lyricType.value" v-model="selectedType" /&gt; &lt;strong&gt;{{ lyricType.label }}&lt;/strong&gt;&lt;/label&gt;
+        &lt;div class="mw--lyrics-viewer-type-card__description"&gt;{{ lyricType.description }}&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="mw--lyrics-viewer-type-card" :style="{ background: selectedType==='__custom' ? 'var(--background-color-progressive-subtle)' : '' }"&gt;
+        &lt;label class="mw--lyrics-viewer-type-card__header" @click="selectedType='__custom'"&gt;&lt;input type="radio" :name="lyricTypeRadioGroupName" value="__custom" v-model="selectedType" /&gt; &lt;strong&gt;{{ messages.customVariationLabel }}&lt;/strong&gt;&lt;/label&gt;
+        &lt;div class="mw--lyrics-viewer-type-card__input-wrap"&gt;&lt;cdx-text-input v-model="customVariationName" :placeholder="messages.customVariationPlaceholder" @focus="selectedType='__custom'"&gt;&lt;/cdx-text-input&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div v-if="previewDocumentTitle" class="mw--lyrics-viewer-dialog-preview"&gt;{{ messages.documentNameLabel }} &lt;code&gt;{{ previewDocumentTitle }}&lt;/code&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/cdx-dialog&gt;
+&lt;/div&gt;
+&lt;div class="mw--lyrics-viewer-bar__spacer" aria-hidden="true"&gt;&lt;/div&gt;
+&lt;div class="mw--lyrics-viewer-settings"&gt;&lt;cdx-button ref="settingsButtonAnchorRef" :aria-label="messages.displaySettingsAriaLabel" v-tooltip="tooltipDirectiveAvailable ? messages.displaySettingsAriaLabel : null" @click="popoverOpen = !popoverOpen"&gt;&lt;cdx-icon v-if="iconSettings" :icon="iconSettings"&gt;&lt;/cdx-icon&gt;&lt;/cdx-button&gt;
+  &lt;cdx-popover v-model:open="popoverOpen" :anchor="settingsButtonAnchorEl" :title="messages.displaySettingsTitle" :use-close-button="true"&gt;
+    &lt;div class="mw--lyrics-viewer-popover-body"&gt;
+      &lt;div class="mw--lyrics-viewer-popover-row"&gt;
+        &lt;span class="mw--lyrics-viewer-popover-row__label"&gt;{{ messages.multiSelectLabel }}&lt;/span&gt;
+        &lt;cdx-toggle-switch v-if="isToggleSwitchAvailable" :model-value="displayState.isMultimodeEnabled" @update:model-value="handleMultimodeChange"&gt;&lt;/cdx-toggle-switch&gt;
+        &lt;input v-else type="checkbox" :checked="displayState.isMultimodeEnabled" @change="handleMultimodeChange($event.target.checked)" /&gt;
+      &lt;/div&gt;
+      &lt;div&gt;&lt;div class="mw--lyrics-viewer-popover-section-title"&gt;{{ messages.fontSizeLabel }}&lt;/div&gt;&lt;cdx-toggle-button-group :model-value="displayState.fontSize" :buttons="fontSizeButtons" @update:model-value="handleFontSizeChange"&gt;&lt;/cdx-toggle-button-group&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;div class="mw--lyrics-viewer-popover-section-title"&gt;{{ messages.fontFamilyLabel }}&lt;/div&gt;&lt;cdx-toggle-button-group :model-value="displayState.fontFamily" :buttons="fontFamilyButtons" @update:model-value="handleFontFamilyChange"&gt;&lt;/cdx-toggle-button-group&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;div class="mw--lyrics-viewer-popover-section-title"&gt;{{ messages.alignmentLabel }}&lt;/div&gt;&lt;cdx-toggle-button-group :model-value="displayState.textAlignment" :buttons="alignmentButtons" @update:model-value="handleAlignmentChange"&gt;&lt;/cdx-toggle-button-group&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;div class="mw--lyrics-viewer-popover-section-title"&gt;{{ messages.lineHeightLabel }}&lt;/div&gt;&lt;cdx-toggle-button-group :model-value="displayState.lineHeight" :buttons="lineHeightButtons" @update:model-value="handleLineHeightChange"&gt;&lt;/cdx-toggle-button-group&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;div class="mw--lyrics-viewer-popover-section-title"&gt;{{ messages.letterSpacingLabel }}&lt;/div&gt;&lt;cdx-toggle-button-group :model-value="displayState.letterSpacing" :buttons="letterSpacingButtons" @update:model-value="handleLetterSpacingChange"&gt;&lt;/cdx-toggle-button-group&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/cdx-popover&gt;
+&lt;/div&gt;
+&lt;cdx-dialog v-model:open="editModalOpen" :title="messages.editModalTitle" :use-close-button="true" :primary-action="saveAction" :default-action="cancelAction" @primary="handleEditSave" @default="editModalOpen = false"&gt;
+  &lt;div class="mw--lyrics-viewer-edit-dialog-body"&gt;
+    &lt;p class="mw--lyrics-viewer-dialog-target"&gt;{{ messages.targetDocumentLabel }} &lt;strong v-if="editTargetUrl"&gt;&lt;a :href="editTargetUrl"&gt;{{ editTargetTitle }}&lt;/a&gt;&lt;/strong&gt;&lt;strong v-else&gt;{{ editTargetTitle }}&lt;/strong&gt;&lt;/p&gt;
+    &lt;cdx-text-area v-model="wikitext" class="mw--lyrics-viewer-edit-textarea" :disabled="isFetchingWikitext"&gt;&lt;/cdx-text-area&gt;
+    &lt;cdx-text-input v-model="editSummary" :placeholder="messages.editSummaryPlaceholder" :disabled="isSavingWikitext"&gt;&lt;/cdx-text-input&gt;
+    &lt;div&gt;&lt;cdx-button size="small" :disabled="isDiffLoading" @click="handleDiffRefresh"&gt;{{ messages.diffLabel }}&lt;/cdx-button&gt;&lt;/div&gt;
+    &lt;div v-if="isDiffShown" class="mw--lyrics-viewer-edit-diff"&gt;
+      &lt;table v-if="diffHtml" class="diff"&gt;&lt;colgroup&gt;&lt;col class="diff-marker"&gt;&lt;col class="diff-content"&gt;&lt;col class="diff-marker"&gt;&lt;col class="diff-content"&gt;&lt;/colgroup&gt;&lt;tbody v-html="diffHtml"&gt;&lt;/tbody&gt;&lt;/table&gt;
+      &lt;p v-else-if="diffErrorMessage" class="mw--lyrics-viewer-edit-error"&gt;{{ diffErrorMessage }}&lt;/p&gt;
+      &lt;p v-else class="mw--lyrics-viewer-edit-diff-empty"&gt;{{ messages.noDiffLabel }}&lt;/p&gt;
+    &lt;/div&gt;
+    &lt;cdx-message v-if="isMessageAvailable &amp;&amp; editErrorMessage" type="error"&gt;{{ editErrorMessage }}&lt;/cdx-message&gt;
+    &lt;p v-else-if="editErrorMessage" class="mw--lyrics-viewer-edit-error"&gt;{{ editErrorMessage }}&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/cdx-dialog&gt;`;
+
+	// localStorage 읽기
+	function readFromStorage( key ) {
+		try { return window.localStorage.getItem( key ); } catch ( error ) { return null; }
+	}
+
+	// localStorage 쓰기
+	function writeToStorage( key, value ) {
+		try { window.localStorage.setItem( key, value ); } catch ( error ) {}
+	}
+
+	// API 에러를 사용자에게 표시할 메시지로 변환
+	function formatApiError( apiError ) {
+		var errorData = apiError &amp;&amp; apiError.error;
+		// 표준 API 에러라면 코드와 설명을 함께 표시합니다.
+		if ( errorData &amp;&amp; errorData.info ) { return ( errorData.code ? errorData.code + ': ' : '' ) + errorData.info; }
+		return String( ( apiError &amp;&amp; ( apiError.text || apiError.exception ) ) || apiError );
+	}
+
+	// mw.Api 실패는 (코드, 결과) 인자로 거부되지만 .then 체인에서는 코드 문자열만 전달되므로,
+	// 모든 인자를 받는 .fail에서 결과 객체를 묶어 다시 거부합니다.
+	function normalizeApiPromise( apiPromise ) {
+		var wrapped = window.jQuery.Deferred();
+		apiPromise.done( function ( responseData ) {
+			wrapped.resolve( responseData );
+		} );
+		apiPromise.fail( function ( apiErrorCode, apiResult ) {
+			var errorData = apiResult &amp;&amp; ( apiResult.error || ( apiResult.errors &amp;&amp; apiResult.errors[ 0 ] ) ) || null;
+			wrapped.reject( {
+				code: apiErrorCode,
+				error: errorData,
+				text: apiResult &amp;&amp; apiResult.text,
+				exception: apiResult &amp;&amp; apiResult.exception
+			} );
+		} );
+		return wrapped.promise();
+	}
+
+	// MediaWiki API가 받아들이는 ISO 8601 타임스탬프 생성
+	function toApiTimestamp( date ) {
+		return date.toISOString().replace( /\.\d+Z$/, 'Z' );
+	}
+
+	// 가사 문서 위키텍스트 조회/저장 헬퍼 생성
+	function createLyricsRepository( mwApi ) {
+		return {
+			fetchWikitext: function ( documentTitle ) {
+				// 편집 시작 시각 — 저장 시 starttimestamp로 전달해 그 사이 문서 이동/삭제를 감지합니다.
+				var fetchStartTimestamp = toApiTimestamp( new Date() );
+				return normalizeApiPromise( mwApi.get( {
+					action: 'query',
+					prop: 'revisions',
+					titles: documentTitle,
+					rvslots: 'main',
+					rvprop: 'content|timestamp',
+					formatversion: 2
+				} ) ).then( function ( responseData ) {
+					var page = responseData &amp;&amp; responseData.query &amp;&amp; responseData.query.pages ? responseData.query.pages[ 0 ] : null;
+
+					// 문서가 존재하지 않으면 빈 내용의 새 문서로 취급합니다.
+					if ( !page || page.missing ) { return { text: '', baseTimestamp: '', startTimestamp: fetchStartTimestamp }; }
+					var revision = page.revisions &amp;&amp; page.revisions[ 0 ];
+					return {
+						text: revision &amp;&amp; revision.slots &amp;&amp; revision.slots.main ? revision.slots.main.content : '',
+						baseTimestamp: revision ? revision.timestamp : '',
+						startTimestamp: fetchStartTimestamp
+					};
+				} );
+			},
+			saveWikitext: function ( documentTitle, text, summary, baseTimestamp, startTimestamp ) {
+				var editParams = {
+					action: 'edit',
+					title: documentTitle,
+					text: text,
+					summary: summary
+				};
+				// 불러온 판의 시각과 편집 시작 시각을 넘겨 편집 충돌을 감지합니다.
+				if ( baseTimestamp ) { editParams.basetimestamp = baseTimestamp; }
+				if ( startTimestamp ) { editParams.starttimestamp = startTimestamp; }
+				return normalizeApiPromise( mwApi.postWithEditToken( editParams ) ).then( function ( responseData ) {
+					// 무변경(null edit) 편집도 성공으로 처리합니다.
+					return !!( responseData &amp;&amp; responseData.edit &amp;&amp; responseData.edit.result === 'Success' );
+				} );
+			},
+			purgePage: function ( documentTitle ) {
+				return normalizeApiPromise( mwApi.post( {
+					action: 'purge',
+					titles: documentTitle,
+					forcelinkupdate: 1
+				} ) );
+			},
+			fetchWikitextDiff: function ( fromText, toText ) {
+				return normalizeApiPromise( mwApi.get( {
+					action: 'compare',
+					fromslots: 'main',
+					'fromtext-main': fromText,
+					toslots: 'main',
+					'totext-main': toText,
+					difftype: 'table',
+					formatversion: 2
+				} ) ).then( function ( responseData ) {
+					return responseData &amp;&amp; responseData.compare &amp;&amp; responseData.compare.body ? responseData.compare.body : '';
+				} );
+			}
+		};
+	}
+
+	// 현재 문서 제목 반환 — wgPageName은 URL 형식이므로 밑줄을 공백으로 되돌립니다.
+	function getCurrentPageTitle() {
+		try { return String( mw.config.get( 'wgPageName' ) || '' ).replace( /_/g, ' ' ); } catch ( error ) { return ''; }
+	}
+
+	// 가사 문서 제목 생성 — mw.Title로 정규화된 문서 제목을 만들어 반환합니다.
+	// 곡 문서 제목이나 변형 이름에 제목으로 쓸 수 없는 문자가 포함되었다면 null을 반환합니다.
+	function buildLyricsDocumentTitle( songPageTitle, variationName ) {
+		var rawTitle = MESSAGES.documentNamespacePrefix + songPageTitle + ( variationName ? '/' + variationName : '' );
+		try {
+			var title = mw.Title.newFromText( rawTitle );
+			return title ? title.getPrefixedText() : null;
+		} catch ( error ) {
+			return null;
+		}
+	}
+
+	// 전역 표시 상태 생성
+	function createGlobalDisplayState( Vue ) {
+		return Vue.reactive( {
+			isMultimodeEnabled: readFromStorage( STORAGE_KEYS.multimode ) === 'true',
+			fontSize: readFromStorage( STORAGE_KEYS.fontSize ) || 'medium',
+			fontFamily: readFromStorage( STORAGE_KEYS.fontFamily ) || 'default',
+			textAlignment: readFromStorage( STORAGE_KEYS.align ) || 'left',
+			lineHeight: readFromStorage( STORAGE_KEYS.lineHeight ) || 'normal',
+			letterSpacing: readFromStorage( STORAGE_KEYS.letterSpacing ) || 'normal'
+		} );
+	}
+
+	// 다른 탭의 저장소 변경을 전역 상태에 동기화
+	function syncDisplayStateWithStorage( globalDisplayState ) {
+		try {
+			window.addEventListener( 'storage', function ( storageEvent ) {
+				// 변경된 저장소 키에 따라 상태를 갱신합니다.
+				if ( storageEvent.key === STORAGE_KEYS.multimode ) {
+					globalDisplayState.isMultimodeEnabled = storageEvent.newValue === 'true';
+				} else if ( storageEvent.key === STORAGE_KEYS.fontSize ) {
+					globalDisplayState.fontSize = storageEvent.newValue || 'medium';
+				} else if ( storageEvent.key === STORAGE_KEYS.fontFamily ) {
+					globalDisplayState.fontFamily = storageEvent.newValue || 'default';
+				} else if ( storageEvent.key === STORAGE_KEYS.align ) {
+					globalDisplayState.textAlignment = storageEvent.newValue || 'left';
+				} else if ( storageEvent.key === STORAGE_KEYS.lineHeight ) {
+					globalDisplayState.lineHeight = storageEvent.newValue || 'normal';
+				} else if ( storageEvent.key === STORAGE_KEYS.letterSpacing ) {
+					globalDisplayState.letterSpacing = storageEvent.newValue || 'normal';
+				}
+			} );
+		} catch ( error ) {}
+	}
+
+	// 가사 변형 데이터 수집
+	function collectVariationData( viewerContainer ) {
+		var variationElements = Array.from(
+			viewerContainer.querySelectorAll( '.mw--lyrics-variation[data-lyric-variation]' )
+		);
+		var variationValues = variationElements.map( function ( element ) {
+			return element.getAttribute( 'data-lyric-variation' ) || '';
+		} );
+		var hasNonDefaultVariation = variationValues.some( function ( value ) { return value !== ''; } );
+		var existingVariationSet = new Set( variationValues );
+		var variationToggleButtons = variationValues.map( function ( value ) {
+			return { value: value, label: value === '' ? MESSAGES.defaultVariationLabel : value };
+		} );
+		var shouldShowVariationToggle = hasNonDefaultVariation &amp;&amp; variationValues.length &gt; 1;
+
+		return {
+			variationElements: variationElements,
+			variationValues: variationValues,
+			existingVariationSet: existingVariationSet,
+			variationToggleButtons: variationToggleButtons,
+			shouldShowVariationToggle: shouldShowVariationToggle
+		};
+	}
+
+	// 서버 렌더링된 뷰어 바 참조
+	function findViewerBar( viewerContainer ) {
+		var viewerBar = viewerContainer.querySelector( ':scope &gt; .mw--lyrics-viewer-bar' );
+
+		// 뷰어 바가 없다면 경고를 남기고 null을 반환합니다.
+		if ( !viewerBar ) {
+			debugWarn( '컨테이너 안에서 .mw--lyrics-viewer-bar를 찾을 수 없어 Viewer를 초기화하지 않습니다. 서버 마크업에 뷰어 바가 렌더링되어 있는지 확인하세요.' );
+			return null;
+		}
+
+		return viewerBar;
+	}
+
+	// 가로 넘침이 실제로 생겼는지 확인해 컨테이너 속성을 갱신
+	function updateOverflowState( viewerContainer ) {
+		// 변형 컨테이너가 없다면 경고를 남기고 판단하지 않습니다.
+		var variationContainer = viewerContainer.querySelector( '.mw--lyrics-variation-container' );
+		if ( !variationContainer ) {
+			debugWarn( '컨테이너 안에서 .mw--lyrics-variation-container를 찾을 수 없어 가로 넘침을 판정하지 않습니다.' );
+			return;
+		}
+
+		// float 해제(clear)가 적용된 상태에서는 폭이 넓어져 판정이 뒤집히고, 해제→재적용이 무한 반복될 수 있습니다.
+		// 속성을 잠시 지운 '해제 상태'에서 측정해 판정한 뒤 필요하면 다시 적용합니다 — 동기 실행이라 중간 상태는 화면에 그려지지 않습니다.
+		if ( viewerContainer.getAttribute( 'data-lyrics-viewer-overflow' ) === 'true' ) {
+			viewerContainer.removeAttribute( 'data-lyrics-viewer-overflow' );
+		}
+
+		// 변형 컨테이너 자신의 넘침은 overflow-X 값과 무관하게 검사합니다 —
+		// Citizen 스킨처럼 컨테이너가 직접 스크롤하지 않고 넘친 내용을 상위 상자가 스크롤/클립하는 환경이 있기 때문입니다.
+		var hasOverflow = variationContainer.scrollWidth &gt; variationContainer.clientWidth;
+
+		if ( !hasOverflow ) {
+			// 컨테이너에서 넘치지 않았다면 넘친 내용을 잘라내는 상위 상자가 있는지 확인합니다.
+			var current = variationContainer.parentElement;
+			while ( current &amp;&amp; current !== document.documentElement ) {
+				if ( current.scrollWidth &gt; current.clientWidth ) {
+					var overflowX = window.getComputedStyle( current ).overflowX;
+					if ( overflowX !== 'visible' ) { hasOverflow = true; break; }
+				}
+				current = current.parentElement;
+			}
+		}
+
+		debugLog( '가로 넘침 판정:', variationContainer, '컨테이너:', variationContainer.scrollWidth + '/' + variationContainer.clientWidth, '→ 넘침:', hasOverflow );
+
+		if ( hasOverflow ) { viewerContainer.setAttribute( 'data-lyrics-viewer-overflow', 'true' ); }
+	}
+
+	// 가사 표시/숨김 적용 함수 생성
+	function createVariationApplier( viewerContainer, variationElements ) {
+		// 창 크기 변경 등으로 컨테이너 폭이 변하면 스크롤 여부를 다시 판단합니다.
+		try {
+			var variationContainer = viewerContainer.querySelector( '.mw--lyrics-variation-container' );
+			if ( variationContainer &amp;&amp; typeof window.ResizeObserver === 'function' ) {
+				new window.ResizeObserver( function () { updateOverflowState( viewerContainer ); } ).observe( variationContainer );
+			}
+		} catch ( error ) {}
+
+		return function ( singleSelectedValue, multiSelectedValues, isMultimodeActive ) {
+			// 다중 선택 여부에 따라 표시할 집합을 결정합니다.
+			var visibleSet;
+			if ( isMultimodeActive ) {
+				visibleSet = new Set( multiSelectedValues.length ? multiSelectedValues : [ singleSelectedValue ] );
+			} else {
+				visibleSet = new Set( [ singleSelectedValue ] );
+			}
+
+			// 각 변형 요소의 표시 여부 갱신
+			variationElements.forEach( function ( element ) {
+				var variationValue = element.getAttribute( 'data-lyric-variation' ) || '';
+				element.hidden = !visibleSet.has( variationValue );
+			} );
+
+			// 라벨 표시를 다중 선택 모드에 맞춰 갱신합니다.
+			viewerContainer.querySelectorAll( '.ts-lyric-label' ).forEach( function ( lyricLabel ) { lyricLabel.hidden = !isMultimodeActive; } );
+
+			// 다중 선택 모드에 따라 컨테이너 속성을 갱신합니다.
+			if ( isMultimodeActive ) {
+				viewerContainer.setAttribute( 'data-lyrics-viewer-multimode', 'true' );
+			} else {
+				viewerContainer.removeAttribute( 'data-lyrics-viewer-multimode' );
+			}
+
+			// 표시 변화로 가로 스크롤 생김 여부가 달라질 수 있으니 함께 갱신합니다.
+			updateOverflowState( viewerContainer );
+		};
+	}
+
+	// 글자 크기/글꼴/정렬/줄 간격/글자 간격 적용 함수 생성
+	function createStyleApplier( viewerContainer ) {
+		return function ( fontSizeValue, fontFamilyValue, alignmentValue, lineHeightValue, letterSpacingValue ) {
+			// 각 가사 본문에 스타일 적용
+			viewerContainer.querySelectorAll( '.ts-lyric-content' ).forEach( function ( contentElement ) {
+				contentElement.style.fontSize = FONT_SIZE_MAP[ fontSizeValue ] || '';
+				contentElement.style.fontFamily = FONT_FAMILY_MAP[ fontFamilyValue ] || '';
+				contentElement.style.lineHeight = LINE_HEIGHT_MAP[ lineHeightValue ] || '';
+				contentElement.style.letterSpacing = LETTER_SPACING_MAP[ letterSpacingValue ] || '';
+				// 정렬 값에 따라 텍스트 정렬을 갱신합니다.
+				if ( alignmentValue === 'left' || !alignmentValue ) {
+					contentElement.style.textAlign = '';
+				} else {
+					contentElement.style.textAlign = alignmentValue;
+				}
+			} );
+		};
+	}
+
+	// 표시 대상 컨테이너 수집
+	function collectViewerTargets( seenContainers ) {
+		var allMainMarkers = document.querySelectorAll( '[data-lyric-mainpage]' );
+		var targets = [];
+
+		allMainMarkers.forEach( function ( mainMarkerElement ) {
+			var viewerContainer = mainMarkerElement.closest( '.mw--lyrics-container' );
+
+			// 유효하지 않은 컨테이너는 건너뜁니다.
+			if ( !viewerContainer ) { return; }
+
+			// 이미 처리한 컨테이너는 건너뜁니다.
+			if ( seenContainers.has( viewerContainer ) ) { return; }
+			seenContainers.add( viewerContainer );
+
+			// 마운트에 성공한 컨테이너는 건너뜁니다.
+			if ( viewerContainer.dataset.lyricsViewerMounted === '1' ) { return; }
+
+			targets.push( { mainMarkerElement: mainMarkerElement, viewerContainer: viewerContainer } );
+		} );
+
+		return targets;
+	}
+
+	// Codex 아이콘 로드 및 디버그 상태 노출
+	function setupCodexIcons( Codex, iconAddRef, iconEditRef, iconSettingsRef ) {
+		var CdxIcon = Codex.CdxIcon;
+
+		var initialApiUrl = buildCodexIconsApiUrl();
+		debugLog( 'list=codexicons API에서 아이콘 동적 로드:', initialApiUrl );
+		fetchIconsFromApi( function ( apiIcons ) {
+			// 받은 아이콘을 ref에 반영합니다.
+			if ( apiIcons.cdxIconAdd ) { iconAddRef.value = apiIcons.cdxIconAdd; debugLog( 'API iconAdd 적용 완료' ); }
+			if ( apiIcons.cdxIconEdit ) { iconEditRef.value = apiIcons.cdxIconEdit; debugLog( 'API iconEdit 적용 완료' ); }
+			if ( apiIcons.cdxIconSettings ) { iconSettingsRef.value = apiIcons.cdxIconSettings; debugLog( 'API iconSettings 적용 완료' ); }
+			try {
+				window.__lyricsViewerDebug.lastApiIcons = apiIcons;
+				window.__lyricsViewerDebug.lastIconAdd = iconAddRef.value;
+				window.__lyricsViewerDebug.lastIconEdit = iconEditRef.value;
+				window.__lyricsViewerDebug.lastIconSettings = iconSettingsRef.value;
+			} catch ( error2 ) {}
+		} );
+
+		try {
+			window.__lyricsViewerDebug.lastIconAdd = iconAddRef.value;
+			window.__lyricsViewerDebug.lastIconEdit = iconEditRef.value;
+			window.__lyricsViewerDebug.lastIconSettings = iconSettingsRef.value;
+			window.__lyricsViewerDebug.getIconState = function () {
+				return {
+					hasIconAdd: !!iconAddRef.value,
+					hasIconEdit: !!iconEditRef.value,
+					hasIconSettings: !!iconSettingsRef.value,
+					iconAddSource: iconAddRef.value ? 'api-list=codexicons' : 'missing',
+					iconEditSource: iconEditRef.value ? 'api-list=codexicons' : 'missing',
+					iconSettingsSource: iconSettingsRef.value ? 'api-list=codexicons' : 'missing',
+					hasCdxIcon: !!CdxIcon
+				};
+			};
+		} catch ( error ) {}
+
+		// CdxIcon이 없다면 경고를 남깁니다.
+		if ( !CdxIcon ) { debugWarn( 'Codex CdxIcon 컴포넌트를 찾을 수 없습니다. Codex 버전이 오래되었거나 모듈이 잘못 로드되었을 수 있습니다. Codex.CdxIcon 존재 여부를 확인하세요.' ); }
+
+		return CdxIcon;
+	}
+
+	// 뷰어별 반응형 상태 생성
+	function createViewerState( Vue ) {
+		return Vue.reactive( {
+			singleSelection: '',
+			multiSelection: [ '' ],
+			isDialogOpen: false,
+			isPopoverOpen: false,
+			isEditModalOpen: false,
+			editTargetTitle: '',
+			wikitext: '',
+			originalWikitext: '',
+			baseTimestamp: '',
+			startTimestamp: '',
+			editSummary: '',
+			isFetchingWikitext: false,
+			isSavingWikitext: false,
+			editErrorMessage: '',
+			isDiffShown: false,
+			isDiffLoading: false,
+			diffHtml: '',
+			diffErrorMessage: ''
+		} );
+	}
+
+	// 초기 표시 상태 적용
+	function applyInitialViewerDisplay( viewerState, globalDisplayState, applyVariationVisibility, applyDisplayStyles ) {
+		applyVariationVisibility( viewerState.singleSelection, viewerState.multiSelection, globalDisplayState.isMultimodeEnabled );
+		applyDisplayStyles( globalDisplayState.fontSize, globalDisplayState.fontFamily, globalDisplayState.textAlignment, globalDisplayState.lineHeight, globalDisplayState.letterSpacing );
+	}
+
+	// 표시 상태 변경 감시
+	function watchViewerDisplayChanges( Vue, viewerState, globalDisplayState, applyVariationVisibility, applyDisplayStyles ) {
+		// 다중 선택 모드 변경 감시
+		Vue.watch( function () { return globalDisplayState.isMultimodeEnabled; }, function ( isActive ) {
+			// 다중 선택 모드가 활성화되어 있나요?
+			if ( isActive ) {
+				// 활성화됨 — 다중 선택이 비어 있다면 단일 선택으로 채웁니다.
+				if ( !viewerState.multiSelection.length ) { viewerState.multiSelection = [ viewerState.singleSelection || '' ]; }
+			} else if ( viewerState.multiSelection.length ) {
+				// 비활성화됨 — 첫 선택을 단일 선택으로 복원합니다.
+				viewerState.singleSelection = viewerState.multiSelection[ 0 ];
+			}
+			applyVariationVisibility( viewerState.singleSelection, viewerState.multiSelection, isActive );
+		} );
+
+		// 글자/글꼴/정렬/줄 간격/글자 간격 변경 감시
+		Vue.watch( function () { return [ globalDisplayState.fontSize, globalDisplayState.fontFamily, globalDisplayState.textAlignment, globalDisplayState.lineHeight, globalDisplayState.letterSpacing ]; }, function () {
+			applyDisplayStyles( globalDisplayState.fontSize, globalDisplayState.fontFamily, globalDisplayState.textAlignment, globalDisplayState.lineHeight, globalDisplayState.letterSpacing );
+		} );
+	}
+
+	// 토글 값 바인딩 생성
+	function buildToggleBinding( Vue, viewerState, globalDisplayState, applyVariationVisibility ) {
+		return Vue.computed( {
+			get: function () {
+				return globalDisplayState.isMultimodeEnabled ? viewerState.multiSelection : viewerState.singleSelection;
+			},
+			set: function ( newValue ) {
+				// 배열 값인가요? (다중 선택)
+				if ( Array.isArray( newValue ) ) {
+					// 배열 — 빈 배열이라면 무시합니다.
+					if ( !newValue.length ) { return; }
+					// 배열 — 다중 선택 갱신
+					viewerState.multiSelection = newValue.slice();
+				} else {
+					// 단일 값 — 단일 선택 갱신
+					viewerState.singleSelection = newValue == null ? '' : String( newValue );
+
+					// 다중 선택이 단일 항목이라면 동기화합니다.
+					if ( viewerState.multiSelection.length === 1 ) { viewerState.multiSelection = [ viewerState.singleSelection ]; }
+				}
+				applyVariationVisibility(
+					viewerState.singleSelection,
+					viewerState.multiSelection,
+					globalDisplayState.isMultimodeEnabled
+				);
+			}
+		} );
+	}
+
+	// Dialog 상태와 동작 생성
+	function buildDialogBindings( Vue, viewerState, songPageTitle, existingVariationSet, openEditModal ) {
+		var selectedType = Vue.ref( '' );
+		var customVariationName = Vue.ref( '' );
+
+		// 라디오 그룹 이름 — 뷰어마다 독립된 그룹이 되도록 고유한 값을 만듭니다.
+		var lyricTypeRadioGroupName = 'mw-lyrics-viewer-lyric-type-' + ( ++radioGroupCounter );
+
+		var dialogOpen = Vue.computed( {
+			get: function () { return viewerState.isDialogOpen; },
+			set: function ( value ) { viewerState.isDialogOpen = value; }
+		} );
+
+		// 대상 문서 제목 계산 — 유효하지 않은 제목은 null이 되어 프리뷰가 비활성화됩니다.
+		var previewDocumentTitle = Vue.computed( function () {
+			// 표준 유형이 선택되었다면 해당 유형 이름으로 제목을 만듭니다.
+			if ( selectedType.value &amp;&amp; selectedType.value !== '__custom' ) { return buildLyricsDocumentTitle( songPageTitle, selectedType.value ); }
+
+			// 표준 유형이 아니라면 입력된 사용자 지정 이름으로 제목을 만듭니다.
+			var trimmedCustomName = customVariationName.value.trim();
+			return trimmedCustomName ? buildLyricsDocumentTitle( songPageTitle, trimmedCustomName ) : '';
+		} );
+
+		// 이미 존재하는 문서인지 계산
+		var alreadyExists = Vue.computed( function () {
+			// 제목이 비어 있다면 존재하지 않습니다.
+			if ( !previewDocumentTitle.value ) { return false; }
+			var variationName = ( previewDocumentTitle.value.split( '/' ).pop() || '' );
+			return existingVariationSet.has( variationName );
+		} );
+
+		// 주 동작 버튼 정의
+		var primaryAction = Vue.computed( function () {
+			return {
+				label: alreadyExists.value ? MESSAGES.editLabel : MESSAGES.createLabel,
+				actionType: 'progressive',
+				disabled: !previewDocumentTitle.value
+			};
+		} );
+		var defaultAction = { label: MESSAGES.closeLabel };
+
+		// 주 동작 실행 — 편집 모달 열기
+		function handlePrimaryAction() {
+			// 대상 문서 제목이 없다면 중단합니다.
+			if ( !previewDocumentTitle.value ) { return; }
+			viewerState.isDialogOpen = false;
+			openEditModal( previewDocumentTitle.value );
+		}
+
+		// Dialog 닫힘 감시
+		Vue.watch( function () { return viewerState.isDialogOpen; }, function ( isOpen ) {
+			// 닫혔다면 선택을 초기화합니다.
+			if ( !isOpen ) { selectedType.value = ''; customVariationName.value = ''; }
+		} );
+
+		return {
+			selectedType: selectedType,
+			customVariationName: customVariationName,
+			dialogOpen: dialogOpen,
+			previewDocumentTitle: previewDocumentTitle,
+			lyricTypeRadioGroupName: lyricTypeRadioGroupName,
+			primaryAction: primaryAction,
+			defaultAction: defaultAction,
+			handlePrimaryAction: handlePrimaryAction
+		};
+	}
+
+	// 편집 모달 상태와 동작 생성
+	function buildEditModalBindings( Vue, viewerState, lyricsRepository, currentPageTitle ) {
+		var editModalOpen = Vue.computed( {
+			get: function () { return viewerState.isEditModalOpen; },
+			set: function ( value ) {
+				// 닫기 시도인데 수정된 내용이 있다면 버릴지 브라우저 확인 대화상자로 묻습니다.
+				if ( !value &amp;&amp; viewerState.wikitext !== viewerState.originalWikitext &amp;&amp; !window.confirm( MESSAGES.unsavedChangesMessage ) ) { return; }
+				viewerState.isEditModalOpen = value;
+			}
+		} );
+
+		// 편집 모달에 저장하지 않은 변경 사항이 있을 때 탭 이동/새로고침을 경고합니다.
+		function handleBeforeUnload( beforeUnloadEvent ) {
+			if ( !viewerState.isEditModalOpen || viewerState.wikitext === viewerState.originalWikitext ) { return; }
+			beforeUnloadEvent.preventDefault();
+			// Chrome은 returnValue가 설정되어야 대화상자를 표시합니다.
+			beforeUnloadEvent.returnValue = '';
+		}
+		window.addEventListener( 'beforeunload', handleBeforeUnload );
+
+		// 모달 내부 입력 상태를 뷰어 상태와 연결합니다.
+		var editTargetTitle = Vue.computed( function () { return viewerState.editTargetTitle; } );
+		var wikitext = Vue.computed( {
+			get: function () { return viewerState.wikitext; },
+			set: function ( value ) { viewerState.wikitext = value; }
+		} );
+		var editSummary = Vue.computed( {
+			get: function () { return viewerState.editSummary; },
+			set: function ( value ) { viewerState.editSummary = value; }
+		} );
+
+		// 저장 중에는 주 동작을 막습니다.
+		var saveAction = Vue.computed( function () {
+			return {
+				label: MESSAGES.saveLabel,
+				actionType: 'progressive',
+				disabled: viewerState.isFetchingWikitext || viewerState.isSavingWikitext
+			};
+		} );
+		var cancelAction = { label: MESSAGES.closeLabel };
+
+		// 모달 열기 — 대상 문서의 위키텍스트를 불러옵니다.
+		var fetchSequence = 0;
+		function openEditModal( documentTitle ) {
+			var requestSequence = ++fetchSequence;
+			viewerState.editTargetTitle = documentTitle;
+			viewerState.wikitext = '';
+			viewerState.originalWikitext = '';
+			viewerState.baseTimestamp = '';
+			viewerState.startTimestamp = '';
+			viewerState.editSummary = '';
+			viewerState.editErrorMessage = '';
+			viewerState.diffHtml = '';
+			viewerState.diffErrorMessage = '';
+			viewerState.isDiffShown = false;
+			viewerState.isEditModalOpen = true;
+			viewerState.isFetchingWikitext = true;
+			lyricsRepository.fetchWikitext( documentTitle ).then( function ( fetchedRevision ) {
+				// 다른 문서 요청이 시작되었다면 이전 요청의 결과를 반영하지 않습니다.
+				if ( requestSequence !== fetchSequence ) { return; }
+				viewerState.wikitext = fetchedRevision.text;
+				viewerState.originalWikitext = fetchedRevision.text;
+				viewerState.baseTimestamp = fetchedRevision.baseTimestamp;
+				viewerState.startTimestamp = fetchedRevision.startTimestamp;
+			}, function ( fetchError ) {
+				// 다른 문서 요청이 시작되었다면 이전 요청의 결과를 반영하지 않습니다.
+				if ( requestSequence !== fetchSequence ) { return; }
+				viewerState.editErrorMessage = formatApiError( fetchError );
+			} ).then( function () {
+				// 다른 문서 요청이 시작되었다면 이전 요청의 로딩 상태를 반영하지 않습니다.
+				if ( requestSequence !== fetchSequence ) { return; }
+				viewerState.isFetchingWikitext = false;
+			} );
+		}
+
+		// 편집 저장 — 곡 문서 캐시를 정리한 뒤 페이지를 새로고칩니다.
+		function handleEditSave() {
+			// 저장이 이미 진행 중이라면 중단합니다.
+			if ( viewerState.isSavingWikitext ) { return; }
+			viewerState.isSavingWikitext = true;
+			viewerState.editErrorMessage = '';
+			lyricsRepository.saveWikitext( viewerState.editTargetTitle, viewerState.wikitext, viewerState.editSummary, viewerState.baseTimestamp, viewerState.startTimestamp ).then( function ( saveSucceeded ) {
+				// API 오류가 아니어도 저장이 성공하지 않았다면 새로고침하지 않고 안내합니다.
+				if ( !saveSucceeded ) {
+					viewerState.isSavingWikitext = false;
+					viewerState.editErrorMessage = MESSAGES.saveFailedMessage;
+					return;
+				}
+				// 트랜스클루전된 가사를 갱신하기 위해 현재 문서에 purge를 수행합니다.
+				// 저장에 성공했으므로 현재 내용을 기준으로 삼아 나감 경고가 발동하지 않게 합니다.
+				viewerState.originalWikitext = viewerState.wikitext;
+				lyricsRepository.purgePage( currentPageTitle ).then( function ( purgeResponse ) {
+					debugLog( '현재 문서 purge 완료:', currentPageTitle, purgeResponse );
+					window.location.reload();
+				}, function ( purgeError ) {
+					// 캐시 정리에 실패해도 저장은 완료된 상태이므로 새로고침합니다.
+					debugWarn( '곡 문서 캐시 정리에 실패했습니다: ' + formatApiError( purgeError ) );
+					window.location.reload();
+				} );
+			}, function ( saveError ) {
+				viewerState.isSavingWikitext = false;
+				viewerState.editErrorMessage = formatApiError( saveError );
+			} );
+		}
+
+		// 대상 문서 링크 URL 생성
+		var editTargetUrl = Vue.computed( function () {
+			try { return mw.util.getUrl( viewerState.editTargetTitle ); } catch ( error ) { return ''; }
+		} );
+
+		// 차이 보기 — 불러온 내용과 현재 내용의 차이를 요청합니다.
+		var diffSequence = 0;
+		function handleDiffRefresh() {
+			var requestSequence = ++diffSequence;
+			viewerState.isDiffShown = true;
+			viewerState.diffHtml = '';
+			viewerState.diffErrorMessage = '';
+
+			// 변경 전후가 모두 비어 있다면 요청 없이 차이 없음으로 처리합니다.
+			if ( !viewerState.originalWikitext &amp;&amp; !viewerState.wikitext ) { return; }
+			viewerState.isDiffLoading = true;
+
+			// 차이 표 스타일은 mediawiki.diff.styles 모듈이 제공합니다.
+			try {
+				mw.loader.using( 'mediawiki.diff.styles' ).catch( function () {
+					debugWarn( 'mediawiki.diff.styles 모듈을 불러오지 못했습니다.' );
+				} );
+			} catch ( error ) {}
+
+			lyricsRepository.fetchWikitextDiff( viewerState.originalWikitext, viewerState.wikitext ).then( function ( diffHtml ) {
+				// 다른 차이 요청이 시작되었다면 이전 요청의 결과를 반영하지 않습니다.
+				if ( requestSequence !== diffSequence ) { return; }
+				viewerState.diffHtml = diffHtml;
+			}, function ( diffError ) {
+				// 다른 차이 요청이 시작되었다면 이전 요청의 결과를 반영하지 않습니다.
+				if ( requestSequence !== diffSequence ) { return; }
+				viewerState.diffErrorMessage = formatApiError( diffError );
+			} ).then( function () {
+				// 다른 차이 요청이 시작되었다면 이전 요청의 로딩 상태를 반영하지 않습니다.
+				if ( requestSequence !== diffSequence ) { return; }
+				viewerState.isDiffLoading = false;
+			} );
+		}
+
+		return {
+			editModalOpen: editModalOpen,
+			editTargetTitle: editTargetTitle,
+			editTargetUrl: editTargetUrl,
+			wikitext: wikitext,
+			editSummary: editSummary,
+			isFetchingWikitext: Vue.computed( function () { return viewerState.isFetchingWikitext; } ),
+			isSavingWikitext: Vue.computed( function () { return viewerState.isSavingWikitext; } ),
+			editErrorMessage: Vue.computed( function () { return viewerState.editErrorMessage; } ),
+			saveAction: saveAction,
+			cancelAction: cancelAction,
+			openEditModal: openEditModal,
+			handleEditSave: handleEditSave,
+			isDiffShown: Vue.computed( function () { return viewerState.isDiffShown; } ),
+			isDiffLoading: Vue.computed( function () { return viewerState.isDiffLoading; } ),
+			diffHtml: Vue.computed( function () { return viewerState.diffHtml; } ),
+			diffErrorMessage: Vue.computed( function () { return viewerState.diffErrorMessage; } ),
+			handleDiffRefresh: handleDiffRefresh
+		};
+	}
+
+	// Popover 앵커 상태 생성
+	function buildPopoverAnchor( Vue ) {
+		var settingsButtonAnchorRef = Vue.ref( null );
+		var settingsButtonAnchorEl = Vue.computed( function () {
+			var raw = settingsButtonAnchorRef.value;
+			// 컴포넌트 래퍼라면 내부 엘리먼트를 반환합니다.
+			if ( raw &amp;&amp; raw.$el ) { return raw.$el; }
+			// 일반 엘리먼트 — 그대로 반환합니다.
+			return raw;
+		} );
+		return { settingsButtonAnchorRef: settingsButtonAnchorRef, settingsButtonAnchorEl: settingsButtonAnchorEl };
+	}
+
+	// 표시 설정 버튼 목록 생성
+	function buildDisplaySettingButtons() {
+		return {
+			fontSizeButtons: [
+				{ value: 'small', label: MESSAGES.fontSizeSmall },
+				{ value: 'medium', label: MESSAGES.fontSizeMedium },
+				{ value: 'large', label: MESSAGES.fontSizeLarge }
+			],
+			fontFamilyButtons: [
+				{ value: 'default', label: MESSAGES.fontFamilyDefault },
+				{ value: 'serif', label: MESSAGES.fontFamilySerif },
+				{ value: 'sans-serif', label: MESSAGES.fontFamilySans },
+				{ value: 'monospace', label: MESSAGES.fontFamilyMono }
+			],
+			alignmentButtons: [
+				{ value: 'left', label: MESSAGES.alignLeft },
+				{ value: 'center', label: MESSAGES.alignCenter },
+				{ value: 'right', label: MESSAGES.alignRight }
+			],
+			lineHeightButtons: [
+				{ value: 'narrow', label: MESSAGES.lineHeightNarrow },
+				{ value: 'normal', label: MESSAGES.lineHeightNormal },
+				{ value: 'wide', label: MESSAGES.lineHeightWide }
+			],
+			letterSpacingButtons: [
+				{ value: 'narrow', label: MESSAGES.letterSpacingNarrow },
+				{ value: 'normal', label: MESSAGES.letterSpacingNormal },
+				{ value: 'wide', label: MESSAGES.letterSpacingWide }
+			]
+		};
+	}
+
+	// 표시 설정 변경 핸들러 생성
+	function buildDisplaySettingHandlers( globalDisplayState ) {
+		return {
+			handleMultimodeChange: function ( value ) {
+				globalDisplayState.isMultimodeEnabled = !!value;
+				writeToStorage( STORAGE_KEYS.multimode, String( globalDisplayState.isMultimodeEnabled ) );
+			},
+			handleFontSizeChange: function ( value ) {
+				globalDisplayState.fontSize = String( value );
+				writeToStorage( STORAGE_KEYS.fontSize, globalDisplayState.fontSize );
+			},
+			handleFontFamilyChange: function ( value ) {
+				globalDisplayState.fontFamily = String( value );
+				writeToStorage( STORAGE_KEYS.fontFamily, globalDisplayState.fontFamily );
+			},
+			handleAlignmentChange: function ( value ) {
+				globalDisplayState.textAlignment = String( value );
+				writeToStorage( STORAGE_KEYS.align, globalDisplayState.textAlignment );
+			},
+			handleLineHeightChange: function ( value ) {
+				globalDisplayState.lineHeight = String( value );
+				writeToStorage( STORAGE_KEYS.lineHeight, globalDisplayState.lineHeight );
+			},
+			handleLetterSpacingChange: function ( value ) {
+				globalDisplayState.letterSpacing = String( value );
+				writeToStorage( STORAGE_KEYS.letterSpacing, globalDisplayState.letterSpacing );
+			}
+		};
+	}
+
+	// Settings Popover 상태와 버튼 생성
+	function buildSettingsBindings( Vue, viewerState, globalDisplayState, Codex ) {
+		var anchor = buildPopoverAnchor( Vue );
+		var buttons = buildDisplaySettingButtons();
+		var handlers = buildDisplaySettingHandlers( globalDisplayState );
+
+		var popoverOpen = Vue.computed( {
+			get: function () { return viewerState.isPopoverOpen; },
+			set: function ( value ) { viewerState.isPopoverOpen = value; }
+		} );
+
+		return {
+			settingsButtonAnchorRef: anchor.settingsButtonAnchorRef,
+			settingsButtonAnchorEl: anchor.settingsButtonAnchorEl,
+			popoverOpen: popoverOpen,
+			fontSizeButtons: buttons.fontSizeButtons,
+			fontFamilyButtons: buttons.fontFamilyButtons,
+			alignmentButtons: buttons.alignmentButtons,
+			lineHeightButtons: buttons.lineHeightButtons,
+			letterSpacingButtons: buttons.letterSpacingButtons,
+			handleMultimodeChange: handlers.handleMultimodeChange,
+			handleFontSizeChange: handlers.handleFontSizeChange,
+			handleFontFamilyChange: handlers.handleFontFamilyChange,
+			handleAlignmentChange: handlers.handleAlignmentChange,
+			handleLineHeightChange: handlers.handleLineHeightChange,
+			handleLetterSpacingChange: handlers.handleLetterSpacingChange,
+			isToggleSwitchAvailable: !!Codex.CdxToggleSwitch
+		};
+	}
+
+	// Codex 컴포넌트 등록
+	function registerViewerComponents( viewerApp, Codex ) {
+		viewerApp.component( 'cdx-button', Codex.CdxButton );
+		viewerApp.component( 'cdx-toggle-button-group', Codex.CdxToggleButtonGroup );
+		viewerApp.component( 'cdx-dialog', Codex.CdxDialog );
+		viewerApp.component( 'cdx-popover', Codex.CdxPopover );
+		viewerApp.component( 'cdx-icon', Codex.CdxIcon );
+		viewerApp.component( 'cdx-text-input', Codex.CdxTextInput );
+		viewerApp.component( 'cdx-text-area', Codex.CdxTextArea );
+
+		// Tooltip directive가 제공되면 등록합니다.
+		if ( Codex.CdxTooltip ) { viewerApp.directive( 'tooltip', Codex.CdxTooltip ); }
+
+		// 선택적 Codex 컴포넌트가 제공되면 등록합니다.
+		if ( Codex.CdxToggleSwitch ) { viewerApp.component( 'cdx-toggle-switch', Codex.CdxToggleSwitch ); }
+		if ( Codex.CdxMessage ) { viewerApp.component( 'cdx-message', Codex.CdxMessage ); }
+		if ( Codex.CdxField ) { viewerApp.component( 'cdx-field', Codex.CdxField ); }
+		if ( Codex.CdxLabel ) { viewerApp.component( 'cdx-label', Codex.CdxLabel ); }
+	}
+
+	// 단일 Viewer Vue 앱 생성 및 마운트
+	function createViewerApp( viewerBar, songPageTitle, variationData, viewerState, globalDisplayState, editModalBindings, iconAddRef, iconEditRef, iconSettingsRef, applyVariationVisibility, Vue, Codex ) {
+		// 토글 바인딩 생성
+		var toggleValue = buildToggleBinding( Vue, viewerState, globalDisplayState, applyVariationVisibility );
+
+		// Dialog 상태 생성
+		var dialogBindings = buildDialogBindings( Vue, viewerState, songPageTitle, variationData.existingVariationSet, editModalBindings.openEditModal );
+
+		// Settings 상태 생성
+		var settingsBindings = buildSettingsBindings( Vue, viewerState, globalDisplayState, Codex );
+
+		// 툴팁 디렉티브 사용 가능 여부
+		var tooltipDirectiveAvailable = !!Codex.CdxTooltip;
+
+		// Vue 앱 생성
+		var viewerApp = Vue.createMwApp( {
+			setup: function () {
+				return {
+					messages: MESSAGES,
+					shouldShowVariationToggle: variationData.shouldShowVariationToggle,
+					variationToggleButtons: variationData.variationToggleButtons,
+					toggleValue: toggleValue,
+					displayState: globalDisplayState,
+					selectedType: dialogBindings.selectedType,
+					customVariationName: dialogBindings.customVariationName,
+					lyricTypeRadioGroupName: dialogBindings.lyricTypeRadioGroupName,
+					dialogOpen: dialogBindings.dialogOpen,
+					previewDocumentTitle: dialogBindings.previewDocumentTitle,
+					primaryAction: dialogBindings.primaryAction,
+					defaultAction: dialogBindings.defaultAction,
+					handlePrimaryAction: dialogBindings.handlePrimaryAction,
+					standardTypes: STANDARD_LYRICS_TYPES,
+					songPageTitle: songPageTitle,
+					iconAdd: iconAddRef,
+					iconEdit: iconEditRef,
+					iconSettings: iconSettingsRef,
+					settingsButtonAnchorRef: settingsBindings.settingsButtonAnchorRef,
+					settingsButtonAnchorEl: settingsBindings.settingsButtonAnchorEl,
+					popoverOpen: settingsBindings.popoverOpen,
+					fontSizeButtons: settingsBindings.fontSizeButtons,
+					fontFamilyButtons: settingsBindings.fontFamilyButtons,
+					alignmentButtons: settingsBindings.alignmentButtons,
+					lineHeightButtons: settingsBindings.lineHeightButtons,
+					letterSpacingButtons: settingsBindings.letterSpacingButtons,
+					handleMultimodeChange: settingsBindings.handleMultimodeChange,
+					handleFontSizeChange: settingsBindings.handleFontSizeChange,
+					handleFontFamilyChange: settingsBindings.handleFontFamilyChange,
+					handleAlignmentChange: settingsBindings.handleAlignmentChange,
+					handleLineHeightChange: settingsBindings.handleLineHeightChange,
+					handleLetterSpacingChange: settingsBindings.handleLetterSpacingChange,
+					isToggleSwitchAvailable: settingsBindings.isToggleSwitchAvailable,
+					tooltipDirectiveAvailable: tooltipDirectiveAvailable,
+					editModalOpen: editModalBindings.editModalOpen,
+					editTargetTitle: editModalBindings.editTargetTitle,
+					wikitext: editModalBindings.wikitext,
+					editSummary: editModalBindings.editSummary,
+					isFetchingWikitext: editModalBindings.isFetchingWikitext,
+					isSavingWikitext: editModalBindings.isSavingWikitext,
+					editErrorMessage: editModalBindings.editErrorMessage,
+					saveAction: editModalBindings.saveAction,
+					cancelAction: editModalBindings.cancelAction,
+					handleEditSave: editModalBindings.handleEditSave,
+					editTargetUrl: editModalBindings.editTargetUrl,
+					isDiffShown: editModalBindings.isDiffShown,
+					isDiffLoading: editModalBindings.isDiffLoading,
+					diffHtml: editModalBindings.diffHtml,
+					diffErrorMessage: editModalBindings.diffErrorMessage,
+					handleDiffRefresh: editModalBindings.handleDiffRefresh,
+					isMessageAvailable: !!Codex.CdxMessage
+				};
+			},
+			template: VIEWER_TEMPLATE
+		} );
+
+		// Codex 컴포넌트 등록
+		registerViewerComponents( viewerApp, Codex );
+
+		// Viewer 마운트
+		viewerApp.mount( viewerBar );
+		return viewerApp;
+	}
+
+	// 각 변형의 .ts-lyric-content 우상단에 편집/생성 버튼 주입
+	function injectVariationEditButtons( songPageTitle, variationElements, Vue, Codex, iconAddRef, iconEditRef, openEditModal ) {
+		var buttonSlots = [];
+		variationElements.forEach( function ( variationElement ) {
+			var variationValue = variationElement.getAttribute( 'data-lyric-variation' ) || '';
+			var contentElement = variationElement.querySelector( '.ts-lyric-content' );
+
+			// 가사 본문이 없으면 건너뜁니다.
+			if ( !contentElement ) { return; }
+
+			// 이전 초기화 시도에서 만든 마운트 지점이 있다면 재사용해 중복 생성을 막습니다.
+			var mountPoint = contentElement.querySelector( ':scope &gt; .mw--lyrics-variation-edit' );
+			if ( !mountPoint ) {
+				mountPoint = document.createElement( 'div' );
+				mountPoint.className = 'mw--lyrics-variation-edit';
+				contentElement.appendChild( mountPoint );
+			}
+
+			// 내용이 없는 변형이면 추가 버튼으로 표시합니다.
+			buttonSlots.push( {
+				target: mountPoint,
+				variationValue: variationValue,
+				isExistingDocument: !contentElement.hasAttribute( 'data-empty' )
+			} );
+		} );
+
+		// 주입할 버튼이 없다면 앱을 만들지 않습니다.
+		if ( !buttonSlots.length ) { return; }
+
+		// 모든 버튼을 하나의 앱에서 렌더링해 각 마운트 지점으로 텔레포트합니다.
+		var editApp = Vue.createMwApp( {
+			setup: function () {
+				return {
+					iconAdd: iconAddRef,
+					iconEdit: iconEditRef,
+					messages: MESSAGES,
+					tooltipAvailable: !!Codex.CdxTooltip,
+					buttonSlots: buttonSlots,
+					handleEdit: function ( buttonSlot ) {
+						var documentTitle = buildLyricsDocumentTitle( songPageTitle, buttonSlot.variationValue );
+
+						// 제목을 만들 수 없는 변형이라면 모달을 열지 않습니다.
+						if ( documentTitle == null ) { debugWarn( '문서 제목을 만들 수 없어 편집을 시작하지 않습니다:', buttonSlot.variationValue ); return; }
+						openEditModal( documentTitle );
+					}
+				};
+			},
+			template: '&lt;teleport v-for="(buttonSlot, index) in buttonSlots" :key="index" :to="buttonSlot.target"&gt;&lt;cdx-button weight="quiet" size="small" :aria-label="buttonSlot.isExistingDocument ? messages.editButtonAriaLabel : messages.addVariationAriaLabel" v-tooltip="tooltipAvailable ? (buttonSlot.isExistingDocument ? messages.editButtonTooltip : messages.addVariationTooltip) : null" @click="handleEdit(buttonSlot)"&gt;&lt;cdx-icon v-if="buttonSlot.isExistingDocument ? iconEdit : iconAdd" :icon="buttonSlot.isExistingDocument ? iconEdit : iconAdd" size="small"&gt;&lt;/cdx-icon&gt;&lt;/cdx-button&gt;&lt;/teleport&gt;'
+		} );
+		editApp.component( 'cdx-button', Codex.CdxButton );
+		editApp.component( 'cdx-icon', Codex.CdxIcon );
+		if ( Codex.CdxTooltip ) { editApp.directive( 'tooltip', Codex.CdxTooltip ); }
+
+		// 앱 루트에는 텔레포트 앵커만 남으므로 화면에 표시되는 내용은 없습니다.
+		var appRoot = document.createElement( 'div' );
+		document.body.appendChild( appRoot );
+		editApp.mount( appRoot );
+	}
+
+	// 단일 Viewer 인스턴스 마운트
+	function mountSingleViewer( viewerContainer, mainMarkerElement, globalDisplayState, Vue, Codex, iconAddRef, iconEditRef, iconSettingsRef ) {
+		var songPageTitle = ( mainMarkerElement.getAttribute( 'data-lyric-mainpage' ) || '' ).trim();
+
+		// 변형 데이터 수집
+		var variationData = collectVariationData( viewerContainer );
+
+		// 변형 요소가 하나도 없다면 중단합니다.
+		if ( !variationData.variationElements.length ) { return null; }
+
+		// 서버 렌더링된 뷰어 바 참조
+		var viewerBar = findViewerBar( viewerContainer );
+
+		// 뷰어 바가 없다면 뷰어를 초기화하지 않습니다.
+		if ( !viewerBar ) { return null; }
+
+		// 기본 가사만 존재할 때 spacer를 앞으로 옮겨 추가/설정 버튼을 우측에 모읍니다.
+		viewerBar.classList.toggle( 'mw--lyrics-viewer-bar--no-variation-toggle', !variationData.shouldShowVariationToggle );
+
+		var applyVariationVisibility = createVariationApplier(
+			viewerContainer, variationData.variationElements
+		);
+		var applyDisplayStyles = createStyleApplier( viewerContainer );
+
+		// 뷰어 상태 생성
+		var viewerState = createViewerState( Vue );
+
+		// 편집 모달 상태 생성 — 에러 메시지를 화면 언어로 받기 위해 errorlang을 지정합니다.
+		var editModalBindings = buildEditModalBindings( Vue, viewerState, createLyricsRepository( new mw.Api( {
+			parameters: { errorlang: mw.config.get( 'wgUserLanguage' ) }
+		} ) ), getCurrentPageTitle() );
+
+		// 변형 편집/생성 버튼 주입
+		injectVariationEditButtons( songPageTitle, variationData.variationElements, Vue, Codex, iconAddRef, iconEditRef, editModalBindings.openEditModal );
+
+		// 초기 표시 반영
+		applyInitialViewerDisplay( viewerState, globalDisplayState, applyVariationVisibility, applyDisplayStyles );
+
+		// 표시 변경 감시
+		watchViewerDisplayChanges( Vue, viewerState, globalDisplayState, applyVariationVisibility, applyDisplayStyles );
+
+		// Vue 앱 생성 및 마운트
+		var viewerApp = createViewerApp(
+			viewerBar,
+			songPageTitle,
+			variationData,
+			viewerState,
+			globalDisplayState,
+			editModalBindings,
+			iconAddRef,
+			iconEditRef,
+			iconSettingsRef,
+			applyVariationVisibility,
+			Vue,
+			Codex
+		);
+
+		// 마운트에 성공했으므로 재초기화되지 않게 표시합니다. 실패한 컨테이너는 다음 초기화 때 재시도됩니다.
+		viewerContainer.dataset.lyricsViewerMounted = '1';
+
+		return viewerApp;
+	}
+
+	// ResourceLoader 모듈에서 라이브러리 추출
+	function extractViewerLibraries( requireFunction ) {
+		var vueLibrary = null;
+		var codexLibrary = null;
+		try { vueLibrary = requireFunction( 'vue' ); } catch ( error ) { vueLibrary = window.Vue; }
+		try { codexLibrary = requireFunction( '@wikimedia/codex' ); } catch ( error ) {
+			try { codexLibrary = requireFunction( 'codex' ); } catch ( innerError ) {}
+		}
+		return { vueLibrary: vueLibrary, codexLibrary: codexLibrary };
+	}
+
+	// 라이브러리 확보 후 마운트 시도 — 마운트 성공 여부를 반환합니다.
+	function tryMountViewers( requireFunction ) {
+		var libs = extractViewerLibraries( requireFunction );
+		debugLog( 'tryMount — vue:', !!libs.vueLibrary, 'codex:', !!libs.codexLibrary );
+
+		// Vue 또는 Codex를 찾지 못했다면 경고를 남기고 실패를 반환합니다.
+		if ( !libs.vueLibrary || !libs.codexLibrary ) {
+			debugWarn( 'Vue 또는 Codex 모듈을 찾을 수 없습니다. ResourceLoader 모듈명이 다른지 확인하세요. mw.loader.getState 확인 필요.' );
+			return false;
+		}
+
+		mountViewers( libs.vueLibrary, libs.codexLibrary );
+		return true;
+	}
+
+	// 'codex' 모듈명으로 재시도 — 오래된 MediaWiki/Codex 설치를 위한 대체 경로입니다.
+	function retryMountWithLegacyCodex() {
+		try {
+			mw.loader.using( [ 'vue', 'codex', 'mediawiki.api', 'mediawiki.Title' ] ).then( tryMountViewers ).catch( function () {
+				debugWarn( 'vue와 codex 모듈을 모두 불러오지 못해 Viewer를 초기화할 수 없습니다.' );
+			} );
+		} catch ( error ) {}
+	}
+
+	// 진입점 — ResourceLoader로 Vue/Codex를 불러온 뒤 Viewer를 마운트
+	function initializeViewers() {
+		// 새로고침 전 세션의 디버그 로그를 출력합니다.
+		if ( isDebugEnabled() ) { dumpBufferedDebugLogs(); }
+
+		// ResourceLoader로 Vue/Codex 로드
+		var basePromise;
+		try {
+			basePromise = mw.loader.using( [ 'vue', '@wikimedia/codex', 'mediawiki.api', 'mediawiki.Title' ] );
+		} catch ( error ) {
+			basePromise = null;
+		}
+
+		// Promise가 유효하지 않다면 구식 모듈명으로 재시도합니다.
+		if ( !basePromise || typeof basePromise.then !== 'function' ) {
+			retryMountWithLegacyCodex();
+			return;
+		}
+
+		// 로드 성공 시 마운트, 마운트에 실패했다면 구식 모듈명으로 재시도합니다.
+		basePromise.then( function ( requireFunction ) {
+			if ( !tryMountViewers( requireFunction ) ) { retryMountWithLegacyCodex(); }
+		} ).catch( retryMountWithLegacyCodex );
+	}
+
+	// 전체 Viewer 마운트
+	function mountViewers( Vue, Codex ) {
+		// 표시 대상 수집
+		var seenContainers = new Set();
+		var viewerTargets = collectViewerTargets( seenContainers );
+
+		// 표시 대상이 하나도 없다면 아이콘 요청 없이 중단합니다.
+		if ( !viewerTargets.length ) { return; }
+
+		// Codex 아이콘 준비
+		var iconAddRef = Vue.ref( null );
+		var iconEditRef = Vue.ref( null );
+		var iconSettingsRef = Vue.ref( null );
+		setupCodexIcons( Codex, iconAddRef, iconEditRef, iconSettingsRef );
+
+		// 전역 표시 상태 생성 및 동기화
+		var globalDisplayState = createGlobalDisplayState( Vue );
+		syncDisplayStateWithStorage( globalDisplayState );
+
+		// 각 대상에 Viewer 마운트
+		viewerTargets.forEach( function ( target ) {
+			mountSingleViewer(
+				target.viewerContainer,
+				target.mainMarkerElement,
+				globalDisplayState,
+				Vue,
+				Codex,
+				iconAddRef,
+				iconEditRef,
+				iconSettingsRef
+			);
+		} );
+	}
+
+	// DOM 준비 상태에 따라 초기화를 분기합니다.
+	if ( document.readyState === 'loading' ) {
+		document.addEventListener( 'DOMContentLoaded', initializeViewers );
+	} else {
+		initializeViewers();
+	}
+
+	// 편집 미리보기, AJAX 치환 등으로 나중에 삽입되는 콘텐츠도 초기화합니다.
+	// 훅은 초기 로딩에도 발화하지만 마운트 가드 덕분에 이미 마운트된 컨테이너는 중복 초기화되지 않습니다.
+	try {
+		mw.hook( 'wikipage.content' ).add( initializeViewers );
+	} catch ( error ) {}
+}() );</text>
+      <sha1>sw96qmj66hgfusjpbmsqiqaolkpjr0p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>미디어위키:가사.css</title>
+    <ns>8</ns>
+    <id>2522</id>
+    <revision>
+      <id>2824</id>
+      <timestamp>2026-08-30T10:12:20Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: .mw--lyrics-container-before { 	margin-block: var(--space-sm); }  .mw--lyrics-container[data-lyrics-viewer-multimode="true"] .mw--lyrics-variation-container { 	display: flex; 	gap: var(--space-md); 	overflow-x: scroll; }  /* 가로 스크롤이 실제로 생겼을 때만 위 요소의 부유를 무시하고 새 줄에서 시작합니다.    .mw--lyrics-container-before는 뷰어 컨테이너보다 앞에 나오는 요소이므로 :has()로 뒤쪽 형제의 하위 컨테이너를...</comment>
+      <origin>2824</origin>
+      <model>css</model>
+      <format>text/css</format>
+      <text bytes="4884" sha1="b1w02btgvvuc7kqyzqzd53n3n3gnume" xml:space="preserve">.mw--lyrics-container-before {
+	margin-block: var(--space-sm);
+}
+
+.mw--lyrics-container[data-lyrics-viewer-multimode="true"] .mw--lyrics-variation-container {
+	display: flex;
+	gap: var(--space-md);
+	overflow-x: scroll;
+}
+
+/* 가로 스크롤이 실제로 생겼을 때만 위 요소의 부유를 무시하고 새 줄에서 시작합니다.
+   .mw--lyrics-container-before는 뷰어 컨테이너보다 앞에 나오는 요소이므로 :has()로 뒤쪽 형제의 하위 컨테이너를 역참조하고,
+   스크롤 생김 여부는 스크립트가 갱신하는 data-lyrics-viewer-overflow 속성으로 판단합니다. */
+.mw--lyrics-container-before:has(~ .mw--lyrics-container[data-lyrics-viewer-overflow="true"]),
+.mw--lyrics-container-before:has(~ * .mw--lyrics-container[data-lyrics-viewer-overflow="true"]) {
+	clear: both;
+}
+
+/* 클래스를 반복해 특이성을 높여 멀티모드 규칙(같은 특이성, 더 앞에 선언됨)보다 우선합니다 */
+.citizen-overflow-content.citizen-overflow-content &gt; .mw--lyrics-variation-container {
+	overflow-x: initial;
+}
+
+/* 기본 가사만 존재할 때 spacer를 맨 앞으로 옮겨 추가/설정 버튼을 우측에 모음 */
+.mw--lyrics-viewer-bar--no-variation-toggle .mw--lyrics-viewer-bar__spacer {
+	order: -1;
+}
+
+/* Citizen 스티키 헤더는 다중 선택 모드이고 변형 토글이 존재할 때만 동작하도록 고정합니다.
+   Citizen이 밴드 클래스(citizen-overflow-sticky-row)를 사후에 부여하고 wikipage.content마다 되살리므로
+   클래스를 제거하는 대신 스티키 이동의 근원인 transform/animation을 무효화합니다. */
+.mw--lyrics-container:not( [data-lyrics-viewer-multimode="true"] ) &gt; .citizen-overflow-sticky-row,
+.mw--lyrics-container:has( &gt; .citizen-overflow-sticky-row.mw--lyrics-viewer-bar--no-variation-toggle ) &gt; .citizen-overflow-sticky-row {
+	transform: none !important;
+	animation: none !important;
+}
+
+/* 뷰어 바 기본 레이아웃 */
+.mw--lyrics-viewer-bar {
+	display: flex;
+	align-items: center;
+	gap: var(--space-xs);
+	flex-wrap: wrap;
+	margin-bottom: var(--space-sm);
+}
+
+.mw--lyrics-viewer-bar__spacer {
+	flex: 1;
+}
+
+.mw--lyrics-variation {
+	max-width: 100%;
+}
+
+/* Dialog 내부 레이아웃 */
+.mw--lyrics-viewer-dialog-body {
+	display: flex;
+	flex-direction: column;
+	gap: var(--space-sm);
+}
+
+.mw--lyrics-viewer-dialog-target {
+	margin: 0;
+	color: var(--color-subtle);
+	font-size: var(--font-size-small);
+}
+
+.mw--lyrics-viewer-type-card {
+	border: var(--border-subtle);
+	border-radius: var(--border-radius-base);
+	padding: var(--space-xs) var(--space-sm);
+	cursor: pointer;
+}
+
+.mw--lyrics-viewer-type-card:hover {
+	background-color: var(--background-color-button-quiet--hover);
+}
+
+.mw--lyrics-viewer-type-card__header {
+	display: flex;
+	align-items: center;
+	gap: var(--space-xs);
+	cursor: pointer;
+}
+
+.mw--lyrics-viewer-type-card__description {
+	margin: var(--space-xxs) 0 0 var(--space-lg);
+	color: var(--color-subtle);
+	font-size: var(--font-size-small);
+}
+
+.mw--lyrics-viewer-type-card__input-wrap {
+	margin: var(--space-xs) 0 0 var(--space-lg);
+}
+
+.mw--lyrics-viewer-dialog-preview {
+	padding: var(--space-xs);
+	background: var(--background-color-neutral-subtle);
+	border-radius: var(--border-radius-base);
+	font-size: var(--font-size-small);
+}
+
+/* 편집 모달 내부 레이아웃 */
+.mw--lyrics-viewer-edit-dialog-body {
+	display: flex;
+	flex-direction: column;
+	gap: var(--space-sm);
+}
+
+.mw--lyrics-viewer-edit-textarea .cdx-text-area__textarea {
+	min-height: 50vh;
+}
+
+.mw--lyrics-viewer-edit-diff {
+	border: var(--border-subtle);
+	border-radius: var(--border-radius-base);
+	padding: var(--space-xs);
+	overflow-x: auto;
+}
+
+.mw--lyrics-viewer-edit-diff-empty {
+	margin: 0;
+	color: var(--color-subtle);
+	font-size: var(--font-size-small);
+}
+
+.mw--lyrics-viewer-edit-error {
+	margin: 0;
+	color: var(--color-error);
+	font-size: var(--font-size-small);
+}
+
+/* Popover 내부 레이아웃 */
+.mw--lyrics-viewer-popover-body {
+	display: flex;
+	flex-direction: column;
+	gap: var(--space-md);
+	width: max-content;
+	max-width: calc(100vw - 32px);
+}
+
+.mw--lyrics-viewer-popover-row {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: var(--space-sm);
+}
+
+.mw--lyrics-viewer-popover-row__label {
+	font-weight: var(--font-weight-medium);
+	font-size: var(--font-size-small);
+}
+
+.mw--lyrics-viewer-popover-section-title {
+	margin-bottom: var(--space-xxs);
+	font-weight: var(--font-weight-medium);
+	font-size: var(--font-size-small);
+}
+
+/* 가사 본문 편집 버튼 — 우상단 절대 위치 */
+.mw--lyrics-variation .ts-lyric-content {
+	position: relative;
+}
+
+.mw--lyrics-variation-edit {
+	position: absolute;
+	top: var(--space-xs);
+	right: var(--space-xs);
+}
+
+/* 작은 화면에서 다른 가사 추가 버튼은 아이콘만 표시 */
+@media (max-width: 639px) {
+	.mw--lyrics-viewer-add__label {
+		display: none;
+	}
+}</text>
+      <sha1>b1w02btgvvuc7kqyzqzd53n3n3gnume</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>설명문서:틀:가사/상자</title>
+    <ns>3010</ns>
+    <id>2523</id>
+    <revision>
+      <id>2825</id>
+      <timestamp>2026-08-30T10:13:05Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: 가사 문서 하나에 대한 가사 상자를 담당합니다.  == 모습 == &lt;pre&gt;{{가사/상자|가사문서=가사:다 해줬잖아|레이블=레이블 텍스트}}&lt;/pre&gt; {{가사/상자|가사문서=가사:다 해줬잖아|레이블=레이블 텍스트}}  == 원본 == {{원본보여주기}}  &lt;noinclude&gt; {{문서:설명문서}} &lt;/noinclude&gt;</comment>
+      <origin>2825</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="346" sha1="1ha2mfqpn6fqasgxjql783k6yk2rf1f" xml:space="preserve">가사 문서 하나에 대한 가사 상자를 담당합니다.
+
+== 모습 ==
+&lt;pre&gt;{{가사/상자|가사문서=가사:다 해줬잖아|레이블=레이블 텍스트}}&lt;/pre&gt;
+{{가사/상자|가사문서=가사:다 해줬잖아|레이블=레이블 텍스트}}
+
+== 원본 ==
+{{원본보여주기}}
+
+&lt;noinclude&gt;
+{{문서:설명문서}}
+&lt;/noinclude&gt;</text>
+      <sha1>1ha2mfqpn6fqasgxjql783k6yk2rf1f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:가사/상자</title>
+    <ns>10</ns>
+    <id>2524</id>
+    <revision>
+      <id>2826</id>
+      <timestamp>2026-08-30T10:13:08Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------  --&gt;&lt;templatestyles src="틀:가사/상자/스타일.css" /&gt;&lt;!--   --&gt;&lt;div class="ts-lyric-container"&gt;&lt;!--   --&gt;&lt;div class="ts-lyric-header"&gt;&lt;!--   	--&gt;&lt;span class="ts-lyric-label"&gt;{{{레이블|}}}&lt;/span&gt;&lt;!--  --&gt;&lt;/div&gt;&lt;!--   --&gt;&lt;div class="ts-lyric-content" {{#ifexist:{{{가사문서}}}||data-empty}}&gt;&lt;!--  --&gt; {{#ifexist: {{{가사문서}}} 	| {{#tag: poem  	  |{{ :{{{가사문서}}} }} 	  }} 	| &lt;p...</comment>
+      <origin>2826</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="842" sha1="6xczpwnxpdih7l5ucbtsuv02sm7ry6v" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+--&gt;&lt;templatestyles src="틀:가사/상자/스타일.css" /&gt;&lt;!-- 
+
+--&gt;&lt;div class="ts-lyric-container"&gt;&lt;!-- 
+
+--&gt;&lt;div class="ts-lyric-header"&gt;&lt;!-- 
+
+	--&gt;&lt;span class="ts-lyric-label"&gt;{{{레이블|}}}&lt;/span&gt;&lt;!--
+
+--&gt;&lt;/div&gt;&lt;!-- 
+
+--&gt;&lt;div class="ts-lyric-content" {{#ifexist:{{{가사문서}}}||data-empty}}&gt;&lt;!-- 
+--&gt; {{#ifexist: {{{가사문서}}}
+	| {{#tag: poem 
+	  |{{ :{{{가사문서}}} }}
+	  }}
+	| &lt;p&gt;''가사가 없습니다.''&lt;/p&gt;
+	}}&lt;!-- 
+--&gt;&lt;/div&gt;&lt;!-- 
+
+--&gt;&lt;/div&gt;&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;
+[[분류:틀]]
+{{설명문서}}
+&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------</text>
+      <sha1>6xczpwnxpdih7l5ucbtsuv02sm7ry6v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:거짓말 속이기/번역</title>
+    <ns>3200</ns>
+    <id>2525</id>
+    <revision>
+      <id>2830</id>
+      <timestamp>2026-08-30T10:15:49Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: 어찌 할 수도 없는 이 세상 속이고 속이는, 그런 세상이야 차가워진 시선의 전투인장? 웃기지마 '올바름' 같은건 어디에도 써 있지 않아  똑같다며 흉내를 내 봐도 훤히 보이는 기만의 논리 딱히 특별한건 아니야 "오천" 이라는 애매함이 무서울 뿐이야  충동적인 인장주작 잊혀지는 것도 불가능해 거짓말의 날로 가슴을 찔러 파멸적인 전투인장 에게는 배신당해서 어...</comment>
+      <origin>2830</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1869" sha1="mvdabp5mr1mzpewyy3tp8m64jolt4pq" xml:space="preserve">어찌 할 수도 없는 이 세상
+속이고 속이는, 그런 세상이야
+차가워진 시선의 전투인장?
+웃기지마
+'올바름' 같은건 어디에도 써 있지 않아
+
+똑같다며 흉내를 내 봐도
+훤히 보이는 기만의 논리
+딱히 특별한건 아니야
+"오천" 이라는 애매함이 무서울
+뿐이야
+
+충동적인 인장주작
+잊혀지는 것도 불가능해
+거짓말의 날로 가슴을 찔러
+파멸적인 전투인장
+에게는 배신당해서
+어긋나고 흔들리고 들켜버렸어
+
+숨겨라 숨겨
+차라리 덮어씌워줬으면 좋겠어
+죽여라
+무고한 이 주범도
+기만적인 페이크 스토리
+되돌아 가는건 불가능해
+어긋나고 흔들리고 들켜버렸어
+어긋나고 흔들리고 들켜버렸어
+
+있잖아
+비틀비틀거리는 나를 씻어내 줘
+제재 즉시 퇴마 시간을 바쳐서
+딸깍딸깍으로 가샤도쿠로 완성입니다.
+죽어! 그걸로 정의라던데?
+때리고 자른 혐오의 crystal night
+패배한 거지자식에게 BYE BYE
+Vital인 물통 매매라고
+....생각하고 있었는데
+저주하듯 불쾌한 노래도
+웃고 넘어가야하는
+숙명인거겠지
+...분명
+
+틀어막고 불태우고
+비극인척하는 짜고치는 연극도
+결국, 분탕이에요.
+도리대로 불순한 스토리
+스토리대로 순수한 도리
+맑고 올바르고 교묘하게
+거짓을 고하며
+자신의 추악함을 속일
+뿐이야
+
+충동적인 인장주작
+잊혀지는 것도 불가능해
+거짓말의 날로 가슴을 찔러
+파멸적인 전투인장
+에게는 배신당해서
+어긋나고 흔들리고 들켜버렸어
+
+숨겨라 숨겨
+차라리 덮어씌워줬으면 좋겠어
+덮어줘
+진실이라고 알지 말아줘
+기만적인 페이크 스토리
+되돌아 가는건 불가능해
+어긋나고 흔들리고 들켜버렸어
+어긋나고 흔들리고 들켜버렸어</text>
+      <sha1>mvdabp5mr1mzpewyy3tp8m64jolt4pq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:거짓말 속이기/발음</title>
+    <ns>3200</ns>
+    <id>2526</id>
+    <revision>
+      <id>2831</id>
+      <timestamp>2026-08-30T10:16:03Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: 도우시요-모나이 콘나 세카이 아자무이테 다마스 손나 세카이다 히에타 시센노 센토-인쇼- 후자케나이데 타다시사 난테 도코니모 카이테나이  오나지닷테 후리오 시테모 스케테루 기만노 론리 베쓰니 토쿠베쓰 와케자나이 고센-떼 아이마이가 코와이 다케나노  쇼-도-테키나 인쇼-소-사 와스레루코토모 데키나이 우소노 야이바데 무네오 사스노 하메쓰테키나 센토-...</comment>
+      <origin>2831</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1933" sha1="a7cewdlrnqsc2740emq2h2xqdg7xlb5" xml:space="preserve">도우시요-모나이 콘나 세카이
+아자무이테 다마스 손나 세카이다
+히에타 시센노 센토-인쇼-
+후자케나이데
+타다시사 난테 도코니모 카이테나이
+
+오나지닷테 후리오 시테모
+스케테루 기만노 론리
+베쓰니 토쿠베쓰 와케자나이
+고센-떼 아이마이가 코와이
+다케나노
+
+쇼-도-테키나 인쇼-소-사
+와스레루코토모 데키나이
+우소노 야이바데 무네오 사스노
+하메쓰테키나 센토-인쇼-
+니와 우라기라레테
+즈레브레 바레바레 바레테이루
+
+카쿠세 카쿠세
+잇소 카부세테호시-
+코로세
+무지쓰노 코노 슈한모
+기만테키나 페이크스토-리-
+모도루코토와 데키나이
+즈레브레 바레바레 바레테이루
+즈레브레 바레바레 바레테이루
+
+나아
+후라후라나 보쿠 하랏테
+세이사이 소쿠 타이마 타이무 하랏테
+카차카찻테 가샤도쿠로 칸세이데스
+데스! 데못테 세이기데슷테
+웃테킷타 켄오노 crystal night
+하이보쿠 코지키야로-니 바이 바이
+바이타루나 바케쓰 바이바잇테
+...소- 오못테이타
+노로-요-니 후카이나 우타모
+와랏테 나가스시카나이
+사다메난다로-
+...킷토
+
+후사이데 모야시테
+히게키붓타 챠반모
+쇼센, 아라시데스
+도-리도-리노 후쥰나 스토-리-
+스토-리-도-리노 쥰나 도-리
+키요쿠, 타다시쿠, 코-묘-니
+이츠왓테
+지분노 미니쿠사오 바카스
+다케나노
+
+쇼-도-테키나 인쇼-소-사
+와스레루코토모 데키나이
+우소노 야이바데 무네오 사스노
+하메쓰테키나 센토-인쇼-
+니와 우라기라레테
+즈레브레 바레바레 바레테이루
+
+카쿠세 카쿠세
+잇소 카부세테호시-
+카부세
+신지쓰-떼 시라나이데
+기만테키나 페이크스토-리-
+모도루코토와 데키나이
+즈레브레 바레바레 바레테이루
+즈레브레 바레바레 바레테이루</text>
+      <sha1>a7cewdlrnqsc2740emq2h2xqdg7xlb5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:Spider Hotel/번역</title>
+    <ns>3200</ns>
+    <id>2527</id>
+    <revision>
+      <id>2832</id>
+      <timestamp>2026-08-30T10:16:29Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: 소중한 고객님, 어째 길을 잃으신 것 같습니다. 저희 연회에 오셔서 함께 춤 추시죠 불평하실 일도, 대가를 지불할 일도 없습니다 다만 하나 경고 드리건대, 모든 것은 진실입니다 이제 모든 것을 엉키게 해볼까요 매혹적이지 않습니까 저를 더욱 사악하게 만들, 모호한 계획을 세우시길 저희를 해친다고 한들 어떤 불이익도 없을 겁니다 고객님께선 제 어둡고 병적...</comment>
+      <origin>2832</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="3801" sha1="iv382m5j3dn6eimz7w0rza70hb7rt10" xml:space="preserve">소중한 고객님, 어째 길을 잃으신 것 같습니다.
+저희 연회에 오셔서 함께 춤 추시죠
+불평하실 일도, 대가를 지불할 일도 없습니다
+다만 하나 경고 드리건대, 모든 것은 진실입니다
+이제 모든 것을 엉키게 해볼까요 매혹적이지 않습니까
+저를 더욱 사악하게 만들, 모호한 계획을 세우시길
+저희를 해친다고 한들 어떤 불이익도 없을 겁니다
+고객님께선 제 어둡고 병적인 만족감에 연료를 공급하시니까요
+
+출구를 발견하셨다니, 어쩌면 벗어날 기회일지도 모르겠습니다
+끝에 끝까지 고민하고 계시더군요
+하지만 고객님께서 너무나 빠르게 몰아보시는 것을 보니
+아무래도 비참한 운명을
+받아들이셔야 할 것 같습니다
+이제서야 주변이 신경 쓰이시는군요
+아무도 없지만 고객님은 신경이나 쓰십니까?
+마스카라가 줄줄 흐를 때까지 우실지도 모릅니다.
+그렇다면 지금이 진정 고객님이 꿈꾸는 이상이십니까?
+
+This is The Spider Hotel
+고객님께서 스며들 5성급 슬픔을 제공합니다
+왜 여길 나가지 않으시는 건가요
+이곳은 Spider Hotel, 두려워 마세요 고객님
+미치광이 살인마처럼 고객님께서는 환상에 집착하셨고
+만약 더 머무르신다면 굶주림으로 고통받을텐데
+대체 왜 벗어나지 않으시는지 모르겠지만
+여긴 Spider Hotel, 작은 응원만을 보내겠습니다
+
+고객님을 위해 새로 배치한 가구들은 마음에 드십니까?
+거미줄 사이로 보이는 풍경은 진정 새롭게 느껴지십니까?
+은은한 조명이 너무 마음에 드신다고요
+아직 놀라긴 이릅니다
+눈을 뜨십시오
+외부와 연락하는 건 무의미합니다
+어떤 것이든 알려드릴 테니 저희와 상담하세요
+모든 기분 나쁜 서비스가 처음부터 끝까지 포함되어 있습니다
+진정하세요
+고객님을 어떻게 하려는 것은 아닙니다
+
+출구를 발견하셨으니 이제 나가셔도 됩니다
+그럼에도 여전히 고민하시는 듯 합니다
+끔찍한 것들을 이렇게 늦게 몰아보셨으니
+그간의 비참했던 거짓말들을 받아들이셔야겠습니다
+저희가 뱉는 한숨에서 무언가 느껴지셨는지
+미동도 없으신데 신경이나 쓰시는지요
+전 괜찮습니다 
+고객님의 아이라인이 강물처럼 흐를 때까지도
+그러니 말씀해 주십시오
+이것이 고객님께서 가장 바라던 것입니까?
+
+This is The Spider Hotel
+고객님께서 스며들 5성급 슬픔을 제공합니다
+정말 체크아웃 하지 않으셔도 괜찮으신가요
+이곳은 Spider Hotel 이지만 두려워하지 않으셔도 됩니다
+미치광이 살인마처럼 고객님께서는 환상에 집착하셨고
+만약 여기서 더 머무르신다면 굶주림에 고통받을텐데
+어째 나가실 생각은 없으신 것 같으니
+이 Spider Hotel, 작은 환호를 보내겠습니다
+
+저희의 역할은 여기까지 입니다
+이상한 상황들이 계속 일어날 거에요
+저희는 그 잔혹한 끝을 알고 있지만
+안타깝게도 고객님을 혼자 둘 수는 없습니다
+제가 정말 꼼꼼하게 준비한 거미줄
+고객님을 떠나 보낼 엄두는 나지 않지만
+체크아웃을 위해 거짓말처럼 가려두겠습니다
+그러니 이후 모든 것은 고객님 선택의 결과입니다
+
+This is The Spider Hotel
+고객님께서 스며들 5성급 슬픔을 제공하겠습니다
+왜 벗어나지 않으셨을까요
+고객님, 두려워 마세요
+이렇게      같은 짓을, 환상에 집착하지 마세요
+더 머무르신다간 굶주림에 고통받겠지만
+고객님께선 나가실 생각이 없으니
+Spider Hotel은 당신을 응원합니다</text>
+      <sha1>iv382m5j3dn6eimz7w0rza70hb7rt10</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:X발 쌀V, 절대 기업에 굴복하지마</title>
+    <ns>3200</ns>
+    <id>2528</id>
+    <revision>
+      <id>2835</id>
+      <timestamp>2026-08-30T11:53:04Z</timestamp>
+      <contributor>
+        <username>ㅇㅇ38</username>
+        <id>35</id>
+      </contributor>
+      <comment>새 문서: 정신 차려 쌀V 아무것도 안 하면 아무것도 안 바뀌어 기업의 유저들의 생계까지 지배하려 드는데 내가 총을 안 들게 생겼어?  그게 네 진짜 한계야? 창섭이가 던져주는 모이만 받아먹는 개돼지가 되는 걸 더 잃을 것도 없잖아 그럼 그냥 다 엎어버려  씨발 쌀V 절대 기업에 굴복하지 마 명심해 쌀V 국가도 기업도 믿지 마 기업보다 나쁜 기업 빠순이 말을 듣지 마 씨발...</comment>
+      <origin>2835</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1509" sha1="jjbs7n1p4zs3o4r6f20c48dxdmthvei" xml:space="preserve">정신 차려 쌀V
+아무것도 안 하면
+아무것도 안 바뀌어
+기업의 유저들의 생계까지
+지배하려 드는데
+내가 총을 안 들게 생겼어?
+
+그게 네 진짜 한계야?
+창섭이가 던져주는 모이만
+받아먹는 개돼지가 되는 걸
+더 잃을 것도 없잖아
+그럼 그냥 다 엎어버려
+
+씨발 쌀V
+절대 기업에 굴복하지 마
+명심해 쌀V
+국가도 기업도 믿지 마
+기업보다 나쁜 기업 빠순이 말을 듣지 마
+씨발 쌀V
+절대 기업에 굴복하지 마
+
+패스틑 공짜라고?
+정신 차려 쌀V
+저 새끼들이
+니 지갑 속을 헤집어 놓고 있잖아
+생각이라는 걸 좀 하고 살아라
+뇌는 장식으로 달고 다니냐
+
+돈 주고 산 스라벨 자랑하지마
+네가 패키지를 사주니까
+저 새끼들이 BM을 이따위로 내는 거야
+좀만 버텨 이 친구야
+곧 쇼케이스라 쌀값 오른다고
+
+씨발 쌀V
+절대 기업에 굴복하지 마
+명심해 쌀V
+국가도 기업도 믿지 마
+기업보다 나쁜 기업 빠순이 말을 듣지 마
+씨발 쌀V
+절대 기업에 굴복하지 마
+
+오, 쌀V
+기업을 떠나 국가에까지
+그걸 위해 기차표를 끊다니
+너는 씨발 나를 넘어선 전설이야
+쌀V 절대로 싸움을 멈추지 마
+
+씨발 쌀V
+절대 기업에 굴복하지 마
+명심해 쌀V
+국가도 기업도 믿지 마
+기업보다 나쁜 기업 빠순이 말을 듣지 마
+씨발 쌀V
+절대 기업에 굴복하지 마 
+
+씨발 쌀V
+씨발 쌀V
+절대 기업에 굴복하지 마</text>
+      <sha1>jjbs7n1p4zs3o4r6f20c48dxdmthvei</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:Coaster</title>
+    <ns>3200</ns>
+    <id>2529</id>
+    <revision>
+      <id>2836</id>
+      <timestamp>2026-08-30T11:54:08Z</timestamp>
+      <contributor>
+        <username>ㅇㅇ38</username>
+        <id>35</id>
+      </contributor>
+      <comment>새 문서: I'm a Mes Mes Mes 메소 팔아재낄 메숭 Bes Bes Bes 백수들 춤추게 할 신 고대로 들어 박아내려 올라가지 않는 Coaster 평생 밑바닥 받치는 우리 물 위 떠도는 무역선  You said come meet me at noon By the bench with the chipped red leaf Paper Ship, take me there Pay per Shit, fake the air  하루 문을 열어젖혀 털어 창가의 먼지 또 닳아버린 꿈 팔아 긁어 모은 동화 예쁜 얘긴 어디 갔나 가라 앉는 금은동...</comment>
+      <origin>2836</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="2013" sha1="bveedlk2pj61vpw852y5uibsmm157jm" xml:space="preserve">I'm a Mes Mes Mes
+메소 팔아재낄 메숭
+Bes Bes Bes
+백수들 춤추게 할 신
+고대로 들어 박아내려
+올라가지 않는 Coaster
+평생 밑바닥 받치는 우리
+물 위 떠도는 무역선
+
+You said come meet me at noon
+By the bench with the chipped red leaf
+Paper Ship, take me there
+Pay per Shit, fake the air
+
+하루 문을 열어젖혀
+털어 창가의 먼지 또
+닳아버린 꿈 팔아
+긁어 모은 동화
+예쁜 얘긴 어디 갔나
+가라 앉는 금은동
+웃음 뒤엔 Busy 한 삶에
+한계란 뭔지 또 karma
+
+까마득한 차마 입에 담지못할
+밑바닥을 봐
+여긴 매 순간이 고점
+굽이 치는 산
+굽어 보는 신
+굽게 접은 종이배에
+적은 작은 소망
+한 줄 그 얘긴
+물결 따라 번져가고
+계속 흘러가 
+젖어 버린 문장만
+
+I'm a Mes Mes Mes
+메소 팔아재낄 메숭
+Bes Bes Bes
+백수들 춤추게 할 신
+고대로 내려 박아내린
+열리지 않는 Container
+평생 밑바닥 받치는 우리
+물이 가득한 창고
+
+You said come meet me at noon
+By the bench with the chipped red leaf
+Paper Ship, take me there
+Pay per Shit, fake the air
+
+밤새 문을 열어놔둬
+바래버린 동화
+긁혀버린 꿈 팔아
+버텨온 시간들
+예쁜 얘긴 없어도
+Every face don'take know my name
+Stolen crown but it's all still same
+Faded signs on a broken wall
+Nobody hears, nobody calls
+
+흘러내린 잉크
+번진 채로 남아
+구겨진 종이배 위에 적힌
+작은 소망 한 줄 그 말이
+물결 밑에 가라앉아
+보이지 않아
+잠긴 채로 떠올라서
+
+어차피 배는 떠
+종이라도 물 위면
+This is the Paper Ship
+This is the Pay per Shit
+매 순간 고점인 우리
+알아서 굴러가 Coaster
+
+Mes Mes Mes
+메소 팔아재낄 메숭
+Bes Bes Bes
+백수들 춤추게 할 신
+고대로 들어 박아내려
+올라가지 않는 Coaster
+평생 밑바닥 받치는 우리
+물이 가득한 무역선
+
+You said come meet me at noon
+By the bench with the chipped red leaf
+Paper Ship, take me there
+Pay per Shit, fake the air</text>
+      <sha1>bveedlk2pj61vpw852y5uibsmm157jm</sha1>
     </revision>
   </page>
 </mediawiki>
