@@ -87126,17 +87126,17 @@ if you can</text>
     <ns>8</ns>
     <id>2521</id>
     <revision>
-      <id>2823</id>
-      <timestamp>2026-08-30T10:12:05Z</timestamp>
+      <id>2841</id>
+      <parentid>2823</parentid>
+      <timestamp>2026-08-31T14:08:00Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: /* eslint-disable mediawiki/class-doc */ /**  * MediaWiki 가사 Viewer — MediaWiki: 네임스페이스 JS  * UseResource 확장으로 직접 로드되는 클라이언트 스크립트입니다.  * 리소스 모듈 등록 없이 MediaWiki: 네임스페이스의 JS 페이지로 동작합니다.  * 의존성: MediaWiki 1.45+ ResourceLoader가 제공하는 vue, @wikimedia/codex (또는 codex)  */ /* global mw, Vue, require */ ( function () { 	'use strict';  	// 디버그 플래그...</comment>
-      <origin>2823</origin>
+      <origin>2841</origin>
       <model>javascript</model>
       <format>text/javascript</format>
-      <text bytes="67561" sha1="sw96qmj66hgfusjpbmsqiqaolkpjr0p" xml:space="preserve">/* eslint-disable mediawiki/class-doc */
+      <text bytes="67492" sha1="mikj2v1ffu5vsquscww6v7gy9tnvyjo" xml:space="preserve">/* eslint-disable mediawiki/class-doc */
 /**
  * MediaWiki 가사 Viewer — MediaWiki: 네임스페이스 JS
  * UseResource 확장으로 직접 로드되는 클라이언트 스크립트입니다.
@@ -87457,7 +87457,6 @@ if you can</text>
     &lt;/div&gt;
   &lt;/cdx-dialog&gt;
 &lt;/div&gt;
-&lt;div class="mw--lyrics-viewer-bar__spacer" aria-hidden="true"&gt;&lt;/div&gt;
 &lt;div class="mw--lyrics-viewer-settings"&gt;&lt;cdx-button ref="settingsButtonAnchorRef" :aria-label="messages.displaySettingsAriaLabel" v-tooltip="tooltipDirectiveAvailable ? messages.displaySettingsAriaLabel : null" @click="popoverOpen = !popoverOpen"&gt;&lt;cdx-icon v-if="iconSettings" :icon="iconSettings"&gt;&lt;/cdx-icon&gt;&lt;/cdx-button&gt;
   &lt;cdx-popover v-model:open="popoverOpen" :anchor="settingsButtonAnchorEl" :title="messages.displaySettingsTitle" :use-close-button="true"&gt;
     &lt;div class="mw--lyrics-viewer-popover-body"&gt;
@@ -88593,7 +88592,7 @@ if you can</text>
 		mw.hook( 'wikipage.content' ).add( initializeViewers );
 	} catch ( error ) {}
 }() );</text>
-      <sha1>sw96qmj66hgfusjpbmsqiqaolkpjr0p</sha1>
+      <sha1>mikj2v1ffu5vsquscww6v7gy9tnvyjo</sha1>
     </revision>
   </page>
   <page>
@@ -88601,17 +88600,17 @@ if you can</text>
     <ns>8</ns>
     <id>2522</id>
     <revision>
-      <id>2824</id>
-      <timestamp>2026-08-30T10:12:20Z</timestamp>
+      <id>2842</id>
+      <parentid>2824</parentid>
+      <timestamp>2026-08-31T14:08:23Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: .mw--lyrics-container-before { 	margin-block: var(--space-sm); }  .mw--lyrics-container[data-lyrics-viewer-multimode="true"] .mw--lyrics-variation-container { 	display: flex; 	gap: var(--space-md); 	overflow-x: scroll; }  /* 가로 스크롤이 실제로 생겼을 때만 위 요소의 부유를 무시하고 새 줄에서 시작합니다.    .mw--lyrics-container-before는 뷰어 컨테이너보다 앞에 나오는 요소이므로 :has()로 뒤쪽 형제의 하위 컨테이너를...</comment>
-      <origin>2824</origin>
+      <origin>2842</origin>
       <model>css</model>
       <format>text/css</format>
-      <text bytes="4884" sha1="b1w02btgvvuc7kqyzqzd53n3n3gnume" xml:space="preserve">.mw--lyrics-container-before {
+      <text bytes="5144" sha1="i1qeb8vmcu3w2y4w9kypzsrmzas0h5j" xml:space="preserve">.mw--lyrics-container-before {
 	margin-block: var(--space-sm);
 }
 
@@ -88634,9 +88633,10 @@ if you can</text>
 	overflow-x: initial;
 }
 
-/* 기본 가사만 존재할 때 spacer를 맨 앞으로 옮겨 추가/설정 버튼을 우측에 모음 */
-.mw--lyrics-viewer-bar--no-variation-toggle .mw--lyrics-viewer-bar__spacer {
-	order: -1;
+/* 기본 가사만 존재할 때는 뷰어 바를 우측에 부유시켜 폭이 내용만큼 줄어들게 한다 —
+   부유된 바는 블록 흐름에서 빠지므로 뒤의 가사 본문이 같은 줄을 함께 쓸 수 있다. */
+.mw--lyrics-viewer-bar--no-variation-toggle {
+	float: right;
 }
 
 /* Citizen 스티키 헤더는 다중 선택 모드이고 변형 토글이 존재할 때만 동작하도록 고정합니다.
@@ -88657,8 +88657,9 @@ if you can</text>
 	margin-bottom: var(--space-sm);
 }
 
-.mw--lyrics-viewer-bar__spacer {
-	flex: 1;
+/* 변형 토글이 있을 때 설정 버튼만 우측 끝으로 밀어낸다 — float로 폭이 줄었을 때는 남는 공간이 없어 무시된다 */
+.mw--lyrics-viewer-settings {
+	margin-left: auto;
 }
 
 .mw--lyrics-variation {
@@ -88787,7 +88788,7 @@ if you can</text>
 		display: none;
 	}
 }</text>
-      <sha1>b1w02btgvvuc7kqyzqzd53n3n3gnume</sha1>
+      <sha1>i1qeb8vmcu3w2y4w9kypzsrmzas0h5j</sha1>
     </revision>
   </page>
   <page>
@@ -89315,6 +89316,46 @@ By the bench with the chipped red leaf
 Paper Ship, take me there
 Pay per Shit, fake the air</text>
       <sha1>bveedlk2pj61vpw852y5uibsmm157jm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>분류:ArrayFunctions 확장 기능을 사용하는 문서</title>
+    <ns>14</ns>
+    <id>2530</id>
+    <revision>
+      <id>2839</id>
+      <timestamp>2026-08-31T14:07:01Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: __숨은분류__ [[분류:추적용 분류]]</comment>
+      <origin>2839</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="jqswtnelan4u4053hrqgtzdnw1gquan" xml:space="preserve">__숨은분류__
+[[분류:추적용 분류]]</text>
+      <sha1>jqswtnelan4u4053hrqgtzdnw1gquan</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>분류:Tabber 구문 분석 태그를 사용하는 문서</title>
+    <ns>14</ns>
+    <id>2531</id>
+    <revision>
+      <id>2840</id>
+      <timestamp>2026-08-31T14:07:22Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: __숨은분류__ [[분류:추적용 분류]]</comment>
+      <origin>2840</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="jqswtnelan4u4053hrqgtzdnw1gquan" xml:space="preserve">__숨은분류__
+[[분류:추적용 분류]]</text>
+      <sha1>jqswtnelan4u4053hrqgtzdnw1gquan</sha1>
     </revision>
   </page>
 </mediawiki>
