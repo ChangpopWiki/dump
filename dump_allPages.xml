@@ -42474,21 +42474,21 @@ And I says "paid fucking tax tax tax tax tax"</text>
     <ns>0</ns>
     <id>889</id>
     <revision>
-      <id>1722</id>
-      <timestamp>2025-12-18T13:44:43Z</timestamp>
+      <id>2859</id>
+      <parentid>1722</parentid>
+      <timestamp>2026-09-04T13:51:28Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기</comment>
-      <origin>1722</origin>
+      <origin>2859</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="414" sha1="j1r9sa4ul00kc9ja7484k0zzpv6a5zr" xml:space="preserve">{{문서:창팝
+      <text bytes="427" sha1="8p0n1szwcc90fy89huhnu6b16u88w99" xml:space="preserve">{{문서:창팝
 |유튜브Id=-eZdVADWjSc
 |제작자=신창섭 팬
 |제작방법=Suno
-|수록컵={{수록 창드컵|창드컵=2024년 5편}}
+|이전수록컵={{이전 수록 창드컵|창드컵=2024년 5편}}
 |공개일=2025-03-14
 |링크={{링크|링크=https://www.youtube.com/watch?v=u_CsFuA1mVk
 |레이블=초기 버전}}
@@ -42501,7 +42501,7 @@ And I says "paid fucking tax tax tax tax tax"</text>
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>j1r9sa4ul00kc9ja7484k0zzpv6a5zr</sha1>
+      <sha1>8p0n1szwcc90fy89huhnu6b16u88w99</sha1>
     </revision>
   </page>
   <page>
@@ -84451,20 +84451,20 @@ Oh
     <ns>0</ns>
     <id>2468</id>
     <revision>
-      <id>2749</id>
-      <timestamp>2026-08-13T12:17:32Z</timestamp>
+      <id>2854</id>
+      <parentid>2749</parentid>
+      <timestamp>2026-09-04T13:44:49Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
-      <origin>2749</origin>
+      <origin>2854</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="291" sha1="1r00bni2mnj1h75lii2puoalnf43ht6" xml:space="preserve">{{문서:창팝
+      <text bytes="331" sha1="p4nhb5bpxdb9e5o3fo87m2ojvsfwr8k" xml:space="preserve">{{문서:창팝
 |유튜브Id=LYc6nPEva3s
 |제작자=리반
-|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
+|이전수록컵={{이전 수록 창드컵|창드컵=2026년 3편|수록날짜=2026-08-03|제외날짜=2026-09-04}}
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -84473,7 +84473,7 @@ Oh
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>1r00bni2mnj1h75lii2puoalnf43ht6</sha1>
+      <sha1>p4nhb5bpxdb9e5o3fo87m2ojvsfwr8k</sha1>
     </revision>
   </page>
   <page>
@@ -84512,22 +84512,21 @@ Oh
     <ns>0</ns>
     <id>2470</id>
     <revision>
-      <id>2751</id>
-      <timestamp>2026-08-13T12:17:34Z</timestamp>
+      <id>2856</id>
+      <parentid>2751</parentid>
+      <timestamp>2026-09-04T13:45:23Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
-      <origin>2751</origin>
+      <origin>2856</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="345" sha1="pwwy4h7f1iqs0g3vf7pylqbnqk7dr92" xml:space="preserve">{{문서:창팝
+      <text bytes="355" sha1="02a4xzn3t7say2w7k6l12xxxh1n6siz" xml:space="preserve">{{문서:창팝
 |유튜브Id=0QI6tDxcNLY
 |제작자=리스항르
 |화자=쌀숭이
-|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
-|고화질썸네일없음=예
+|이전수록컵={{이전 수록 창드컵|창드컵=2026년 3편|수록날짜=2026-08-03|제외날짜=2026-09-04}}
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -84536,7 +84535,7 @@ Oh
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>pwwy4h7f1iqs0g3vf7pylqbnqk7dr92</sha1>
+      <sha1>02a4xzn3t7say2w7k6l12xxxh1n6siz</sha1>
     </revision>
   </page>
   <page>
@@ -84912,22 +84911,21 @@ Oh
     <ns>0</ns>
     <id>2483</id>
     <revision>
-      <id>2764</id>
-      <timestamp>2026-08-13T12:17:43Z</timestamp>
+      <id>2855</id>
+      <parentid>2764</parentid>
+      <timestamp>2026-09-04T13:45:04Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
-      <origin>2764</origin>
+      <origin>2855</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="345" sha1="4dn3yt65gjyiliw1pchn3uycbtkvlyy" xml:space="preserve">{{문서:창팝
+      <text bytes="355" sha1="7996947agbn2wn04le030varxe7fee8" xml:space="preserve">{{문서:창팝
 |유튜브Id=dHdQZX3DPkk
 |제작자=리스항르
 |화자=쌀숭이
-|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
-|고화질썸네일없음=예
+|이전수록컵={{이전 수록 창드컵|창드컵=2026년 3편|수록날짜=2026-08-03|제외날짜=2026-09-04}}
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -84936,7 +84934,7 @@ Oh
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>4dn3yt65gjyiliw1pchn3uycbtkvlyy</sha1>
+      <sha1>7996947agbn2wn04le030varxe7fee8</sha1>
     </revision>
   </page>
   <page>
@@ -85037,20 +85035,21 @@ Oh
     <ns>0</ns>
     <id>2487</id>
     <revision>
-      <id>2768</id>
-      <timestamp>2026-08-13T12:17:46Z</timestamp>
+      <id>2853</id>
+      <parentid>2768</parentid>
+      <timestamp>2026-09-04T13:44:33Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
-      <origin>2768</origin>
+      <origin>2853</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="335" sha1="cilo3ujntwzbx512ezv5h0cxytdd8q4" xml:space="preserve">{{문서:창팝
+      <text bytes="387" sha1="74vjydc0f7yr4udad2uzee3udqw0yd8" xml:space="preserve">{{문서:창팝
 |유튜브Id=x7DZ89ublus
 |제작자=pretty_
-|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}{{수록 창드컵|창드컵=2025년 5편}}
+|수록컵={{수록 창드컵|창드컵=2025년 5편}}
+|이전수록컵={{이전 수록 창드컵|창드컵=2026년 3편|수록날짜=2026-08-03|제외날짜=2026-09-04}}
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -85059,7 +85058,7 @@ Oh
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>cilo3ujntwzbx512ezv5h0cxytdd8q4</sha1>
+      <sha1>74vjydc0f7yr4udad2uzee3udqw0yd8</sha1>
     </revision>
   </page>
   <page>
@@ -89642,57 +89641,63 @@ Mademoiselle</text>
     <ns>3200</ns>
     <id>2535</id>
     <revision>
-      <id>2846</id>
-      <timestamp>2026-09-03T15:13:38Z</timestamp>
+      <id>2862</id>
+      <parentid>2846</parentid>
+      <timestamp>2026-09-04T14:29:43Z</timestamp>
       <contributor>
-        <username>ㅇㅇ38</username>
-        <id>35</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>새 문서: 今日も新しい服のコレクション　쿄우모 아타라시이 후쿠노 코레쿠숀 私に似合うニューファッション　와타시니 니아우 뉴-홧숀 変装準備はすべて完了　헨소쥰비와 스베테 칸료 普通のLaraとは違う事情　후츠우노 라라토와 치가우 지죠 邪悪なLaraの登録　쟈아쿠나 라라노 토죠 人を騙すのは悪いみたい？　히토오 다마스노와 와루이미타이? 騙してみたらそうで...</comment>
-      <origin>2846</origin>
+      <comment>별도 가사로 분리</comment>
+      <origin>2862</origin>
       <model>text</model>
       <format>text/plain</format>
-      <text bytes="2621" sha1="nll7o5hfxyggkupdor39bazxub3qxa8" xml:space="preserve">今日も新しい服のコレクション　쿄우모 아타라시이 후쿠노 코레쿠숀
-私に似合うニューファッション　와타시니 니아우 뉴-홧숀
-変装準備はすべて完了　헨소쥰비와 스베테 칸료
-普通のLaraとは違う事情　후츠우노 라라토와 치가우 지죠
-邪悪なLaraの登録　쟈아쿠나 라라노 토죠
-人を騙すのは悪いみたい？　히토오 다마스노와 와루이미타이?
-騙してみたらそうでもない　다마시테미타라 소우데모나이
-この美しい世界　코노 우츠쿠시이 세카이
-ほんとに扱いやすい　혼토니 아츠카이 야스이
-Night of the Bodies
-踊りなゾンビたちの舞踏会　오도리나 좀비타치노 부토우카이
-息の留まったここにPumping　이키노 토맛타 코코니 Pumping
-Night of the Bodies　
-防腐剤の臭いがする舞台　보우후자이노 니오이가 스루 부타이
-あんたたちも私と踊りなさい　안타타치모 와타시토 오도리나사이
-邪悪なLaraと一緒の世界　쟈아쿠나 라라토 잇쇼노 세카이
+      <text bytes="1284" sha1="1smdh6gmkrkb2td4m41i0vq54efwhw8" xml:space="preserve">今日も新しい服のコレクション
+私に似合うニューファッション
+変装準備はすべて完了
+普通のLaraとは違う事情
+邪悪なLaraの登録
 
-私より目立つ奴らが憎い　와타시요리 메다츠 야츠라가 니쿠이
-本当に憎悪するし憎たらしい　혼토니 조오스루시 니쿠타라시이
-ぜんぶまとめて死んでしまえばいい　젠부 마토메테 신데시마이바 이이
-私が上に行けばいいだなんて？　와타시가 우에니 이케바 이이다난테?
-ありえない 戯言はぜんぶPass　아리에나이 타와고토와 젠부 Pass
-うまくやるより 他人を引きずり下ろす　우마쿠 야루요리 타닌오 히키즈리 오로스
-その方がずっと簡単なのよ　소노호우가 즛토 칸탄나노요
-踊れ死体の Boogie Woogie　오도레 시타이노 Boogie Woogie
-スタイルは邪悪に Woogie Boogie　스타이루와 쟈아쿠니 Woogie Boogie
-踊れ死体の Boogie Woogie　오도레 시타이노 Boogie Woogie
-スタイルは邪悪に Woogie Boogie　스타이루와 쟈아쿠니 Woogie Boogie
+人を騙すのは悪いみたい？
+騙してみたらそうでもない
+この美しい世界
+ほんとに扱いやすい
+
+Night of the Bodies
+踊りなゾンビたちの舞踏会
+息の留まったここにPumping
+Night of the Boides
+防腐剤の臭いがする舞台
+あんたたちも私と踊りなさい
+邪悪なLaraと一緒の世界
+
+私より目立つ奴らが憎い
+本当に憎悪するし憎たらしい
+ぜんぶまとめて死んでしまえばいい
+私が上に行けばいいだなんて？
+ありえない
+戯言はぜんぶPass
+うまくやるより
+他人を引きずり下ろす
+その方がずっと簡単なのよ
+
+踊れ死体の Boogie Woogie
+スタイルは邪悪に Woogie Boogie
+踊れ死体の Boogie Woogie
+スタイルは邪悪に Woogie Boogie
 Boogie Boogie Woogie Boogie
 Boogie Boogie Woogie Boogie
 Boogie Boogie Boogie Boogie
 Boogie Boogie Woogie Boogie
 
 Night of the Bodies
-踊りなゾンビたちの舞踏会　오도리나 좀비타치노 부토우카이
-息の留まったここにPumping　이키노 토맛타 코코니 Pumping
+踊りなゾンビたちの舞踏会
+息の留まったここにPumping
 Night of the Bodies　
-防腐剤の臭いがする舞台　보우후자이노 니오이가 스루 부타이
-あんたたちも私と踊りなさい　안타타치모 와타시토 오도리나사이
-邪悪なLaraと一緒の世界　쟈아쿠나 라라토 잇쇼노 세카이</text>
-      <sha1>nll7o5hfxyggkupdor39bazxub3qxa8</sha1>
+防腐剤の臭いがする舞台
+あんたたちも私と踊りなさい
+邪悪なLaraと一緒の世界</text>
+      <sha1>1smdh6gmkrkb2td4m41i0vq54efwhw8</sha1>
     </revision>
   </page>
   <page>
@@ -89878,6 +89883,519 @@ We sing Shinkim till we die
 신김치처럼 오래 남을 이름
 Chanting up, wrap it up, till it down</text>
       <sha1>jtvcl2sub26wa0zd7wlfb9kqi8srnsb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>쌀먹이 갖춰져 있으니까 유저들이 지르는 거라고</title>
+    <ns>0</ns>
+    <id>2538</id>
+    <revision>
+      <id>2849</id>
+      <timestamp>2026-09-04T13:43:53Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 패치 260904</comment>
+      <origin>2849</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="334" sha1="c0kihm9llx1u0votecz5v2ouzpnkgfj" xml:space="preserve">{{문서:창팝
+|유튜브Id=ovLS4xUxecQ
+|제작자=Black Friday
+|화자=메벤남
+|제작방법=Suno
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-09-04}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>c0kihm9llx1u0votecz5v2ouzpnkgfj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Reboot's Fault</title>
+    <ns>0</ns>
+    <id>2539</id>
+    <revision>
+      <id>2850</id>
+      <timestamp>2026-09-04T13:43:53Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 패치 260904</comment>
+      <origin>2850</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="352" sha1="hwe4blju0054ihdlxd6u2kixgcm1ws0" xml:space="preserve">{{문서:창팝
+|유튜브Id=3nuzLR1qKvA
+|제작자=인포딕
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-09-04}}
+|별명=탓할 존재가 필요해
+|곡명=Reboot's Fault
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>hwe4blju0054ihdlxd6u2kixgcm1ws0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>꼬우면 꺼지세요</title>
+    <ns>0</ns>
+    <id>2540</id>
+    <revision>
+      <id>2851</id>
+      <timestamp>2026-09-04T13:43:56Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 패치 260904</comment>
+      <origin>2851</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="297" sha1="n9nb8njgz4jfdladdnj0npb97c03mcp" xml:space="preserve">{{문서:창팝
+|유튜브Id=5q9c3iWCj5Q
+|제작자=머미슝좍
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-09-04}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>n9nb8njgz4jfdladdnj0npb97c03mcp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>창</title>
+    <ns>0</ns>
+    <id>2541</id>
+    <revision>
+      <id>2852</id>
+      <timestamp>2026-09-04T13:43:57Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>일괄 가져오기: 26-3 패치 260904</comment>
+      <origin>2852</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="327" sha1="9jvtj5og33mi6n9oeqyxoj2tbtcbbim" xml:space="preserve">{{문서:창팝
+|유튜브Id=-rFgRsZc2uQ
+|제작자=리스항르
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-09-04}}
+|고화질썸네일없음=예
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>9jvtj5og33mi6n9oeqyxoj2tbtcbbim</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>최초공개 릴레이/아카이브/2026년 9월</title>
+    <ns>0</ns>
+    <id>2542</id>
+    <revision>
+      <id>2857</id>
+      <timestamp>2026-09-04T13:46:53Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:월별 최초공개 릴레이 아카이브|월=2026-09}}</comment>
+      <origin>2857</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="65" sha1="d0x6fqfwmezlukc1nik2mh5n9qggn6m" xml:space="preserve">{{문서:월별 최초공개 릴레이 아카이브|월=2026-09}}</text>
+      <sha1>d0x6fqfwmezlukc1nik2mh5n9qggn6m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>풍류객몽</title>
+    <ns>0</ns>
+    <id>2543</id>
+    <revision>
+      <id>2858</id>
+      <timestamp>2026-09-04T13:51:02Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=3rA9vuxz1YI |제작자=스피노의혈육 |다른언어제목=風流客夢 |수록컵={{수록 창드컵|창드컵=2024년 5편}} }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 가사 == {{가사}}  {{창팝 둘러보기}}</comment>
+      <origin>2858</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="315" sha1="03mpsgt7h89ketj5nncrm52b2g4uyef" xml:space="preserve">{{문서:창팝
+|유튜브Id=3rA9vuxz1YI
+|제작자=스피노의혈육
+|다른언어제목=風流客夢
+|수록컵={{수록 창드컵|창드컵=2024년 5편}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>03mpsgt7h89ketj5nncrm52b2g4uyef</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:사악한 라라/번역</title>
+    <ns>3200</ns>
+    <id>2544</id>
+    <revision>
+      <id>2860</id>
+      <timestamp>2026-09-04T14:29:13Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: 오늘도 새로운 옷의 컬렉션 나에게 어울리는 New 패션 변장 준비는 모두 완료 평범한 라라와는 다른 사정 사악한 라라의 등장  남을 속이는게 뭐가 나빠? 속여보니까 그렇지도 않던데 아름다운 이 세계는 정말 다루기 쉬워  Night of the Boides 춤춰라 좀비들의 무도회 숨이 멎은 이 곳에 억지로 펌핑 Night of the Boides 방부제 냄새가 진동하는 이 곳 너희도 나랑 함께 춤을 추...</comment>
+      <origin>2860</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1338" sha1="t1xfn05hkmszn67z9dd96rbtzvdwbf7" xml:space="preserve">오늘도 새로운 옷의 컬렉션
+나에게 어울리는 New 패션
+변장 준비는 모두 완료
+평범한 라라와는 다른 사정
+사악한 라라의 등장
+
+남을 속이는게 뭐가 나빠?
+속여보니까 그렇지도 않던데
+아름다운 이 세계는
+정말 다루기 쉬워
+
+Night of the Boides
+춤춰라 좀비들의 무도회
+숨이 멎은 이 곳에 억지로 펌핑
+Night of the Boides
+방부제 냄새가 진동하는 이 곳
+너희도 나랑 함께 춤을 추는거야
+사악한 라라와 함께하는 세상
+
+나보다 잘나가는 녀석들이 미워
+정말로 증오스럽고 가증스러워
+전부 모조리 죽어버리면 좋겠어
+내가 위로 올라가면 된다니?
+말도 안돼
+헛소리는 전부 PASS
+내가 잘나가는 것 보다
+남을 끌어내리는 편이
+그게 훨씬 쉬운 일인걸
+
+춤춰라 시체들의 Boogie Woogie
+스타일은 사악하게 Woogie Boogie
+춤춰라 시체들의 Boogie Woogie
+스타일은 사악하게 Woogie Boogie
+Boogie Boogie Woogie Boogie
+Boogie Boogie Woogie Boogie
+Boogie Boogie Boogie Boogie
+Boogie Boogie Woogie Boogie
+
+Night of the Boides
+춤춰라 좀비들의 무도회
+숨이 멎은 이 곳에 억지로 펌핑
+Night of the Boides
+방부제 냄새가 진동하는 이 곳
+너희도 나랑 함께 춤을 추는거야
+사악한 라라와 함께하는 세상</text>
+      <sha1>t1xfn05hkmszn67z9dd96rbtzvdwbf7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:사악한 라라/발음</title>
+    <ns>3200</ns>
+    <id>2545</id>
+    <revision>
+      <id>2861</id>
+      <timestamp>2026-09-04T14:29:28Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: 쿄우모 아타라시이 후쿠노 코레쿠숀 와타시니 니아우 뉴-홧숀 헨소쥰비와 스베테 칸료 츠우노 라라토와 치가우 지죠 쟈아쿠나 라라노 토죠  히토오 다마스노와 와루이미타이? 다마시테미타라 소우데모나이 코노 우츠쿠시이 세카이 혼토니 아츠카이 야스이  Night of the Bodies 오도리나 좀비타치노 부토우카이 이키노 토맛타 코코니 Pumping Night of the Bodies　 보우후자이...</comment>
+      <origin>2861</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1476" sha1="079t1talyzxu9z2qlcvhvpzsbxvzrff" xml:space="preserve">쿄우모 아타라시이 후쿠노 코레쿠숀
+와타시니 니아우 뉴-홧숀
+헨소쥰비와 스베테 칸료
+츠우노 라라토와 치가우 지죠
+쟈아쿠나 라라노 토죠
+
+히토오 다마스노와 와루이미타이?
+다마시테미타라 소우데모나이
+코노 우츠쿠시이 세카이
+혼토니 아츠카이 야스이
+
+Night of the Bodies
+오도리나 좀비타치노 부토우카이
+이키노 토맛타 코코니 Pumping
+Night of the Bodies　
+보우후자이노 니오이가 스루 부타이
+안타타치모 와타시토 오도리나사이
+쟈아쿠나 라라토 잇쇼노 세카이
+
+와타시요리 메다츠 야츠라가 니쿠이
+혼토니 조오스루시 니쿠타라시이
+젠부 마토메테 신데시마이바 이이
+와타시가 우에니 이케바 이이다난테?
+아리에나이
+타와고토와 젠부 Pass
+우마쿠 야루요리
+타닌오 히키즈리 오로스
+소노호우가 즛토 칸탄나노요
+
+오도레 시타이노 Boogie Woogie
+스타이루와 쟈아쿠니 Woogie Boogie
+오도레 시타이노 Boogie Woogie
+스타이루와 쟈아쿠니 Woogie Boogie
+Boogie Boogie Woogie Boogie
+Boogie Boogie Woogie Boogie
+Boogie Boogie Boogie Boogie
+Boogie Boogie Woogie Boogie
+
+Night of the Bodies
+오도리나 좀비타치노 부토우카이
+이키노 토맛타 코코니 Pumping
+Night of the Bodies　
+보우후자이노 니오이가 스루 부타이
+안타타치모 와타시토 오도리나사이
+쟈아쿠나 라라토 잇쇼노 세카이</text>
+      <sha1>079t1talyzxu9z2qlcvhvpzsbxvzrff</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:쌀먹이 갖춰져 있으니까 유저들이 지르는 거라고</title>
+    <ns>3200</ns>
+    <id>2546</id>
+    <revision>
+      <id>2863</id>
+      <timestamp>2026-09-04T16:06:36Z</timestamp>
+      <contributor>
+        <username>ㅇㅇ38</username>
+        <id>35</id>
+      </contributor>
+      <comment>새 문서: 사냥만 했는데 정지당했네 라운지로 메소 팔았을 뿐인데 정지 사유는 "타인한테 메소양도" 이게 말이 되나?  단순 물통 거래로 정지를 주냐 투컴 쓰리컴도 아냐, 원컴이라고 내 인벤 계정을 걸고 나는 무죄라고  메이플에 돈 박고 시간 박고 내 현금을 소비하고 진짜 스펙업이 즐거워서 하는 사람 5%도 안 된다고 쌀먹이 갖춰져 있으니까 유저들이 지르는 거라고  메소...</comment>
+      <origin>2863</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1452" sha1="1e3v4a7upe0qk3ta8p2uo6vxr52uin9" xml:space="preserve">사냥만 했는데 정지당했네
+라운지로 메소 팔았을 뿐인데
+정지 사유는 "타인한테 메소양도"
+이게 말이 되나?
+
+단순 물통 거래로 정지를 주냐
+투컴 쓰리컴도 아냐, 원컴이라고
+내 인벤 계정을 걸고
+나는 무죄라고
+
+메이플에 돈 박고 시간 박고
+내 현금을 소비하고
+진짜 스펙업이 즐거워서 하는 사람
+5%도 안 된다고
+쌀먹이 갖춰져 있으니까
+유저들이 지르는 거라고
+
+메소를 판 것도 아닌데 정지
+소액의 메소를 샀을 뿐이지
+차라리 로아처럼 신뢰도를 도입해
+김창섭 좋아했는데 존나 실망이네!
+
+현거래 광고하는 BJ들은 냅둬
+선량한 현거래 유저들 정지를 줘
+광고는 되고 거래는 안 된단 말야?
+창재앙 이 씨발 새끼야!
+
+메이플에 돈 박고 시간 박고
+내 현금을 소비하고
+진짜 스펙업이 즐거워서 하는 사람
+5%도 안 된다고
+쌀먹이 갖춰져 있으니까
+유저들이 지르는 거라고
+
+주차한 거? 맞아!
+물통 판 거? 맞아!
+스펙업 안 하고 물통만 팔면 정지가 맞아?
+일반 유저 랜덤 정지
+이 게임에 남은 건 부정적 공포심
+20년간 이어진 메이플의 환금성
+김창섭이 무너뜨린다
+
+메이플에 돈 박고 시간 박고
+내 현금을 소비하고
+진짜 스펙업이 즐거워서 하는 사람
+5%도 안 된다고
+쌀먹이 갖춰져 있으니까
+유저들이 지르는 거라고</text>
+      <sha1>1e3v4a7upe0qk3ta8p2uo6vxr52uin9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:Reboot's Fault</title>
+    <ns>3200</ns>
+    <id>2547</id>
+    <revision>
+      <id>2864</id>
+      <timestamp>2026-09-04T16:08:00Z</timestamp>
+      <contributor>
+        <username>ㅇㅇ38</username>
+        <id>35</id>
+      </contributor>
+      <comment>새 문서: Woke up late, my coffee's cold Market's down, my gears unsold It's raining hard, I stubbed my toe But there's one reason this I know It ain't my luck, it ain't my fate There's only one thing that I hate Everything bad under the sun I know exactly where it began  It's all Reboot's fault Lockin' my happiness inside a vault I'm just a monkey farming my rice But they get it easy, they don't pay the price Yeah, whatever goes wrong today It's Reboot's fault Anyway!  Prices drop, the s...</comment>
+      <origin>2864</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="996" sha1="7osn5hgwco9bcgfbxje6vr1ony8yvqy" xml:space="preserve">Woke up late, my coffee's cold
+Market's down, my gears unsold
+It's raining hard, I stubbed my toe
+But there's one reason this I know
+It ain't my luck, it ain't my fate
+There's only one thing that I hate
+Everything bad under the sun
+I know exactly where it began
+
+It's all Reboot's fault
+Lockin' my happiness inside a vault
+I'm just a monkey farming my rice
+But they get it easy, they don't pay the price
+Yeah, whatever goes wrong today
+It's Reboot's fault
+Anyway!
+
+Prices drop, the servers lag
+Nothing left inside my bag
+They call me names, they laugh at me
+But I'm the victim, can't you see?
+
+It's all Reboot's fault
+Lockin' my happiness inside a vault
+I'm just a monkey farming my rice
+But they get it easy, they don't pay the price
+Yeah, whatever goes wrong today
+It's Reboot's fault
+Anyway!
+
+Global warming? Reboot's crime
+Lost my wallet? Reboot's time
+Every single tear I cry
+Reboot is the reason why
+Yeah, Reboot did it
+My Wi-Fi dropped? Reboot
+Just gonna keep farming my rice
+Always Reboot</text>
+      <sha1>7osn5hgwco9bcgfbxje6vr1ony8yvqy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>가사:꼬우면 꺼지세요</title>
+    <ns>3200</ns>
+    <id>2548</id>
+    <revision>
+      <id>2865</id>
+      <timestamp>2026-09-04T16:08:26Z</timestamp>
+      <contributor>
+        <username>ㅇㅇ38</username>
+        <id>35</id>
+      </contributor>
+      <comment>새 문서: 나는 3달 간 노력해서 겨우 자석펫을 얻었는데 지들은 노력조차 안하고 받고 싶어하네 이게 맞나  상식이 있는 사람이면 자기 돈 들여서 사야지 이것도 싫다 저것도 싫다 징징대는 꼴 보기 싫네 그냥 쳐 쳐꺼졌으면  악으로 깡으로 버텨라 리선족 같은 거지새끼들 설거지 끝났으니 볼 일 없어 꼬우면 접고 꺼지세요  악으로 깡으로 버텨라 아니면 제발 접고 꺼져 싼...</comment>
+      <origin>2865</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="1852" sha1="szy4g1bjp1vfj60x3b2dn8evv7o0ej3" xml:space="preserve">나는 3달 간 노력해서
+겨우 자석펫을 얻었는데
+지들은 노력조차 안하고
+받고 싶어하네
+이게 맞나
+
+상식이 있는 사람이면
+자기 돈 들여서 사야지
+이것도 싫다 저것도 싫다
+징징대는 꼴 보기 싫네
+그냥 쳐 쳐꺼졌으면
+
+악으로 깡으로 버텨라
+리선족 같은 거지새끼들
+설거지 끝났으니 볼 일 없어
+꼬우면 접고 꺼지세요
+
+악으로 깡으로 버텨라
+아니면 제발 접고 꺼져
+싼 값에 템 주워 담아서
+비싸게 팔아 설거지하게
+
+라떼는 배급석 펫도 없었고
+몸 비틀면서 게임 했는데
+니들은 게임이 편해져
+불평불만만 가득 하구나
+
+힘들면 고난을 넘기고
+어떻게 넘길지 생각하면서
+즐거움을 찾아봐야지
+드러눕는다고 뭐가 되냐?
+
+엥, 그럼 왜 사료달라고 누웠나요?
+喝!!!!!!!!!!
+아가리 닥쳐!!!
+
+아무튼 문제를 마주 했으면
+직접 해결하려고 해야지
+요즘 것들은 몸이 편해서
+불평불만한 쏟아내네
+
+악으로 깡으로 버텨라
+리선족 같은 거지새끼들
+설거지 끝났으니 볼 일 없어
+꼬우면 접고 꺼지세요
+
+악으로 깡으로 버텨라
+아니면 제발 접고 꺼져
+싼 값에 템 주워 담아서
+비싸게 팔아 설거지하게
+
+뉴비들한테 덤터기 씌우고
+전통 시장 행패랑 다를게 뭐지
+뉴비를 돈통으로만 보면서
+어떻게 게임이 흥하길 바라나요?
+喝!!!!!!!!!!
+꼬우면 로아하러 꺼져!!!
+
+악으로 깡으로 버텨라
+희망은 고이 접고 꺼져라
+설거지 이미 끝났으니
+꼬우면 접고 꺼지세요
+
+악으로 깡으로 버텨라
+희망은 고이 접고 꺼져라
+설거지 안해줄거면
+접고 꼬우면 꺼지세요
+
+악으로 깡으로 버텨라
+희망은 고이 접고 꺼져라
+설거지 안해줄거면
+접고 꼬우면 꺼지세요</text>
+      <sha1>szy4g1bjp1vfj60x3b2dn8evv7o0ej3</sha1>
     </revision>
   </page>
 </mediawiki>
