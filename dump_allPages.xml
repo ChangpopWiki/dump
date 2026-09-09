@@ -862,20 +862,20 @@ __새문단쓰기__
     <ns>10</ns>
     <id>14</id>
     <revision>
-      <id>1828</id>
-      <parentid>1248</parentid>
-      <timestamp>2026-01-17T11:47:35Z</timestamp>
+      <id>2872</id>
+      <parentid>1828</parentid>
+      <timestamp>2026-09-09T14:41:22Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1828</origin>
+      <origin>2872</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2041" sha1="p8fzzzpkvl93sa3iue7cj1jex1xa68e" xml:space="preserve">&lt;!----------------------------&gt;&lt;includeonly&gt;&lt;!-------------------------------
+      <text bytes="2015" sha1="7ba9fjcx3015uqvpzs0nb49183fzbm1" xml:space="preserve">&lt;!----------------------------&gt;&lt;includeonly&gt;&lt;!-------------------------------
 
 --&gt;
-{| class="wikitable floatright" style="float: right; width: 26em"
+{| class="wikitable infobox floatright"
 |-
 ! colspan="2" |&lt;big&gt;{{#or: {{{명칭|}}} | {{문서이름}} }}&lt;/big&gt;{{{명칭_|}}}
 |- 
@@ -958,7 +958,7 @@ __새문단쓰기__
 &lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>p8fzzzpkvl93sa3iue7cj1jex1xa68e</sha1>
+      <sha1>7ba9fjcx3015uqvpzs0nb49183fzbm1</sha1>
     </revision>
   </page>
   <page>
