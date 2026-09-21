@@ -1410,20 +1410,22 @@ __새문단쓰기__
     <ns>8</ns>
     <id>24</id>
     <revision>
-      <id>24</id>
-      <timestamp>2025-05-15T08:27:16Z</timestamp>
+      <id>2958</id>
+      <parentid>24</parentid>
+      <timestamp>2026-09-21T13:31:35Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>24</origin>
+      <origin>2958</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="300" sha1="c7d9pe8ib2zehbf812yo108msxubrpr" xml:space="preserve">
+      <text bytes="333" sha1="ssvynypgqzc98edi8dkvu6zx88ypw9g" xml:space="preserve">
 * navigation
 ** mainpage|mainpage-description
 ** recentchanges-url|recentchanges
 ** randompage-url|randompage
+** specialpages-url|specialpages
 * 창팝위키
 ** 창팝위키:소개|소개
 ** 창팝위키:도움말|도움말
@@ -1432,7 +1434,7 @@ __새문단쓰기__
 * SEARCH
 * TOOLBOX
 * LANGUAGES</text>
-      <sha1>c7d9pe8ib2zehbf812yo108msxubrpr</sha1>
+      <sha1>ssvynypgqzc98edi8dkvu6zx88ypw9g</sha1>
     </revision>
   </page>
   <page>
