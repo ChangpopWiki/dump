@@ -43,45 +43,84 @@
     <ns>4</ns>
     <id>2</id>
     <revision>
-      <id>2315</id>
-      <parentid>843</parentid>
-      <timestamp>2026-05-27T14:24:16Z</timestamp>
+      <id>2992</id>
+      <parentid>2315</parentid>
+      <timestamp>2026-10-04T15:56:28Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>2315</origin>
+      <origin>2992</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1528" sha1="kzmrxla49i7tg3vrvshcpnevozs4dz7" xml:space="preserve">__목차숨김__
-&lt;templatestyles src="대문"&gt;&lt;/templatestyles&gt;
-&lt;p class="ts-subtitle"&gt;[[창팝]] 가사, 기록 저장소&lt;/p&gt;
-&lt;h1 class="ts-title"&gt;창팝위키&lt;/h1&gt;
-&lt;p class="ts-welcome"&gt;창팝위키에 오신 것을 환영합니다!&lt;/p&gt;
-&lt;div class="ts-search citizen-search-trigger citizen-animations-ready" style="border: var( --border-base ); border-radius: var( --border-radius-pill ); background-color: var( --color-surface-1 ); font-size: var( --font-size-small ); font-weight: var( --font-weight-medium );" role="button"&gt;&lt;span class="ts-search-icon show-only-light"&gt;https://upload.wikimedia.org/wikipedia/commons/d/de/OOjs_UI_icon_search-ltr.svg&lt;/span&gt;&lt;span class="ts-search-icon show-only-dark"&gt;https://upload.wikimedia.org/wikipedia/commons/8/8c/OOjs_UI_icon_search-ltr-invert.svg&lt;/span&gt;&lt;span&gt;창팝위키 검색&lt;/span&gt; &lt;code&gt;/&lt;/code&gt;&lt;/div&gt;
+      <text bytes="4753" sha1="czp3t385jeiyztf9m04iq1hpb5ja7cy" xml:space="preserve">__목차숨김__
+&lt;div class="chp--mainpage-nav"&gt;
+	&lt;div class="chp--mainpage-nav-sitelabel&gt;
+		&lt;div class="chp--mainpage-siteicon"&gt;{{서버}}/resources/assets/logo.svg&lt;/div&gt;
+		창팝위키
+	&lt;/div&gt; 
+	&lt;div class="chp--mainpage-nav-links"&gt;
+		[[창팝위키:소개|소개]]
+		[[창팝위키:선착장|선착장]]
+		[[창팝위키:기여하기|기여하기]]
+		[[창팝위키:편집지침|편집지침]]
+		[[창팝위키:계획|계획]]
+		[[창팝위키:도움말|도움말]]
+		[[창팝위키:연습장|연습장]]
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="chp--mainpage-hero"&gt;
+&lt;div class="chp--mainpage-content&gt;
+	&lt;div class="chp--mainpage-tagline"&gt;창팝 가사, 기록 저장소&lt;br&gt;&lt;span class="chp--mainpage-tagline-sitename"&gt;창팝위키&lt;/span&gt;에서 [[창팝]]을 찾아보세요&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="chp--mainpage-cta"&gt;
+	&lt;div class="chp--mainpage-cta-box"&gt;
+		&lt;div class="chp--mainpage-cta-link-container"&gt;[[창팝위키:기여하기]]&lt;/div&gt;
+		&lt;div class="chp--mainpage-cta-header"&gt;기여&lt;/div&gt;
+		&lt;div class="chp--mainpage-cta-label"&gt;기여 포털로 가기&lt;span class="chp--mainpage-cta-arrow"&gt;➔&lt;/span&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class="chp--mainpage-cta-box citizen-search-trigger citizen-animations-ready"&gt;
+		&lt;div class="chp--mainpage-cta-link-container"&gt;[[특수:검색]]&lt;/div&gt;
+		&lt;div class="chp--mainpage-cta-header"&gt;검색&lt;/div&gt;
+		&lt;div class="chp--mainpage-cta-label"&gt;창팝위키 검색하기 &lt;code&gt;/&lt;/code&gt;&lt;span class="chp--mainpage-cta-arrow"&gt;➔&lt;/span&gt;&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
 
-{{창팝위키 둘러보기}}
+&lt;div class="chp--mainpage-subjects-nav"&gt;
+	&lt;div class="chp--mainpage-subject-item"&gt;&lt;div class="chp--mainpage-subject-symbol skin-invert-image"&gt;{{서버}}/static_images/concept.svg&lt;/div&gt;[[:분류:개념|개념]]&lt;/div&gt;
+	&lt;div class="chp--mainpage-subject-item"&gt;&lt;div class="chp--mainpage-subject-symbol skin-invert-image"&gt;{{서버}}/static_images/song.svg&lt;/div&gt;[[:분류:창팝|창팝]]&lt;/div&gt;
+	&lt;div class="chp--mainpage-subject-item"&gt;&lt;div class="chp--mainpage-subject-symbol skin-invert-image"&gt;{{서버}}/static_images/cup.svg&lt;/div&gt;[[:분류:창드컵|창드컵]]&lt;/div&gt;
+	&lt;div class="chp--mainpage-subject-item"&gt;&lt;div class="chp--mainpage-subject-symbol skin-invert-image"&gt;{{서버}}/static_images/artist.svg&lt;/div&gt;[[:분류:제작자|제작자]]&lt;/div&gt;
+	&lt;div class="chp--mainpage-subject-item"&gt;&lt;div class="chp--mainpage-subject-symbol skin-invert-image"&gt;{{서버}}/static_images/festival.svg&lt;/div&gt;[[:분류:창팝 경연대회|대회]]&lt;/div&gt;
+	&lt;div class="chp--mainpage-subject-item"&gt;&lt;div class="chp--mainpage-subject-symbol skin-invert-image"&gt;{{서버}}/static_images/etc.svg&lt;/div&gt;[[:분류:기타|기타]]&lt;/div&gt;
+&lt;/div&gt;
+현재 창팝위키에는 {{분류문서수:창팝|문서}}개의 [[창팝]] 문서와 {{사용자수}}명의 [[특수:사용자목록|사용자]]가 있습니다. 가사 추가, 문서 추가, 그 외 간단한 수정 무엇이든 기여를 환영합니다. 계정을 만들지 않아도 익명으로 편집할 수 있습니다. [[도움말:창팝위키에 기여하기]]부터 시작해보세요.
 
-현재 창팝위키에는 {{분류문서수:창팝|문서}}개의 [[창팝]] 문서와 {{사용자수}}명의 [[특수:사용자목록|사용자]]가 있습니다.
-
-분류된 문서는 아래에서 찾을 수 있습니다.
-
-&lt;categorytree mode="pages" hideroot=on&gt;주제 분류&lt;/categorytree&gt; 
-&lt;categorytree mode="pages" depth=0 &gt;메타 분류&lt;/categorytree&gt; 
-&lt;inputbox&gt;
-type=search
-searchbuttonlabel=가사에서 찾기
-namespaces=가사
-break=no
-&lt;/inputbox&gt;
-
-&lt;div class="ts-layout-container"&gt;
-&lt;div class="ts-layout-item"&gt;{{대문/최초공개 릴레이}}&lt;/div&gt;
-&lt;div class="ts-layout-item"&gt;{{최근 바뀜}}&lt;/div&gt;
+'''검색 팁''' — 가사로 찾고 싶은 곡이 있다면, 검색창에서 '가사:'를 입력하고 기억나는 가사를 입력해 보세요. 가사 문서들에서 찾습니다.&lt;ref&gt;'가사:' 를 앞에 붙이면 &lt;code&gt;가사&lt;/code&gt; 이름공간에서 텍스트를 검색합니다. 창팝위키는 가사를 일반 문서와 별도로 관리하기 때문에 '가사:' 를 붙이지 않은 통합검색에서는 가사 텍스트가 바로 검색되지 않습니다. 이 경우 검색 설정에서 ‘모든 문서’를 선택하거나 ‘고급' 에서 '가사’ 이름공간을 추가해야 합니다.&lt;br&gt;&lt;br&gt;통합검색에서도 가사 검색이 바로 되도록 원본 소스가 아닌 최종 출력으로 검색되도록 하는 검색 강화 미디어위키 확장이 있지만, 고사양의 서버를 필요로 하여 현재는 사용하지 않고 있습니다. 추후 도입할 수도 있습니다.&lt;/ref&gt;
+&lt;div class="chp--mainpage-grid"&gt;
+&lt;div class="chp--mainpage-grid-main"&gt;&lt;/div&gt;
+&lt;div class="chp--mainpage-grid-side"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="chp--mainpage-cards-container chp--mainpage-2cols"&gt;
+	&lt;div class="chp--mainpage-card"&gt;{{대문/최초공개 릴레이}}&lt;/div&gt;
+	&lt;div class="chp--mainpage-card"&gt;{{일간 신창섭 최근 목록}}&lt;/div&gt;
+	&lt;div class="chp--mainpage-card"&gt;{{최근 바뀜}}&lt;/div&gt;
+	&lt;div class="chp--mainpage-card"&gt;
+		&lt;div class="mw--card"&gt;
+			&lt;div class="mw--card-header"&gt;&lt;h4 style="margin: 0"&gt;분류&lt;/h4&gt;&lt;span class="mw--card-description"&gt;문서 분류&lt;/span&gt;&lt;/div&gt;
+			&lt;div class="mw--card-row"&gt;
+				&lt;categorytree mode="pages" hideroot=on&gt;주제 분류&lt;/categorytree&gt; 
+			&lt;categorytree mode="pages" depth=0 &gt;메타 분류&lt;/categorytree&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
 &lt;/div&gt;
 
+&lt;usestyle src="대문.css" /&gt;
 [[분류:창팝위키]]</text>
-      <sha1>kzmrxla49i7tg3vrvshcpnevozs4dz7</sha1>
+      <sha1>czp3t385jeiyztf9m04iq1hpb5ja7cy</sha1>
     </revision>
   </page>
   <page>
@@ -407,29 +446,22 @@ break=no
     <ns>14</ns>
     <id>6</id>
     <revision>
-      <id>6</id>
-      <timestamp>2025-06-01T03:15:42Z</timestamp>
+      <id>2982</id>
+      <parentid>6</parentid>
+      <timestamp>2026-10-04T14:36:18Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <comment>[[Special:Contributions/관리자|관리자]] ([[User talk:관리자|토론]])의 [[Special:Diff/774|774]] 판 편집을 되돌림</comment>
-      <origin>6</origin>
+      <origin>2982</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="289" sha1="5buydjroexz0o6ofi0b16r6vztf1cqa" xml:space="preserve">{{#default_form:창드컵}}
-&lt;inputbox&gt;
-type=create
-buttonlabel=새 {{PAGENAME}} 문서 만들기
-preload=본보기:창드컵
-placeholder=창드컵 문서 제목 입력...
-break=no
-useve=true
-&lt;/inputbox&gt;
+      <text bytes="155" sha1="8aq1cvaa95igyintgds66nriws30tpa" xml:space="preserve">{{창드컵 둘러보기|펼치기=예}}
 {{창드컵 메타 둘러보기}}
+{{#default_form:창드컵}}
 [[분류:주제 분류]]
 [[분류:메타:창드컵]]</text>
-      <sha1>5buydjroexz0o6ofi0b16r6vztf1cqa</sha1>
+      <sha1>8aq1cvaa95igyintgds66nriws30tpa</sha1>
     </revision>
   </page>
   <page>
@@ -737,24 +769,26 @@ a {
     <ns>4</ns>
     <id>12</id>
     <revision>
-      <id>2833</id>
-      <parentid>2731</parentid>
-      <timestamp>2026-08-30T10:19:32Z</timestamp>
+      <id>2996</id>
+      <parentid>2995</parentid>
+      <timestamp>2026-10-04T16:08:17Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
       <comment>/* 창팝위키 베타 오픈 */ 답변</comment>
-      <origin>2833</origin>
+      <origin>2996</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="6163" sha1="j3wt3q0w7hsxw9a701cwdevfm07uys8" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
+      <text bytes="6977" sha1="dojqn7rjb4cq96n6cvzsi68cgks5cic" xml:space="preserve">{{SHORTDESC:창팝위키의 소통 공간}}
 __새문단쓰기__
 [[분류:창팝위키]]
 {{창팝위키 둘러보기}}
 선착장에 오신 것을 환영합니다! 창팝위키에 대해 자유롭게 의견과 질문을 남길 수 있는 소통 공간입니다. (단쌀제)
 
 상단의(모바일에서는 하단) '''주제 추가''' 버튼을 눌러 새 주제를 추가할 수 있습니다.
+
+선착장에 남기기 어려운 내용이 있다면 구글 폼으로 되어 있는 [https://docs.google.com/forms/d/e/1FAIpQLScIuRVqBSRh8zIPON6UYOGjRCkIQ24v8yTAo32bEd9aOu89uQ/viewform?usp=sharing&amp;ouid=107995283277500339126 창구]를 이용해주세요.
 
 == 창팝위키 베타 오픈 ==
 
@@ -783,6 +817,13 @@ __새문단쓰기__
 :기존의 월별 [[최초공개 릴레이/아카이브]] 문서에는 로딩이 오래걸리거나 서버를 터트리는 문제가 있었습니다. 무거운 일별 결과 합치기 대신 새 월별 가져오기 API를 도입했고 이를 이용하는 틀을 사용하도록 모두 수정했습니다.&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2026년 3월 16일 (월) 19:34 (KST)
 :업데이트:
 :한 곡에 여러 가사를 추가할 수 있게 되었습니다. 적용 예시: [[거짓말 속이기]], [[Spider Hotel]]&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2026년 8월 30일 (일) 19:19 (KST)
+:업데이트:
+:*대문 개편(일간 신창섭 최근 목록을 대문에서 확인해보세요!)
+:*새 로고 적용
+:*[[틀:창드컵 둘러보기]] 현재 존재하는 창드컵 문서 기준으로 자동화
+:*[[도움말:창팝위키에 기여하기]] 안내 문서 작성
+:*선착장 대신 쓸 수 있는 구글 폼 문의 창구 신설 (이 문서 맨 위에 링크가 있습니다)
+:&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2026년 10월 5일 (월) 01:08 (KST)
 
 == 건?의?사항 ==
 
@@ -805,7 +846,7 @@ __새문단쓰기__
 전에 없던 문제가 발생한 경우 답글로 제보해주세요.&lt;br&gt;&lt;span class="signature-message"&gt;— [[사용자:창팝위키|창팝위키]] ([[사용자토론:창팝위키|토론]])&lt;/span&gt; 2026년 7월 27일 (월) 01:19 (KST)
 
 :비로그인 답글 테스트&lt;br&gt;&lt;span class="signature-message"&gt;— [[특수:기여/ㅇㅇ53|ㅇㅇ53]] ([[사용자토론:ㅇㅇ53|토론]])&lt;/span&gt; 2026년 7월 27일 (월) 01:22 (KST)</text>
-      <sha1>j3wt3q0w7hsxw9a701cwdevfm07uys8</sha1>
+      <sha1>dojqn7rjb4cq96n6cvzsi68cgks5cic</sha1>
     </revision>
   </page>
   <page>
@@ -2457,19 +2498,17 @@ break = no
     <ns>0</ns>
     <id>61</id>
     <revision>
-      <id>979</id>
-      <parentid>217</parentid>
-      <timestamp>2025-09-28T07:15:27Z</timestamp>
+      <id>2969</id>
+      <parentid>979</parentid>
+      <timestamp>2026-10-04T14:33:01Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>수록곡 문단</comment>
-      <origin>979</origin>
+      <origin>2969</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="375" sha1="2o24c4lw7nq22296pj9by1u77zoh4ui" xml:space="preserve">{{문서:창드컵
-|명칭=엄선작 2024년 1편
+      <text bytes="343" sha1="464v33rxtdjh4zdvqx6lgbdk2j8oloa" xml:space="preserve">{{문서:창드컵
 |PikuId=8uVWvb
 |강=32
 |유형=엄선작 2024
@@ -2486,9 +2525,8 @@ break = no
 {{수록곡 표}}
 
 == 둘러보기 ==
-
 {{창드컵 둘러보기}}</text>
-      <sha1>2o24c4lw7nq22296pj9by1u77zoh4ui</sha1>
+      <sha1>464v33rxtdjh4zdvqx6lgbdk2j8oloa</sha1>
     </revision>
   </page>
   <page>
@@ -2633,38 +2671,115 @@ break = no
     <ns>10</ns>
     <id>68</id>
     <revision>
-      <id>68</id>
-      <timestamp>2025-05-23T22:48:09Z</timestamp>
+      <id>2967</id>
+      <parentid>68</parentid>
+      <timestamp>2026-10-04T14:31:24Z</timestamp>
       <contributor>
-        <username>imported&gt;관리자</username>
-        <id>0</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>68</origin>
+      <origin>2967</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="2133" sha1="c7u8acye7naa311dfbsbkbol47r48ir" xml:space="preserve">{| class="wikitable wikitable--fluid" style="widht: 100%"
-|+ 창드컵
-|-
-! 엄선작 2024 
-| [[2024년 1편|24-1]] · [[2024년 2편|24-2]] · [[2024년 3편|24-3]] · [[2024년 4편|24-4]] · [[2024년 5편|24-5]] · [[DLC컵]]
-|-
-! 엄선작 2025
-| [[2025년 1편|25-1]] · [[2025년 2편|25-2]] · [[2025년 3편|25-3]] 
-|-
-! 테마
-| [[공포컵]] · [[사탕컵]] · [[도파민컵]] · [[문학컵]] · [[감성컵: 개화]] · [[감성컵: 월영]] · [[심연컵 1편]] · [[심연컵 2편]] · [[스토리컵]] · [[아방가르드컵]] · [[지옥컵]] · [[축제컵]] · [[캐롤컵]] · [[캐롤컵 실전압축]] · [[통발컵]] · [[해적컵 1편]] · [[해적컵 2편]] · [[맷돌컵]] · [[고소컵]] · [[항드컵]]
-|-
-! 장르
-| [[락드컵 1편]] · [[락드컵 2편]] · [[보컬로이드 오리지널컵]] · [[메탈컵 1편]] · [[메탈컵 2편]] · [[국악컵]] · [[성가컵]] · [[EDM컵]] · [[트로트컵]] · [[뮤지컬컵]] · [[힙드컵]] · [[힙드컵 2025년 1편|힙드컵 25-1]] · [[재즈컵 1편]] · [[J-창팝컵]] · [[K팝컵]]
-|-
-! 개사
-| [[만동컵 1편]] · [[만동컵 2편]] · [[메인스트림 1편]] · [[메인스트림 2편]] · [[메인스트림 실전압축]] · [[리듬게임 개사컵]] · [[리듬게임 개사컵]] · [[발라드컵]] · [[보컬로이드 개사컵]] · [[서브컬쳐컵 1편]] · [[서브컬쳐컵 2편]] · [[서브컬쳐컵 3편]]
-|-
-! 기타
-| [[리믹스컵]] · [[리부트 추모관]] · [[리부트 추모관]] · [[목사컵 1편]] · [[목사컵 2편]] · [[유스 어셈블컵]]  · [[유스 라이징컵 1편]] · [[유스 라이징컵 2편]] · [[유스 자추컵]]
-|-
-| colspan=2 style="background-color: var( --color-surface-th )" | ''현재 목록은 수동 입력이지만 이론상 모든 창드컵이 문서화 된 이후에는 자동화 필요''
-|}&lt;!--
+      <text bytes="3988" sha1="8w8dae7ljv49z5868cn5q8j4af2ia52" xml:space="preserve">{{둘러보기 상자
+| 제목 = [[창드컵]]
+| 설명 = 둘러보기
+| 펼치기 = {{{펼치기|}}}
+| 내용 =
+	{{둘러보기 상자/행
+	| 레이블 = 엄선
+	| 중첩 = 
+		{{둘러보기 상자/행
+		| 레이블 = 2024
+		| 리스트 = 
+			{{#cargo_query: tables=창드컵
+			|fields=CONCAT('&lt;li', IF(창드컵.폐지날짜 IS NULL, '', CONCAT(' data-closed="', 창드컵.폐지날짜, '"')), '&gt;[[', 창드컵._pageName, '|', 창드컵.명칭, ']]&lt;/li&gt;')
+			|where=창드컵.유형 = '엄선작 2024'
+			|order by=창드컵.폐지날짜 IS NOT NULL
+			|format=list
+			|delimiter=
+			}}
+		}}
+		{{둘러보기 상자/행
+		| 레이블 = 2025
+		| 리스트 = 
+			{{#cargo_query: tables=창드컵
+			|fields=CONCAT('&lt;li', IF(창드컵.폐지날짜 IS NULL, '', CONCAT(' data-closed="', 창드컵.폐지날짜, '"')), '&gt;[[', 창드컵._pageName, '|', 창드컵.명칭, ']]&lt;/li&gt;')
+			|where=창드컵.유형 = '엄선작 2025'
+			|order by=창드컵.폐지날짜 IS NOT NULL
+			|format=list
+			|delimiter=
+			}}
+		}}
+		{{둘러보기 상자/행
+		| 레이블 = 2026
+		| 리스트 = 
+			{{#cargo_query: tables=창드컵
+			|fields=CONCAT('&lt;li', IF(창드컵.폐지날짜 IS NULL, '', CONCAT(' data-closed="', 창드컵.폐지날짜, '"')), '&gt;[[', 창드컵._pageName, '|', 창드컵.명칭, ']]&lt;/li&gt;')
+			|where=창드컵.유형 = '엄선작 2026'
+			|order by=창드컵.폐지날짜 IS NOT NULL
+			|format=list
+			|delimiter=
+			}}
+		}}
+	}}
+	{{둘러보기 상자/행
+	| 레이블 = 개사
+	| 리스트 = 
+		{{#cargo_query: tables=창드컵
+		|fields=CONCAT('&lt;li', IF(창드컵.폐지날짜 IS NULL, '', CONCAT(' data-closed="', 창드컵.폐지날짜, '"')), '&gt;[[', 창드컵._pageName, '|', 창드컵.명칭, ']]&lt;/li&gt;')
+		|where=창드컵.유형 = '개사'
+		|order by=창드컵.폐지날짜 IS NOT NULL
+		|format=list
+		|delimiter=
+		}}
+	}}
+	{{둘러보기 상자/행
+	| 레이블 = 계절
+	| 리스트 = 
+		{{#cargo_query: tables=창드컵
+		|fields=CONCAT('&lt;li', IF(창드컵.폐지날짜 IS NULL, '', CONCAT(' data-closed="', 창드컵.폐지날짜, '"')), '&gt;[[', 창드컵._pageName, '|', 창드컵.명칭, ']]&lt;/li&gt;')
+		|where=창드컵.유형 = '계절'
+		|order by=창드컵.폐지날짜 IS NOT NULL
+		|format=list
+		|delimiter=
+		}}
+	}}
+	{{둘러보기 상자/행
+	| 레이블 = 테마
+	| 리스트 = 
+		{{#cargo_query: tables=창드컵
+		|fields=CONCAT('&lt;li', IF(창드컵.폐지날짜 IS NULL, '', CONCAT(' data-closed="', 창드컵.폐지날짜, '"')), '&gt;[[', 창드컵._pageName, '|', 창드컵.명칭, ']]&lt;/li&gt;')
+		|where=창드컵.유형 = '테마'
+		|order by=창드컵.폐지날짜 IS NOT NULL
+		|format=list
+		|delimiter=
+		}}
+	}}
+	{{둘러보기 상자/행
+	| 레이블 = 장르
+	| 리스트 = 
+		{{#cargo_query: tables=창드컵
+		|fields=CONCAT('&lt;li', IF(창드컵.폐지날짜 IS NULL, '', CONCAT(' data-closed="', 창드컵.폐지날짜, '"')), '&gt;[[', 창드컵._pageName, '|', 창드컵.명칭, ']]&lt;/li&gt;')
+		|where=창드컵.유형 = '장르'
+		|order by=창드컵.폐지날짜 IS NOT NULL
+		|format=list
+		|delimiter=
+		}}
+	}}
+	{{둘러보기 상자/행
+	| 레이블 = 기타
+	| 리스트 = 
+		{{#cargo_query: tables=창드컵
+		|fields=CONCAT('&lt;li', IF(창드컵.폐지날짜 IS NULL, '', CONCAT(' data-closed="', 창드컵.폐지날짜, '"')), '&gt;[[', 창드컵._pageName, '|', 창드컵.명칭, ']]&lt;/li&gt;')
+		|where=창드컵.유형 = '기타'
+		|order by=창드컵.폐지날짜 IS NOT NULL
+		|format=list
+		|delimiter=
+		}}
+	}}
+	&lt;div class="mw--navbox-footer"&gt;창팝위키에 문서가 존재하는 창드컵만 표시됩니다. [[창팝위키:기여하기|기여하기]]에서 창드컵 문서 추가를 도와주세요!&lt;/div&gt;
+}}&lt;templatestyles src="틀:창드컵 둘러보기/style.css" /&gt;&lt;!--
 ---------------------------------&gt;&lt;noinclude&gt;&lt;!---------------------------------
 
 --&gt;
@@ -2675,7 +2790,7 @@ break = no
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!---------------------------------
 --&gt;</text>
-      <sha1>c7u8acye7naa311dfbsbkbol47r48ir</sha1>
+      <sha1>8w8dae7ljv49z5868cn5q8j4af2ia52</sha1>
     </revision>
   </page>
   <page>
@@ -6213,19 +6328,19 @@ piku\.co.kr
     <ns>10</ns>
     <id>148</id>
     <revision>
-      <id>2954</id>
-      <parentid>996</parentid>
-      <timestamp>2026-09-18T13:57:05Z</timestamp>
+      <id>2986</id>
+      <parentid>2954</parentid>
+      <timestamp>2026-10-04T15:48:55Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>2954</origin>
+      <origin>2986</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="575" sha1="q4acugy7rhaahdskj1row0mkbh35o1p" xml:space="preserve">&lt;templatestyles src="틀:최근 바뀜/스타일.css" /&gt;&lt;usestyle src="Card.css"/&gt;
-&lt;div class="mw--card" style="" &gt;
-&lt;h4 class="mw--card-header"&gt;최근 바뀜&lt;/h4&gt;
+      <text bytes="672" sha1="g6o7uqsxac0qt333hd913nkqoe9lwy6" xml:space="preserve">&lt;templatestyles src="틀:최근 바뀜/스타일.css" /&gt;&lt;usestyle src="Card.css"/&gt;
+&lt;div class="mw--card"&gt;
+&lt;div class="mw--card-header"&gt;&lt;h4 style="margin: 0"&gt;최근 바뀜&lt;/h4&gt;&lt;span class="mw--card-description"&gt;창팝위키의 최근 변경 내역&lt;/span&gt;&lt;/div&gt;
 &lt;div class="mw--card-row" style="padding-left: var(--space-sm);"&gt;{{특수:최근바뀜/limit=15,namespace=0;4;6;12;14;3200;}}&lt;/div&gt;
 &lt;div class="mw--card-row"&gt;[[특수:최근바뀜|더보기...]]&lt;/div&gt;
 &lt;/div&gt;&lt;!--
@@ -6233,7 +6348,7 @@ piku\.co.kr
 
 --&gt;[[분류:틀]]{{설명문서}}&lt;!--
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>q4acugy7rhaahdskj1row0mkbh35o1p</sha1>
+      <sha1>g6o7uqsxac0qt333hd913nkqoe9lwy6</sha1>
     </revision>
   </page>
   <page>
@@ -10936,18 +11051,17 @@ Six Seven Eight Night
     <ns>0</ns>
     <id>242</id>
     <revision>
-      <id>1066</id>
-      <parentid>1064</parentid>
-      <timestamp>2025-10-21T13:47:17Z</timestamp>
+      <id>2970</id>
+      <parentid>1066</parentid>
+      <timestamp>2026-10-04T14:33:17Z</timestamp>
       <contributor>
-        <username>리자예</username>
-        <id>7</id>
+        <username>창팝위키</username>
+        <id>2</id>
       </contributor>
-      <origin>1066</origin>
+      <origin>2970</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="305" sha1="pevees2513vg2jt0ijikvrc9zvfr98t" xml:space="preserve">{{문서:창드컵
-|명칭=엄선작 2024년 2편
+      <text bytes="321" sha1="gppc1jf84h5vbjnafix83k7h9gewowy" xml:space="preserve">{{문서:창드컵
 |PikuId=2SQfBZ
 |강=32
 |유형=엄선작 2024
@@ -10962,8 +11076,11 @@ Six Seven Eight Night
 {{수록곡 표}}
 
 === 가사 모음 ===
-[[/수록곡 가사 모음]]</text>
-      <sha1>pevees2513vg2jt0ijikvrc9zvfr98t</sha1>
+[[/수록곡 가사 모음]]
+
+== 둘러보기 ==
+{{창드컵 둘러보기}}</text>
+      <sha1>gppc1jf84h5vbjnafix83k7h9gewowy</sha1>
     </revision>
   </page>
   <page>
@@ -10971,17 +11088,17 @@ Six Seven Eight Night
     <ns>0</ns>
     <id>243</id>
     <revision>
-      <id>1778</id>
-      <parentid>1143</parentid>
-      <timestamp>2025-12-18T14:01:54Z</timestamp>
+      <id>2971</id>
+      <parentid>1778</parentid>
+      <timestamp>2026-10-04T14:33:41Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1778</origin>
+      <origin>2971</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="324" sha1="s1ohv4m6gbakxf83tsvdmrgeauyl1ly" xml:space="preserve">{{문서:창드컵
+      <text bytes="371" sha1="q3n0cwlxhe4lmzp8g7w998k37emi5xz" xml:space="preserve">{{문서:창드컵
 |명칭=2024년 3편
 |PikuId=7WAT6S
 |강=32
@@ -10997,8 +11114,11 @@ Six Seven Eight Night
 {{수록곡 표}}
 
 === 가사 모음 ===
-[[/수록곡 가사 모음]]</text>
-      <sha1>s1ohv4m6gbakxf83tsvdmrgeauyl1ly</sha1>
+[[/수록곡 가사 모음]]
+
+== 둘러보기 ==
+{{창드컵 둘러보기}}</text>
+      <sha1>q3n0cwlxhe4lmzp8g7w998k37emi5xz</sha1>
     </revision>
   </page>
   <page>
@@ -11006,18 +11126,17 @@ Six Seven Eight Night
     <ns>0</ns>
     <id>244</id>
     <revision>
-      <id>1193</id>
-      <parentid>265</parentid>
-      <timestamp>2025-11-18T13:10:13Z</timestamp>
+      <id>2972</id>
+      <parentid>1193</parentid>
+      <timestamp>2026-10-04T14:33:54Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1193</origin>
+      <origin>2972</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="334" sha1="ml6z1gwbwz7j3hz4ethf9nruxga548u" xml:space="preserve">{{문서:창드컵
-|명칭=엄선작 2024년 4편
+      <text bytes="350" sha1="5lfynm20yc9cesirncigusibp7q2pqt" xml:space="preserve">{{문서:창드컵
 |PikuId=7QKFbB
 |강=32
 |유형=엄선작 2024
@@ -11032,8 +11151,11 @@ Six Seven Eight Night
 {{수록곡 표}}
 
 === 가사 모음 ===
-[[/수록곡 가사 모음]]</text>
-      <sha1>ml6z1gwbwz7j3hz4ethf9nruxga548u</sha1>
+[[/수록곡 가사 모음]]
+
+== 둘러보기 ==
+{{창드컵 둘러보기}}</text>
+      <sha1>5lfynm20yc9cesirncigusibp7q2pqt</sha1>
     </revision>
   </page>
   <page>
@@ -13267,18 +13389,17 @@ Yes i'm Plastic Star</text>
     <ns>0</ns>
     <id>283</id>
     <revision>
-      <id>1190</id>
-      <parentid>315</parentid>
-      <timestamp>2025-11-18T13:08:43Z</timestamp>
+      <id>2975</id>
+      <parentid>1190</parentid>
+      <timestamp>2026-10-04T14:34:25Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1190</origin>
+      <origin>2975</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="335" sha1="8upx30tfand2hqim4ybh95u2jxignqi" xml:space="preserve">{{문서:창드컵
-|명칭=엄선작 2025년 2편
+      <text bytes="351" sha1="2mbo1bdmql1farwz2oyyal7liv2zn7u" xml:space="preserve">{{문서:창드컵
 |PikuId=1lZX0K
 |강=32
 |유형=엄선작 2025
@@ -13294,8 +13415,11 @@ Yes i'm Plastic Star</text>
 {{수록곡 표}}
 
 === 가사 모음 ===
-[[/수록곡 가사 모음]]</text>
-      <sha1>8upx30tfand2hqim4ybh95u2jxignqi</sha1>
+[[/수록곡 가사 모음]]
+
+== 둘러보기 ==
+{{창드컵 둘러보기}}</text>
+      <sha1>2mbo1bdmql1farwz2oyyal7liv2zn7u</sha1>
     </revision>
   </page>
   <page>
@@ -24619,18 +24743,17 @@ I didn't even have time to think about it, 역돌격</text>
     <ns>0</ns>
     <id>496</id>
     <revision>
-      <id>1139</id>
-      <parentid>910</parentid>
-      <timestamp>2025-11-13T15:05:39Z</timestamp>
+      <id>2976</id>
+      <parentid>1139</parentid>
+      <timestamp>2026-10-04T14:34:38Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1139</origin>
+      <origin>2976</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="677" sha1="n88ywflmzpgwf6xq4bn5qx9ydyvbrah" xml:space="preserve">{{문서:창드컵
-|명칭=엄선작 2025년 3편
+      <text bytes="693" sha1="dm2vi3akce50wx3qpnapzujjzzah3k8" xml:space="preserve">{{문서:창드컵
 |PikuId=5XFISn
 |강=32
 |유형=엄선작 2025
@@ -24649,8 +24772,11 @@ I didn't even have time to think about it, 역돌격</text>
 {{수록곡 표}}
 
 === 가사 모음 ===
-[[/수록곡 가사 모음]]</text>
-      <sha1>n88ywflmzpgwf6xq4bn5qx9ydyvbrah</sha1>
+[[/수록곡 가사 모음]]
+
+== 둘러보기 ==
+{{창드컵 둘러보기}}</text>
+      <sha1>dm2vi3akce50wx3qpnapzujjzzah3k8</sha1>
     </revision>
   </page>
   <page>
@@ -29365,23 +29491,46 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
     <ns>10</ns>
     <id>565</id>
     <revision>
-      <id>956</id>
-      <parentid>852</parentid>
-      <timestamp>2025-09-25T08:50:36Z</timestamp>
+      <id>2984</id>
+      <parentid>956</parentid>
+      <timestamp>2026-10-04T15:46:51Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>956</origin>
+      <origin>2984</origin>
       <model>sanitized-css</model>
       <format>text/css</format>
-      <text bytes="615" sha1="bkbctef2ww71s71uhzmqagyee27vnka" xml:space="preserve">.ts--thumbnail-container {
+      <text bytes="1006" sha1="24ifqatc79rkyot868rimr6cz99pecz" xml:space="preserve">.ts--thumbnail-container {
+	position: relative;
 	width: 160px; 
 	min-width: 160px;
 	height: 90px;
 	display: flex;
 	justify-content: center;
 	background-color: var(--background-color-neutral);
+}
+
+.ts--thumbnail-container &gt; a {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	color: transparent;
+}
+
+.ts--duration-label {
+  position: absolute;
+  right: 0;
+  z-index: 1;
+  color: white;
+  background: rgba(0,0,0,0.6);
+  bottom: 0;
+  margin: 0.25rem;
+  font-size: 0.9rem;
+  padding-inline: 0.25rem;
+  line-height: 1.5rem;
+  border-radius: 4px;
+  font-weight: 500;
 }
 
 .ts--thumbnail-container &gt; img {
@@ -29417,7 +29566,7 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 .ts--item-container:hover {
 	background-color: var(--background-color-button-quiet--hover);
 }</text>
-      <sha1>bkbctef2ww71s71uhzmqagyee27vnka</sha1>
+      <sha1>24ifqatc79rkyot868rimr6cz99pecz</sha1>
     </revision>
   </page>
   <page>
@@ -29607,26 +29756,26 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
     <ns>10</ns>
     <id>568</id>
     <revision>
-      <id>2953</id>
-      <parentid>998</parentid>
-      <timestamp>2026-09-18T13:56:30Z</timestamp>
+      <id>2985</id>
+      <parentid>2953</parentid>
+      <timestamp>2026-10-04T15:47:32Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>2953</origin>
+      <origin>2985</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1153" sha1="ibjnenxnkevgiysc2gqsxedz68l0suf" xml:space="preserve">&lt;usestyle src="Card.css"/&gt;
+      <text bytes="1537" sha1="g41vbezxaqumw5tr4kltc1vnoxbm0gw" xml:space="preserve">&lt;usestyle src="Card.css"/&gt;
 &lt;div class="mw--card"&gt;
-&lt;h4 class="mw--card-header"&gt;최초공개 릴레이&lt;/h4&gt;
+&lt;div class="mw--card-header"&gt;&lt;h4 style="margin: 0"&gt;최초공개 릴레이&lt;/h4&gt;&lt;span class="mw--card-description"&gt;오후 11시부터 이어지는 창팝 최초공개&lt;/span&gt;&lt;/div&gt;
 &lt;tabber&gt;
 |-| 오늘 = 
 {{#or: {{최초공개 릴레이 | 날짜 = {{#timel: Y-m-d }} | cache seconds = 1 }} 
 | &lt;div style="
   font-size: var(--font-size-small); 
   display: flex;
-  height: 180px;
+  height: 100px;
   justify-content: center;
   align-items: center;
   "&gt;아직 최초공개가 없습니다!&lt;/div&gt;
@@ -29636,21 +29785,21 @@ LocalSettings.php에서 `$wgCargoAllowedSQLFunctions[] = 'REPLACE';` 필요
 | &lt;div style="
   font-size: var(--font-size-small); 
   display: flex;
-  height: 180px;
+  height: 100px;
   justify-content: center;
   align-items: center;
-  "&gt;어제 최초공개가 없습니다😭&lt;/div&gt;
+  "&gt;&lt;p style="text-align: center;"&gt;어제 최초공개가 없었습니다.&lt;br&gt;최초공개가 있었는데 누락되었다면, [[창팝위키:선착장|선착장]]에 제보해 주세요.&lt;/p&gt;&lt;/div&gt;
 }}
-|-| 아카이브 = &lt;!-- 
---&gt;&lt;div class="mw--card-content"&gt;&lt;!-- 
-	--&gt;[[최초공개 릴레이/아카이브]]&lt;!-- 
-	--&gt;&lt;br&gt;&lt;!-- 
-	--&gt;[https://changpop.wiki/premiere-relay-archive 외부 웹으로 보기]&lt;!-- 
+|-| 더보기 = &lt;!-- 
+--&gt;&lt;div class="mw--card-content"&gt;&lt;usescript src="최공날짜피커.js" /&gt;&lt;!-- 
+ 	--&gt;[[최초공개 릴레이/아카이브]]에서 월별로 볼 수 있습니다.&lt;!--
+ 	--&gt;&lt;div id="mw-premiererelay-bydate-datepicker" style="margin: auto"&gt;&lt;/div&gt;&lt;!-- 
 --&gt;&lt;/div&gt;
+&lt;div id="mw-premiererelay-bydate-content"&gt;&lt;/div&gt;
 &lt;/tabber&gt;
 &lt;div class="mw--card-row"&gt;최초공개 릴레이는 [https://docs.google.com/spreadsheets/d/1bZ6rfkQZJA7ydXMAMbU5BJkYalkGcjPvU4ulfqAtREI/edit?usp=sharing 최공 릴레이] 시트에서 편집할 수 있습니다.&lt;/div&gt;
 &lt;/div&gt;</text>
-      <sha1>ibjnenxnkevgiysc2gqsxedz68l0suf</sha1>
+      <sha1>g41vbezxaqumw5tr4kltc1vnoxbm0gw</sha1>
     </revision>
   </page>
   <page>
@@ -30950,18 +31099,17 @@ Not knowing that it was the corpse of a whale they revered</text>
     <ns>0</ns>
     <id>592</id>
     <revision>
-      <id>1191</id>
-      <parentid>889</parentid>
-      <timestamp>2025-11-18T13:09:08Z</timestamp>
+      <id>2977</id>
+      <parentid>1191</parentid>
+      <timestamp>2026-10-04T14:34:48Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1191</origin>
+      <origin>2977</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="359" sha1="848sl8d24emfadggrkpllsfp4dq6z35" xml:space="preserve">{{문서:창드컵
-|명칭=엄선작 2025년 4편
+      <text bytes="375" sha1="4ww8apqzp9kx3x7fr1oemhxylo57tg2" xml:space="preserve">{{문서:창드컵
 |PikuId=9TW47d
 |강=32
 |유형=엄선작 2025
@@ -30977,8 +31125,11 @@ Not knowing that it was the corpse of a whale they revered</text>
 {{수록곡 표}}
 
 === 가사 모음 ===
-[[/수록곡 가사 모음]]</text>
-      <sha1>848sl8d24emfadggrkpllsfp4dq6z35</sha1>
+[[/수록곡 가사 모음]]
+
+== 둘러보기 ==
+{{창드컵 둘러보기}}</text>
+      <sha1>4ww8apqzp9kx3x7fr1oemhxylo57tg2</sha1>
     </revision>
   </page>
   <page>
@@ -31586,115 +31737,47 @@ Hey Crowd 더
     </revision>
   </page>
   <page>
-    <title>틀스타일:둘러보기</title>
-    <ns>3810</ns>
-    <id>602</id>
-    <revision>
-      <id>906</id>
-      <timestamp>2025-09-23T12:40:09Z</timestamp>
-      <contributor>
-        <username>창팝위키</username>
-        <id>2</id>
-      </contributor>
-      <comment>새 문서: .ts--navbox .mw-collapsible-content {   transition:    	opacity 0.3s ease-out,   	max-height 0.2s cubic-bezier(.77,0,.18,1);   overflow: hidden; }  .ts--navbox.mw-collapsible.mw-collapsed .mw-collapsible-toggle .mw-ui-icon-wikimedia-collapse{ 	transform: rotate(180deg); }  .ts--navbox.mw-collapsible .mw-collapsible-toggle{ 	float: none; 	display: flex;  	justify-content: space-between;  	align-items: center;  	padding: 0.75rem 1rem; 	background-color: var(--background-color-neut...</comment>
-      <origin>906</origin>
-      <model>sanitized-css</model>
-      <format>text/css</format>
-      <text bytes="1069" sha1="ke5vyq8842alpsyw101fuadqff4vfwm" xml:space="preserve">.ts--navbox .mw-collapsible-content {
-  transition: 
-  	opacity 0.3s ease-out,
-  	max-height 0.2s cubic-bezier(.77,0,.18,1);
-  overflow: hidden;
-}
-
-.ts--navbox.mw-collapsible.mw-collapsed .mw-collapsible-toggle .mw-ui-icon-wikimedia-collapse{
-	transform: rotate(180deg);
-}
-
-.ts--navbox.mw-collapsible .mw-collapsible-toggle{
-	float: none;
-	display: flex; 
-	justify-content: space-between; 
-	align-items: center; 
-	padding: 0.75rem 1rem;
-	background-color: var(--background-color-neutral-subtle);
-}
-
-.skin-citizen .ts--navbox.mw-collapsible .mw-collapsible-toggle {
-	background-color: var(--color-surface-1);
-}
-
-.ts--navbox.mw-collapsible.mw-collapsed .mw-collapsible-toggle {
-	background-color: transparent;
-}
-
-.ts--navbox .mw-collapsible-toggle .mw-ui-icon-wikimedia-collapse {
-	transition: transform 0.2s ease;
-}
-
-.ts--navbox.mw-collapsible .mw-collapsible-toggle:hover {
-	background-color: var(--background-color-button-quiet--hover);
-}
-
-.ts--navbox .mw-collapsible-toggle:hover .mw-ui-icon-wikimedia-collapse::before {
-	background-color: var(--color-progressive);
-}</text>
-      <sha1>ke5vyq8842alpsyw101fuadqff4vfwm</sha1>
-    </revision>
-  </page>
-  <page>
     <title>틀:창드컵 수록곡 둘러보기</title>
     <ns>10</ns>
     <id>603</id>
     <revision>
-      <id>1189</id>
-      <parentid>1151</parentid>
-      <timestamp>2025-11-18T13:06:27Z</timestamp>
+      <id>2965</id>
+      <parentid>1189</parentid>
+      <timestamp>2026-10-04T14:08:13Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>1189</origin>
+      <origin>2965</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="1830" sha1="360r933yqnorgrxh6djrl3qnrfncvnk" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
+      <text bytes="1143" sha1="gsxbu7niu4wcbqin16vxob579at1hl3" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
 
---&gt;&lt;templatestyles src="둘러보기"/&gt;&lt;usescript src="Collapsible-animation.js" /&gt;&lt;div style="clear: both;"&gt;&lt;/div&gt;
-&lt;div class="ts--navbox mw-collapsible {{#if: {{부울변환| {{{펼치기|}}} }} | | mw-collapsed }}" style="
-border-radius: var(--border-radius-medium);
-box-shadow: var(--box-shadow-border);
-font-size: var(--font-size-small);
-line-height: var(--line-height-xx-small);
-margin-block: var(--space-md);
-"&gt;
-&lt;div class="mw-collapsible-toggle"&gt;
-&lt;div&gt;&lt;div style="color: var(--color-emphasized);
-  font-weight: var(--font-weight-semi-bold);
-  font-size: var(--font-size-medium);"&gt;[[{{{창드컵}}}]]&lt;/div&gt;&lt;div
-  style="color: var(--color-subtle);"&gt;수록곡&lt;/div&gt;&lt;/div&gt;
-&lt;div class="citizen-ui-icon mw-ui-icon-wikimedia-collapse"&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="mw-collapsible-content" style="border-top: var(--border-base);"&gt;
-&lt;div style="padding: 0 var(--space-md)"&gt;{{완전하지 않은 목록|창드컵={{{창드컵}}}}}&lt;/div&gt;
-&lt;div style="
-display: grid;
-grid-template-columns: repeat(auto-fit, minmax(max(120px, calc((100% - (7 * 2px)) / 8)), 1fr));
-gap: 2px;
-width: 100%;
-width:100%;
-font-weight: 500;
-padding: 2px;
-"&gt;{{#cargo_query:
-tables=수록창드컵, 창팝
-|fields=창팝._pageName = 문서이름, 창팝.곡명 = 표시이름, 창팝.유튜브Id
-|where=수록창드컵.창드컵 = "{{{창드컵}}}"
-|join on=수록창드컵._pageID = 창팝._pageID
-|format=template
-|template=이미지 항목
-|named args=yes
-}}&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;!--
+--&gt;
+{{둘러보기 상자
+| 제목 = [[{{{창드컵}}}]]
+| 설명 = 수록곡
+| 내용 = 
+	&lt;div style="padding: 0 var(--space-md)"&gt;{{완전하지 않은 목록|창드컵={{{창드컵}}}}}&lt;/div&gt;
+	&lt;div style="
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(max(120px, calc((100% - (7 * 2px)) / 8)), 1fr));
+		gap: 2px;
+		width: 100%;
+		font-weight: 500;
+		padding: 2px;
+	"&gt;	&lt;!-- 
+	 --&gt;{{#cargo_query:tables=수록창드컵, 창팝
+		|fields=창팝._pageName = 문서이름, 창팝.곡명 = 표시이름, 창팝.유튜브Id
+		|where=수록창드컵.창드컵 = "{{{창드컵}}}"
+		|join on=수록창드컵._pageID = 창팝._pageID
+		|format=template
+		|template=이미지 항목
+		|named args=yes
+		}}	
+	&lt;/div&gt;
+| 펼치기 = {{{펼치기|}}}
+}}&lt;!--
 
 --------------------------------&gt;&lt;/onlyinclude&gt;&lt;!-------------------------------
 
@@ -31703,7 +31786,7 @@ tables=수록창드컵, 창팝
 --&gt;{{설명문서}}[[분류:둘러보기 틀]]&lt;!--
 
 --------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
-      <sha1>360r933yqnorgrxh6djrl3qnrfncvnk</sha1>
+      <sha1>gsxbu7niu4wcbqin16vxob579at1hl3</sha1>
     </revision>
   </page>
   <page>
@@ -31838,19 +31921,17 @@ tables=수록창드컵, 창팝
     <ns>0</ns>
     <id>606</id>
     <revision>
-      <id>1232</id>
-      <parentid>1230</parentid>
-      <timestamp>2025-11-28T15:41:50Z</timestamp>
+      <id>2974</id>
+      <parentid>1232</parentid>
+      <timestamp>2026-10-04T14:34:16Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <comment>가사 모음 문단 추가</comment>
-      <origin>1232</origin>
+      <origin>2974</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="304" sha1="o2ppc8v90s766jcqeox4o4e7bijtnfx" xml:space="preserve">{{문서:창드컵
+      <text bytes="351" sha1="0oyi90vzt0pzekg6epcu099yv1vclod" xml:space="preserve">{{문서:창드컵
 |PikuId=5qcTvB
 |강=32
 |유형=엄선작 2025
@@ -31866,8 +31947,11 @@ tables=수록창드컵, 창팝
 {{수록곡 표}}
 
 === 가사 모음 ===
-[[/수록곡 가사 모음]]</text>
-      <sha1>o2ppc8v90s766jcqeox4o4e7bijtnfx</sha1>
+[[/수록곡 가사 모음]]
+
+== 둘러보기 ==
+{{창드컵 둘러보기}}</text>
+      <sha1>0oyi90vzt0pzekg6epcu099yv1vclod</sha1>
     </revision>
   </page>
   <page>
@@ -33532,18 +33616,17 @@ table.dataTable tbody td:has(.mw-Cargoquery--thumbnail) {
     <ns>0</ns>
     <id>651</id>
     <revision>
-      <id>1231</id>
-      <parentid>1194</parentid>
-      <timestamp>2025-11-28T15:41:24Z</timestamp>
+      <id>2973</id>
+      <parentid>1231</parentid>
+      <timestamp>2026-10-04T14:34:04Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>피쿠 링크 정상화</comment>
-      <origin>1231</origin>
+      <origin>2973</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="303" sha1="fnsjn3o1j7vpeu3ie8gu3ya12ihy1nm" xml:space="preserve">{{문서:창드컵
+      <text bytes="350" sha1="bkkh6fqqb15dv8lwwtewgf1laodugjo" xml:space="preserve">{{문서:창드컵
 |PikuId=6KnXLZ
 |강=32
 |유형=엄선작 2024
@@ -33558,8 +33641,11 @@ table.dataTable tbody td:has(.mw-Cargoquery--thumbnail) {
 {{수록곡 표}}
 
 === 가사 모음 ===
-[[/수록곡 가사 모음]]</text>
-      <sha1>fnsjn3o1j7vpeu3ie8gu3ya12ihy1nm</sha1>
+[[/수록곡 가사 모음]]
+
+== 둘러보기 ==
+{{창드컵 둘러보기}}</text>
+      <sha1>bkkh6fqqb15dv8lwwtewgf1laodugjo</sha1>
     </revision>
   </page>
   <page>
@@ -45747,18 +45833,17 @@ please don't undermind my career!!
     <ns>0</ns>
     <id>1166</id>
     <revision>
-      <id>1899</id>
-      <parentid>1898</parentid>
-      <timestamp>2026-03-09T10:13:10Z</timestamp>
+      <id>2979</id>
+      <parentid>1899</parentid>
+      <timestamp>2026-10-04T14:35:09Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <minor/>
-      <origin>1899</origin>
+      <origin>2979</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="573" sha1="ieszsouj4b9muxszb1e3ayetqdh23vp" xml:space="preserve">{{문서:창드컵
+      <text bytes="620" sha1="d5moqjsi7mqcxx8pigcrtw2c99dnoct" xml:space="preserve">{{문서:창드컵
 |PikuId=6rDaSR
 |강=32
 |유형=엄선작 2026
@@ -45774,8 +45859,11 @@ please don't undermind my career!!
 {{수록곡 표}}
 
 === 가사 모음 ===
-[[/수록곡 가사 모음]]</text>
-      <sha1>ieszsouj4b9muxszb1e3ayetqdh23vp</sha1>
+[[/수록곡 가사 모음]]
+
+== 둘러보기 ==
+{{창드컵 둘러보기}}</text>
+      <sha1>d5moqjsi7mqcxx8pigcrtw2c99dnoct</sha1>
     </revision>
   </page>
   <page>
@@ -47408,17 +47496,17 @@ Makefume</text>
     <ns>0</ns>
     <id>1192</id>
     <revision>
-      <id>1862</id>
-      <timestamp>2026-02-19T08:36:48Z</timestamp>
+      <id>2978</id>
+      <parentid>1862</parentid>
+      <timestamp>2026-10-04T14:34:57Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창드컵 |PikuId=3KMD3u |강=32 |유형=엄선작 2025 |오픈날짜=2026-02-05 |오픈날짜_=&lt;ref&gt;https://gall.dcinside.com/mgallery/board/view/?id=maplereboot&amp;no=3717948&lt;/ref&gt; }} '''2025년 5편'''은 2025년 엄선작 [[창드컵]]이다.   == 수록곡 == {{창드컵 수록곡 둘러보기 | 창드컵 = {{문서이름}} | 펼치기 = 예  }} {{수록곡 표}}  === 가사 모음 === [[/수록곡 가사 모음]]</comment>
-      <origin>1862</origin>
+      <origin>2978</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="428" sha1="45w1ni0rk891fcg1qyvw7lbvj3rep8x" xml:space="preserve">{{문서:창드컵
+      <text bytes="475" sha1="i997yq61gqe1m4ihefdm7ort3j5qekb" xml:space="preserve">{{문서:창드컵
 |PikuId=3KMD3u
 |강=32
 |유형=엄선작 2025
@@ -47435,8 +47523,11 @@ Makefume</text>
 {{수록곡 표}}
 
 === 가사 모음 ===
-[[/수록곡 가사 모음]]</text>
-      <sha1>45w1ni0rk891fcg1qyvw7lbvj3rep8x</sha1>
+[[/수록곡 가사 모음]]
+
+== 둘러보기 ==
+{{창드컵 둘러보기}}</text>
+      <sha1>i997yq61gqe1m4ihefdm7ort3j5qekb</sha1>
     </revision>
   </page>
   <page>
@@ -59521,17 +59612,17 @@ Truth flows in song, while you pretend it's right
     <ns>0</ns>
     <id>1959</id>
     <revision>
-      <id>2264</id>
-      <parentid>2197</parentid>
-      <timestamp>2026-05-20T14:19:07Z</timestamp>
+      <id>2980</id>
+      <parentid>2264</parentid>
+      <timestamp>2026-10-04T14:35:16Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>2264</origin>
+      <origin>2980</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="640" sha1="8r5ti9d1kbq0gjcnxpk7udl25xccjmq" xml:space="preserve">{{문서:창드컵
+      <text bytes="687" sha1="tgpjok0hzjf2vkxofaxvexg1vdxrn4r" xml:space="preserve">{{문서:창드컵
 |명칭=2026년 2편
 |PikuId=3KBIuY
 |강=32
@@ -59548,8 +59639,11 @@ Truth flows in song, while you pretend it's right
 {{수록곡 표}}
 
 === 가사 모음 ===
-[[/수록곡 가사 모음]]</text>
-      <sha1>8r5ti9d1kbq0gjcnxpk7udl25xccjmq</sha1>
+[[/수록곡 가사 모음]]
+
+== 둘러보기 ==
+{{창드컵 둘러보기}}</text>
+      <sha1>tgpjok0hzjf2vkxofaxvexg1vdxrn4r</sha1>
     </revision>
   </page>
   <page>
@@ -85287,17 +85381,17 @@ Oh
     <ns>0</ns>
     <id>2495</id>
     <revision>
-      <id>2777</id>
-      <timestamp>2026-08-13T12:21:46Z</timestamp>
+      <id>2981</id>
+      <parentid>2777</parentid>
+      <timestamp>2026-10-04T14:35:26Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: {{문서:창드컵 |명칭=2026년 3편 |PikuId=arlVTl |강=32 |유형=엄선작 2026 |오픈날짜=2026-08-03 }} '''2026년 3편'''은 2026년 엄선작 [[창드컵]]이다. 2026년 8월 3일에 베타를 시작했다.&lt;ref&gt;[https://gall.dcinside.com/mgallery/board/view/?id=maplereboot&amp;no=3740829 창드컵 2주년 기념 26-3 베타 시작]&lt;/ref&gt;  == 수록곡 == {{창드컵 수록곡 둘러보기 | 창드컵 = {{문서이름}} | 펼치기 = 예  }} {{수록곡 표}}  === 가사...</comment>
-      <origin>2777</origin>
+      <origin>2981</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="523" sha1="p0zi5ftuxzs274jupgyiy1tzhqpvyrj" xml:space="preserve">{{문서:창드컵
+      <text bytes="570" sha1="1l30ya1hc6bjs04ux7g0ed01n0dc3zc" xml:space="preserve">{{문서:창드컵
 |명칭=2026년 3편
 |PikuId=arlVTl
 |강=32
@@ -85314,8 +85408,11 @@ Oh
 {{수록곡 표}}
 
 === 가사 모음 ===
-[[/수록곡 가사 모음]]</text>
-      <sha1>p0zi5ftuxzs274jupgyiy1tzhqpvyrj</sha1>
+[[/수록곡 가사 모음]]
+
+== 둘러보기 ==
+{{창드컵 둘러보기}}</text>
+      <sha1>1l30ya1hc6bjs04ux7g0ed01n0dc3zc</sha1>
     </revision>
   </page>
   <page>
@@ -92553,17 +92650,18 @@ Always Reboot</text>
     <ns>8</ns>
     <id>2618</id>
     <revision>
-      <id>2952</id>
-      <timestamp>2026-09-18T13:56:09Z</timestamp>
+      <id>2987</id>
+      <parentid>2952</parentid>
+      <timestamp>2026-10-04T15:49:27Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>새 문서: .mw--card { 	margin-block: var(--space-md, 1rem); 	border-radius: var(--border-radius-medium, 8px); 	box-shadow: var(--box-shadow-border, var(--border-color-base, rgb(0 0 0 / 0.1)) 0 0 0 1px); }  .mw--card-header { 	padding: var(--space-xs, 0.5rem) var(--space-sm, 0.75rem);  	margin: 0; }  .mw--card-row { 	padding: var(--space-xs, 0.5rem) var(--space-sm, 0.75rem); 	border-top: var(--border-width-base, 1px) solid var(--border-color-base, rgb(0 0 0 / 0.1)); 	font-size: var(--font-...</comment>
-      <origin>2952</origin>
+      <origin>2987</origin>
       <model>css</model>
       <format>text/css</format>
-      <text bytes="683" sha1="rwd3nhkfsz4rjxw2xivyscqqha380ja" xml:space="preserve">.mw--card {
+      <text bytes="889" sha1="0aks8cy9udiqctmimbjnhric6dwqi0e" xml:space="preserve">.mw--card {
+	background-color: var(--color-surface-0);
 	margin-block: var(--space-md, 1rem);
 	border-radius: var(--border-radius-medium, 8px);
 	box-shadow: var(--box-shadow-border, var(--border-color-base, rgb(0 0 0 / 0.1)) 0 0 0 1px);
@@ -92572,6 +92670,15 @@ Always Reboot</text>
 .mw--card-header {
 	padding: var(--space-xs, 0.5rem) var(--space-sm, 0.75rem); 
 	margin: 0;
+}
+
+.mw--card-header &gt; h4 &gt; a {
+  color: var(--color-base);
+}
+
+.mw--card-description {
+  font-size: var(--font-size-small, 0.875rem);
+  color: var(--color-subtle);
 }
 
 .mw--card-row {
@@ -92584,7 +92691,7 @@ Always Reboot</text>
 	padding: var(--space-xs, 0.5rem) var(--space-sm, 0.75rem);
 	border-top: var(--border-width-base, 1px) solid var(--border-color-base, rgb(0 0 0 / 0.1));
 }</text>
-      <sha1>rwd3nhkfsz4rjxw2xivyscqqha380ja</sha1>
+      <sha1>0aks8cy9udiqctmimbjnhric6dwqi0e</sha1>
     </revision>
   </page>
   <page>
@@ -93212,6 +93319,947 @@ IDOL, ALWAYS
 IDOL, ALWAYS
 키미다케니</text>
       <sha1>63g2cjizy6owkrj2i4y6bjwiqhzx2u4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>미디어위키:둘러보기 상자.css</title>
+    <ns>8</ns>
+    <id>2626</id>
+    <revision>
+      <id>2963</id>
+      <timestamp>2026-10-04T14:07:10Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: .mw--navbox { 	border-radius: var(--border-radius-medium); 	box-shadow: var(--box-shadow-border); 	font-size: var(--font-size-small); 	line-height: var(--line-height-xx-small); 	margin-block: var(--space-md); }  .mw--navbox-title { 	color: var(--color-emphasized); 	font-weight: var(--font-weight-semi-bold); 	font-size: var(--font-size-medium); }   .mw--navbox-desc { 	color: var(--color-subtle); }  .mw--navbox-row { 	display: grid; }  .mw--navbox-row-label { 	display: flex; 	padd...</comment>
+      <origin>2963</origin>
+      <model>css</model>
+      <format>text/css</format>
+      <text bytes="2917" sha1="d2h44xcm1q60tcahq8gad5wbi8oojgc" xml:space="preserve">.mw--navbox {
+	border-radius: var(--border-radius-medium);
+	box-shadow: var(--box-shadow-border);
+	font-size: var(--font-size-small);
+	line-height: var(--line-height-xx-small);
+	margin-block: var(--space-md);
+}
+
+.mw--navbox-title {
+	color: var(--color-emphasized);
+	font-weight: var(--font-weight-semi-bold);
+	font-size: var(--font-size-medium);
+} 
+
+.mw--navbox-desc {
+	color: var(--color-subtle);
+}
+
+.mw--navbox-row {
+	display: grid;
+}
+
+.mw--navbox-row-label {
+	display: flex;
+	padding: var(--space-sm);
+	font-weight: var(--font-weight-medium, 500);
+	color: var(--color-subtle);
+	align-self: center;
+}
+
+.mw--navbox-row-content {
+	display: flex;
+	flex-direction: column;
+}
+
+ul.mw--navbox-row-list {
+	display: flex;
+	flex-wrap: wrap;
+	margin-block: var(--space-sm);
+}
+
+ul.mw--navbox-row-list &gt; li {
+	list-style: none;
+}
+
+ul.mw--navbox-row-list li a {
+	padding-block: var(--space-xs, 0.5rem);
+	padding-inline: var(--space-xxs, 0.25rem);
+}
+
+ul.mw--navbox-row-list li:not(:last-child)::after {
+  content: "·";
+  font-weight: bold;
+  color: var(--color-subtle);
+}
+
+.mw--navbox-row + .mw--navbox-row {
+	border-top: var( --border-base );
+}
+
+.mw--navbox-row-content + .mw--navbox-row {
+	border-top: var( --border-base );
+}
+
+.mw--navbox-row .mw--navbox-row {
+	grid-template-columns: max-content auto;
+	margin-left: var(--space-md, 1rem);
+}
+
+@media only screen and ( min-width: 639px ) {
+	.mw--navbox-row {
+		grid-template-columns: 180px auto;
+	}
+	
+	.mw--navbox-row .mw--navbox-row {
+		margin-left: 0;
+	}
+
+	.mw--navbox-row-label {
+		padding-bottom: var( --space-sm );
+	}
+	
+	.mw--navbox-row-content {
+		border-left: var(--border-base, 1px solid rgb(0 0 0 / 0.1));
+	}
+}
+
+.mw--navbox-footer {
+	padding: var(--space-xs, 0.5rem) var(--space-sm, 0.75rem);
+	border-top: var(--border-base, 1px solid rgb(0 0 0 / 0.1));
+	background-color: var(--color-surface-1);
+}
+
+.mw--navbox .mw-collapsible-content {
+	transition: 
+  		opacity 0.3s ease-out,
+  		max-height 0.2s cubic-bezier(.77,0,.18,1);
+	overflow: hidden;
+}
+
+.mw--navbox.mw-collapsible.mw-collapsed .mw-collapsible-toggle .mw-ui-icon-wikimedia-collapse{
+	transform: rotate(180deg);
+}
+
+.mw--navbox.mw-collapsible .mw-collapsible-toggle{
+	float: none;
+	display: flex; 
+	justify-content: space-between; 
+	align-items: center; 
+	padding: 0.75rem 1rem;
+	background-color: var(--background-color-neutral-subtle);
+}
+
+.skin-citizen .mw--navbox.mw-collapsible .mw-collapsible-toggle {
+	background-color: var(--color-surface-1);
+}
+
+.mw--navbox.mw-collapsible.mw-collapsed .mw-collapsible-toggle {
+	background-color: transparent;
+}
+
+.mw--navbox .mw-collapsible-toggle .mw-ui-icon-wikimedia-collapse {
+	transition: transform 0.2s ease;
+}
+
+.mw--navbox.mw-collapsible .mw-collapsible-toggle:hover {
+	background-color: var(--background-color-button-quiet--hover);
+}
+
+.mw--navbox .mw-collapsible-toggle:hover .mw-ui-icon-wikimedia-collapse::before {
+	background-color: var(--color-progressive);
+}</text>
+      <sha1>d2h44xcm1q60tcahq8gad5wbi8oojgc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:둘러보기 상자</title>
+    <ns>10</ns>
+    <id>2627</id>
+    <revision>
+      <id>2964</id>
+      <timestamp>2026-10-04T14:07:38Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------   --&gt;&lt;usestyle src="둘러보기 상자.css" /&gt;&lt;!--   --&gt;&lt;usescript src="Collapsible-animation.js" /&gt;&lt;!--     --&gt;&lt;div style="clear: both;"&gt;&lt;/div&gt;&lt;!--     --&gt;&lt;div class="mw--navbox mw-collapsible {{#if: {{부울변환| {{{펼치기|}}} }} | | mw-collapsed }}"&gt; 		&lt;div class="mw-collapsible-toggle"&gt; 			&lt;div&gt; 				&lt;div class="mw--navbox-title"&gt;{{{제목}}}&lt;/div&gt; 				&lt;div class="mw--navbox-desc"&gt;{{{설명...</comment>
+      <origin>2964</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="987" sha1="dmxvzuwp7o5ett2nr9gt4dii9g9ttyk" xml:space="preserve">&lt;!------------------------------&gt;&lt;onlyinclude&gt;&lt;!--------------------------------
+
+ --&gt;&lt;usestyle src="둘러보기 상자.css" /&gt;&lt;!-- 
+ --&gt;&lt;usescript src="Collapsible-animation.js" /&gt;&lt;!-- 
+ 
+ --&gt;&lt;div style="clear: both;"&gt;&lt;/div&gt;&lt;!-- 
+ 
+ --&gt;&lt;div class="mw--navbox mw-collapsible {{#if: {{부울변환| {{{펼치기|}}} }} | | mw-collapsed }}"&gt;
+		&lt;div class="mw-collapsible-toggle"&gt;
+			&lt;div&gt;
+				&lt;div class="mw--navbox-title"&gt;{{{제목}}}&lt;/div&gt;
+				&lt;div class="mw--navbox-desc"&gt;{{{설명}}}&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;div class="citizen-ui-icon mw-ui-icon-wikimedia-collapse"&gt;&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class="mw-collapsible-content" style="border-top: var(--border-base);"&gt;{{{내용}}}&lt;/div&gt;
+	&lt;/div&gt;&lt;!--
+
+--------------------------------&gt;&lt;/onlyinclude&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;{{설명문서}}[[분류:둘러보기 틀]]&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>dmxvzuwp7o5ett2nr9gt4dii9g9ttyk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:창드컵 둘러보기/style.css</title>
+    <ns>10</ns>
+    <id>2628</id>
+    <revision>
+      <id>2966</id>
+      <timestamp>2026-10-04T14:31:10Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: .mw--navbox li[data-closed] &gt; a { 	text-decoration: line-through; }</comment>
+      <origin>2966</origin>
+      <model>sanitized-css</model>
+      <format>text/css</format>
+      <text bytes="67" sha1="qdcigfd3vyi8386dh1y8h5f8586nb0f" xml:space="preserve">.mw--navbox li[data-closed] &gt; a {
+	text-decoration: line-through;
+}</text>
+      <sha1>qdcigfd3vyi8386dh1y8h5f8586nb0f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:둘러보기 상자/행</title>
+    <ns>10</ns>
+    <id>2629</id>
+    <revision>
+      <id>2968</id>
+      <timestamp>2026-10-04T14:31:47Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------   --&gt;&lt;div class="mw--navbox-row"&gt; 		&lt;div class="mw--navbox-row-label"&gt;{{{레이블}}}&lt;/div&gt; 		&lt;div class="mw--navbox-row-content"&gt; 			{{#if: {{{중첩|}}} |{{{중첩}}} }} 			{{#if: {{{리스트|}}} |&lt;ul class="mw--navbox-row-list"&gt;{{{리스트}}}&lt;/ul&gt;}} 		&lt;/div&gt; 	&lt;/div&gt;&lt;!--  --------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------  --------------------------------&gt;&lt;noinclude...</comment>
+      <origin>2968</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="654" sha1="nbme9wefv89qp49fymca5fmacrgsbt7" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+ --&gt;&lt;div class="mw--navbox-row"&gt;
+		&lt;div class="mw--navbox-row-label"&gt;{{{레이블}}}&lt;/div&gt;
+		&lt;div class="mw--navbox-row-content"&gt;
+			{{#if: {{{중첩|}}} |{{{중첩}}} }}
+			{{#if: {{{리스트|}}} |&lt;ul class="mw--navbox-row-list"&gt;{{{리스트}}}&lt;/ul&gt;}}
+		&lt;/div&gt;
+	&lt;/div&gt;&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;{{설명문서}}[[분류:둘러보기 틀]]&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>nbme9wefv89qp49fymca5fmacrgsbt7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>미디어위키:최공날짜피커.js</title>
+    <ns>8</ns>
+    <id>2630</id>
+    <revision>
+      <id>2983</id>
+      <timestamp>2026-10-04T15:45:16Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: mw.loader.using(['mediawiki.util'], function() {     mw.hook('wikipage.content').add(function($content) {         const container = document.getElementById("mw-premiererelay-bydate-datepicker");         if (!container) return;          const input = document.createElement("input");         input.type = "date";         container.appendChild(input);          const content = document.getElementById("mw-premiererelay-bydate-content");          input.addEventListener("change", () =&gt;...</comment>
+      <origin>2983</origin>
+      <model>javascript</model>
+      <format>text/javascript</format>
+      <text bytes="1101" sha1="6qfoxrttkzi3t7z0m5l17k51miodaic" xml:space="preserve">mw.loader.using(['mediawiki.util'], function() {
+    mw.hook('wikipage.content').add(function($content) {
+        const container = document.getElementById("mw-premiererelay-bydate-datepicker");
+        if (!container) return;
+
+        const input = document.createElement("input");
+        input.type = "date";
+        container.appendChild(input);
+
+        const content = document.getElementById("mw-premiererelay-bydate-content");
+
+        input.addEventListener("change", () =&gt; {
+            const value = input.value;
+
+            const wikitext = "{{최초공개 릴레이|날짜=" + value + "}}";
+
+            fetch(mw.util.wikiScript("api") + "?" + new URLSearchParams({
+                action: "parse",
+                format: "json",
+                prop: "text",
+                contentmodel: "wikitext",
+                text: wikitext
+            }))
+            .then(res =&gt; res.json())
+            .then(data =&gt; {
+                if (data.parse &amp;&amp; data.parse.text) {
+                    content.innerHTML = data.parse.text["*"];
+                }
+            });
+        });
+    });
+});</text>
+      <sha1>6qfoxrttkzi3t7z0m5l17k51miodaic</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>모듈:일간 신창섭 최근 목록</title>
+    <ns>828</ns>
+    <id>2631</id>
+    <revision>
+      <id>2988</id>
+      <timestamp>2026-10-04T15:50:16Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: local p = {}  local CONFIG = { 	apiuntoSource = "일간신창섭최근목록", -- LocalSettings.php의 $wgApiuntoSources 키 	templateName  = "유튜브 영상 항목",  	-- 시트의 열 순서(A~H)를 그대로 숫자 인덱스로 나열. 	-- values[i][col.url] 식으로 참조하기 위한 상수. 	col = { 		url       = 1, -- A: 원본 URL 		videoId   = 2, -- B: 추출된 영상 ID 		title     = 3, -- C: 제목 		channel   = 4, -- D: 채널명 		channelId = 5, -- E: 채널 ID...</comment>
+      <origin>2988</origin>
+      <model>Scribunto</model>
+      <format>text/plain</format>
+      <text bytes="4999" sha1="qy9y4b2foyw1cis0ls2iu0gy8n13038" xml:space="preserve">local p = {}
+
+local CONFIG = {
+	apiuntoSource = "일간신창섭최근목록", -- LocalSettings.php의 $wgApiuntoSources 키
+	templateName  = "유튜브 영상 항목",
+
+	-- 시트의 열 순서(A~H)를 그대로 숫자 인덱스로 나열.
+	-- values[i][col.url] 식으로 참조하기 위한 상수.
+	col = {
+		url       = 1, -- A: 원본 URL
+		videoId   = 2, -- B: 추출된 영상 ID
+		title     = 3, -- C: 제목
+		channel   = 4, -- D: 채널명
+		channelId = 5, -- E: 채널 ID
+		views     = 6, -- F: 조회수
+		published = 7, -- G: 게시일(UTC ISO 8601)
+		duration  = 8, -- H: 길이(mm:ss, 이미 변환되어 있음)
+	},
+}
+
+-- ── 날짜/시간 유틸리티 (os 라이브러리 미사용) ──────────────────
+
+local DAYS_IN_MONTH = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 }
+
+local function isLeapYear(y)
+	return (y % 4 == 0 and y % 100 ~= 0) or (y % 400 == 0)
+end
+
+local function daysInMonth(y, m)
+	if m == 2 and isLeapYear(y) then return 29 end
+	return DAYS_IN_MONTH[m]
+end
+
+local function parseIso8601Utc(str)
+	local y, mo, d, h, mi, s = str:match(
+		"^(%d%d%d%d)%-(%d%d)%-(%d%d)T(%d%d):(%d%d):(%d%d)Z$"
+	)
+	if not y then return nil end
+	return {
+		year = tonumber(y), month = tonumber(mo), day = tonumber(d),
+		hour = tonumber(h), min = tonumber(mi), sec = tonumber(s),
+	}
+end
+
+local function utcToKst(t)
+	local hour = t.hour + 9
+	local day, month, year = t.day, t.month, t.year
+	if hour &gt;= 24 then
+		hour = hour - 24
+		day = day + 1
+		if day &gt; daysInMonth(year, month) then
+			day = 1
+			month = month + 1
+			if month &gt; 12 then
+				month = 1
+				year = year + 1
+			end
+		end
+	end
+	return { year = year, month = month, day = day, hour = hour, min = t.min }
+end
+
+local function formatKstTime(kst)
+	local period = "오전"
+	local hour12 = kst.hour
+	if kst.hour == 0 then
+		hour12 = 12
+	elseif kst.hour == 12 then
+		period = "오후"
+		hour12 = 12
+	elseif kst.hour &gt; 12 then
+		period = "오후"
+		hour12 = kst.hour - 12
+	end
+	return string.format("%s %d:%02d", period, hour12, kst.min)
+end
+
+local function formatDateHeading(kst)
+	return string.format("%d월 %d일", kst.month, kst.day)
+end
+
+local function abbreviateViews(n)
+	if not n then return "" end
+
+	local function trimUnit(value, unit)
+		local truncated = math.floor(value * 10) / 10
+		if truncated == math.floor(truncated) then
+			return string.format("%d%s", truncated, unit)
+		end
+		return string.format("%.1f%s", truncated, unit)
+	end
+
+	if n &lt; 1000 then
+		return tostring(n)
+	elseif n &lt; 10000 then
+		return trimUnit(n / 1000, "천")
+	elseif n &lt; 100000000 then
+		return trimUnit(n / 10000, "만")
+	else
+		return trimUnit(n / 100000000, "억")
+	end
+end
+
+-- ============================================================
+-- 메인 진입점: {{#invoke:YoutubeList|main}}
+-- ============================================================
+function p.main(frame)
+	local api = mw.ext.Apiunto
+
+	local raw = api.fetch(CONFIG.apiuntoSource, "")
+	if not raw or raw == "" or raw == "Could not retrieve API Data" then
+		return "Apiunto(" .. CONFIG.apiuntoSource .. ") 응답을 가져오지 못했습니다."
+	end
+
+	-- fetch()는 JSON을 파싱하지 않고 원문 문자열을 그대로 주므로, 여기서 직접 디코드해야 한다.
+	local ok, response = pcall(mw.text.jsonDecode, raw)
+	if not ok or type(response) ~= "table" then
+		return "Apiunto(" .. CONFIG.apiuntoSource .. ") 응답이 유효한 JSON이 아닙니다."
+	end
+
+	if not response.values then
+		return "Apiunto(" .. CONFIG.apiuntoSource .. ") 응답에서 values를 찾지 못했습니다."
+	end
+
+	local parts = {}
+	local currentDateKey = nil
+	local col = CONFIG.col
+
+	for _, row in ipairs(response.values) do
+		-- row[n]이 빈 셀 이후는 아예 배열에서 생략될 수 있으므로(구글 시트 API 특성),
+		-- 매번 or ""로 안전하게 기본값을 준다.
+		local published = row[col.published] or ""
+		local utc = parseIso8601Utc(published)
+
+		if utc then -- 업로드 시각이 없는(아직 조회 안 된) 행은 건너뜀
+			local kst = utcToKst(utc)
+			local dateKey = string.format("%04d-%02d-%02d", kst.year, kst.month, kst.day)
+
+			if dateKey ~= currentDateKey then
+				table.insert(parts, [[&lt;p class="mw--card-row" style="
+						font-size: var(--font-size-large, 1.125rem);
+						font-weight: var(--font-weight-medium, 500);
+						margin: 0;
+						"&gt;]] 
+					.. formatDateHeading(kst) .. "&lt;/p&gt;")
+				
+				currentDateKey = dateKey
+			end
+
+			local templateArgs = {
+				["영상Id"]		= row[col.videoId] or "",
+				["제목"]		= row[col.title] or "",
+				["채널이름"]	= row[col.channel] or "",
+				["채널Id"]		= row[col.channelId] or "",
+				["조회수"]		= abbreviateViews(tonumber(row[col.views])),
+				["업로드시각"]	= formatKstTime(kst),
+				["길이"]		= row[col.duration] or "",
+			}
+
+			local rendered = frame:expandTemplate{
+				title = CONFIG.templateName,
+				args = templateArgs,
+			}
+			table.insert(parts, rendered)
+		end
+	end
+
+	return table.concat(parts, "\n")
+end
+
+return p</text>
+      <sha1>qy9y4b2foyw1cis0ls2iu0gy8n13038</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:일간 신창섭 최근 목록</title>
+    <ns>10</ns>
+    <id>2632</id>
+    <revision>
+      <id>2989</id>
+      <timestamp>2026-10-04T15:51:11Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;usestyle src="Card.css"/&gt; &lt;div class="mw--card"&gt;&lt;div class="mw--card-header"&gt;&lt;h4 style="margin: 0"&gt;[[일간 신창섭]]&lt;/h4&gt;&lt;span class="mw--card-description"&gt;최근에 올라온 창팝 및 신창섭 관련 영상&lt;/span&gt;&lt;/div&gt; &lt;div class="mw--card-content" style="padding: 0"&gt; {{#invoke:일간 신창섭 최근 목록|main}} &lt;/div&gt; &lt;div class="mw--card-row"&gt;더 오래 전의 목록은 일간 신창섭 [https://www.youtube.com/@dailychangpop-3 유튜브 채널]의 날짜별 플레...</comment>
+      <origin>2989</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="734" sha1="6bt4g71so7ed16uaqvs6f0t3ampgd32" xml:space="preserve">&lt;usestyle src="Card.css"/&gt;
+&lt;div class="mw--card"&gt;&lt;div class="mw--card-header"&gt;&lt;h4 style="margin: 0"&gt;[[일간 신창섭]]&lt;/h4&gt;&lt;span class="mw--card-description"&gt;최근에 올라온 창팝 및 신창섭 관련 영상&lt;/span&gt;&lt;/div&gt;
+&lt;div class="mw--card-content" style="padding: 0"&gt;
+{{#invoke:일간 신창섭 최근 목록|main}}
+&lt;/div&gt;
+&lt;div class="mw--card-row"&gt;더 오래 전의 목록은 일간 신창섭 [https://www.youtube.com/@dailychangpop-3 유튜브 채널]의 날짜별 플레이리스트를 확인해보세요.&lt;br&gt;이 틀의 내용은 일간 신창섭 [https://docs.google.com/spreadsheets/d/1nlLu6ZH5wrgv2mU3xJUkE1MI9R872AADrNV4Vd0giHY 시트]에서 받아옵니다.&lt;br&gt;Special Thanks: 일간 신창섭 관리자&lt;/div&gt;
+&lt;/div&gt;</text>
+      <sha1>6bt4g71so7ed16uaqvs6f0t3ampgd32</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>틀:유튜브 영상 항목</title>
+    <ns>10</ns>
+    <id>2633</id>
+    <revision>
+      <id>2990</id>
+      <timestamp>2026-10-04T15:51:46Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: &lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------  --&gt;&lt;templatestyles src="틀:최초공개 릴레이/항목/스타일.css" /&gt; &lt;div class="ts--item-container" style="display: flex;"&gt; &lt;div class="ts--thumbnail-container"&gt;&lt;div class="ts--duration-label"&gt;{{{길이}}}&lt;/div&gt;[https://youtu.be/{{{영상Id}}}]https://i.ytimg.com/vi/{{{영상Id}}}/mqdefault.jpg&lt;/div&gt; &lt;div class="ts--meta" style="flex-direction: column;"&gt; &lt;div class="ts--video-title plainlin...</comment>
+      <origin>2990</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1288" sha1="gpo6ucv2fagzvzpbapbibqfcyh4uy0p" xml:space="preserve">&lt;!------------------------------&gt;&lt;includeonly&gt;&lt;!--------------------------------
+
+--&gt;&lt;templatestyles src="틀:최초공개 릴레이/항목/스타일.css" /&gt;
+&lt;div class="ts--item-container" style="display: flex;"&gt;
+&lt;div class="ts--thumbnail-container"&gt;&lt;div class="ts--duration-label"&gt;{{{길이}}}&lt;/div&gt;[https://youtu.be/{{{영상Id}}}]https://i.ytimg.com/vi/{{{영상Id}}}/mqdefault.jpg&lt;/div&gt;
+&lt;div class="ts--meta" style="flex-direction: column;"&gt;
+&lt;div class="ts--video-title plainlinks" style="font-weight: 500; font-size: var(--font-size-small);"&gt;[https://youtu.be/{{{영상Id}}} {{#tag:nowiki | {{{제목}}} }}]&lt;/div&gt;
+&lt;div style="font-size: var(--font-size-x-small); color: var(--color-subtle)"&gt;&lt;!--
+--&gt;&lt;span class="ts--uploader plainlinks"&gt;[https://www.youtube.com/channel/{{{채널Id}}} {{#tag:nowiki | {{{채널이름}}} }}]&lt;/span&gt;&lt;!--
+
+--&gt;&lt;br&gt;&lt;!--
+
+--&gt;&lt;span&gt;조회수 {{{조회수}}}회&lt;/span&gt;&lt;!--
+--&gt;&lt;span class="ts--meta-delimiter"&gt;•&lt;/span&gt;&lt;!--
+--&gt;&lt;span&gt;{{{업로드시각}}}&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;!--
+
+--------------------------------&gt;&lt;/includeonly&gt;&lt;!-------------------------------
+
+--------------------------------&gt;&lt;noinclude&gt;&lt;!----------------------------------
+
+--&gt;{{설명문서}}&lt;!--
+
+--------------------------------&gt;&lt;/noinclude&gt;&lt;!--------------------------------&gt;</text>
+      <sha1>gpo6ucv2fagzvzpbapbibqfcyh4uy0p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>미디어위키:대문.css</title>
+    <ns>8</ns>
+    <id>2634</id>
+    <revision>
+      <id>2991</id>
+      <timestamp>2026-10-04T15:53:00Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: .chp--mainpage-nav {   display: flex;   align-items: center;   justify-content: space-between; }  .chp--mainpage-nav-sitelabel {   display: flex;   align-items: center; }  .chp--mainpage-siteicon {   width: 32px;   display: inline-block;   margin-right: var(--space-md, 1rem); }  .chp--mainpage-nav-links {   display: flex; }  @media (max-width: 639px) { 	.chp--mainpage-nav-links { 		display: none; 	} }  .chp--mainpage-nav-links a {   padding-inline: var(--space-sm, 0.75rem);   fo...</comment>
+      <origin>2991</origin>
+      <model>css</model>
+      <format>text/css</format>
+      <text bytes="5245" sha1="r0yl050mvp3lu25zw3jk3yj0rxetl3u" xml:space="preserve">.chp--mainpage-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.chp--mainpage-nav-sitelabel {
+  display: flex;
+  align-items: center;
+}
+
+.chp--mainpage-siteicon {
+  width: 32px;
+  display: inline-block;
+  margin-right: var(--space-md, 1rem);
+}
+
+.chp--mainpage-nav-links {
+  display: flex;
+}
+
+@media (max-width: 639px) {
+	.chp--mainpage-nav-links {
+		display: none;
+	}
+}
+
+.chp--mainpage-nav-links a {
+  padding-inline: var(--space-sm, 0.75rem);
+  font-size: var(--font-size-small, 0.875rem);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-base);
+}
+
+.chp--mainpage-tagline {
+  font-size: var(--font-size-xxx-large, 1.75rem);
+  letter-spacing: -0.05rem;
+  font-weight: var(--font-weight-medium, 500);
+  line-height: var(--line-height-xxx-large);
+}
+
+.chp--mainpage-tagline-sitename {
+  font-weight: var(--font-weight-semi-bold, 600);
+  color: var(--color-progressive);
+}
+
+.chp--mainpage-hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 240px;
+  height: 240px;
+}
+
+.chp--mainpage-content {
+	height: 100%;
+	display: flex;
+	align-self: baseline;
+	align-items: center;
+}
+
+.chp--mainpage-cta {
+  height: 100%;
+  width: 240px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+@media (max-width: 639px) {
+	.chp--mainpage-hero {
+		flex-direction: column;
+		height: 360px;
+	}
+	
+	.chp--mainpage-cta {
+		width: 100%;
+		height: 120px;
+		flex-direction: row;
+	}
+}
+
+.chp--mainpage-cta-box {
+  position: relative;
+  flex: 1;
+  padding-inline: var(--space-unit, 1rem);
+  background-color: var(--color-surface-1);
+  cursor: pointer;
+  transition-property: background-color, box-shadow;
+  transition-duration: .15s;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* Citizen 스킨에서는 [[특수:검색]]으로 연결 대신 내장 검색 트리거 사용 */
+.skin-citizen .chp--mainpage-cta-box.citizen-search-trigger .chp--mainpage-cta-link-container {
+	display: none;
+} 
+
+.chp--mainpage-cta-box:hover {
+  box-shadow: var(--color-progressive--hover, #a14ceb) 0 0 0 var(--border-width-thick, 2px);
+  background-color: var(--color-surface-3);
+}
+
+.chp--mainpage-cta-box:active {
+  box-shadow: var(--color-progressive--active, #a14ceb) 0 0 0 var(--border-width-thick, 2px);
+  background-color: var(--color-surface-4);
+}
+
+.chp--mainpage-cta-header {
+  font-size: var(--font-size-large, 1.125rem);
+  font-weight: var(--font-weight-semi-bold, 600);
+  padding-block: var(--space-unit, 1rem);
+}
+
+.chp--mainpage-cta-label {
+  padding-block: var(--space-content-unit, 1rem);
+  font-size: var(--font-size-small, 0.875rem);
+  color: var(--color-subtle);
+  letter-spacing: 0.05rem;
+}
+
+.chp--mainpage-cta-arrow {
+  position: absolute;
+  right: 0;
+  padding-inline: var(--space-content-unit);
+  transition-property: padding-inline;
+  transition-duration: .15s;
+}
+
+.chp--mainpage-cta-box:hover .chp--mainpage-cta-arrow {
+  padding-inline: var(--space-sm);
+}
+
+.chp--mainpage-cta-link-container {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.chp--mainpage-cta-link-container &gt; a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  color: transparent;
+}
+
+.chp--mainpage-subjects-nav {
+  display: grid;
+  gap: 0.5rem;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  grid-auto-rows: 3rem;
+}
+
+.chp--mainpage-subject-item {
+  position: relative;
+  align-items: center;
+  display: flex;
+  align-self: center;
+  background-color: var(--color-surface-3);
+  height: 100%;
+  border-radius: var(--border-radius-medium, 8px);
+  border: var(--border-base);
+  overflow: hidden;
+  transition: background-color 0.3s ease;
+}
+
+.chp--mainpage-subject-item:has(&gt; a:hover) {
+	background-color: var(--color-surface-4);
+}
+
+.chp--mainpage-subject-item &gt; a {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: 3rem;
+  color: var(--color-base);
+  font-weight: 300;
+  font-size: var(--font-size-large);
+  letter-spacing: -0.03rem;
+  text-decoration: none;
+}
+
+.chp--mainpage-subject-item &gt; a:hover {
+  font-weight: 500;
+}
+
+.chp--mainpage-subject-item &gt; a::after {
+	content: "";
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 3rem;
+	height: 3px;
+	transition: width 0.3s ease;
+	background-color: var(--color-progressive);
+}
+
+.chp--mainpage-subject-item &gt; a:hover::after {
+	width: 100%;
+	background-color: var(--color-progressive--hover);
+}
+
+.chp--mainpage-subject-item &gt; a:active::after {
+	width: 100%;
+	background-color: var(--color-progressive--active);
+}
+
+.chp--mainpage-subject-symbol {
+  position: absolute;
+  padding: var(--space-md);
+  pointer-events: none;
+  display: flex;
+}
+
+.chp--mainpage-subject-symbol &gt; img {
+  width: 24px;
+}
+
+/*카드 나열 본문*/
+
+.chp--mainpage-grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: var(--space-xs, 0.5rem);
+}
+
+.chp--mainpage-grid-main {
+	grid-column: 1 / 3;
+}
+
+.chp--mainpage-grid-side {
+	grid-column: 3 / 4;
+}
+
+.chp--mainpage-cards-container {
+	columns: 3 320px;
+	column-gap: var(--space-xs, 0.5rem);
+}
+
+.chp--mainpage-card {
+	break-inside: avoid;	
+}
+
+.chp--mainpage-card .mw--card {
+	margin-block: 0;
+	margin-bottom: var(--space-md, 1rem);
+}
+
+.chp--mainpage-cards-container.chp--mainpage-2cols {
+	columns: 2 320px;
+}</text>
+      <sha1>r0yl050mvp3lu25zw3jk3yj0rxetl3u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>창팝</title>
+    <ns>0</ns>
+    <id>2635</id>
+    <revision>
+      <id>2993</id>
+      <timestamp>2026-10-04T15:58:05Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: '''창팝'''(창-POP, C-POP)은 [[신창섭]]의 '창'과 POP의 합성어로, 정상화 및 신창섭 밈으로부터 시작되어 커뮤니티를 이룬 관련 AI 음악&lt;ref&gt;대부분의 창팝이 AI 음악이지만 그렇지 않은 창팝도 존재한다.&lt;/ref&gt;을 부르는 대표적인 명칭이다.  창팝의 배경에 관한 보다 상세한 내용과 일반적인 관점의 설명은 나무위키의 [https://namu.wiki/w/%EC%B0%BD%ED%8C%9D  '창팝' 문서], [https://namu.w...</comment>
+      <origin>2993</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1060" sha1="2eskqt3nd2wwh4np2xaitpn1pz9zibz" xml:space="preserve">'''창팝'''(창-POP, C-POP)은 [[신창섭]]의 '창'과 POP의 합성어로, 정상화 및 신창섭 밈으로부터 시작되어 커뮤니티를 이룬 관련 AI 음악&lt;ref&gt;대부분의 창팝이 AI 음악이지만 그렇지 않은 창팝도 존재한다.&lt;/ref&gt;을 부르는 대표적인 명칭이다.
+
+창팝의 배경에 관한 보다 상세한 내용과 일반적인 관점의 설명은 나무위키의 [https://namu.wiki/w/%EC%B0%BD%ED%8C%9D  '창팝' 문서], [https://namu.wiki/w/%EC%A0%95%EC%83%81%ED%99%94(%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%B0%88) '정상화 (인터넷 밈) 문서]에서 찾을 수 있다.
+
+창팝으로 창팝을 설명하는 창팝들도 있다.
+* [[창팝이란 무엇인가?]] | [[롹슨족]]
+* [https://youtu.be/bZFElFZTQww 창팝 간단요약] | [[순수창팝]]
+
+{{고지문|내용=|종류=정보|제목=도움이 필요한 주제 문서 - 창팝위키인 만큼 '창팝' 문서의 내용에 더 풍부한 정보가 있으면 좋을 것입니다. 덧붙일 내용이 있다면 편히 추가해 주세요.}}
+
+[[분류:개념]]</text>
+      <sha1>2eskqt3nd2wwh4np2xaitpn1pz9zibz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>도움말:창팝위키에 기여하기</title>
+    <ns>12</ns>
+    <id>2636</id>
+    <revision>
+      <id>2994</id>
+      <timestamp>2026-10-04T15:58:33Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: 창팝위키에 추가할 내용이나 수정할 부분을 찾으셨나요?  이 문서는 창팝위키에 기여하는 여러 가지 방식에 대해 설명합니다. 필요한 부분을 확인하고 바로 시작해 보세요!  === 1. 가사 기여하기  ===  창팝위키에서 가장 간단하고 빠르게 할 수 있는 기여는 바로 가사를 추가하거나 수정하는 것입니다.  모든 창팝 문서에는 가사 박스가 있습니다. 해당 곡의 가사가 아...</comment>
+      <origin>2994</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6723" sha1="lqavqw0o0w5fpmj46wkmsi1og8z2w40" xml:space="preserve">창팝위키에 추가할 내용이나 수정할 부분을 찾으셨나요?  이 문서는 창팝위키에 기여하는 여러 가지 방식에 대해 설명합니다. 필요한 부분을 확인하고 바로 시작해 보세요!
+
+=== 1. 가사 기여하기  ===
+
+창팝위키에서 가장 간단하고 빠르게 할 수 있는 기여는 바로 가사를 추가하거나 수정하는 것입니다.
+
+모든 창팝 문서에는 가사 박스가 있습니다. 해당 곡의 가사가 아직 없는 경우에는 추가 버튼, 있는 경우에는 편집 버튼이 박스 우측 상단에 나타납니다. 버튼을 누르면 가사 편집 창이 나타납니다. 거기에 가사를 입력하고 저장하면 끝입니다.
+
+'''가사가 없는 곡 찾기''': 어떤 곡에 가사가 없는지 확인하고 싶다면 [[특수:가사없는곡문서|가사 없는 곡 문서 목록]]을 참고해 보세요.
+
+==== 추가하고 싶은 가사의 창팝 문서가 아직 없다면 ====
+
+'''창팝 문서가 아직 없어도 됩니다.''' 창팝위키는 가사를 '가사:' 이름공간에서 본 문서와 별도로 관리하기 때문에 가사 문서만 단독으로 존재할 수 있습니다. [[다 해줬잖아]]가 본 문서이고, [[가사:다 해줬잖아]]가 가사 문서입니다. 즉 &lt;code&gt;가사:&lt;곡명&gt;&lt;/code&gt;으로 된 문서를 만들기만 하면 됩니다. [[창팝위키:기여하기|기여하기]] 페이지에 곡명만 입력하면 가사 문서를 만들어주는 입력창이 마련되어 있으니 이용해보세요.
+
+==== 다른 가사 변형 추가하기 ====
+
+창팝 문서의 가사 문단에는 우측에 '다른 가사 추가하기' 버튼을 통해 기본 가사 외에 다른 버전의 가사도 추가할 수 있습니다. 예를 들어 외국어 곡인 경우 번역이나 발음 등이 있습니다. 변형에 특별한 규칙은 없으므로 필요하다 싶은 가사면 무엇이든 추가해 주세요. 
+
+=== 2. 양식으로 편집 / 문서 생성 ===
+
+'''위키 편집 방법을 몰라도 괜찮습니다.''' 창팝위키는 양식 확장을 사용하므로 양식이 있는 유형의 문서(창팝, 창드컵, 제작자)에서는 위키 편집기 없이 간단한 정보 편집 및 새 문서 만들기가 가능합니다. 
+
+이미 존재하는 문서에서 상단의 &lt;code&gt;양식으로 편집&lt;/code&gt; 버튼을 눌러보세요. 정보를 수정할 수 있는 양식이 표시됩니다. 새 문서를 만드는 경우에도 동일합니다. [[창팝위키:기여하기|기여하기]]에서 만들 문서의 제목을 입력하고 &lt;code&gt;만들거나 편집&lt;/code&gt; 버튼을 누르면 같은 양식 편집 창으로 이동합니다.
+
+양식이 어떻게 보이는지 확인해보고 싶다면 유형 별 미리보기를 확인해 보세요: [[특수:쿼리실행/창팝|창팝]], [[특수:쿼리실행/창드컵|창드컵]], [[특수:쿼리실행/제작자|제작자]]
+
+=== 3. 일반 편집 ===
+
+양식 편집이 곡 정보나 제작자 등 정형화된 정보를 입력하는 도구라면, 정보 상자에 표시하기 적합하지 않은 글거리에 해당하는 자유로운 본문 서술은 일반 편집을 이용하시면 됩니다.
+
+* '''시각 편집기''': 연필 아이콘이 있는 편집 버튼을 누르면 시각 편집기(VisualEditor)가 열립니다. 다른 사이트의 일반적인 글쓰기에 사용되는 편집기와 크게 다르지 않습니다.
+* '''원본 편집 (위키 문법)''': &lt;code&gt;[[]]&lt;/code&gt; 아이콘이 있는 버튼을 누르면 위키 문법 텍스트를 직접 다루는 원본 편집 창이 열립니다.
+
+창팝위키는 [https://ko.wikipedia.org/wiki/ 위키백과](위키피디아)에서 사용하는 위키 엔진인 [[mediawikiwiki:MediaWiki/ko|미디어위키]]를 사용하고 있습니다. 미디어위키 문법에 대해 알고 싶다면 한국어 위키백과의 [https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EC%9C%84%ED%82%A4_%EB%AC%B8%EB%B2%95 위키 문법] 문서를 참고해보세요. 또는, 다른 문서의 원본 편집을 열어 기존 문법이 어떻게 쓰였는지 가볍게 살펴보는 방법도 나쁘지 않습니다.
+
+위키 문법을 자유롭게 연습해볼 수 있는 문서인 [[창팝위키:연습장|연습장]]도 이용해 보세요.
+
+==== 일반 문서 새로 만들기 ====
+
+검색창에 만들 문서 이름을 입력하면 새 문서 만들기 선택지가 표시됩니다. 또는 없는 문서를 검색했을 때 결과에서 표시되는 빨간 링크를 클릭해 직접 만들 수 있습니다. 
+
+=== 4. 고급 편집 ===
+
+양식에 들어가는 정보의 유형, 틀, 대문(메인 페이지) 구성 요소와 같이 직접 건드리기 힘든 시스템 차원의 요청이나 건의사항이 있다면 [[창팝위키:선착장|선착장]]에 남겨 주세요. 혹은 미디어위키에 대한 지식이 있어 직접 도움을 주실 수 있다면 매우 환영입니다.
+
+=== 5. 아이디어 제안과 방향성 논의 ===
+
+문서를 직접 작성하거나 수정하지 않더라도, 위키의 활용 방안에 대한 생각을 전해주신다면 역시 매우 좋은 기여입니다. "이런 게 가능한가요?", "이런 걸 문서로 정리하면 어떨까요?", "이런 식으로 기준을 정하면 분류에 좋아 보여요" 같이 의견이 있다면 [[창팝위키:선착장|선착장]]에 편하게 남겨 주세요.
+
+== 질문과 답변 ==
+
+; 편집하려면 로그인이 필요한가요?
+: 아니요, 창팝위키는 '''로그인 없이 편집할 수 있습니다.''' 편집 시 임시 계정이 자동으로 부여되며 IP가 공개되지 않습니다. 다만 계정을 생성하면 기여 목록 관리, 관심 문서 알림 등 추가 기능을 편리하게 이용할 수 있습니다. ([[특수:계정만들기|계정 만들기]])
+
+; 편집 미리보기에서 오류가 보여요.
+: 일부 틀이나 데이터베이스 연동 정보는 문서를 실제로 저장한 후에만 정상적으로 계산되어 표시됩니다. 미리보기에서 일시적으로 깨져 보이더라도 안심하고 저장해 보세요.
+
+; 창팝 양식에서 제작자 칸에는 이미 문서가 있는 제작자만 입력할 수 있나요?
+: 아니요, '''문서가 없는 제작자도 직접 입력할 수 있습니다.''' 드롭다운 목록으로 문서가 있는 제작자만 표시되어 오해하기 쉽지만, 일반 입력창처럼 동작하므로 제작자 이름을 직접 입력하실 수 있습니다.
+
+{{고지문|제목=위키를 이용하며 헷갈리거나 궁금한 점이 있다면, [[창팝위키:선착장|선착장]]에 질문을 남겨 주세요! 질문해주신 내용은 이 문단을 보완하는 데 큰 도움이 됩니다.}}
+
+[[분류:도움말]]</text>
+      <sha1>lqavqw0o0w5fpmj46wkmsi1og8z2w40</sha1>
     </revision>
   </page>
 </mediawiki>
