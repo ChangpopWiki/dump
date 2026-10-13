@@ -33012,41 +33012,126 @@ ERASE &amp; PHOTOSHOP
     <ns>3200</ns>
     <id>2344</id>
     <revision>
-      <id>2618</id>
-      <timestamp>2026-07-22T13:15:56Z</timestamp>
+      <id>3002</id>
+      <parentid>2618</parentid>
+      <timestamp>2026-10-13T04:01:27Z</timestamp>
       <contributor>
-        <username>ㅇㅇ38</username>
-        <id>35</id>
+        <username>ㅇㅇ66</username>
+        <id>48</id>
       </contributor>
-      <comment>새 문서: 이 상황을 음식점으로 비유하자면 2~3만원짜리 국밥에서 벌레가 나온거임 이상해서 주방장에게 물어봤더니 주방장은 벌레를 곱게 갈고 다시 끓였지 Obeying 신의 Magic Soup Obeying 신의 Secret Powder Obeying 신의 SUPER 정상화 Obeying 신 이미 넌 Rice Monkey! 넷플릭스 보면서 사천원 버는거 어떤데 (can you understand?) 초기자본 이백만원 정도만 넣으면 되는데 (can who understand?) 템도 다...</comment>
-      <origin>2618</origin>
+      <origin>3002</origin>
       <model>text</model>
       <format>text/plain</format>
-      <text bytes="1025" sha1="l3pyi5okc8hw59i0ej32tlrp0evktu2" xml:space="preserve">이 상황을 음식점으로 비유하자면
-2~3만원짜리 국밥에서 벌레가 나온거임
-이상해서 주방장에게 물어봤더니
-주방장은 벌레를 곱게 갈고 다시 끓였지
-Obeying 신의 Magic Soup
-Obeying 신의 Secret Powder
-Obeying 신의 SUPER 정상화
-Obeying 신 이미 넌 Rice Monkey!
-넷플릭스 보면서 사천원 버는거 어떤데
-(can you understand?)
-초기자본 이백만원 정도만 넣으면 되는데
-(can who understand?)
-템도 다 회수 가능하고 최근 이벤트 한다는데
-알바 따잇 (따잇☆따잇☆) 하는 우월감 느끼며
-삼천오백원 버는거잖아
-팩트는 국밥은 너무 뜨겁단거임
-팩트는 국밥은 너무 비싸단거임
-팩트는 국밥은 너프가 필요하다는거임
-국밥 정상화, 필요하겠지?☆
-이 상황을 음식점으로 비유하자면
-2~3만원짜리 국밥에서 벌레가 나온거임
-이상해서 주방장에게 물어봤더니
-주방장은 벌레를 곱게 갈고 다시 끓였지
-Obeying 신의 Magic Soup</text>
-      <sha1>l3pyi5okc8hw59i0ej32tlrp0evktu2</sha1>
+      <text bytes="2462" sha1="bn2krzg8civ93urdu68l85ogk52xxdp" xml:space="preserve">&gt; 이 상황을 음식점으로 비유하자면
+&gt; 
+&gt; 
+&gt; 2~3만원짜리 국밥에서 벌레가 나온거임
+&gt; 
+&gt; 이상해서 주방장에게 물어봤더니
+&gt; 
+&gt; 주방장은 벌레를 곱게 갈고 다시 끓였지
+&gt; 
+&gt; Obeying 신의 Magic Soup
+&gt; 
+&gt; Obeying 신의 Secret Powder
+&gt; 
+&gt; Obeying 신의 SUPER 정상화
+&gt; 
+&gt; Obeying 신 이미 넌 Rice Monkey!
+&gt; 
+&gt; 넷플릭스 보면서 사천원 버는거 어떤데
+&gt; 
+&gt; (can you understand?)
+&gt; 
+&gt; 초기자본 이백만원 정도만 넣으면 되는데
+&gt; 
+&gt; (can who understand?)
+&gt; 
+&gt; 템도 다 회수 가능하고 최근 이벤트 한다는데
+&gt; 
+&gt; 알바 따잇 (따잇☆따잇☆) 하는 우월감 느끼며
+&gt; 
+&gt; 삼천오백원 버는거잖아
+&gt; 
+&gt; 팩트는 국밥은 너무 뜨겁단거임
+&gt; 
+&gt; 팩트는 국밥은 너무 비싸단거임
+&gt; 
+&gt; 팩트는 국밥은 너프가 필요하다는거임
+&gt; 
+&gt; 국밥 정상화, 필요하겠지?☆
+&gt; 
+&gt; 이 상황을 음식점으로 비유하자면
+&gt; 
+&gt; 2~3만원짜리 국밥에서 벌레가 나온거임
+&gt; 
+&gt; 이상해서 주방장에게 물어봤더니
+&gt; 
+&gt; 주방장은 벌레를 곱게 갈고 다시 끓였지
+&gt; 
+&gt; Obeying 신의 Magic Soup
+&gt; 
+&gt; Obeying 신의 Secret Powder
+&gt; 
+&gt; Obeying 신의 SUPER 정상화
+&gt; 
+&gt; Obeying 신 이미 넌 Rice Monkey!
+&gt; 
+&gt; 심해지는 고령화 시대에 메이플 대리 어떤데
+&gt; 
+&gt; (can you understand?)
+&gt; 
+&gt; 시급 최저 삼천원에 편하게 하면 되는데
+&gt; 
+&gt; (can who understand?)
+&gt; 
+&gt; 에어컨 히터 틀고 질환 없이 편안하게 하면서
+&gt; 
+&gt; 폐지 따잇 (따잇☆따잇☆) 하는 우월감 느끼며
+&gt; 
+&gt; 이천오백원 버는거잖아
+&gt; 
+&gt; 팩트는 국밥은 너무 뜨겁단거임
+&gt; 
+&gt; 팩트는 국밥은 너무 비싸단거임
+&gt; 
+&gt; 팩트는 국밥은 너프가 필요하다는거임
+&gt; 
+&gt; 국밥 정상화, 필요하겠지?☆
+&gt; 
+&gt; 이 상황을 음식점으로 비유하자면
+&gt; 
+&gt; 2~3만원짜리 국밥에서 벌레가 나온거임
+&gt; 
+&gt; 이상해서 주방장에게 물어봤더니
+&gt; 
+&gt; 주방장은 벌레를 곱게 갈고 다시 끓였지
+&gt; 
+&gt; Obeying 신의 Magic Soup
+&gt; 
+&gt; Obeying 신의 Secret Powder
+&gt; 
+&gt; Obeying 신의 SUPER 정상화
+&gt; 
+&gt; Obeying 신 이미 넌 Rice Monkey!
+&gt; 
+&gt; 바나나 대신 국밥을 사랑하는
+&gt; 
+&gt; RICE MONKEY, RICE MONKEY
+&gt; 
+&gt; 스펙업 대신 치킨을 사랑하는
+&gt; 
+&gt; RICE MONKEY, RICE MONKEY
+&gt; 
+&gt; 하이마운틴 주화를 사랑하는
+&gt; 
+&gt; RICE MONKEY, RICE MONKEY
+&gt; 
+&gt; 선민의식으로 혐오를 반대하는
+&gt; 
+&gt; RICE MONKEY, RICE MONKEY
+&gt;</text>
+      <sha1>bn2krzg8civ93urdu68l85ogk52xxdp</sha1>
     </revision>
   </page>
   <page>
