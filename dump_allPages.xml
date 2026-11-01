@@ -84485,19 +84485,20 @@ Oh
     <ns>0</ns>
     <id>2462</id>
     <revision>
-      <id>2743</id>
-      <timestamp>2026-08-13T12:17:27Z</timestamp>
+      <id>3008</id>
+      <parentid>2743</parentid>
+      <timestamp>2026-11-01T08:22:42Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
-      <origin>2743</origin>
+      <origin>3008</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="294" sha1="8xs7869ck64xypaglay0flz5z4tlpd8" xml:space="preserve">{{문서:창팝
+      <text bytes="329" sha1="53upc8i34ms5h50cu35iygct4ffa2dg" xml:space="preserve">{{문서:창팝
 |유튜브Id=nYyZKtwxfMs
 |제작자=낙서장
+|별명=그런건 없다 메린아
 |수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
 }}
 {{창팝 기본 개요}}
@@ -84507,7 +84508,7 @@ Oh
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>8xs7869ck64xypaglay0flz5z4tlpd8</sha1>
+      <sha1>53upc8i34ms5h50cu35iygct4ffa2dg</sha1>
     </revision>
   </page>
   <page>
@@ -84701,21 +84702,21 @@ Oh
     <ns>0</ns>
     <id>2469</id>
     <revision>
-      <id>2949</id>
-      <parentid>2750</parentid>
-      <timestamp>2026-09-18T13:50:32Z</timestamp>
+      <id>3006</id>
+      <parentid>2949</parentid>
+      <timestamp>2026-11-01T08:21:59Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <origin>2949</origin>
+      <origin>3006</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="352" sha1="hoiyoqj3nlxddiwcg4n8ho7zxh4d83v" xml:space="preserve">{{문서:창팝
+      <text bytes="315" sha1="tw2rmoi139gn5y4nz2jw22n56wkwwc7" xml:space="preserve">{{문서:창팝
 |유튜브Id=Bq5zIpu93f4
 |제작자=리자예
 |화자=신창섭
-|이전수록컵={{이전 수록 창드컵|창드컵=2026년 3편|수록날짜=2026-08-03|제외날짜=2026-09-12}}
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록날짜=2026-10-09}}
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -84724,7 +84725,7 @@ Oh
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>hoiyoqj3nlxddiwcg4n8ho7zxh4d83v</sha1>
+      <sha1>tw2rmoi139gn5y4nz2jw22n56wkwwc7</sha1>
     </revision>
   </page>
   <page>
@@ -84949,21 +84950,20 @@ Oh
     <ns>0</ns>
     <id>2477</id>
     <revision>
-      <id>2758</id>
-      <timestamp>2026-08-13T12:17:39Z</timestamp>
+      <id>3003</id>
+      <parentid>2758</parentid>
+      <timestamp>2026-11-01T08:20:43Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기: 26-3 / 25-5 업데이트</comment>
-      <origin>2758</origin>
+      <origin>3003</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="327" sha1="l42bhtme96d928v1b7wz6olnv1t9p40" xml:space="preserve">{{문서:창팝
+      <text bytes="337" sha1="t6qcn2kiw6x033umyzmqpc8bmmv9xuc" xml:space="preserve">{{문서:창팝
 |유튜브Id=Eqdr8ZUmHR4
 |제작자=리스항르
-|수록컵={{수록 창드컵|창드컵=2026년 3편|수록일=2026-08-03}}
-|고화질썸네일없음=예
+|이전수록컵={{이전 수록 창드컵|창드컵=2026년 3편|수록날짜=2026-08-03|제외날짜=2026-10-08}}
 }}
 {{창팝 기본 개요}}
 &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
@@ -84972,7 +84972,7 @@ Oh
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>l42bhtme96d928v1b7wz6olnv1t9p40</sha1>
+      <sha1>t6qcn2kiw6x033umyzmqpc8bmmv9xuc</sha1>
     </revision>
   </page>
   <page>
@@ -92642,20 +92642,20 @@ Always Reboot</text>
     <ns>0</ns>
     <id>2614</id>
     <revision>
-      <id>2944</id>
-      <timestamp>2026-09-18T13:48:56Z</timestamp>
+      <id>3005</id>
+      <parentid>2944</parentid>
+      <timestamp>2026-11-01T08:21:40Z</timestamp>
       <contributor>
         <username>창팝위키</username>
         <id>2</id>
       </contributor>
-      <comment>일괄 가져오기: 26-3 정식 오픈 반영</comment>
-      <origin>2944</origin>
+      <origin>3005</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
-      <text bytes="334" sha1="4joz57dbj4g6dei92iyn34zmacap4qu" xml:space="preserve">{{문서:창팝
+      <text bytes="371" sha1="oagodii1vc89n9ex11rrfvpimwqior8" xml:space="preserve">{{문서:창팝
 |유튜브Id=T1mYuwG2SJQ
 |제작자=그긔짱
-|수록컵={{수록 창드컵|창드컵=2026년 3편|수록날짜=2026-09-12}}
+|이전수록컵={{이전 수록 창드컵|창드컵=2026년 3편|수록날짜=2026-09-12|제외날짜=2026-10-09}}
 |다른언어제목=큐브 어게인
 }}
 {{창팝 기본 개요}}
@@ -92665,7 +92665,7 @@ Always Reboot</text>
 {{가사}}
 
 {{창팝 둘러보기}}</text>
-      <sha1>4joz57dbj4g6dei92iyn34zmacap4qu</sha1>
+      <sha1>oagodii1vc89n9ex11rrfvpimwqior8</sha1>
     </revision>
   </page>
   <page>
@@ -94494,6 +94494,56 @@ NEVER NEVER NEVER EVER LET GO
 SSAL, SSAL, SSAL,
 NEVER NEVER NEVER EVER LET GO</text>
       <sha1>sb1grilzpwwd8jb9b0wopp7ddkg949o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Routine Worker</title>
+    <ns>0</ns>
+    <id>2640</id>
+    <revision>
+      <id>3004</id>
+      <timestamp>2026-11-01T08:21:05Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>새 문서: {{문서:창팝 |유튜브Id=nDVhcWIiQ14 |제작자=리스항르 |수록컵={{수록 창드컵|창드컵=2026년 3편|수록날짜=2026-10-08}} }} {{창팝 기본 개요}} &lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;  == 가사 == {{가사}}  {{창팝 둘러보기}}</comment>
+      <origin>3004</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="300" sha1="evhsuktpi4dcj71vvo7lylr7g8we32v" xml:space="preserve">{{문서:창팝
+|유튜브Id=nDVhcWIiQ14
+|제작자=리스항르
+|수록컵={{수록 창드컵|창드컵=2026년 3편|수록날짜=2026-10-08}}
+}}
+{{창팝 기본 개요}}
+&lt;!-- 직접 개요를 작성한 뒤에 위 개요 틀은 지워 주세요! --&gt;
+
+== 가사 ==
+{{가사}}
+
+{{창팝 둘러보기}}</text>
+      <sha1>evhsuktpi4dcj71vvo7lylr7g8we32v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>그런건 없다 메린아</title>
+    <ns>0</ns>
+    <id>2641</id>
+    <redirect title="신창섭 또 일냈다! 자석펫 무료로 얻는 법 3분 요약." />
+    <revision>
+      <id>3007</id>
+      <timestamp>2026-11-01T08:22:38Z</timestamp>
+      <contributor>
+        <username>창팝위키</username>
+        <id>2</id>
+      </contributor>
+      <comment>Redirect added via the RedirectManager dialog.</comment>
+      <origin>3007</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="86" sha1="hsatjpc8qafablccmd5m71qpvhmnay3" xml:space="preserve">#넘겨주기 [[신창섭 또 일냈다! 자석펫 무료로 얻는 법 3분 요약.]]</text>
+      <sha1>hsatjpc8qafablccmd5m71qpvhmnay3</sha1>
     </revision>
   </page>
 </mediawiki>
