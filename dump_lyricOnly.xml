@@ -44931,4 +44931,24 @@ NEVER NEVER NEVER EVER LET GO</text>
       <sha1>sb1grilzpwwd8jb9b0wopp7ddkg949o</sha1>
     </revision>
   </page>
+  <page>
+    <title>가사:CATCH ME IF YOU CAN/번역</title>
+    <ns>3200</ns>
+    <id>2642</id>
+    <revision>
+      <id>3010</id>
+      <parentid>3009</parentid>
+      <timestamp>2026-11-03T10:41:32Z</timestamp>
+      <contributor>
+        <username>ㅇㅇ67</username>
+        <id>49</id>
+      </contributor>
+      <comment>문서를 비움</comment>
+      <origin>3010</origin>
+      <model>text</model>
+      <format>text/plain</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
 </mediawiki>
